@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Business Administration",
+            "category": "Business",
+            "description": "A detailed flowchart showing the interconnected functions and processes of Business Administration.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Business Administration] --> B[Core Functions]\n    A --> C[Support Functions]\n    A --> D[Management Processes]\n\n    B --> FIN[Finance]\n    B --> MKT[Marketing]\n    B --> OPS[Operations]\n\n    FIN --> FIN_PLAN[Financial Planning]\n    FIN --> INV[Investment Management]\n    FIN --> RISK[Risk Management]\n\n    MKT --> MKT_RES[Market Research]\n    MKT --> BRAND[Brand Management]\n    MKT --> SALES[Sales]\n\n    OPS --> SCM[Supply Chain Management]\n    OPS --> QM[Quality Management]\n    OPS --> PROD[Production]\n\n    C --> HR[Human Resources]\n    C --> IT[Information Technology]\n    C --> ACC[Accounting]\n\n    HR --> RECRUIT[Recruitment]\n    HR --> TRAIN[Training & Development]\n    HR --> COMP[Compensation]\n\n    IT --> INFRA[Infrastructure]\n    IT --> SEC[Security]\n    IT --> SW_DEV[Software Development]\n\n    ACC --> BOOK[Bookkeeping]\n    ACC --> AUDIT[Auditing]\n    ACC --> TAX[Taxation]\n\n    D --> PLAN[Planning]\n    D --> ORG[Organizing]\n    D --> LEAD[Leading]\n    D --> CTRL[Controlling]\n\n    PLAN --> STRAT[Strategic Planning]\n    PLAN --> TACT[Tactical Planning]\n\n    LEAD --> MOTIV[Motivation]\n    LEAD --> COMM[Communication]",
+            "complexity": "high",
+            "tags": ["business_administration", "management", "finance", "marketing", "operations"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

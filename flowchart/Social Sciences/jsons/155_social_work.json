@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Social Work",
+            "category": "Social Sciences",
+            "description": "A flowchart showing the fundamental concepts of Social Work.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SW[Social Work] --> V[Values & Ethics]\n    SW --> P[Practice Methods]\n    SW --> F[Fields of Practice]\n    SW --> S[Social Policy]\n\n    P --> I[Individuals & Families]\n    P --> G[Groups]\n    P --> C[Communities]\n\n    F --> C2[Child Welfare]\n    F --> MH[Mental Health]\n    F --> H[Healthcare]\n    F --> S2[Schools]\n    F --> A[Aging]\n\n    S --> A2[Advocacy]",
+            "complexity": "medium",
+            "tags": [
+                "social work",
+                "social sciences"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

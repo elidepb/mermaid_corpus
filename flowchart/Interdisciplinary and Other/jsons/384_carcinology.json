@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "384",
+            "topic": "Carcinology",
+            "category": "Zoology",
+            "description": "A flowchart showing the fundamental concepts and structure of Carcinology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Carcinology[Carcinology] --> Foundations[Foundations]\n    Carcinology --> Methods[Research Methods]\n    Carcinology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "carcinology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

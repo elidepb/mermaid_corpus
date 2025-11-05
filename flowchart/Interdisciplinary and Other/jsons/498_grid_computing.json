@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "498",
+            "topic": "Grid Computing",
+            "category": "Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Grid Computing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    GridComputing[Grid Computing] --> Foundations[Foundations]\n    GridComputing --> Methods[Research Methods]\n    GridComputing --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "grid_computing",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

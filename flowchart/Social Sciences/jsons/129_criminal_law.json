@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Criminal Law",
+            "category": "Law",
+            "description": "A flowchart showing the fundamental concepts of Criminal Law.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CL[Criminal Law] --> E[Elements of a Crime]\n    CL --> T[Types of Crimes]\n    CL --> D[Defenses]\n    CL --> P[Punishment]\n\n    E --> AR[Actus Reus]\n    E --> MR[Mens Rea]\n    E --> C[Causation]\n\n    T --> O[Offenses against the Person]\n    T --> P2[Property Offenses]\n\n    D --> I[Insanity]\n    D --> SD[Self-Defense]\n    D --> D2[Duress]\n\n    P --> F[Fines]\n    P --> I2[Imprisonment]\n    P --> CP[Capital Punishment]",
+            "complexity": "medium",
+            "tags": [
+                "criminal law",
+                "law"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

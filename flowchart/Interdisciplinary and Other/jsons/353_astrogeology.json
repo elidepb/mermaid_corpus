@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "353",
+            "topic": "Astrogeology",
+            "category": "Astronomy/Geology",
+            "description": "A flowchart showing the fundamental concepts and structure of Astrogeology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Astrogeology[Astrogeology] --> Planetary[Planetary Geology]\n    Astrogeology --> Analysis[Sample Analysis]\n    Astrogeology --> Remote[Remote Sensing]\n    Planetary --> Surfaces[Surface Processes]\n    Planetary --> Interiors[Planetary Interiors]\n    Analysis --> Meteorites[Meteorite Analysis]\n    Analysis --> MoonRocks[Lunar Samples]\n    Remote --> Imaging[Planetary Imaging]\n    Remote --> Spectroscopy[Planetary Spectroscopy]",
+            "complexity": "high",
+            "tags": [
+                "astrogeology",
+                "astronomy",
+                "geology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

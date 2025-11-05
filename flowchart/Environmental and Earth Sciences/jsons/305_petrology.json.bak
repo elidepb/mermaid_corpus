@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "305",
+      "topic": "Petrology",
+      "category": "Earth Sciences",
+      "description": "A detailed flowchart illustrating the rock cycle and the formation of the three main rock types.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Rock Cycle\"\n M[Magma & Lava]\n I[Igneous Rock]\n S[Sediment]\n SR[Sedimentary Rock]\n MR[Metamorphic Rock]\n end\n\n M -- Cooling & Crystallization --> I\n I -- Weathering & Erosion --> S\n S -- Compaction & Cementation --> SR\n SR -- Heat & Pressure --> MR\n MR -- Melting --> M\n I -- Heat & Pressure --> MR\n MR -- Weathering & Erosion --> S\n\n subgraph \"Igneous Rocks\"\n subgraph \"Formation\"\n F1[Intrusive (Plutonic)] --> F1a(Slow cooling below surface)\n F2[Extrusive (Volcanic)] --> F2a(Rapid cooling on surface)\n end\n subgraph \"Examples\"\n E1[Granite]\n E2[Basalt]\n end\n F1 --> E1\n F2 --> E2\n end\n\n I --> F1 & F2\n\n subgraph \"Sedimentary Rocks\"\n subgraph \"Formation\"\n SF1[Clastic] --> SF1a(Compaction of fragments)\n SF2[Chemical] --> SF2a(Precipitation from solution)\n SF3[Organic] --> SF3a(Accumulation of organic matter)\n end\n subgraph \"Examples\"\n SE1[Sandstone]\n SE2[Limestone]\n SE3[Coal]\n end\n SF1 --> SE1\n SF2 --> SE2\n SF3 --> SE3\n end\n\n SR --> SF1 & SF2 & SF3\n\n subgraph \"Metamorphic Rocks\"\n subgraph \"Formation\"\n MF1[Foliated] --> MF1a(Parallel alignment of minerals)\n MF2[Non-Foliated] --> MF2a(No alignment)\n end\n subgraph \"Examples\"\n ME1[Slate, Schist]\n ME2[Marble, Quartzite]\n end\n MF1 --> ME1\n MF2 --> ME2\n end\n\n MR --> MF1 & MF2",
+      "complexity": "high",
+      "tags": [
+        "petrology",
+        "earth_sciences",
+        "geology",
+        "rocks",
+        "igneous",
+        "sedimentary",
+        "metamorphic",
+        "rock_cycle"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "178",
+      "topic": "Renaissance Art",
+      "category": "Art",
+      "description": "A flowchart showing the fundamental concepts of Renaissance Art.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n RA[Renaissance Art] --> E[Early Renaissance (Italy)]\n RA --> H[High Renaissance (Italy)]\n RA --> N[Northern Renaissance]\n\n E --> M[Masaccio]\n E --> D[Donatello]\n E --> B[Botticelli]\n\n H --> L[Leonardo da Vinci]\n H --> M2[Michelangelo]\n H --> R[Raphael]\n\n N --> V[Van Eyck]\n N --> D2[Dürer]\n N --> B2[Bruegel the Elder]",
+      "complexity": "medium",
+      "tags": [
+        "renaissance art",
+        "art"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

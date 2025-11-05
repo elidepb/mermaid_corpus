@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "286",
+            "topic": "Venture Capital",
+            "category": "Business",
+            "description": "A detailed flowchart of the venture capital process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Venture Capital Process] --> B[Fundraising]\n    B --> C[Limited Partners]\n\n    A --> D[Deal Sourcing]\n    D --> E[Networking]\n    D --> F[Cold Outreach]\n\n    A --> G[Due Diligence]\n    G --> H[Market Analysis]\n    G --> I[Team Assessment]\n    G --> J[Financial Projections]\n\n    A --> K[Investment]\n    K --> L[Term Sheet]\n    K --> M[Closing]\n\n    A --> N[Portfolio Management]\n    N --> O[Active Involvement]\n    N --> P[Follow-on Funding]\n\n    A --> Q[Exit]\n    Q --> R[IPO]\n    Q --> S[Acquisition]\n    Q --> T[Secondary Sale]",
+            "complexity": "high",
+            "tags": ["venture_capital", "finance", "startups", "private_equity", "due_diligence"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

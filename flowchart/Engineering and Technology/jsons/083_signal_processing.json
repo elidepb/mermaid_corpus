@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "083",
+      "topic": "Signal Processing",
+      "category": "engineering",
+      "description": "A flowchart showing the fundamental concepts of Signal Processing.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    SignalProcessing[Signal Processing] --> Signals[Types of Signals]\n    SignalProcessing --> Systems[Systems]\n    SignalProcessing --> Domains[Signal Domains]\n    Signals --> Analog[Analog Signals]\n    Signals --> Digital[Digital Signals]\n    Systems --> Filters[Filters]\n    Filters --> LowPass[Low Pass Filter]\n    Filters --> HighPass[High Pass Filter]\n    Domains --> Time[Time Domain]\n    Domains --> Frequency[Frequency Domain]\n    Frequency --> Fourier[Fourier Transform]\n    Frequency --> DFT[Discrete Fourier Transform]",
+      "complexity": "medium",
+      "tags": [
+        "signal_processing",
+        "engineering",
+        "fourier_transform",
+        "filters",
+        "digital_signal_processing"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

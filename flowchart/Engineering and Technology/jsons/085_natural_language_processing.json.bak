@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "085",
+      "topic": "Natural Language Processing",
+      "category": "computer_science",
+      "description": "A flowchart showing the fundamental concepts of Natural Language Processing.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n NLP[Natural Language Processing] --> Levels[Levels of NLP]\n NLP --> Tasks[Common NLP Tasks]\n NLP --> Models[Models & Techniques]\n\n Levels --> Lexical[Lexical Analysis]\n Levels --> Syntactic[Syntactic Analysis (Parsing)]\n Levels --> Semantic[Semantic Analysis]\n Levels --> Pragmatic[Pragmatic Analysis]\n\n Tasks --> TextClassification[Text Classification]\n Tasks --> NER[Named Entity Recognition]\n Tasks --> Translation[Machine Translation]\n Tasks --> Summarization[Text Summarization]\n Tasks --> QnA[Question Answering]\n Tasks --> Sentiment[Sentiment Analysis]\n\n Models --> RuleBased[Rule-Based]\n Models --> Statistical[Statistical Models]\n Models --> Neural[Neural Networks]\n\n Statistical --> Ngrams[N-grams]\n Statistical --> HMMs[Hidden Markov Models]\n\n Neural --> WordEmbeddings[Word Embeddings]\n Neural --> RNNs[Recurrent Neural Networks]\n Neural --> LSTMs[LSTMs & GRUs]\n Neural --> Transformers[Transformers (e.g., BERT, GPT)]\n\n WordEmbeddings --> Word2Vec[Word2Vec]\n WordEmbeddings --> GloVe[GloVe]",
+      "complexity": "medium",
+      "tags": [
+        "natural_language_processing",
+        "computer_science",
+        "nlp",
+        "machine_learning",
+        "transformers"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

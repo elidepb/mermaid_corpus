@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "035",
+            "topic": "Mathematical Logic",
+            "category": "mathematics",
+            "description": "A flowchart showing the fundamental concepts of Mathematical Logic.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ML[Mathematical Logic] --> PL[Propositional Logic]\n    ML --> FOL[First-Order Logic]\n    ML --> ST[Set Theory]\n    ML --> MT[Model Theory]\n    ML --> RT[Recursion Theory]\n    ML --> PT[Proof Theory]\n\n    PL --> Connectives[Logical Connectives]\n    PL --> TruthTables[Truth Tables]\n    PL --> Tautologies[Tautologies]\n\n    FOL --> Quantifiers[Quantifiers]\n    FOL --> Predicates[Predicates]\n    FOL --> Functions[Functions]\n    FOL --> Constants[Constants]\n\n    ST --> Axioms[Axioms of Set Theory]\n    ST --> Operations[Set Operations]\n    ST --> Cardinality[Cardinality]\n\n    MT --> Structures[Structures]\n    MT --> Interpretations[Interpretations]\n\n    RT --> Computability[Computability]\n    RT --> Turing[Turing Machines]\n\n    PT --> Formal[Formal Proofs]\n    PT --> Consistency[Consistency]\n    PT --> Completeness[Completeness]",
+            "complexity": "medium",
+            "tags": ["mathematical_logic", "mathematics", "propositional_logic", "first_order_logic", "set_theory"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

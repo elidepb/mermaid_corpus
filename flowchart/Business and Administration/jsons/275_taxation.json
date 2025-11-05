@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "275",
+      "topic": "Taxation",
+      "category": "Business",
+      "description": "A detailed flowchart of the taxation process.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Taxation[Taxation] --> Taxpayer[Taxpayer]\n    Taxation --> Income[Income]\n    Taxation --> Deductions[Deductions]\n    Income --> GrossIncome[Gross Income]\n    GrossIncome --> AGI[Adjusted Gross Income]\n    AGI --> TaxableIncome[Taxable Income]\n    TaxableIncome --> TaxLiability[Tax Liability]\n    TaxLiability --> Credits[Tax Credits]\n    Credits --> TaxDue[Tax Due or Refund]\n    Deductions --> Standard[Standard Deduction]\n    Deductions --> Itemized[Itemized Deductions]",
+      "complexity": "high",
+      "tags": [
+        "taxation",
+        "finance",
+        "accounting",
+        "irs",
+        "tax_return"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

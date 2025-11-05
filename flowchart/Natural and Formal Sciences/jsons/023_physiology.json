@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "023",
+            "topic": "Physiology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Physiology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Physiology --> Homeostasis[Homeostasis]\n    Physiology --> Systems[Organ Systems]\n\n    Homeostasis --> Feedback[Feedback Mechanisms]\n    Feedback --> Positive[Positive Feedback]\n    Feedback --> Negative[Negative Feedback]\n\n    Systems --> Nervous[Nervous System]\n    Systems --> Endocrine[Endocrine System]\n    Systems --> Cardiovascular[Cardiovascular System]\n    Systems --> Respiratory[Respiratory System]\n    Systems --> Digestive[Digestive System]\n    Systems --> Muscular[Muscular System]\n    Systems --> Skeletal[Skeletal System]\n    Systems --> Urinary[Urinary System]\n    Systems --> Reproductive[Reproductive System]\n    Systems --> Immune[Immune System]",
+            "complexity": "medium",
+            "tags": ["physiology", "biology", "homeostasis", "organ_systems", "feedback"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

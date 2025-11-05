@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "268",
+            "topic": "Leadership",
+            "category": "Business",
+            "description": "A detailed flowchart of leadership theories and styles.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Leadership] --> B[Trait Theories]\n    A --> C[Behavioral Theories]\n    C --> D[Task-Oriented]\n    C --> E[People-Oriented]\n    A --> F[Contingency Theories]\n    F --> G[Fiedler's Model]\n    F --> H[Hersey-Blanchard Situational Leadership]\n    A --> I[Modern Theories]\n    I --> J[Transformational Leadership]\n    I --> K[Transactional Leadership]\n    I --> L[Servant Leadership]\n    I --> M[Authentic Leadership]",
+            "complexity": "high",
+            "tags": ["leadership", "management", "leadership_styles", "situational_leadership", "transformational_leadership"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

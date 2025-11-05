@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "495",
+            "topic": "Mobile Development",
+            "category": "Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Mobile Development.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MobileDevelopment[Mobile Development] --> Platforms[Mobile Platforms]\n    MobileDevelopment --> Development[Development Approaches]\n    MobileDevelopment --> Technologies[Mobile Technologies]\n    Platforms --> iOS[iOS Development]\n    Platforms --> Android[Android Development]\n    Development --> Native[Native Apps]\n    Development --> Cross[Cross-Platform]\n    Technologies --> Frameworks[Mobile Frameworks]\n    Technologies --> APIs[Mobile APIs]",
+            "complexity": "medium",
+            "tags": [
+                "mobile_development",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

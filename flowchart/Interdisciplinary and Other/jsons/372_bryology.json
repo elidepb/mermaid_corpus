@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "372",
+            "topic": "Bryology",
+            "category": "Botany",
+            "description": "A flowchart showing the fundamental concepts and structure of Bryology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Bryology[Bryology] --> Foundations[Foundations]\n    Bryology --> Methods[Research Methods]\n    Bryology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "bryology",
+                "botany"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

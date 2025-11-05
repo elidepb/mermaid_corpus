@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "162",
+            "topic": "Philosophy of Science",
+            "category": "Philosophy",
+            "description": "A flowchart showing the fundamental concepts of Philosophy of Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PS[Philosophy of Science] --> C[Central Questions]\n    PS --> S[Schools of Thought]\n\n    C --> D[Demarcation Problem]\n    C --> I[Induction]\n    C --> E[Explanation]\n    C --> T[Theory Change]\n    C --> R[Realism vs. Anti-realism]\n\n    S --> L[Logical Positivism]\n    S --> P[Falsificationism]\n    S --> K[Kuhn's Paradigms]\n    S --> B[Bayesianism]\n\n    L --> C2[Carnap]\n    P --> P2[Popper]\n    K --> K2[Kuhn]",
+            "complexity": "medium",
+            "tags": [
+                "philosophy of science",
+                "philosophy"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

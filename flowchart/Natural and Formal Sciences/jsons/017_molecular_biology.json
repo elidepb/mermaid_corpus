@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "017",
+            "topic": "Molecular Biology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Molecular Biology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MB[Molecular Biology] --> CD[Central Dogma]\n    MB --> GT[Gene Technology]\n    MB --> GR[Gene Regulation]\n\n    CD --> Rep[Replication]\n    CD --> Transc[Transcription]\n    CD --> Transl[Translation]\n\n    Rep --> DNA_Polymerase[DNA Polymerase]\n    Transc --> RNA_Polymerase[RNA Polymerase]\n    Transl --> Ribosomes[Ribosomes]\n\n    GT --> PCR[PCR]\n    GT --> Cloning[Cloning]\n    GT --> Sequencing[Sequencing]\n    GT --> CRISPR[CRISPR]\n\n    GR --> Prokaryotic[Prokaryotic Regulation]\n    GR --> Eukaryotic[Eukaryotic Regulation]\n\n    Prokaryotic --> Operons[Operons]\n    Eukaryotic --> TFs[Transcription Factors]\n    Eukaryotic --> Chromatin[Chromatin Remodeling]",
+            "complexity": "medium",
+            "tags": ["molecular_biology", "biology", "dna", "rna", "protein", "gene_regulation"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

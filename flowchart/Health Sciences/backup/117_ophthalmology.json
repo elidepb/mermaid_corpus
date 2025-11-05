@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Ophthalmology",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the pathway of light through the eye to the brain.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Light) --> B(Cornea);\n    B --> C(Pupil);\n    C --> D(Lens);\n    D --> E(Retina);\n    E --> F(Optic Nerve);\n    F --> G(Brain);\n\n    subgraph Eye\n        B; C; D; E;\n    end\n\n    G -- interprets --> H(Image);",
+            "complexity": "medium",
+            "tags": ["ophthalmology", "medicine", "eye", "vision", "anatomy"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

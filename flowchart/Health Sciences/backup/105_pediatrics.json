@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Pediatrics",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of a well-child visit.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Check-in and Vitals) --> B(Growth Measurements);\n    B --> C(Developmental Screening);\n    C --> D(Physical Examination);\n    D --> E(Immunizations);\n    E --> F(Anticipatory Guidance);\n    F --> G(Schedule Next Visit);",
+            "complexity": "medium",
+            "tags": ["pediatrics", "medicine", "well_child_visit", "preventive_care", "child_health"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "diagrams": [
+    {
+      "id": "319",
+      "topic": "Sustainable Agriculture",
+      "category": "Agriculture",
+      "description": "A detailed flowchart illustrating the integrated practices of sustainable agriculture.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Core Goal\"\n SA[Sustainable Agriculture]\n end\n\n SA --> ES[Environmental Stewardship] & SE[Social Equity] & EV[Economic Viability]\n\n subgraph \"Environmental Stewardship Practices\"\n P1[Soil Health Management] --> P1a(Conservation Tillage, Cover Cropping, Crop Rotation)\n P2[Water Management] --> P2a(Drip Irrigation, Water Harvesting)\n P3[Biodiversity Conservation] --> P3a(Agroforestry, Hedgerows, Polyculture)\n P4[Integrated Pest Management (IPM)]\n end\n\n subgraph \"Social Equity Aspects\"\n S1[Fair Labor Practices]\n S2[Community Food Security]\n S3[Preservation of Traditional Knowledge]\n end\n\n subgraph \"Economic Viability Components\"\n E1[Diversified Farming Systems]\n E2[Direct Marketing & Local Food Systems]\n E3[Reduced Input Costs]\n end\n\n subgraph \"Outcomes\"\n O1[Healthy Ecosystems]\n O2[Resilient Food Systems]\n O3[Thriving Rural Communities]\n end\n\n ES & SE & EV -- Lead to --> O1 & O2 & O3",
+      "complexity": "high",
+      "tags": [
+        "sustainable_agriculture",
+        "agriculture",
+        "sustainability",
+        "agroecology",
+        "soil_health",
+        "ipm",
+        "food_security"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

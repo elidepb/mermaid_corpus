@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "A flowchart showing the fundamental concepts of Macroeconomics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MACRO[Macroeconomics] --> GOALS[Primary Goals]\n    MACRO --> KP[Key Principles]\n    MACRO --> MOD[Models & Theories]\n    MACRO --> POL[Economic Policies]\n\n    GOALS --> EG[Economic Growth]\n    GOALS --> FE[Full Employment]\n    GOALS --> PS[Price Stability]\n\n    KP --> GDP[Gross Domestic Product]\n    KP --> INF[Inflation/Deflation]\n    KP --> UNE[Unemployment Rate]\n    KP --> IR[Interest Rates]\n\n    MOD --> ADAS[AD-AS Model]\n    MOD --> ISLM[IS-LM Model]\n    MOD --> PC[Phillips Curve]\n    MOD --> ST[Solow Growth Theory]\n\n    POL --> FP[Fiscal Policy]\n    POL --> MP[Monetary Policy]\n\n    FP --> GOV[Government Spending]\n    FP --> TAX[Taxation]\n    MP --> CB[Central Bank]\n    MP --> MS[Money Supply]",
+            "complexity": "medium",
+            "tags": ["macroeconomics", "economics", "gdp", "inflation", "unemployment"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

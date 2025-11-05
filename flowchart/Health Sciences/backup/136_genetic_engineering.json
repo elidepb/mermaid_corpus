@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Genetic Engineering",
+            "category": "Biotechnology",
+            "description": "A comprehensive flowchart illustrating the complete process of genetic engineering and creation of genetically modified organisms (GMOs), including multiple methods for gene isolation and transformation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Inicio: Identificación del Gen de Interés] --> B{Aislamiento del Gen}\n    \n    B --> C[Método: PCR<br>Amplificación del gen]\n    B --> D[Método: Enzimas de Restricción<br>Corte del gen del ADN]\n    B --> E[Método: Síntesis Química<br>Gen artificial]\n    \n    C --> F[Preparación del Vector]\n    D --> F\n    E --> F\n    \n    F --> G[Inserción del Gen en el Vector<br>Usando ADN Ligasa]\n    \n    G --> H{Introducción en Organismo Huésped}\n    \n    H --> I[Método: Transformación<br>Para bacterias]\n    H --> J[Método: Electroporación<br>Para células eucariotas]\n    H --> K[Método: Agrobacterium<br>Para plantas]\n    H --> L[Método: Microinyección<br>Para animales]\n    \n    I --> M[Selección de Organismos Transformados]\n    J --> M\n    K --> M\n    L --> M\n    \n    M --> N{Análisis de Resultados}\n    N -->|Éxito| O[Organismo Genéticamente Modificado]\n    N -->|Fallo| P[Revisión del Proceso]\n    \n    O --> Q[Aplicaciones:<br>- Agricultura<br>- Medicina<br>- Industria]\n    P --> B\n    \n    style A fill:#e8f5e8\n    style O fill:#c8e6c9\n    style Q fill:#e1f5fe\n    style F fill:#fff3e0\n    style M fill:#f3e5f5\n    style P fill:#ffebee",
+            "complexity": "medium",
+            "tags": ["genetic_engineering", "biotechnology", "gmo", "gene_cloning", "recombinant_dna", "transformation", "vector", "restriction_enzymes", "pcr"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

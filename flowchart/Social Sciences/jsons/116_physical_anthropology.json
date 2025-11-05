@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Physical Anthropology",
+            "category": "Anthropology",
+            "description": "A flowchart showing the fundamental concepts of Physical Anthropology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PA[Physical Anthropology] --> H[Human Evolution]\n    PA --> P[Primatology]\n    PA --> B[Human Biology & Variation]\n    PA --> F[Forensic Anthropology]\n\n    H --> F2[Fossil Record]\n    H --> G[Genetics]\n    H --> B2[Bipedalism]\n\n    P --> PB[Primate Behavior]\n    P --> PC[Primate Conservation]\n\n    B --> AD[Adaptation]\n    B --> V[Variation]",
+            "complexity": "medium",
+            "tags": [
+                "physical anthropology",
+                "anthropology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "340",
+            "topic": "Archaeometry",
+            "category": "Archaeology/Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Archaeometry.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Archaeometry[Archaeometry] --> Field1[Archaeology]\n    Archaeometry --> Field2[Science]\n    Archaeometry --> Integration[Integration Areas]\n    archaeology --> archaeologySub1[Theory]\n    archaeology --> archaeologySub2[Practice]\n    science --> scienceSub1[Theory]\n    science --> scienceSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "archaeometry",
+                "archaeology",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "180",
+            "topic": "Modern Art",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Modern Art.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MA[Modern Art] --> I[Impressionism]\n    MA --> P[Post-Impressionism]\n    MA --> F[Fauvism]\n    MA --> E[Expressionism]\n    MA --> C[Cubism]\n    MA --> S[Surrealism]\n    MA --> A[Abstract Expressionism]\n\n    I --> M[Monet]\n    I --> D[Degas]\n\n    P --> V[Van Gogh]\n    P --> C2[C\u00e9zanne]\n\n    C --> P2[Picasso]\n    C --> B[Braque]",
+            "complexity": "medium",
+            "tags": [
+                "modern art",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

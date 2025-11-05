@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "093",
+            "topic": "Agricultural Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Agricultural Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AgE[Agricultural Engineering] --> FarmPower[Farm Power & Machinery]\n    AgE --> SoilWater[Soil & Water Engineering]\n    AgE --> PostHarvest[Post-Harvest Engineering]\n    AgE --> Structures[Agricultural Structures]\n    AgE --> Energy[Energy in Agriculture]\n\n    FarmPower --> Tractors[Tractors]\n    FarmPower --> Implements[Tillage & Seeding Implements]\n    FarmPower --> Harvesting[Harvesting Machinery]\n\n    SoilWater --> Irrigation[Irrigation]\n    SoilWater --> Drainage[Drainage]\n    SoilWater --> Conservation[Soil & Water Conservation]\n\n    Irrigation --> Surface[Surface Irrigation]\n    Irrigation --> Sprinkler[Sprinkler Irrigation]\n    Irrigation --> Drip[Drip Irrigation]\n\n    PostHarvest --> Drying[Drying & Storage]\n    PostHarvest --> Processing[Food Processing]\n    PostHarvest --> Packaging[Packaging]\n\n    Structures --> Greenhouses[Greenhouses]\n    Structures --> Barns[Animal Housing & Barns]\n    Structures --> Storage[Grain Storage Structures]\n\n    Energy --> Renewable[Renewable Energy]\n    Energy --> Efficiency[Energy Efficiency]\n\n    Renewable --> Biofuels[Biofuels]\n    Renewable --> Solar[Solar Power]\n    Renewable --> Wind[Wind Power]",
+            "complexity": "medium",
+            "tags": ["agricultural_engineering", "engineering", "agriculture", "irrigation", "farm_machinery"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

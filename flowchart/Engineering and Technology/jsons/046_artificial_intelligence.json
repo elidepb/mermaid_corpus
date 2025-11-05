@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "046",
+            "topic": "Artificial Intelligence",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Artificial Intelligence.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AI[Artificial Intelligence] --> Subfields[Major Subfields]\n    AI --> Approaches[Approaches]\n    AI --> Applications[Applications]\n\n    Subfields --> ML[Machine Learning]\n    Subfields --> NLP[Natural Language Processing]\n    Subfields --> CV[Computer Vision]\n    Subfields --> Robotics[Robotics]\n    Subfields --> ES[Expert Systems]\n\n    Approaches --> Symbolic[Symbolic AI]\n    Approaches --> Connectionist[Connectionist AI]\n\n    Symbolic --> Logic[Logic-Based]\n    Symbolic --> Knowledge[Knowledge-Based]\n\n    Connectionist --> NN[Neural Networks]\n    Connectionist --> DL[Deep Learning]\n\n    Applications --> Healthcare[Healthcare]\n    Applications --> Finance[Finance]\n    Applications --> Transportation[Transportation]\n    Applications --> Entertainment[Entertainment]",
+            "complexity": "medium",
+            "tags": ["artificial_intelligence", "computer_science", "machine_learning", "deep_learning", "nlp"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

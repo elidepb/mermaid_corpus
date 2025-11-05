@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Computer Architecture",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Computer Architecture.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CA[Computer Architecture] --> ISA[Instruction Set Architecture]\n    CA --> Microarchitecture[Microarchitecture]\n    CA --> SystemDesign[System Design]\n\n    ISA --> CISC[Complex Instruction Set Computer]\n    ISA --> RISC[Reduced Instruction Set Computer]\n\n    Microarchitecture --> CPU[Central Processing Unit]\n    Microarchitecture --> Memory[Memory Hierarchy]\n    Microarchitecture --> Pipelining[Pipelining]\n    Microarchitecture --> Parallelism[Parallelism]\n\n    CPU --> ALU[Arithmetic Logic Unit]\n    CPU --> CU[Control Unit]\n    CPU --> Registers[Registers]\n\n    Memory --> Cache[Cache]\n    Memory --> RAM[Main Memory]\n    Memory --> Storage[Storage]\n\n    SystemDesign --> Buses[Buses]\n    SystemDesign --> IO[Input/Output]\n    SystemDesign --> Multiprocessors[Multiprocessors]",
+            "complexity": "medium",
+            "tags": ["computer_architecture", "computer_science", "cpu", "isa", "memory"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

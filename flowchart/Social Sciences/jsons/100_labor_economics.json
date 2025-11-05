@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Labor Economics",
+            "category": "Economics",
+            "description": "A flowchart showing the fundamental concepts of Labor Economics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    LE[Labor Economics] --> LS[Labor Supply]\n    LE --> LD[Labor Demand]\n    LE --> WE[Wages & Employment]\n    LE --> LM[Labor Market Issues]\n\n    LS --> I[Individual Decisions]\n    LS --> HH[Household Decisions]\n    LS --> P[Participation & Hours]\n\n    LD --> F[Firm Decisions]\n    LD --> MP[Marginal Product of Labor]\n    LD --> C[Costs of Labor]\n\n    WE --> DET[Determinants of Wages]\n    WE --> WD[Wage Differentials]\n    WE --> MIN[Minimum Wage]\n\n    LM --> U[Unemployment]\n    LM --> M[Migration]\n    LM --> D[Discrimination]\n    LM --> U[Unions]",
+            "complexity": "medium",
+            "tags": ["labor economics", "economics", "wages", "employment", "unions"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

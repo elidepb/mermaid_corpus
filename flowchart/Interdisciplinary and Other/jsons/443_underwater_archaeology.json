@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "443",
+            "topic": "Underwater Archaeology",
+            "category": "Archaeology",
+            "description": "A flowchart showing the fundamental concepts and structure of Underwater Archaeology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    UnderwaterArchaeology[Underwater Archaeology] --> Foundations[Foundations]\n    UnderwaterArchaeology --> Methods[Research Methods]\n    UnderwaterArchaeology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "underwater_archaeology",
+                "archaeology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

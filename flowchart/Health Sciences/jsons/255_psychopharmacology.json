@@ -1,0 +1,23 @@
+{
+  "diagrams": [
+    {
+      "id": "255",
+      "topic": "Psychopharmacology",
+      "category": "Psychology/Medicine",
+      "description": "A comprehensive flowchart illustrating the mechanism of action of Selective Serotonin Reuptake Inhibitors (SSRIs), including normal neurotransmission, SSRI intervention, and therapeutic outcomes.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Normal Neurotransmission]) --> A[Presynaptic Neuron Releases Serotonin]\n    \n    A --> B[Serotonin in Synaptic Cleft]\n    \n    B --> C{Serotonin Pathway}\n    \n    C -->|Binds to| D[Postsynaptic Receptors]\n    C -->|Reuptake via| E[SERT Transporter]\n    \n    D --> F[Signal Transmission]\n    F --> G[Mood Regulation]\n    \n    E --> H[Serotonin Returns to Presynaptic Neuron]\n    H --> I[Recycled or Degraded by MAO]\n    \n    SSRI[SSRI Administration] -.->|Blocks| E\n    \n    E -->|Blocked| J[Decreased Reuptake]\n    J --> K[Increased Synaptic Serotonin]\n    \n    K --> L[Enhanced Receptor Activation]\n    L --> M[Neuroplasticity Changes]\n    \n    M --> N{Therapeutic Effects}\n    \n    N --> O[Reduced Depression]\n    N --> P[Reduced Anxiety]\n    N --> Q[Improved Mood Stability]\n    \n    style Start fill:#e1f5ff\n    style SSRI fill:#ffebcc\n    style K fill:#d4edda\n    style N fill:#fff3cd\n    style O fill:#d1ecf1\n    style P fill:#d1ecf1\n    style Q fill:#d1ecf1",
+      "complexity": "medium",
+      "tags": [
+        "psychopharmacology",
+        "psychology",
+        "medicine",
+        "ssri",
+        "antidepressant",
+        "serotonin",
+        "neurotransmission"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

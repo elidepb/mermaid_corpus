@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "International Economics",
+            "category": "Economics",
+            "description": "A flowchart showing the fundamental concepts of International Economics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    IE[International Economics] --> IT[International Trade]\n    IE --> IF[International Finance]\n    IE --> PO[Policy & Organizations]\n\n    IT --> T[Trade Theories]\n    IT --> TP[Trade Policies]\n    IT --> BOP[Balance of Payments]\n\n    T --> CA[Comparative Advantage]\n    T --> HO[Heckscher-Ohlin Model]\n    T --> NTT[New Trade Theory]\n\n    TP --> T[Tariffs]\n    TP --> Q[Quotas]\n    TP --> S[Subsidies]\n\n    IF --> ER[Exchange Rates]\n    IF --> F[Foreign Exchange Market]\n    IF --> CIM[Capital & Investment Markets]\n\n    PO --> WTO[World Trade Organization]\n    PO --> IMF[International Monetary Fund]\n    PO --> WB[World Bank]",
+            "complexity": "medium",
+            "tags": [
+                "international economics",
+                "economics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

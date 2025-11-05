@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Machine Learning",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Machine Learning.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ML[Machine Learning] --> Paradigms[Learning Paradigms]\n    ML --> Models[Common Models]\n    ML --> Workflow[ML Workflow]\n\n    Paradigms --> Supervised[Supervised Learning]\n    Paradigms --> Unsupervised[Unsupervised Learning]\n    Paradigms --> Reinforcement[Reinforcement Learning]\n\n    Supervised --> Classification[Classification]\n    Supervised --> Regression[Regression]\n\n    Unsupervised --> Clustering[Clustering]\n    Unsupervised --> DimensionalityReduction[Dimensionality Reduction]\n\n    Models --> Linear[Linear Regression]\n    Models --> Logistic[Logistic Regression]\n    Models --> SVM[Support Vector Machines]\n    Models --> Trees[Decision Trees]\n    Models --> NN[Neural Networks]\n\n    Workflow --> DataCollection[Data Collection]\n    Workflow --> DataPreprocessing[Data Preprocessing]\n    Workflow --> ModelTraining[Model Training]\n    Workflow --> ModelEvaluation[Model Evaluation]\n    Workflow --> Deployment[Deployment]",
+            "complexity": "medium",
+            "tags": ["machine_learning", "computer_science", "supervised_learning", "unsupervised_learning", "neural_networks"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

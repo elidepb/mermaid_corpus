@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "020",
+            "topic": "Botany",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Botany.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Botany --> Kingdom[Plant Kingdom]\n\n    Kingdom --> NonVascular[Non-Vascular Plants]\n    Kingdom --> Vascular[Vascular Plants]\n\n    NonVascular --> Bryophytes[Bryophytes]\n    Bryophytes --> Mosses[Mosses]\n    Bryophytes --> Liverworts[Liverworts]\n    Bryophytes --> Hornworts[Hornworts]\n\n    Vascular --> Seedless[Seedless Vascular Plants]\n    Vascular --> Seed[Seed Plants]\n\n    Seedless --> Ferns[Ferns]\n\n    Seed --> Gymnosperms[Gymnosperms]\n    Seed --> Angiosperms[Angiosperms]\n\n    Angiosperms --> Monocots[Monocots]\n    Angiosperms --> Dicots[Dicots]",
+            "complexity": "medium",
+            "tags": ["botany", "biology", "plants", "vascular", "nonvascular"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

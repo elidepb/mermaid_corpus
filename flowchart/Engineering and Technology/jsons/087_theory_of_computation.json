@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Theory of Computation",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Theory of Computation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ToC[Theory of Computation] --> Automata[Automata Theory]\n    ToC --> Computability[Computability Theory]\n    ToC --> Complexity[Complexity Theory]\n\n    Automata --> FSA[Finite State Automata]\n    Automata --> PDA[Pushdown Automata]\n    Automata --> TM[Turing Machines]\n\n    FSA --> DFA[Deterministic Finite Automata]\n    FSA --> NFA[Nondeterministic Finite Automata]\n    FSA --> Regex[Regular Expressions]\n\n    Computability --> ChurchTuring[Church-Turing Thesis]\n    Computability --> Halting[The Halting Problem]\n    Computability --> Undecidability[Undecidability]\n\n    Complexity --> BigO[Big O Notation]\n    Complexity --> Classes[Complexity Classes]\n\n    Classes --> P[P]\n    Classes --> NP[NP]\n    Classes --> NPComplete[NP-Complete]\n    Classes --> NPHard[NP-Hard]\n    Classes --> PSPACE[PSPACE]",
+            "complexity": "medium",
+            "tags": ["theory_of_computation", "computer_science", "automata_theory", "computability", "complexity_theory"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

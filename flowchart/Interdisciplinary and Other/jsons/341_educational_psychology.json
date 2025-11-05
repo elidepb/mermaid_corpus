@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "341",
+            "topic": "Educational Psychology",
+            "category": "Psychology/Education",
+            "description": "A flowchart showing the fundamental concepts and structure of Educational Psychology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EducationalPsychology[Educational Psychology] --> Field1[Psychology]\n    EducationalPsychology --> Field2[Education]\n    EducationalPsychology --> Integration[Integration Areas]\n    psychology --> psychologySub1[Theory]\n    psychology --> psychologySub2[Practice]\n    education --> educationSub1[Theory]\n    education --> educationSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "educational_psychology",
+                "psychology",
+                "education"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "220",
+      "topic": "Pediatrics",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the process of a well-child visit.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Well-Child Visit Scheduled]) --> A[Check-in & Registration]\n    A --> B[Vital Signs]\n    B --> C[Temperature]\n    B --> D[Heart Rate]\n    B --> E[Respiratory Rate]\n    B --> F[Blood Pressure]\n    C --> G[Growth Measurements]\n    D --> G\n    E --> G\n    F --> G\n    G --> H[Height Measurement]\n    G --> I[Weight Measurement]\n    G --> J[Head Circumference]\n    H --> K[Plot on Growth Chart]\n    I --> K\n    J --> K\n    K --> L[Calculate BMI]\n    L --> M[Growth Velocity Assessment]\n    M --> N{Growth Normal?}\n    N -->|Concern| O[Further Evaluation]\n    N -->|Normal| P[Developmental Screening]\n    O --> P\n    P --> Q[Age-Appropriate Screening]\n    Q --> R{Milestone Screening}\n    R -->|Infant| S[ASQ-3]\n    R -->|Toddler| T[ASQ-3 / M-CHAT]\n    R -->|School Age| U[Academic Screening]\n    S --> V[Developmental Assessment]\n    T --> V\n    U --> V\n    V --> W{Developmental Concerns?}\n    W -->|Yes| X[Referral to Specialist]\n    W -->|No| Y[Physical Examination]\n    X --> Y\n    Y --> Z[Head-to-Toe Exam]\n    Z --> AA[Cardiovascular]\n    Z --> AB[Respiratory]\n    Z --> AC[Abdominal]\n    Z --> AD[Musculoskeletal]\n    Z --> AE[Neurological]\n    AA --> AF[Physical Exam Complete]\n    AB --> AF\n    AC --> AF\n    AD --> AF\n    AE --> AF\n    AF --> AG{Abnormal Findings?}\n    AG -->|Yes| AH[Diagnostic Testing]\n    AG -->|No| AI[Immunization Review]\n    AH --> AI\n    AI --> AJ[Check Immunization Schedule]\n    AJ --> AK{Up to Date?}\n    AK -->|No| AL[Administer Vaccines]\n    AK -->|Yes| AM[Document Status]\n    AL --> AN[Post-Vaccine Observation]\n    AN --> AM\n    AM --> AO[Anticipatory Guidance]\n    AO --> AP[Age-Appropriate Topics]\n    AP --> AQ[Safety]\n    AP --> AR[Nutrition]\n    AP --> AS[Sleep]\n    AP --> AT[Development]\n    AP --> AU[Behavior]\n    AQ --> AV[Guidance Provided]\n    AR --> AV\n    AS --> AV\n    AT --> AV\n    AU --> AV\n    AV --> AW[Parent/Caregiver Education]\n    AW --> AX[Answer Questions]\n    AX --> AY[Documentation]\n    AY --> AZ[Chart Visit]\n    AZ --> BA[Update Medical Record]\n    BA --> BB[Schedule Next Visit]\n    BB --> BC{Next Visit Type}\n    BC -->|Routine| BD[Well-Child Visit]\n    BC -->|Follow-up| BE[Follow-up Appointment]\n    BD --> End([Visit Complete])\n    BE --> End\n    \n    subgraph Initial_Assessment[\"Initial Assessment\"]\n        A\n        B\n        C\n        D\n        E\n        F\n    end\n    \n    subgraph Growth_Development[\"Growth & Development\"]\n        G\n        H\n        I\n        J\n        K\n        L\n        M\n        N\n        P\n        Q\n        R\n        S\n        T\n        U\n        V\n        W\n    end\n    \n    subgraph Physical_Exam[\"Physical Examination\"]\n        Y\n        Z\n        AA\n        AB\n        AC\n        AD\n        AE\n        AF\n        AG\n    end\n    \n    subgraph Prevention_Care[\"Prevention & Care\"]\n        AI\n        AJ\n        AK\n        AL\n        AM\n        AN\n        AO\n        AP\n        AV\n        AW\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style N fill:#fff4e1\n    style W fill:#fff4e1\n    style AG fill:#fff4e1\n    style AK fill:#fff4e1\n    style BC fill:#fff4e1\n    style O fill:#ffe1e1\n    style X fill:#ffe1e1\n    style AH fill:#ffe1e1",
+      "complexity": "medium",
+      "tags": [
+        "pediatrics",
+        "medicine",
+        "well_child_visit",
+        "preventive_care",
+        "child_health"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

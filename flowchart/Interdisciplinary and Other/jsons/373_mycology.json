@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "373",
+            "topic": "Mycology",
+            "category": "Biology",
+            "description": "A flowchart showing the fundamental concepts and structure of Mycology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Mycology[Mycology] --> Taxonomy[Fungal Taxonomy]\n    Mycology --> Ecology[Fungal Ecology]\n    Mycology --> Applications[Fungal Applications]\n    Taxonomy --> Classification[Classification]\n    Taxonomy --> Identification[Identification]\n    Ecology --> Symbiosis[Symbiotic Relationships]\n    Ecology --> Decomposition[Decomposition]\n    Applications --> Medicine[Medical Mycology]\n    Applications --> Industry[Industrial Uses]",
+            "complexity": "medium",
+            "tags": [
+                "mycology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "208",
+            "topic": "Conservation and Restoration",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Conservation and Restoration.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CR[Conservation and Restoration] --> P[Principles]\n    CR --> M[Materials & Techniques]\n    CR --> F[Fields]\n\n    P --> M2[Minimal Intervention]\n    P --> R[Reversibility]\n    P --> D[Documentation]\n\n    M --> A[Analysis]\n    M --> C[Cleaning]\n    M --> R2[Repair]\n    M --> I[Inpainting]\n\n    F --> P2[Paintings]\n    F --> P3[Paper]\n    F --> S[Sculpture]\n    F --> A2[Architecture]\n    F --> T[Textiles]",
+            "complexity": "medium",
+            "tags": [
+                "conservation and restoration",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

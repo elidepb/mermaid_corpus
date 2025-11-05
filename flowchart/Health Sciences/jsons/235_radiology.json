@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "235",
+      "topic": "Radiology",
+      "category": "Medicine",
+      "description": "A comprehensive flowchart illustrating the complete CT scan workflow, from clinical indication through order verification, patient preparation, contrast safety screening, image acquisition phases, reconstruction algorithms, quality control, radiologist interpretation, and report distribution with critical result pathways.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Clinical Indication]) --> A[Order Verification]\n    \n    A --> A1[Review Clinical History]\n    A1 --> A2[Appropriate Imaging Modality?]\n    A2 --> A3{Protocol Selection}\n    \n    A3 -->|Standard| A4[Non-Contrast CT]\n    A3 -->|Enhanced| A5[Contrast-Enhanced CT]\n    A3 -->|Specialized| A6[Angiography/Perfusion]\n    \n    A4 --> B[Patient Preparation]\n    A5 --> B1{Contrast Safety Screening}\n    A6 --> B1\n    \n    B1 --> B2[Renal Function Assessment<br/>eGFR/Creatinine]\n    B2 --> B3[Allergy History]\n    B3 --> B4{Contraindications?}\n    \n    B4 -->|Yes| B5[Consider Alternative<br/>or Premedication]\n    B4 -->|No| B6[Contrast Approved]\n    B5 --> B6\n    \n    B6 --> B\n    B --> C[Pre-Scan Preparation]\n    \n    C --> C1[Patient Identity Verification]\n    C1 --> C2[Remove Metal Objects]\n    C2 --> C3[NPO Verification if Required]\n    C3 --> C4[IV Access if Contrast Needed]\n    \n    C4 --> D[Patient Positioning]\n    \n    D --> D1[Optimal Positioning on Table]\n    D1 --> D2[Immobilization if Needed]\n    D2 --> D3[Scout/Topogram Image]\n    D3 --> D4[Define Scan Range]\n    \n    D4 --> E{Contrast Administration}\n    \n    E -->|Non-Contrast| F[Image Acquisition]\n    E -->|With Contrast| E1[IV Contrast Injection]\n    \n    E1 --> E2[Injection Rate & Volume<br/>Based on Protocol]\n    E2 --> E3[Timing Selection]\n    E3 --> E4{Phase Selection}\n    \n    E4 -->|Arterial| E5[20-30s Post-Injection]\n    E4 -->|Venous| E6[60-70s Post-Injection]\n    E4 -->|Delayed| E7[3-10 min Post-Injection]\n    \n    E5 --> F\n    E6 --> F\n    E7 --> F\n    \n    F --> F1[X-ray Tube Rotation]\n    F1 --> F2[Detector Array Data Collection]\n    F2 --> F3[Raw Data Acquisition]\n    F3 --> F4[Multiple Projections Captured]\n    \n    F4 --> G[Image Reconstruction]\n    \n    G --> G1[Raw Data Processing]\n    G1 --> G2[Reconstruction Algorithm<br/>FBP/Iterative]\n    G2 --> G3[3D Volume Dataset Creation]\n    G3 --> G4[Multi-Planar Reconstructions<br/>Axial/Coronal/Sagittal]\n    G4 --> G5[Advanced Post-Processing<br/>MIP/VR/3D if Needed]\n    \n    G5 --> H[Quality Control]\n    \n    H --> H1[Image Quality Assessment]\n    H1 --> H2{Diagnostic Quality?}\n    \n    H2 -->|No| H3[Repeat Scan if Necessary]\n    H3 --> D4\n    H2 -->|Yes| I[Radiologist Interpretation]\n    \n    I --> I1[Systematic Image Review]\n    I1 --> I2[Identify Abnormalities]\n    I2 --> I3[Compare with Prior Studies]\n    I3 --> I4[Measurements & Quantification]\n    I4 --> I5[Differential Diagnosis]\n    \n    I5 --> J[Report Generation]\n    \n    J --> J1[Structured Report Creation]\n    J1 --> J2[Critical Findings Flagged]\n    J2 --> J3{Critical Result?}\n    \n    J3 -->|Yes| J4[Immediate Physician Notification]\n    J3 -->|No| J5[Routine Report Transmission]\n    \n    J4 --> K[Report Distribution]\n    J5 --> K\n    \n    K --> K1[Electronic Medical Record]\n    K1 --> K2[Referring Physician Access]\n    K2 --> K3[Clinical Decision Making]\n    \n    K3 --> End([Patient Management])\n    \n    style Start fill:#e1f5ff\n    style B1 fill:#fff3cd\n    style B4 fill:#ffe6e6\n    style E4 fill:#e6f3ff\n    style H2 fill:#fff3cd\n    style J3 fill:#ffe6e6\n    style J4 fill:#f8d7da\n    style End fill:#d4edda",
+      "complexity": "high",
+      "tags": [
+        "radiology",
+        "medicine",
+        "ct_scan",
+        "medical_imaging",
+        "diagnostic_procedure",
+        "contrast_media",
+        "image_reconstruction",
+        "patient_safety"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "412",
+            "topic": "Observational Cosmology",
+            "category": "Astronomy",
+            "description": "A flowchart showing the fundamental concepts and structure of Observational Cosmology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ObservationalCosmology[Observational Cosmology] --> Foundations[Foundations]\n    ObservationalCosmology --> Methods[Research Methods]\n    ObservationalCosmology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "observational_cosmology",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

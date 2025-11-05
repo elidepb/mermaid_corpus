@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "192",
+            "topic": "Graphic Design",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Graphic Design.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    GD[Graphic Design] --> E[Elements]\n    GD --> P[Principles]\n    GD --> A[Applications]\n\n    E --> L[Line]\n    E --> S[Shape]\n    E --> C[Color]\n    E --> T[Texture]\n    E --> T2[Typography]\n    E --> S2[Space]\n\n    P --> B[Balance]\n    P --> H[Hierarchy]\n    P --> C2[Contrast]\n    P --> R[Repetition]\n    P --> P2[Proximity]\n    P --> A2[Alignment]\n\n    A --> B2[Branding]\n    A --> A3[Advertising]\n    A --> W[Web Design]\n    A --> P3[Publication Design]",
+            "complexity": "medium",
+            "tags": [
+                "graphic design",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

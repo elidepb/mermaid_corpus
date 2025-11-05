@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Risk Management",
+            "category": "Business",
+            "description": "A detailed flowchart of the risk management process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Risk Management Process] --> B[1. Identify Risks]\n    B --> C[Market Risks]\n    B --> D[Credit Risks]\n    B --> E[Operational Risks]\n\n    A --> F[2. Analyze Risks]\n    F --> G[Qualitative Analysis]\n    F --> H[Quantitative Analysis]\n\n    A --> I[3. Evaluate Risks]\n    I --> J[Risk Appetite]\n    I --> K[Risk Tolerance]\n\n    A --> L[4. Treat Risks]\n    L --> M[Avoidance]\n    L --> N[Mitigation]\n    L --> O[Transfer]\n    L --> P[Acceptance]\n\n    A --> Q[5. Monitor & Review Risks]",
+            "complexity": "high",
+            "tags": ["risk_management", "business", "finance", "risk_analysis", "risk_treatment"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

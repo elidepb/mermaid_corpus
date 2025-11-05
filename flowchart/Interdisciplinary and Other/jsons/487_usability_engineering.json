@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "487",
+      "topic": "Usability Engineering",
+      "category": "Engineering/Computer Science",
+      "description": "A flowchart showing the fundamental concepts and structure of Usability Engineering.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    UE[Usability Engineering] --> Process[Engineering Lifecycle]\n    UE --> Principles[Nielsen's Usability Principles]\n    UE --> Methods[Research & Design Methods]\n    UE --> Evaluation[Evaluation & Testing]\n    UE --> Metrics[Usability Metrics]\n    UE --> Standards[Standards & Guidelines]\n    Process --> Requirements[Requirements Gathering<br/>User Needs Analysis]\n    Process --> Design[Design Phase<br/>User-Centered Design]\n    Process --> Prototyping[Prototyping<br/>Low to High Fidelity]\n    Process --> Testing[Usability Testing<br/>Iterative Testing]\n    Process --> Implementation[Implementation<br/>Development Integration]\n    Process --> Deployment[Deployment & Monitoring]\n    Principles --> Learnability[Learnability<br/>Easy to Learn]\n    Principles --> Efficiency[Efficiency<br/>Fast Task Completion]\n    Principles --> Memorability[Memorability<br/>Easy to Remember]\n    Principles --> Errors[Error Prevention<br/>Minimize Errors]\n    Principles --> Satisfaction[User Satisfaction<br/>Pleasant to Use]\n    Methods --> UserResearch[User Research<br/>Interviews & Surveys]\n    Methods --> TaskAnalysis[Task Analysis<br/>Workflow Modeling]\n    Methods --> Personas[Personas & Scenarios]\n    Methods --> CardSorting[Card Sorting]\n    Methods --> ContextualInquiry[Contextual Inquiry]\n    Evaluation --> UsabilityTesting[Usability Testing<br/>Laboratory Studies]\n    Evaluation --> HeuristicEval[Heuristic Evaluation<br/>Expert Review]\n    Evaluation --> UserTesting[User Testing<br/>Field Studies]\n    Evaluation --> CognitiveWalkthrough[Cognitive Walkthrough]\n    Metrics --> Effectiveness[Effectiveness<br/>Task Success Rate]\n    Metrics --> Efficiency[Efficiency Metrics<br/>Time on Task]\n    Metrics --> Satisfaction[Satisfaction Scores<br/>SUS & QUIS]\n    Standards --> ISO[ISO 9241 Standards]\n    Standards --> WCAG[WCAG Guidelines]",
+      "complexity": "high",
+      "tags": [
+        "usability_engineering",
+        "engineering",
+        "computer_science"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

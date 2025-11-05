@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "339",
+            "topic": "Digital Humanities",
+            "category": "Humanities/Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Digital Humanities.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    DigitalHumanities[Digital Humanities] --> Digitization[Digitization]\n    DigitalHumanities --> Analysis[Computational Analysis]\n    DigitalHumanities --> Visualization[Visualization]\n    Digitization --> Archives[Digital Archives]\n    Digitization --> Texts[Digital Texts]\n    Analysis --> TextMining[Text Mining]\n    Analysis --> Network[Network Analysis]\n    Visualization --> Mapping[Spatial Mapping]\n    Visualization --> Timelines[Temporal Visualization]",
+            "complexity": "high",
+            "tags": [
+                "digital_humanities",
+                "humanities",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

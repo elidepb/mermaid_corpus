@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "485",
+      "topic": "History of Science",
+      "category": "History/Science",
+      "description": "A flowchart showing the fundamental concepts and structure of History of Science.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    HOS[History of Science] --> Approaches[Historical Approaches]\n    HOS --> Periods[Major Historical Periods]\n    HOS --> Disciplines[Scientific Disciplines]\n    HOS --> Revolutions[Scientific Revolutions]\n    HOS --> Methods[Research Methods]\n    HOS --> KeyFigures[Key Historical Figures]\n    Approaches --> Internal[Internal History]\n    Approaches --> External[External History]\n    Approaches --> Social[Social History of Science]\n    Approaches --> Cultural[Cultural Context]\n    Periods --> Ancient[Ancient Science<br/>Greek & Roman]\n    Periods --> Medieval[Medieval Science<br/>Islamic Golden Age]\n    Periods --> Renaissance[Renaissance Science<br/>Humanism & Observation]\n    Periods --> ScientificRev[Scientific Revolution<br/>17th Century]\n    Periods --> Enlightenment[Enlightenment Science<br/>18th Century]\n    Periods --> Modern[Modern Science<br/>19th-20th Century]\n    Disciplines --> Physics[History of Physics]\n    Disciplines --> Chemistry[History of Chemistry]\n    Disciplines --> Biology[History of Biology]\n    Disciplines --> Mathematics[History of Mathematics]\n    Disciplines --> Astronomy[History of Astronomy]\n    Revolutions --> Copernican[Copernican Revolution]\n    Revolutions --> Darwinian[Darwinian Revolution]\n    Revolutions --> Einsteinian[Einsteinian Revolution]\n    Revolutions --> Quantum[Quantum Revolution]\n    Methods --> Archival[Archival Research]\n    Methods --> PrimarySources[Primary Source Analysis]\n    Methods --> SecondarySources[Secondary Literature Review]\n    Methods --> Biographical[Biographical Studies]\n    KeyFigures --> Galileo[Galileo Galilei]\n    KeyFigures --> Newton[Isaac Newton]\n    KeyFigures --> Darwin[Charles Darwin]\n    KeyFigures --> Einstein[Albert Einstein]",
+      "complexity": "high",
+      "tags": [
+        "history_of_science",
+        "history",
+        "science"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

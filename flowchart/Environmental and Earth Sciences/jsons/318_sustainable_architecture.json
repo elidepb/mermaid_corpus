@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "318",
+            "topic": "Sustainable Architecture",
+            "category": "Architecture/Environmental",
+            "description": "A detailed flowchart illustrating the lifecycle and key principles of sustainable architecture.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Sustainable Architecture]) --> LC[Building Lifecycle]\n    \n    LC --> Design[Design Phase]\n    LC --> Construction[Construction Phase]\n    LC --> Operation[Operation & Maintenance Phase]\n    LC --> EndOfLife[End-of-Life Phase]\n    \n    Design --> D1[Site Selection & Analysis]\n    Design --> D2[Passive Design Strategies]\n    Design --> D3[Integrated Systems Design]\n    \n    D2 --> D2a[Orientation, Shading, Natural Ventilation]\n    \n    Construction --> C1[Sustainable Material Selection]\n    Construction --> C2[Waste Reduction]\n    Construction --> C3[Water Management on Site]\n    \n    C1 --> C1a[Recycled, Reused, Local, Low-VOC Materials]\n    \n    Operation --> O1[Energy Efficiency]\n    Operation --> O2[Renewable Energy]\n    Operation --> O3[Water Conservation]\n    Operation --> O4[Indoor Environmental Quality]\n    \n    O1 --> O1a[High-performance HVAC, LED Lighting]\n    O2 --> O2a[Solar Panels, Geothermal]\n    O3 --> O3a[Rainwater Harvesting, Greywater Systems]\n    O4 --> O4a[Daylighting, Air Quality]\n    \n    EndOfLife --> E1[Deconstruction & Disassembly]\n    EndOfLife --> E2[Material Reuse & Recycling]\n    EndOfLife --> E3[Building as a Material Bank]\n    \n    Design --> Cert[Green Building Certifications]\n    Construction --> Cert\n    Operation --> Cert\n    EndOfLife --> Cert\n    \n    Cert --> Cert1[LEED, BREEAM]\n    \n    Cert1 --> End([Sustainable Building])\n    \n    subgraph Design_Phase[\"Design Phase\"]\n        Design\n        D1\n        D2\n        D3\n    end\n    \n    subgraph Construction_Phase[\"Construction Phase\"]\n        Construction\n        C1\n        C2\n        C3\n    end\n    \n    subgraph Operation_Phase[\"Operation & Maintenance\"]\n        Operation\n        O1\n        O2\n        O3\n        O4\n    end\n    \n    subgraph End_of_Life[\"End-of-Life Phase\"]\n        EndOfLife\n        E1\n        E2\n        E3\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style LC fill:#fff4e1\n    style Design fill:#e1ffe1\n    style Construction fill:#fff4e1\n    style Operation fill:#e1ffe1\n    style Cert fill:#e1ffe1",
+            "complexity": "high",
+            "tags": ["sustainable_architecture", "architecture", "environmental_science", "sustainability", "green_building", "leed", "passive_design"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

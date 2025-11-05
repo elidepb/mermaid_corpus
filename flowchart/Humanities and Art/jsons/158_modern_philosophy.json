@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "158",
+            "topic": "Modern Philosophy",
+            "category": "Philosophy",
+            "description": "A flowchart showing the fundamental concepts of Modern Philosophy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MP[Modern Philosophy] --> R[Rationalism]\n    MP --> E[Empiricism]\n    MP --> I[Idealism]\n\n    R --> D[Descartes]\n    R --> S[Spinoza]\n    R --> L[Leibniz]\n\n    E --> L2[Locke]\n    E --> B[Berkeley]\n    E --> H[Hume]\n\n    I --> K[Kant]\n    I --> H2[Hegel]",
+            "complexity": "medium",
+            "tags": [
+                "modern philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociology",
+            "category": "Sociology",
+            "description": "A flowchart showing the fundamental concepts of Sociology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    S[Sociology] --> F[Foundations]\n    S --> P[Perspectives]\n    S --> I[Institutions]\n    S --> C[Concepts]\n\n    F --> COM[Comte]\n    F --> DUR[Durkheim]\n    F --> WEB[Weber]\n    F --> MAR[Marx]\n\n    P --> FUNC[Functionalism]\n    P --> CON[Conflict Theory]\n    P --> SYM[Symbolic Interactionism]\n\n    I --> FAM[Family]\n    I --> EDU[Education]\n    I --> GOV[Government]\n    I --> ECO[Economy]\n    I --> REL[Religion]\n\n    C --> CUL[Culture]\n    C --> SOC[Socialization]\n    C --> STR[Stratification]\n    C --> DEV[Deviance]",
+            "complexity": "medium",
+            "tags": [
+                "sociology",
+                "social science"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

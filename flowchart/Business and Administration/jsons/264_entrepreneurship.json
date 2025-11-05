@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Entrepreneurship",
+            "category": "Business",
+            "description": "A detailed flowchart of the entrepreneurial process, from idea to exit.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Entrepreneurial Journey]) --> A[Idea Generation]\n    A --> B[Market Research]\n    B --> C[Opportunity Recognition]\n    C --> D{Feasibility Analysis?}\n    D -->|Not Viable| A\n    D -->|Viable| E[Business Concept Development]\n    E --> F[Business Plan Creation]\n    F --> G[Executive Summary]\n    F --> H[Market Analysis]\n    F --> I[Operations Plan]\n    F --> J[Financial Projections]\n    G --> K[Resource Mobilization]\n    H --> K\n    I --> K\n    J --> K\n    K --> L{Funding Strategy}\n    L -->|Bootstrapping| M[Self-Financing]\n    L -->|Angel Investment| N[Angel Investors]\n    L -->|Venture Capital| O[VC Funding]\n    L -->|Crowdfunding| P[Crowdfunding Platform]\n    M --> Q[Company Launch]\n    N --> Q\n    O --> Q\n    P --> Q\n    Q --> R[Legal Structure Setup]\n    R --> S[Product/Service Development]\n    S --> T[Market Entry]\n    T --> U[Early Operations]\n    U --> V[Customer Acquisition]\n    V --> W[Feedback & Iteration]\n    W --> X{Growth Stage?}\n    X -->|Early Stage| Y[Growth & Scaling]\n    Y --> Z[Market Expansion]\n    Y --> AA[Team Building]\n    Y --> BB[Process Optimization]\n    Z --> CC[Scaling Operations]\n    AA --> CC\n    BB --> CC\n    CC --> DD[Strategic Partnerships]\n    DD --> EE{Maturity Stage?}\n    EE -->|Yes| FF[Harvesting/Exit Strategy]\n    EE -->|No| CC\n    FF --> GG{Exit Options}\n    GG -->|IPO| HH[Initial Public Offering]\n    GG -->|Acquisition| II[Company Acquisition]\n    GG -->|Merger| JJ[Strategic Merger]\n    GG -->|Management Buyout| KK[MBO]\n    HH --> End([Exit Complete])\n    II --> End\n    JJ --> End\n    KK --> End\n    \n    subgraph Idea_Phase[\"Idea & Opportunity Phase\"]\n        A\n        B\n        C\n        D\n        E\n    end\n    \n    subgraph Planning_Phase[\"Planning Phase\"]\n        F\n        G\n        H\n        I\n        J\n    end\n    \n    subgraph Funding_Phase[\"Funding Phase\"]\n        K\n        L\n        M\n        N\n        O\n        P\n    end\n    \n    subgraph Launch_Phase[\"Launch & Early Stage\"]\n        Q\n        R\n        S\n        T\n        U\n        V\n        W\n    end\n    \n    subgraph Growth_Phase[\"Growth & Scaling Phase\"]\n        X\n        Y\n        Z\n        AA\n        BB\n        CC\n        DD\n        EE\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style D fill:#fff4e1\n    style L fill:#fff4e1\n    style X fill:#fff4e1\n    style EE fill:#fff4e1\n    style GG fill:#fff4e1\n    style Y fill:#e1ffe1\n    style CC fill:#e1ffe1",
+            "complexity": "high",
+            "tags": ["entrepreneurship", "business", "startup", "business_plan", "venture_capital"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

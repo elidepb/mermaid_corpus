@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Materials Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Materials Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MatE[Materials Engineering] --> Structure[Structure of Materials]\n    MatE --> Properties[Properties of Materials]\n    MatE --> Processing[Materials Processing]\n    MatE --> Performance[Performance of Materials]\n    MatE --> Classes[Classes of Materials]\n\n    Structure --> Atomic[Atomic Structure]\n    Structure --> Crystal[Crystal Structure]\n    Structure --> Microstructure[Microstructure]\n\n    Properties --> Mechanical[Mechanical]\n    Properties --> Electrical[Electrical]\n    Properties --> Thermal[Thermal]\n    Properties --> Optical[Optical]\n    Properties --> Magnetic[Magnetic]\n\n    Processing --> Synthesis[Synthesis]\n    Processing --> Fabrication[Fabrication]\n    Processing --> HeatTreatment[Heat Treatment]\n\n    Performance --> Failure[Failure Analysis]\n    Performance --> Degradation[Degradation]\n\n    Classes --> Metals[Metals]\n    Classes --> Ceramics[Ceramics]\n    Classes --> Polymers[Polymers]\n    Classes --> Composites[Composites]\n    Classes --> Semiconductors[Semiconductors]",
+            "complexity": "medium",
+            "tags": ["materials_engineering", "engineering", "materials_science", "structure", "properties"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

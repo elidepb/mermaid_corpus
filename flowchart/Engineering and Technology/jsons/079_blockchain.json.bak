@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "079",
+      "topic": "Blockchain",
+      "category": "technology",
+      "description": "A flowchart showing the fundamental concepts of Blockchain.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n Blockchain --> Core[Core Components]\n Blockchain --> Types[Types of Blockchains]\n Blockchain --> Consensus[Consensus Mechanisms]\n Blockchain --> Applications[Applications]\n\n Core --> Blocks[Blocks]\n Core --> Chain[Chain]\n Core --> Network[Decentralized Network (P2P)]\n Core --> Cryptography[Cryptography]\n\n Blocks --> Data[Data]\n Blocks --> Hash[Hash]\n Blocks --> PrevHash[Hash of Previous Block]\n\n Cryptography --> Hashing[Hashing (SHA-256)]\n Cryptography --> PKI[Public-Key Cryptography]\n\n Types --> Public[Public]\n Types --> Private[Private]\n Types --> Consortium[Consortium]\n Types --> Hybrid[Hybrid]\n\n Consensus --> PoW[Proof of Work]\n Consensus --> PoS[Proof of Stake]\n Consensus --> DPoS[Delegated Proof of Stake]\n Consensus --> PoA[Proof of Authority]\n\n Applications --> Crypto[Cryptocurrencies]\n Applications --> SmartContracts[Smart Contracts]\n Applications --> SCM[Supply Chain Management]\n Applications --> Voting[Voting Systems]\n Applications --> Healthcare[Healthcare]",
+      "complexity": "medium",
+      "tags": [
+        "blockchain",
+        "technology",
+        "cryptocurrency",
+        "smart_contracts",
+        "consensus"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

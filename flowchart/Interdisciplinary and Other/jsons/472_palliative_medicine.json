@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "472",
+            "topic": "Palliative Medicine",
+            "category": "Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Palliative Medicine.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PalliativeMedicine[Palliative Medicine] --> Foundations[Foundations]\n    PalliativeMedicine --> Methods[Research Methods]\n    PalliativeMedicine --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "palliative_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

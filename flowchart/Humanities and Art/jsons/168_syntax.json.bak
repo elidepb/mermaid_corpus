@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "168",
+      "topic": "Syntax",
+      "category": "Linguistics",
+      "description": "A flowchart showing the fundamental concepts of Syntax.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n S[Syntax] --> C[Constituency]\n S --> P[Phrase Structure Rules]\n S --> T[Theories]\n\n C --> N[Noun Phrase (NP)]\n C --> V[Verb Phrase (VP)]\n C --> P2[Prepositional Phrase (PP)]\n\n P --> S2[S -> NP VP]\n P --> NP2[NP -> (Det) (AdjP) N (PP)]\n P --> VP2[VP -> V (NP) (PP)]\n\n T --> G[Generative Grammar]\n T --> C2[Cognitive Grammar]\n T --> F[Functional Grammar]\n\n G --> C3[Chomsky]\n G --> T2[Transformations]",
+      "complexity": "medium",
+      "tags": [
+        "syntax",
+        "linguistics"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "491",
+      "topic": "User Interface (UI)",
+      "category": "Design/Computer Science",
+      "description": "A flowchart showing the fundamental concepts and structure of User Interface (UI).",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n UserInterfaceUI[User Interface (UI)] --> Components[Core Components]\n UserInterfaceUI --> Methods[Key Methods]\n UserInterfaceUI --> Applications[Applications]\n Components --> Design[Design]\n Design --> DesignSub1[Design Theory]\n Design --> DesignSub2[Design Practice]\n Components --> ComputerScience[Computer Science]\n ComputerScience --> ComputerScienceSub1[Algorithms]\n ComputerScience --> ComputerScienceSub2[Data Structures]\n Methods --> Analysis[Analysis Methods]\n Methods --> Research[Research Methods]\n Methods --> Modeling[Modeling Approaches]\n Applications --> Academic[Academic Applications]\n Applications --> Industrial[Industrial Applications]\n Applications --> Clinical[Clinical Applications]",
+      "complexity": "high",
+      "tags": [
+        "user_interface_ui",
+        "design",
+        "computer_science"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

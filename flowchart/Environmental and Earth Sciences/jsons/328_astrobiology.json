@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "328",
+            "topic": "Astrobiology",
+            "category": "Astronomy/Biology",
+            "description": "A detailed flowchart illustrating the interdisciplinary field of astrobiology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph \"Core Questions\"\n        Q1[How does life begin and evolve?]\n        Q2[Does life exist elsewhere in the universe?]\n        Q3[What is the future of life on Earth and beyond?]\n    end\n\n    Q1 & Q2 & Q3 --> A[Astrobiology]\n\n    subgraph \"Key Research Areas\"\n        RA1[Origin & Evolution of Life] --> RA1a(Prebiotic Chemistry, RNA World, Extremophiles)\n        RA2[Habitable Worlds] --> RA2a(Habitable Zone Concept, Exoplanet Detection, Solar System Exploration)\n        RA3[Search for Biosignatures] --> RA3a(In-situ Analysis on Mars, Remote Sensing of Exoplanet Atmospheres)\n        RA4[Planetary Protection]\n    end\n\n    A --> RA1 & RA2 & RA3 & RA4\n\n    subgraph \"Disciplinary Inputs\"\n        D1[Astronomy]\n        D2[Biology]\n        D3[Chemistry]\n        D4[Geology]\n        D5[Planetary Science]\n    end\n\n    D1 & D2 & D3 & D4 & D5 -- Converge to form --> A\n\n    subgraph \"Missions & Technology\"\n        M1[Telescopes] --> M1a(Hubble, JWST)\n        M2[Space Probes & Rovers] --> M2a(Viking, Curiosity, Perseverance)\n        M3[Future Missions] --> M3a(Europa Clipper, Dragonfly)\n    end\n\n    RA2 & RA3 -- Drive --> M1 & M2 & M3",
+            "complexity": "high",
+            "tags": ["astrobiology", "astronomy", "biology", "origin_of_life", "exoplanets", "biosignatures", "planetary_protection", "jwst"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

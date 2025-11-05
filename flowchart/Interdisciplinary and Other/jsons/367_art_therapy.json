@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "367",
+            "topic": "Art Therapy",
+            "category": "Art/Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Art Therapy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ArtTherapy[Art Therapy] --> Field1[Art]\n    ArtTherapy --> Field2[Medicine]\n    ArtTherapy --> Integration[Integration Areas]\n    art --> artSub1[Theory]\n    art --> artSub2[Practice]\n    medicine --> medicineSub1[Theory]\n    medicine --> medicineSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "art_therapy",
+                "art",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "452",
+            "topic": "Forensic Engineering",
+            "category": "Engineering/Law",
+            "description": "A flowchart showing the fundamental concepts and structure of Forensic Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ForensicEngineering[Forensic Engineering] --> Investigation[Failure Investigation]\n    ForensicEngineering --> Analysis[Engineering Analysis]\n    ForensicEngineering --> Reporting[Forensic Reporting]\n    Investigation --> Structural[Structural Failures]\n    Investigation --> Material[Material Failures]\n    Analysis --> Testing[Material Testing]\n    Analysis --> Simulation[Failure Simulation]\n    Reporting --> Documentation[Technical Documentation]\n    Reporting --> Testimony[Expert Testimony]",
+            "complexity": "high",
+            "tags": [
+                "forensic_engineering",
+                "engineering",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

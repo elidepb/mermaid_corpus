@@ -1,0 +1,22 @@
+{
+  "diagrams": [
+    {
+      "id": "308",
+      "topic": "Soil Science",
+      "category": "Earth Sciences",
+      "description": "A detailed flowchart illustrating the components, formation, and properties of soil.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    SoilScience[Soil Science] --> Composition[Soil Composition]\n    SoilScience --> Formation[Soil Formation]\n    SoilScience --> Properties[Soil Properties]\n    Composition --> Mineral[Mineral Matter]\n    Composition --> Organic[Organic Matter]\n    Composition --> Water[Water]\n    Formation --> Climate[Climate]\n    Formation --> Organisms[Organisms]\n    Formation --> ParentMaterial[Parent Material]\n    Properties --> Physical[Physical Properties]\n    Properties --> Chemical[Chemical Properties]",
+      "complexity": "high",
+      "tags": [
+        "soil_science",
+        "earth_sciences",
+        "pedology",
+        "soil_composition",
+        "soil_formation",
+        "clorpt"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

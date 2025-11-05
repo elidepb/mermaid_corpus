@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Dietetics",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the Nutrition Care Process used by dietitians.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Nutrition Assessment) --> B(Nutrition Diagnosis);\n    B --> C(Nutrition Intervention);\n    C --> D(Nutrition Monitoring and Evaluation);\n    D --> A;",
+            "complexity": "medium",
+            "tags": ["dietetics", "medicine", "nutrition_care_process", "adime", "dietitian"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

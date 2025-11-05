@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Educational Policy",
+            "category": "Education",
+            "description": "A flowchart showing the fundamental concepts of Educational Policy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EP[Educational Policy] --> L[Levels]\n    EP --> I[Issues]\n    EP --> A[Actors]\n\n    L --> L2[Local]\n    L --> S[State]\n    L --> F[Federal]\n\n    I --> F2[Funding]\n    I --> A2[Accountability]\n    I --> C[Choice]\n    I --> E[Equity]\n\n    A --> G[Government]\n    A --> IG[Interest Groups]\n    A --> P[Public]",
+            "complexity": "medium",
+            "tags": [
+                "educational policy",
+                "education"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

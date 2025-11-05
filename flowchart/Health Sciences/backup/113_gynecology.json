@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Gynecology",
+            "category": "Medicine",
+            "description": "A comprehensive flowchart illustrating the menstrual cycle phases, hormonal regulation, and the interaction between ovarian and uterine cycles with detailed physiological processes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Ciclo Menstrual<br>Inicio: Día 1] --> B[Fase Menstrual<br>Días 1-5]\n    \n    B --> C[Fase Folicular<br>Días 1-13]\n    \n    subgraph C[Ciclo Ovárico: Fase Folicular]\n        C1[Desarrollo Folicular<br>Múltiples folículos]\n        C1 --> C2[Selección del Folículo Dominante]\n        C2 --> C3[Producción de Estrógenos<br>por el folículo]\n    end\n    \n    subgraph D[Ciclo Uterino: Fase Proliferativa]\n        D1[Regeneración Endometrial<br>Capa basal se regenera]\n        D2[Proliferación Celular<br>Endometrio se engrosa]\n        D3[Desarrollo Glándular<br>Preparación endometrial]\n    end\n    \n    C3 --> E[Pico de LH y FSH<br>Día 14]\n    D --> E\n    \n    E --> F[Ovulación<br>Liberación del ovocito]\n    \n    F --> G[Fase Luteínica<br>Días 15-28]\n    \n    subgraph G[Ciclo Ovárico: Fase Luteínica]\n        G1[Formación del Cuerpo Lúteo<br>Del folículo roto]\n        G1 --> G2[Producción de Progesterona<br>y Estrógenos]\n        G2 --> G3[Mantenimiento del Cuerpo Lúteo<br>o regresión]\n    end\n    \n    subgraph H[Ciclo Uterino: Fase Secretora]\n        H1[Secreción Activa<br>Glándulas endometriales]\n        H2[Edema y Vascularización<br>Preparación para implantación]\n        H3[Transformación Secretora<br>Máximo desarrollo endometrial]\n    end\n    \n    G3 --> I{¿Ocurre Embarazo?}\n    \n    I -->|Sí| J[Producción de hCG<br>Mantenimiento cuerpo lúteo]\n    I -->|No| K[Regresión del Cuerpo Lúteo<br>Días 24-28]\n    \n    J --> L[Continúa Producción Hormonal<br>Embarazo en curso]\n    K --> M[Caída de Progesterona<br>y Estrógenos]\n    \n    M --> N[Desprendimiento Endometrial<br>Isquemia y vasoespasmo]\n    \n    N --> O[Menstruación<br>Flujo menstrual]\n    \n    O --> P{¿Fin del Ciclo?}\n    P -->|Continuar| A\n    P -->|Interrumpir| Q[Embarazo, Menopausia, etc.]\n    \n    %% Regulación Hormonal\n    C3 --> R[Aumento Estrógenos<br>Feedback positivo]\n    R --> E\n    \n    G2 --> S[Altos niveles Progesterona<br>Feedback negativo]\n    S --> T[Supresión de FSH/LH]\n    T --> K\n    \n    style A fill:#e8f5e8\n    style B fill:#fce4ec\n    style F fill:#fff3e0\n    style G fill:#e1f5fe\n    style H fill:#f3e5f5\n    style J fill:#c8e6c9\n    style O fill:#ffebee\n    style E fill:#fff9c4",
+            "complexity": "medium",
+            "tags": ["gynecology", "medicine", "menstrual_cycle", "womens_health", "hormones", "ovarian_cycle", "uterine_cycle", "reproductive_health", "endocrinology", "fertility"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

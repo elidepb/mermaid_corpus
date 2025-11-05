@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Clinical Psychology",
+            "category": "Psychology",
+            "description": "A flowchart showing the fundamental concepts of Clinical Psychology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CP[Clinical Psychology] --> A[Assessment]\n    CP --> D[Diagnosis]\n    CP --> T[Treatment]\n    CP --> R[Research]\n\n    A --> I[Interviews]\n    A --> T2[Tests]\n    A --> O[Observation]\n\n    D --> DSM[DSM-5]\n    D --> ICD[ICD-11]\n\n    T --> PSY[Psychotherapy]\n    T --> MED[Medication]\n    T --> CBT[Cognitive-Behavioral Therapy]",
+            "complexity": "medium",
+            "tags": [
+                "clinical psychology",
+                "psychology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

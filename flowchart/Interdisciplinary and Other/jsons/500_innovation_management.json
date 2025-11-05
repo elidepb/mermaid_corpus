@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "500",
+            "topic": "Innovation Management",
+            "category": "Business/Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Innovation Management.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    InnovationManagement[Innovation Management] --> Strategy[Innovation Strategy]\n    InnovationManagement --> Process[Innovation Process]\n    InnovationManagement --> Culture[Innovation Culture]\n    Strategy --> Portfolio[Portfolio Management]\n    Strategy --> Roadmap[Innovation Roadmap]\n    Process --> Ideation[Ideation]\n    Process --> Development[Development]\n    Culture --> Leadership[Leadership]\n    Culture --> Collaboration[Collaboration]",
+            "complexity": "high",
+            "tags": [
+                "innovation_management",
+                "business",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

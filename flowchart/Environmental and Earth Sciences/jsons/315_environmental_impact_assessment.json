@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "315",
+            "topic": "Environmental Impact Assessment",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the systematic process of an Environmental Impact Assessment (EIA).",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph \"Phase 1: Screening & Scoping\"\n        P[Proposed Project]\n        S1[Screening] --> S1a{Is EIA Required?}\n        S1a -- Yes --> S2[Scoping]\n        S1a -- No --> End[No further EIA]\n        S2 --> S2a(Identify Key Issues & Alternatives)\n    end\n\n    P --> S1\n\n    subgraph \"Phase 2: Assessment & Reporting\"\n        A1[Baseline Data Collection] --> A1a(Environmental, Social, Economic)\n        A2[Impact Identification & Prediction]\n        A3[Evaluation of Impact Significance]\n        A4[Formulation of Mitigation Measures]\n        A5[Preparation of EIA Report] --> A5a(Environmental Impact Statement - EIS)\n    end\n\n    S2a --> A1 & A2\n    A1 & A2 --> A3 --> A4 --> A5\n\n    subgraph \"Phase 3: Review & Decision-Making\"\n        R1[Review of EIA Report] --> R1a(by competent authority)\n        R2[Public Consultation] --> R2a(Hearings, Submissions)\n        R3[Decision-Making] --> R3a{Approve, Reject, or Modify Project}\n    end\n\n    A5a --> R1 & R2\n    R1 & R2 --> R3\n\n    subgraph \"Phase 4: Post-Decision\"\n        PD1[Monitoring] --> PD1a(Implementation of Mitigation Measures)\n        PD2[Auditing] --> PD2a(Verify Compliance & Accuracy)\n        PD3[Adaptive Management]\n    end\n\n    R3a -- Approve --> PD1 & PD2\n    PD1 & PD2 -- Feedback --> PD3",
+            "complexity": "high",
+            "tags": ["environmental_impact_assessment", "environmental_science", "eia", "sustainability", "mitigation", "public_consultation"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

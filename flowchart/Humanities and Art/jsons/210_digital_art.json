@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "210",
+            "topic": "Digital Art",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Digital Art.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    DA[Digital Art] --> F[Forms]\n    DA --> T[Tools]\n    DA --> I[Issues]\n\n    F --> D2[Digital Painting]\n    F --> G[Generative Art]\n    F --> I2[Interactive Art]\n    F --> N[Net Art]\n    F --> VR[Virtual & Augmented Reality]\n\n    T --> H[Hardware]\n    T --> S[Software]\n\n    H --> C[Computer]\n    H --> T2[Tablet]\n    H --> S2[Scanner]\n    H --> P[3D Printer]\n\n    S --> I3[Image Editing]\n    S --> V[Vector Graphics]\n    S --> M[3D Modeling]\n\n    I --> A[Authorship]\n    I --> P2[Preservation]\n    I --> A2[Authenticity]",
+            "complexity": "medium",
+            "tags": [
+                "digital art",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

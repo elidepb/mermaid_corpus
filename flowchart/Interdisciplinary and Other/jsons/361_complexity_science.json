@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "361",
+            "topic": "Complexity Science",
+            "category": "Mathematics/Systems",
+            "description": "A flowchart showing the fundamental concepts and structure of Complexity Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ComplexityScience[Complexity Science] --> Field1[Mathematics]\n    ComplexityScience --> Field2[Systems]\n    ComplexityScience --> Integration[Integration Areas]\n    mathematics --> mathematicsSub1[Theory]\n    mathematics --> mathematicsSub2[Practice]\n    systems --> systemsSub1[Theory]\n    systems --> systemsSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "complexity_science",
+                "mathematics",
+                "systems"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

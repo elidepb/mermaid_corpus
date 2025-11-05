@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogy",
+            "category": "Education",
+            "description": "A flowchart showing the fundamental concepts of Pedagogy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    P[Pedagogy] --> T[Theories of Learning]\n    P --> IM[Instructional Methods]\n    P --> A[Assessment]\n    P --> CM[Classroom Management]\n\n    T --> B[Behaviorism]\n    T --> C[Cognitivism]\n    T --> C2[Constructivism]\n\n    IM --> D[Direct Instruction]\n    IM --> I[Inquiry-Based Learning]\n    IM --> C3[Cooperative Learning]\n\n    A --> F[Formative]\n    A --> S[Summative]\n\n    CM --> R[Rules & Procedures]\n    CM --> R2[Relationships]",
+            "complexity": "medium",
+            "tags": [
+                "pedagogy",
+                "education"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

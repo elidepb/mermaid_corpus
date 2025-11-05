@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "142",
+      "topic": "Marketing",
+      "category": "Communication/Business",
+      "description": "A flowchart showing the fundamental concepts of Marketing.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Marketing[Marketing] --> Research[Research]\n    Marketing --> Strategy[Strategy]\n    Marketing --> Tactics[Marketing Mix 4 Ps]\n    Research --> MarketResearch[Market Research]\n    Research --> CustomerResearch[Customer Research]\n    Strategy --> Segmentation[Segmentation]\n    Strategy --> Targeting[Targeting]\n    Strategy --> Positioning[Positioning]\n    Tactics --> Product[Product]\n    Tactics --> Price[Price]\n    Tactics --> Place[Place]\n    Tactics --> Promotion[Promotion]",
+      "complexity": "medium",
+      "tags": [
+        "marketing",
+        "communication/business"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

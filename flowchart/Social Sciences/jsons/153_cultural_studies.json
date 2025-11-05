@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Cultural Studies",
+            "category": "Social Sciences",
+            "description": "A flowchart showing the fundamental concepts of Cultural Studies.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CS[Cultural Studies] --> T[Theories]\n    CS --> M[Methods]\n    CS --> C[Concepts]\n\n    T --> M2[Marxism]\n    T --> S[Structuralism]\n    T --> P[Post-structuralism]\n    T --> P2[Postcolonialism]\n\n    M --> T2[Textual Analysis]\n    M --> E[Ethnography]\n    M --> A[Audience Studies]\n\n    C --> C2[Culture]\n    C --> I[Ideology]\n    C --> P3[Power]\n    C --> R[Representation]",
+            "complexity": "medium",
+            "tags": [
+                "cultural studies",
+                "social sciences"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

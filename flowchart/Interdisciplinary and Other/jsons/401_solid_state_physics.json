@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "401",
+            "topic": "Solid State Physics",
+            "category": "Physics",
+            "description": "A flowchart showing the fundamental concepts and structure of Solid State Physics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SolidStatePhysics[Solid State Physics] --> Foundations[Foundations]\n    SolidStatePhysics --> Methods[Research Methods]\n    SolidStatePhysics --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "solid_state_physics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

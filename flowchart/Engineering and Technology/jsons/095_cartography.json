@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "095",
+      "topic": "Cartography",
+      "category": "engineering",
+      "description": "A flowchart showing the fundamental concepts of Cartography.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Cartography[Cartography] --> Geodesy[Geodesy and Projections]\n    Cartography --> Data[Geospatial Data]\n    Cartography --> MapDesign[Map Design]\n    Geodesy --> Projections[Map Projections]\n    Geodesy --> CoordinateSystems[Coordinate Systems]\n    Data --> Vector[Vector Data]\n    Data --> Raster[Raster Data]\n    MapDesign --> Scale[Scale]\n    MapDesign --> Symbology[Symbology]\n    MapDesign --> Typography[Typography]",
+      "complexity": "medium",
+      "tags": [
+        "cartography",
+        "engineering",
+        "surveying",
+        "gis",
+        "map_projections"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

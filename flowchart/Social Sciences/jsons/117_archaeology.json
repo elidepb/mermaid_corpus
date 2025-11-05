@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Archaeology",
+            "category": "Anthropology",
+            "description": "A flowchart showing the fundamental concepts of Archaeology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Archaeology] --> M[Methods]\n    A --> T[Theory]\n    A --> P[Periods]\n    A --> S[Subfields]\n\n    M --> E[Excavation]\n    M --> S2[Survey]\n    M --> D[Dating Techniques]\n\n    T --> PROC[Processual]\n    T --> POST[Post-Processual]\n\n    P --> PAL[Paleolithic]\n    P --> NEO[Neolithic]\n    P --> BA[Bronze Age]\n    P --> IA[Iron Age]\n\n    S --> H2[Historical Archaeology]\n    S --> U[Underwater Archaeology]",
+            "complexity": "medium",
+            "tags": [
+                "archaeology",
+                "anthropology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

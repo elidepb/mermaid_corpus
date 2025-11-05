@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Anatomy",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of digestion, from ingestion to elimination.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Ingestion) --> B(Mouth);\n    B -- Mastication & Saliva --> C(Esophagus);\n    C -- Peristalsis --> D(Stomach);\n    D -- Churning & Acid Digestion --> E(Small Intestine);\n    E -- Nutrient Absorption --> F(Large Intestine);\n    F -- Water Absorption --> G(Rectum);\n    G --> H(Elimination);",
+            "complexity": "medium",
+            "tags": ["anatomy", "medicine", "digestion", "digestive_system", "physiology"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

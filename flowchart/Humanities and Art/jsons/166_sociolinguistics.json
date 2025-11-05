@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "166",
+            "topic": "Sociolinguistics",
+            "category": "Linguistics",
+            "description": "A flowchart showing the fundamental concepts of Sociolinguistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    S[Sociolinguistics] --> V[Variation]\n    S --> C[Contact]\n    S --> A[Attitudes]\n    S --> L[Language & Identity]\n\n    V --> D[Dialects]\n    V --> A2[Accents]\n    V --> S2[Styles/Registers]\n    V --> C2[Code-switching]\n\n    C --> P[Pidgins]\n    C --> C3[Creoles]\n\n    A --> L2[Language Ideologies]\n\n    L --> G[Gender]\n    L --> E[Ethnicity]\n    L --> C4[Class]",
+            "complexity": "medium",
+            "tags": [
+                "sociolinguistics",
+                "linguistics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

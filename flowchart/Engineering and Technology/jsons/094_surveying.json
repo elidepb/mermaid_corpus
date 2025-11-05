@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "094",
+            "topic": "Surveying",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Surveying.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Surveying --> Types[Types of Surveying]\n    Surveying --> Instruments[Surveying Instruments]\n    Surveying --> Measurements[Measurements & Calculations]\n    Surveying --> Geodesy[Geodesy]\n\n    Types --> Plane[Plane Surveying]\n    Types --> Geodetic[Geodetic Surveying]\n    Types --> Topographic[Topographic Surveying]\n    Types --> Hydrographic[Hydrographic Surveying]\n    Types --> Cadastral[Cadastral Surveying]\n    Types --> Photogrammetry[Photogrammetry]\n\n    Instruments --> Theodolite[Theodolite]\n    Instruments --> TotalStation[Total Station]\n    Instruments --> Level[Level]\n    Instruments --> GPS[GPS/GNSS]\n    Instruments --> LiDAR[LiDAR]\n\n    Measurements --> Distance[Distance]\n    Measurements --> Angles[Angles]\n    Measurements --> Elevation[Elevation]\n\n    Calculations --> Traverse[Traverse Computations]\n    Calculations --> Triangulation[Triangulation]\n    Calculations --> Leveling[Leveling]\n\n    Geodesy --> Datums[Geodetic Datums]\n    Geodesy --> Projections[Map Projections]\n    Geodesy --> CoordinateSystems[Coordinate Systems]",
+            "complexity": "medium",
+            "tags": ["surveying", "engineering", "geodesy", "cartography", "gis"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

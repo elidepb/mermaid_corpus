@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "088",
+      "topic": "Railway Engineering",
+      "category": "engineering",
+      "description": "A flowchart showing the fundamental concepts of Railway Engineering.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    RailwayEngineering[Railway Engineering] --> Track[Track Engineering]\n    RailwayEngineering --> RollingStock[Rolling Stock]\n    RailwayEngineering --> Signaling[Signaling and Control]\n    Track --> Alignment[Geometric Design]\n    Track --> Components[Track Components]\n    RollingStock --> Locomotives[Locomotives]\n    RollingStock --> Wagons[Wagons]\n    Signaling --> Signals[Signals]\n    Signaling --> Interlocking[Interlocking Systems]",
+      "complexity": "medium",
+      "tags": [
+        "railway_engineering",
+        "engineering",
+        "civil_engineering",
+        "transportation",
+        "rail_transport"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

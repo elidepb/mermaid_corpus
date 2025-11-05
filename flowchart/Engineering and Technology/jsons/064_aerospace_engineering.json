@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Aerospace Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Aerospace Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AE[Aerospace Engineering] --> Aeronautical[Aeronautical Engineering]\n    AE --> Astronautical[Astronautical Engineering]\n\n    Aeronautical --> Aerodynamics[Aerodynamics]\n    Aeronautical --> Propulsion[Propulsion]\n    Aeronautical --> Structures[Structures & Materials]\n    Aeronautical --> Stability[Stability & Control]\n\n    Aerodynamics --> Subsonic[Subsonic]\n    Aerodynamics --> Transonic[Transonic]\n    Aerodynamics --> Supersonic[Supersonic]\n    Aerodynamics --> Hypersonic[Hypersonic]\n\n    Propulsion --> Airbreathing[Airbreathing Engines]\n    Airbreathing --> Turbojet[Turbojet]\n    Airbreathing --> Turbofan[Turbofan]\n    Airbreathing --> Ramjet[Ramjet]\n\n    Astronautical --> Orbital[Orbital Mechanics]\n    Astronautical --> Spacecraft[Spacecraft Design]\n    Astronautical --> Rocket[Rocket Propulsion]\n\n    Orbital --> Kepler[Kepler's Laws]\n    Orbital --> Maneuvers[Orbital Maneuvers]\n\n    Rocket --> Solid[Solid Rockets]\n    Rocket --> Liquid[Liquid Rockets]\n    Rocket --> Electric[Electric Propulsion]",
+            "complexity": "medium",
+            "tags": ["aerospace_engineering", "engineering", "aeronautical", "astronautical", "aerodynamics"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

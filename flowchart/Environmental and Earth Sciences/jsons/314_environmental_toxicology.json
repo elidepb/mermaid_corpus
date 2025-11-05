@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "314",
+            "topic": "Environmental Toxicology",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the pathway of a toxicant from release to its ecological effects.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph \"Source & Release\"\n        S[Source of Toxicant]\n        R[Release into Environment]\n    end\n\n    S --> R\n\n    subgraph \"Fate & Transport\"\n        T[Transport] --> T1(Air, Water, Soil)\n        D[Distribution & Partitioning]\n        B[Biotransformation] --> B1(Metabolism)\n    end\n\n    R --> T --> D --> B\n\n    subgraph \"Exposure & Dose\"\n        E[Exposure Pathways] --> E1(Inhalation, Ingestion, Dermal)\n        U[Uptake & Bioavailability]\n        Bio[Bioaccumulation] --> Biom[Biomagnification]\n    end\n\n    B --> E --> U --> Bio\n\n    subgraph \"Toxicological Effects\"\n        subgraph \"Levels of Organization\"\n            L1[Molecular/Cellular] --> L1a(DNA Damage, Enzyme Inhibition)\n            L2[Organismal] --> L2a(Mortality, Growth, Reproduction)\n            L3[Population] --> L3a(Population Decline, Altered Demographics)\n            L4[Community/Ecosystem] --> L4a(Loss of Biodiversity, Altered Food Webs)\n        end\n    end\n\n    Bio --> L1 --> L2 --> L3 --> L4\n\n    subgraph \"Risk Assessment\"\n        RA1[Hazard Identification]\n        RA2[Dose-Response Assessment]\n        RA3[Exposure Assessment]\n        RA4[Risk Characterization]\n    end\n\n    L4 -- Informs --> RA1 & RA2 & RA3 & RA4",
+            "complexity": "high",
+            "tags": ["environmental_toxicology", "environmental_science", "toxicology", "pollutants", "bioaccumulation", "biomagnification", "risk_assessment"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

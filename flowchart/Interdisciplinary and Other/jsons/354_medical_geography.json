@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "354",
+            "topic": "Medical Geography",
+            "category": "Geography/Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Medical Geography.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MedicalGeography[Medical Geography] --> Field1[Geography]\n    MedicalGeography --> Field2[Medicine]\n    MedicalGeography --> Integration[Integration Areas]\n    geography --> geographySub1[Theory]\n    geography --> geographySub2[Practice]\n    medicine --> medicineSub1[Theory]\n    medicine --> medicineSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "medical_geography",
+                "geography",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

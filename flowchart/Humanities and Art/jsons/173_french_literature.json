@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "173",
+      "topic": "French Literature",
+      "category": "Literature",
+      "description": "A flowchart showing the fundamental concepts of French Literature.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    FrenchLiterature[French Literature] --> MiddleAges[Middle Ages]\n    FrenchLiterature --> Classicism[Classicism]\n    FrenchLiterature --> Enlightenment[Enlightenment]\n    FrenchLiterature --> Nineteenth[19th Century]\n    MiddleAges --> SongOfRoland[Song of Roland]\n    Classicism --> Moliere[Moliere]\n    Classicism --> Racine[Racine]\n    Enlightenment --> Voltaire[Voltaire]\n    Nineteenth --> Hugo[Hugo]\n    Nineteenth --> Flaubert[Flaubert]",
+      "complexity": "medium",
+      "tags": [
+        "french literature",
+        "literature"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

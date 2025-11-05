@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "426",
+            "topic": "Algorithms",
+            "category": "Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Algorithms.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Algorithms[Algorithms] --> Design[Algorithm Design]\n    Algorithms --> Analysis[Complexity Analysis]\n    Algorithms --> Types[Algorithm Types]\n    Design --> Techniques[Design Techniques]\n    Design --> Paradigms[Paradigms]\n    Analysis --> Time[Time Complexity]\n    Analysis --> Space[Space Complexity]\n    Types --> Sorting[Sorting Algorithms]\n    Types --> Searching[Search Algorithms]\n    Types --> Graph[Graph Algorithms]",
+            "complexity": "medium",
+            "tags": [
+                "algorithms",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

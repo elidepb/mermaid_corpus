@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "461",
+            "topic": "Toxicogenomics",
+            "category": "Toxicology/Genetics",
+            "description": "A flowchart showing the fundamental concepts and structure of Toxicogenomics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Toxicogenomics[Toxicogenomics] --> Field1[Toxicology]\n    Toxicogenomics --> Field2[Genetics]\n    Toxicogenomics --> Integration[Integration Areas]\n    toxicology --> toxicologySub1[Theory]\n    toxicology --> toxicologySub2[Practice]\n    genetics --> geneticsSub1[Theory]\n    genetics --> geneticsSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "toxicogenomics",
+                "toxicology",
+                "genetics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

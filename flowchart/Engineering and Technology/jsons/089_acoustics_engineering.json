@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "089",
+            "topic": "Acoustics Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Acoustics Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AE[Acoustics Engineering] --> Fundamentals[Fundamentals of Sound]\n    AE --> Architectural[Architectural Acoustics]\n    AE --> Environmental[Environmental Noise Control]\n    AE --> Audio[Audio Engineering]\n    AE --> Underwater[Underwater Acoustics]\n    AE --> Ultrasonics[Ultrasonics]\n\n    Fundamentals --> Wave[Wave Propagation]\n    Fundamentals --> Decibels[Decibels & Loudness]\n    Fundamentals --> Frequency[Frequency & Pitch]\n\n    Architectural --> Room[Room Acoustics]\n    Architectural --> Insulation[Sound Insulation]\n\n    Room --> Reverberation[Reverberation Time]\n    Room --> Absorption[Absorption]\n    Room --> Diffusion[Diffusion]\n\n    Environmental --> Sources[Noise Sources]\n    Environmental --> Barriers[Noise Barriers]\n    Environmental --> Measurement[Noise Measurement]\n\n    Audio --> Transducers[Transducers]\n    Audio --> Recording[Recording]\n    Audio --> Reproduction[Sound Reproduction]\n\n    Transducers --> Microphones[Microphones]\n    Transducers --> Loudspeakers[Loudspeakers]\n\n    Underwater --> Sonar[SONAR]\n\n    Ultrasonics --> Medical[Medical Ultrasound]\n    Ultrasonics --> Industrial[Industrial Applications]",
+            "complexity": "medium",
+            "tags": ["acoustics_engineering", "engineering", "sound", "noise_control", "audio_engineering"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "022",
+            "topic": "Evolutionary Biology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Evolutionary Biology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EB[Evolutionary Biology] --> Mechanisms[Mechanisms of Evolution]\n    EB --> Evidence[Evidence for Evolution]\n    EB --> Speciation[Speciation]\n\n    Mechanisms --> NS[Natural Selection]\n    Mechanisms --> GD[Genetic Drift]\n    Mechanisms --> GF[Gene Flow]\n    Mechanisms --> Mutation[Mutation]\n\n    Evidence --> Fossils[Fossil Record]\n    Evidence --> Biogeography[Biogeography]\n    Evidence --> Anatomy[Comparative Anatomy]\n    Evidence --> Embryology[Comparative Embryology]\n    Evidence --> Molecular[Molecular Biology]\n\n    Anatomy --> Homologous[Homologous Structures]\n    Anatomy --> Analogous[Analogous Structures]\n\n    Speciation --> Allopatric[Allopatric Speciation]\n    Speciation --> Sympatric[Sympatric Speciation]\n    Speciation --> Parapatric[Parapatric Speciation]",
+            "complexity": "medium",
+            "tags": ["evolutionary_biology", "biology", "evolution", "natural_selection", "speciation"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

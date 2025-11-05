@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "457",
+            "topic": "Historical Geography",
+            "category": "Geography/History",
+            "description": "A flowchart showing the fundamental concepts and structure of Historical Geography.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    HistoricalGeography[Historical Geography] --> Field1[Geography]\n    HistoricalGeography --> Field2[History]\n    HistoricalGeography --> Integration[Integration Areas]\n    geography --> geographySub1[Theory]\n    geography --> geographySub2[Practice]\n    history --> historySub1[Theory]\n    history --> historySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "historical_geography",
+                "geography",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

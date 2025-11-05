@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "326",
+            "topic": "Geological Prospecting",
+            "category": "Earth Sciences",
+            "description": "A detailed flowchart illustrating the phases and methods of geological prospecting for mineral resources.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph \"Phase 1: Reconnaissance (Regional Scale)\"\n        R1[Literature Review & Data Compilation]\n        R2[Remote Sensing] --> R2a(Satellite Imagery, Aerial Photography)\n        R3[Regional Geophysical Surveys] --> R3a(Aeromagnetic, Gravity)\n        R4[Regional Geochemical Surveys] --> R4a(Stream Sediment, Water Samples)\n    end\n\n    R1 & R2 & R3 & R4 --> T1[Target Area Selection]\n\n    subgraph \"Phase 2: Prospecting (Target Scale)\"\n        P1[Detailed Geological Mapping]\n        P2[Detailed Geophysical Surveys] --> P2a(Ground Magnetics, IP, EM)\n        P3[Detailed Geochemical Surveys] --> P3a(Soil, Rock Chip Sampling)\n    end\n\n    T1 --> P1 & P2 & P3\n\n    P1 & P2 & P3 --> T2[Drill Target Delineation]\n\n    subgraph \"Phase 3: Evaluation (Deposit Scale)\"\n        E1[Drilling] --> E1a(Diamond, Reverse Circulation)\n        E2[Borehole Geophysics]\n        E3[Sample Analysis & Assaying]\n        E4[Resource Estimation]\n    end\n\n    T2 --> E1 --> E2 & E3 --> E4\n\n    subgraph \"Phase 4: Feasibility Study\"\n        FS1[Economic Analysis]\n        FS2[Engineering & Mining Plan]\n        FS3[Environmental Impact Assessment]\n    end\n\n    E4 --> FS1 & FS2 & FS3\n\n    FS1 & FS2 & FS3 --> Decision{Mine Development Decision}",
+            "complexity": "high",
+            "tags": ["geological_prospecting", "earth_sciences", "geology", "exploration", "geophysics", "geochemistry", "mining"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

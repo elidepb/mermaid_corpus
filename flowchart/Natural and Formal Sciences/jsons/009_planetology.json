@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "009",
+            "topic": "Planetology",
+            "category": "astronomy",
+            "description": "A flowchart showing the fundamental concepts of Planetology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Planetology[Planetology] --> Formation[Planetary Formation]\n    Planetology --> Structure[Planetary Structure]\n    Planetology --> Atmospheres[Planetary Atmospheres]\n    Planetology --> Moons[Moons & Rings]\n\n    Formation --> PPD[Protoplanetary Disks]\n    Formation --> Accretion[Accretion]\n    Formation --> Differentiation[Differentiation]\n\n    Structure --> Core[Core]\n    Structure --> Mantle[Mantle]\n    Structure --> Crust[Crust]\n\n    Atmospheres --> Composition[Composition]\n    Atmospheres --> Dynamics[Dynamics]\n    Atmospheres --> Climate[Climate]\n\n    Moons --> Natural[Natural Satellites]\n    Rings --> System[Ring Systems]",
+            "complexity": "medium",
+            "tags": ["planetology", "astronomy", "planets", "solar_system", "exoplanets"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

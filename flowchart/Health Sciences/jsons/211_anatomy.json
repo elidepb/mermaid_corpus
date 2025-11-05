@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "211",
+      "topic": "Anatomy",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the process of digestion, from ingestion to elimination.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Food Intake]) --> A[Ingestion]\n    A --> B{Mouth}\n    B -->|Mastication| C[Mechanical Breakdown]\n    B -->|Salivary Amylase| D[Chemical Digestion Begins]\n    C --> E[Swallowing]\n    D --> E\n    E --> F[Esophagus]\n    F -->|Peristalsis| G[Stomach]\n    G -->|Gastric Acid & Pepsin| H[Protein Digestion]\n    G -->|Churning| I[Mechanical Mixing]\n    H --> J[Chyme Formation]\n    I --> J\n    J --> K[Pyloric Sphincter]\n    K --> L[Small Intestine]\n    L -->|Duodenum| M[Enzyme Secretion]\n    M -->|Pancreatic Enzymes| N[Nutrient Breakdown]\n    M -->|Bile| O[Fat Emulsification]\n    N --> P[Absorption]\n    O --> P\n    P -->|Jejunum| Q[Water & Electrolytes]\n    P -->|Ileum| R[Vitamins & Minerals]\n    Q --> S[Large Intestine]\n    R --> S\n    S -->|Colon| T[Water Reabsorption]\n    T --> U[Bacterial Fermentation]\n    U --> V[Feces Formation]\n    V --> W[Rectum]\n    W --> X[Elimination]\n    X --> End([Waste Removal])\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style G fill:#fff4e1\n    style L fill:#e1ffe1\n    style S fill:#f0e1ff",
+      "complexity": "medium",
+      "tags": [
+        "anatomy",
+        "medicine",
+        "digestion",
+        "digestive_system",
+        "physiology"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "460",
+      "topic": "Geographic Information Systems (GIS)",
+      "category": "Geography/Technology",
+      "description": "A flowchart showing the fundamental concepts and structure of Geographic Information Systems (GIS).",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    GIS[Geographic Information Systems] --> DataModel[Data Models]\n    GIS --> DataTypes[Data Types]\n    GIS --> Functions[GIS Functions]\n    DataModel --> Vector[Vector Data Model]\n    DataModel --> Raster[Raster Data Model]\n    Vector --> Points[Points]\n    Vector --> Lines[Lines]\n    Vector --> Polygons[Polygons]\n    Raster --> GridCells[Grid Cells]\n    Raster --> Pixels[Pixels]\n    DataTypes --> Spatial[Spatial Data]\n    DataTypes --> Attribute[Attribute Data]\n    Spatial --> Coordinates[Coordinate Systems]\n    Spatial --> Projections[Map Projections]\n    Coordinates --> Geographic[Geographic Coordinates]\n    Coordinates --> Projected[Projected Coordinates]\n    Projections --> Conformal[Conformal Projections]\n    Projections --> EqualArea[Equal Area Projections]\n    Functions --> Input[Data Input]\n    Functions --> Storage[Data Storage]\n    Functions --> Manipulation[Data Manipulation]\n    Functions --> Analysis[Spatial Analysis]\n    Functions --> Output[Data Output]\n    Input --> Digitizing[Digitizing]\n    Input --> Scanning[Scanning]\n    Input --> GPS[GPS Data Collection]\n    Input --> RemoteSensing[Remote Sensing]\n    Storage --> Databases[Spatial Databases]\n    Storage --> FileFormats[File Formats]\n    Manipulation --> Editing[Editing]\n    Manipulation --> Transformation[Geometric Transformation]\n    Manipulation --> Generalization[Generalization]\n    Analysis --> Overlay[Overlay Analysis]\n    Analysis --> Buffer[Buffer Analysis]\n    Analysis --> Network[Network Analysis]\n    Analysis --> Surface[Surface Analysis]\n    Analysis --> Query[Spatial Query]\n    Output --> Maps[Maps]\n    Output --> Reports[Reports]\n    Output --> WebGIS[Web GIS]\n    GIS --> Applications[Applications]\n    Applications --> UrbanPlanning[Urban Planning]\n    Applications --> Environmental[Environmental Management]\n    Applications --> Transportation[Transportation]\n    Applications --> Emergency[Emergency Management]\n    Applications --> Business[Business Intelligence]",
+      "complexity": "high",
+      "tags": [
+        "geographic_information_systems_gis",
+        "geography",
+        "technology"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "diagrams": [
+    {
+      "id": "300",
+      "topic": "Water Resources Management",
+      "category": "Environmental Sciences",
+      "description": "A detailed flowchart illustrating the integrated approach to water resources management.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    WaterResourcesManagement[Water Resources Management] --> Assessment[Assessment]\n    WaterResourcesManagement --> Supply[Supply Management]\n    WaterResourcesManagement --> Demand[Demand Management]\n    WaterResourcesManagement --> Quality[Quality Management]\n    Assessment --> Availability[Water Availability]\n    Assessment --> WaterDemand[Water Demand]\n    Supply --> Surface[Surface Water]\n    Supply --> Groundwater[Groundwater]\n    Demand --> Conservation[Conservation]\n    Quality --> Pollution[Pollution Control]\n    Quality --> Treatment[Treatment]",
+      "complexity": "high",
+      "tags": [
+        "water_resources_management",
+        "environmental_science",
+        "water_supply",
+        "water_quality",
+        "iwrm",
+        "governance"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

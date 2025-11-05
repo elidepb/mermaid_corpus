@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Medical Genetics",
+            "category": "Medicine",
+            "description": "A comprehensive flowchart illustrating the clinical diagnostic pathway in medical genetics, from patient assessment through genetic testing, result interpretation, and family management.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Patient Presents with<br/>Suspected Genetic Condition]) --> A[Clinical Assessment]\n    \n    A --> B[Detailed Family History<br/>Pedigree Analysis]\n    B --> C[Physical Examination<br/>Phenotype Characterization]\n    \n    C --> D{Does pattern suggest<br/>genetic etiology?}\n    D -->|No| E[Consider Alternative Diagnoses]\n    D -->|Yes| F[Determine Inheritance Pattern]\n    \n    F --> G{Inheritance<br/>Pattern?}\n    G -->|Autosomal Dominant| H[AD Disorders<br/>Huntington's, Marfan]\n    G -->|Autosomal Recessive| I[AR Disorders<br/>CF, Sickle Cell]\n    G -->|X-Linked| J[X-Linked Disorders<br/>Hemophilia, DMD]\n    G -->|Mitochondrial| K[Mitochondrial Disorders<br/>MELAS, LHON]\n    G -->|Unknown| L[Multifactorial/Complex]\n    \n    H --> M[Select Appropriate Genetic Test]\n    I --> M\n    J --> M\n    K --> M\n    L --> M\n    \n    M --> N{Test Type<br/>Selection}\n    N -->|Single Gene| O[Targeted Gene Sequencing<br/>Sanger Sequencing]\n    N -->|Multiple Genes| P[Gene Panel Testing<br/>Next-Gen Sequencing]\n    N -->|Chromosomal| Q[Karyotype/FISH<br/>Microarray Analysis]\n    N -->|Genome-Wide| R[Whole Exome/Genome<br/>Sequencing]\n    \n    O --> S[Genetic Counseling<br/>Informed Consent]\n    P --> S\n    Q --> S\n    R --> S\n    \n    S --> T[Perform Genetic Testing]\n    T --> U[Analyze Results]\n    \n    U --> V{Result<br/>Interpretation}\n    V -->|Pathogenic Variant| W[Confirm Diagnosis]\n    V -->|Variant of Uncertain<br/>Significance VUS| X[Additional Studies<br/>Family Testing]\n    V -->|Benign/No Variant| Y[Consider:<br/>- Alternative Testing<br/>- Clinical Diagnosis<br/>- Re-evaluation]\n    \n    W --> Z[Post-Test Genetic Counseling]\n    X --> Z\n    \n    Z --> AA[Discuss:]\n    AA --> AB[- Prognosis<br/>- Management Options<br/>- Treatment Strategies]\n    AB --> AC[- Family Screening<br/>- Reproductive Options<br/>- Support Resources]\n    \n    AC --> AD{Is cascade<br/>screening<br/>indicated?}\n    AD -->|Yes| AE[Test At-Risk<br/>Family Members]\n    AD -->|No| AF[Ongoing Monitoring<br/>& Management]\n    \n    AE --> AF\n    AF --> AG([Long-term Follow-up])\n    Y --> AG\n    E --> AG\n    \n    style Start fill:#e1f5e1\n    style AG fill:#e1f5e1\n    style W fill:#c8e6c9\n    style X fill:#fff9c4\n    style Y fill:#ffccbc\n    style Z fill:#bbdefb",
+            "complexity": "medium",
+            "tags": ["medical_genetics", "medicine", "genetic_testing", "inheritance_patterns", "genetic_counseling", "diagnosis", "NGS"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "473",
+            "topic": "Integrative Medicine",
+            "category": "Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Integrative Medicine.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    IntegrativeMedicine[Integrative Medicine] --> Foundations[Foundations]\n    IntegrativeMedicine --> Methods[Research Methods]\n    IntegrativeMedicine --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "integrative_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

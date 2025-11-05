@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Nutrition",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of creating a personalized meal plan.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Assess Individual Needs) --> B(Determine Caloric Needs);\n    B --> C(Set Macronutrient Goals);\n    C --> D(Plan Meals and Snacks);\n    D --> E(Create Grocery List);\n    E --> F(Prepare Meals);\n    F --> G(Monitor and Adjust Plan as Needed);",
+            "complexity": "medium",
+            "tags": ["nutrition", "medicine", "meal_planning", "dietetics", "health"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

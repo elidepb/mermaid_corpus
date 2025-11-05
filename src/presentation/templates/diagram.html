@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ diagram.topic }} - Mermaid Diagram</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ diagram.topic }}</h1>
+        </header>
+        <main>
+            <a href="/" class="button">Back to List</a>
+            <div class="diagram-container">
+                <div class="skeleton-loader-large"></div>
+                <div class="mermaid-detail" data-mermaid-code="{{ diagram.mermaid_code|e }}" style="display: none;"></div>
+            </div>
+        </main>
+        <footer>
+            <p>A simple web app to view Mermaid diagrams.</p>
+        </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+        (function() {
+            mermaid.initialize({ 
+                startOnLoad: false,
+                theme: 'default',
+                securityLevel: 'loose',
+                flowchart: {
+                    useMaxWidth: true,
+                    htmlLabels: true,
+                    curve: 'basis'
+                }
+            });
+
+            document.addEventListener('DOMContentLoaded', function() {
+                const container = document.querySelector('.mermaid-detail');
+                const skeleton = document.querySelector('.skeleton-loader-large');
+                const mermaidCode = container.getAttribute('data-mermaid-code');
+                const diagramId = 'diagram-' + Date.now();
+                
+                if (typeof mermaid.render === 'function') {
+                    mermaid.render(diagramId, mermaidCode).then((result) => {
+                        container.innerHTML = result.svg;
+                        container.className = 'mermaid-rendered';
+                        skeleton.style.display = 'none';
+                        container.style.display = 'block';
+                    }).catch(() => {
+                        container.innerHTML = '<div class="mermaid-error">Error rendering diagram</div>';
+                        skeleton.style.display = 'none';
+                        container.style.display = 'block';
+                    });
+                } else {
+                    container.id = diagramId;
+                    container.className = 'mermaid';
+                    container.textContent = mermaidCode;
+                    
+                    if (typeof mermaid.run === 'function') {
+                        mermaid.run({
+                            nodes: [container],
+                            suppressErrors: true
+                        }).then(() => {
+                            skeleton.style.display = 'none';
+                            container.style.display = 'block';
+                        }).catch(() => {
+                            container.innerHTML = '<div class="mermaid-error">Error rendering diagram</div>';
+                            skeleton.style.display = 'none';
+                            container.style.display = 'block';
+                        });
+                    } else {
+                        mermaid.contentLoaded();
+                        setTimeout(() => {
+                            const svg = container.querySelector('svg');
+                            if (svg) {
+                                skeleton.style.display = 'none';
+                                container.style.display = 'block';
+                            } else {
+                                container.innerHTML = '<div class="mermaid-error">Error rendering diagram</div>';
+                                skeleton.style.display = 'none';
+                                container.style.display = 'block';
+                            }
+                        }, 300);
+                    }
+                }
+            });
+        })();
+    </script>
+</body>
+</html>

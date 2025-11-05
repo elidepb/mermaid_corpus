@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "404",
+            "topic": "Statistical Mechanics",
+            "category": "Physics",
+            "description": "A flowchart showing the fundamental concepts and structure of Statistical Mechanics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    StatisticalMechanics[Statistical Mechanics] --> Foundations[Foundations]\n    StatisticalMechanics --> Methods[Research Methods]\n    StatisticalMechanics --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "statistical_mechanics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

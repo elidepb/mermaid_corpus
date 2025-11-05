@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "190",
+            "topic": "Film Theory",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Film Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    FT[Film Theory] --> F[Formalist Theory]\n    FT --> R[Realist Theory]\n    FT --> A[Auteur Theory]\n    FT --> G[Genre Theory]\n    FT --> S[Structuralist & Post-structuralist Theory]\n    FT --> P[Psychoanalytic Theory]\n    FT --> FT2[Feminist Film Theory]",
+            "complexity": "medium",
+            "tags": [
+                "film theory",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

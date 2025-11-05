@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "175",
+      "topic": "Literary Criticism",
+      "category": "Literature",
+      "description": "A flowchart showing the fundamental concepts of Literary Criticism.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    LiteraryCriticism[Literary Criticism] --> Theoretical[Theoretical]\n    LiteraryCriticism --> Practical[Practical Applied]\n    Theoretical --> Evaluation[Evaluation of Theories]\n    Theoretical --> Development[Development of New Theories]\n    Practical --> Interpretation[Interpretation of Texts]\n    Practical --> Analysis[Analysis of Texts]\n    Practical --> EvaluationTexts[Evaluation of Texts]",
+      "complexity": "medium",
+      "tags": [
+        "literary criticism",
+        "literature"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

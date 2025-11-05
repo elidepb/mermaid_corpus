@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "480",
+      "topic": "Research Ethics",
+      "category": "Ethics/Science",
+      "description": "A flowchart showing the fundamental concepts and structure of Research Ethics.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    RE[Research Ethics] --> Principles[Ethical Principles]\n    RE --> Framework[Ethical Framework]\n    RE --> Oversight[Oversight Mechanisms]\n    Principles --> Autonomy[Respect for Autonomy]\n    Principles --> Beneficence[Beneficence]\n    Principles --> Nonmaleficence[Non-maleficence]\n    Principles --> Justice[Justice]\n    Autonomy --> InformedConsent[Informed Consent]\n    Autonomy --> Voluntariness[Voluntariness]\n    Autonomy --> Capacity[Decision-making Capacity]\n    Beneficence --> MaximizeBenefits[Maximize Benefits]\n    Beneficence --> MinimizeRisks[Minimize Risks]\n    Nonmaleficence --> DoNoHarm[Do No Harm]\n    Nonmaleficence --> RiskAssessment[Risk Assessment]\n    Justice --> FairSelection[Fair Subject Selection]\n    Justice --> FairDistribution[Fair Distribution of Benefits]\n    Framework --> Belmont[Belmont Report]\n    Framework --> Declaration[Declaration of Helsinki]\n    Framework --> CIOMS[CIOMS Guidelines]\n    Framework --> Nuremberg[Nuremberg Code]\n    Oversight --> IRB[Institutional Review Board]\n    IRB --> Review[Protocol Review]\n    IRB --> Approval[Approval Process]\n    IRB --> Monitoring[Ongoing Monitoring]\n    Review --> RiskBenefit[Risk-Benefit Analysis]\n    Review --> ConsentForm[Consent Form Review]\n    Review --> Vulnerable[Vulnerable Populations]\n    InformedConsent --> Elements[Essential Elements]\n    Elements --> Purpose[Purpose of Research]\n    Elements --> Procedures[Procedures]\n    Elements --> Risks[Risks and Benefits]\n    Elements --> Alternatives[Alternatives]\n    Elements --> Confidentiality[Confidentiality]\n    Elements --> Voluntary[Voluntary Participation]\n    RE --> VulnerablePop[Vulnerable Populations]\n    VulnerablePop --> Children[Children]\n    VulnerablePop --> Prisoners[Prisoners]\n    VulnerablePop --> Pregnant[Pregnant Women]\n    VulnerablePop --> CognitivelyImpaired[Cognitively Impaired]\n    VulnerablePop --> EconomicallyDisadvantaged[Economically Disadvantaged]\n    RE --> DataEthics[Data Ethics]\n    DataEthics --> Privacy[Privacy Protection]\n    DataEthics --> Confidentiality[Confidentiality]\n    DataEthics --> DataSharing[Data Sharing]\n    RE --> AnimalResearch[Animal Research Ethics]\n    AnimalResearch --> ThreeRs[Three Rs]\n    ThreeRs --> Replacement[Replacement]\n    ThreeRs --> Reduction[Reduction]\n    ThreeRs --> Refinement[Refinement]\n    AnimalResearch --> IACUC[IACUC Review]\n    RE --> Conflicts[Conflicts of Interest]\n    Conflicts --> Financial[Financial Conflicts]\n    Conflicts --> NonFinancial[Non-Financial Conflicts]\n    Conflicts --> Disclosure[Disclosure Requirements]\n    RE --> ResearchMisconduct[Research Misconduct]\n    ResearchMisconduct --> Fabrication[Fabrication]\n    ResearchMisconduct --> Falsification[Falsification]\n    ResearchMisconduct --> Plagiarism[Plagiarism]",
+      "complexity": "high",
+      "tags": [
+        "research_ethics",
+        "ethics",
+        "science"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "338",
+            "topic": "Computational Linguistics",
+            "category": "Linguistics/Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Computational Linguistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ComputationalLinguistics[Computational Linguistics] --> NLP[Natural Language Processing]\n    ComputationalLinguistics --> Modeling[Linguistic Modeling]\n    ComputationalLinguistics --> Analysis[Corpus Analysis]\n    NLP --> Parsing[Parsing & Syntax]\n    NLP --> Semantics[Semantic Analysis]\n    Modeling --> Grammars[Computational Grammars]\n    Modeling --> Machine[Machine Translation]\n    Analysis --> Text[Text Analysis]\n    Analysis --> Speech[Speech Processing]",
+            "complexity": "high",
+            "tags": [
+                "computational_linguistics",
+                "linguistics",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Pharmacology",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of pharmacokinetics, which describes how the body processes a drug.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Drug Administration] --> B(Absorption);\n    B --> C(Distribution);\n    C --> D(Metabolism);\n    D --> E(Excretion);\n\n    subgraph Bloodstream\n        C;\n    end\n\n    subgraph Liver\n        D;\n    end\n\n    subgraph Kidneys\n        E;\n    end\n\n    C -- Reaches Tissues --> F[Therapeutic Effect];",
+            "complexity": "medium",
+            "tags": ["pharmacology", "medicine", "pharmacokinetics", "drug_metabolism", "adme"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

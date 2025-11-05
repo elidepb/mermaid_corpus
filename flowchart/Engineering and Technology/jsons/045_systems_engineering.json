@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "045",
+            "topic": "Systems Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Systems Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SE[Systems Engineering] --> Lifecycle[Systems Engineering Lifecycle]\n    SE --> P[Key Processes]\n\n    Lifecycle --> Concept[Concept Development]\n    Lifecycle --> Engineering[Engineering Development]\n    Lifecycle --> PostDevelopment[Post-Development]\n\n    Concept --> Needs[Needs Analysis]\n    Concept --> ConceptExploration[Concept Exploration]\n    Concept --> ConceptDefinition[Concept Definition]\n\n    Engineering --> AdvancedDevelopment[Advanced Development]\n    Engineering --> EngineeringDesign[Engineering Design]\n    Engineering --> IntegrationAndEvaluation[Integration & Evaluation]\n\n    PostDevelopment --> Production[Production]\n    PostDevelopment --> OperationsAndSupport[Operations & Support]\n    PostDevelopment --> Disposal[Disposal]\n\n    P --> RM[Requirements Management]\n    P --> RA[Risk Management]\n    P --> CM[Configuration Management]\n    P --> VV[Verification & Validation]",
+            "complexity": "medium",
+            "tags": ["systems_engineering", "engineering", "lifecycle", "requirements", "risk_management"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

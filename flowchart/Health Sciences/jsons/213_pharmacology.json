@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "213",
+      "topic": "Pharmacology",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the process of pharmacokinetics, which describes how the body processes a drug.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Drug Administration]) --> Route{Administration Route}\n    Route -->|Oral| A1[Gastrointestinal Tract]\n    Route -->|IV| A2[Direct Bloodstream]\n    Route -->|IM/SC| A3[Muscle/Tissue]\n    Route -->|Topical| A4[Skin/Mucous Membranes]\n    A1 --> B[Absorption]\n    A2 --> B\n    A3 --> B\n    A4 --> B\n    B -->|First-Pass Effect| C[Distribution]\n    C -->|Plasma Binding| D[Protein Binding]\n    C -->|Free Drug| E[Tissue Distribution]\n    D --> F[Bioavailability]\n    E --> F\n    F --> G[Target Site]\n    G --> H[Pharmacological Effect]\n    H --> I{Therapeutic or Toxic?}\n    I -->|Therapeutic| J[Therapeutic Effect]\n    I -->|Toxic| K[Adverse Effects]\n    F --> L[Metabolism]\n    L -->|Phase I| M[Oxidation/Reduction]\n    L -->|Phase II| N[Conjugation]\n    M --> O[Metabolites]\n    N --> O\n    O --> P[Excretion]\n    P -->|Renal| Q[Urine]\n    P -->|Biliary| R[Feces]\n    P -->|Other| S[Breath/Sweat]\n    Q --> End([Drug Elimination])\n    R --> End\n    S --> End\n    \n    subgraph Absorption_Phase[\"Absorption Phase\"]\n        A1\n        A2\n        A3\n        A4\n        B\n    end\n    \n    subgraph Distribution_Phase[\"Distribution Phase\"]\n        C\n        D\n        E\n        F\n    end\n    \n    subgraph Metabolism_Phase[\"Metabolism Phase - Liver\"]\n        L\n        M\n        N\n        O\n    end\n    \n    subgraph Excretion_Phase[\"Excretion Phase\"]\n        P\n        Q\n        R\n        S\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style J fill:#e1ffe1\n    style K fill:#ffe1e1\n    style G fill:#fff4e1",
+      "complexity": "medium",
+      "tags": [
+        "pharmacology",
+        "medicine",
+        "pharmacokinetics",
+        "drug_metabolism",
+        "adme"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

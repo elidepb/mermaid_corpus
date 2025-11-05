@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "312",
+      "topic": "Marine Ecology",
+      "category": "Biology",
+      "description": "A detailed flowchart illustrating the structure and function of marine ecosystems.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Marine Ecosystems\"\n ME[Marine Ecology]\n end\n\n ME --> Zones & Biota & Processes\n\n subgraph \"Marine Zones\"\n subgraph \"Pelagic (Water Column)\"\n P1[Neritic (Coastal)]\n P2[Oceanic] --> P2a(Epipelagic, Mesopelagic, Bathypelagic, Abyssopelagic, Hadalpelagic)\n end\n subgraph \"Benthic (Seafloor)\"\n B1[Littoral (Intertidal)]\n B2[Sublittoral]\n B3[Bathyal]\n B4[Abyssal]\n B5[Hadal]\n end\n end\n\n subgraph \"Marine Biota\"\n MB1[Plankton] --> MB1a(Phytoplankton, Zooplankton)\n MB2[Nekton] --> MB2a(Fish, Mammals, Reptiles)\n MB3[Benthos] --> MB3a(Infauna, Epifauna)\n end\n\n subgraph \"Ecological Processes\"\n EP1[Primary Production] --> EP1a(Photosynthesis, Chemosynthesis)\n EP2[Food Webs]\n EP3[Nutrient Cycling]\n EP4[Adaptations to Marine Environments]\n end\n\n subgraph \"Major Marine Habitats\"\n H1[Coral Reefs]\n H2[Kelp Forests]\n H3[Deep Sea Vents]\n H4[Estuaries]\n H5[Mangrove Forests]\n end\n\n Zones & Biota & Processes -- Create --> Habitats",
+      "complexity": "high",
+      "tags": [
+        "marine_ecology",
+        "biology",
+        "oceanography",
+        "ecosystem",
+        "pelagic_zone",
+        "benthic_zone",
+        "plankton",
+        "food_webs"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

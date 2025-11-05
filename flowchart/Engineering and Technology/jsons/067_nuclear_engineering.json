@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "067",
+            "topic": "Nuclear Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Nuclear Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    NE[Nuclear Engineering] --> Physics[Nuclear Physics]\n    NE --> Reactors[Nuclear Reactors]\n    NE --> Safety[Nuclear Safety]\n    NE --> Waste[Radioactive Waste Management]\n    NE --> Applications[Applications]\n\n    Physics --> Radioactivity[Radioactivity]\n    Physics --> Fission[Nuclear Fission]\n    Physics --> Fusion[Nuclear Fusion]\n\n    Reactors --> Types[Reactor Types]\n    Reactors --> Fuel[Nuclear Fuel Cycle]\n    Reactors --> Operation[Reactor Operation]\n\n    Types --> PWR[Pressurized Water Reactor]\n    Types --> BWR[Boiling Water Reactor]\n    Types --> CANDU[CANDU Reactor]\n    Types --> GenIV[Generation IV Reactors]\n\n    Safety --> Shielding[Radiation Shielding]\n    Safety --> Redundancy[Redundancy & Diversity]\n    Safety --> Proliferation[Non-Proliferation]\n\n    Waste --> Storage[Storage]\n    Waste --> Disposal[Disposal]\n\n    Applications --> Power[Power Generation]\n    Applications --> Medicine[Medical Applications]\n    Applications --> Industry[Industrial Applications]",
+            "complexity": "medium",
+            "tags": ["nuclear_engineering", "engineering", "nuclear_reactors", "nuclear_fission", "nuclear_safety"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

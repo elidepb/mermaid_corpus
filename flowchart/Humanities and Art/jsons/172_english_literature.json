@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "172",
+            "topic": "English Literature",
+            "category": "Literature",
+            "description": "A flowchart showing the fundamental concepts of English Literature.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EL[English Literature] --> O[Old English]\n    EL --> M[Middle English]\n    EL --> R[Renaissance]\n    EL --> A[Augustan Age]\n    EL --> R2[Romantic Period]\n    EL --> V[Victorian Era]\n    EL --> M2[Modernism]\n    EL --> P[Postmodernism]\n\n    O --> B[Beowulf]\n\n    M --> C[Chaucer]\n\n    R --> S[Shakespeare]\n    R --> M3[Milton]\n\n    A --> S2[Swift]\n    A --> P2[Pope]\n\n    R2 --> W[Wordsworth]\n    R2 --> K[Keats]\n    R2 --> A2[Austen]\n\n    V --> D[Dickens]\n    V --> E[Eliot]\n\n    M2 --> W2[Woolf]\n    M2 --> J[Joyce]",
+            "complexity": "medium",
+            "tags": [
+                "english literature",
+                "literature"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

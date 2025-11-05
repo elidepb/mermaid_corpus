@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "079",
+      "topic": "Blockchain",
+      "category": "technology",
+      "description": "A flowchart showing the fundamental concepts of Blockchain.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Blockchain[Blockchain] --> Core[Core Components]\n    Blockchain --> Types[Types of Blockchains]\n    Blockchain --> Consensus[Consensus Mechanisms]\n    Core --> Blocks[Blocks]\n    Core --> Chain[Chain]\n    Core --> Cryptography[Cryptography]\n    Types --> Public[Public Blockchain]\n    Types --> Private[Private Blockchain]\n    Consensus --> PoW[Proof of Work]\n    Consensus --> PoS[Proof of Stake]\n    Cryptography --> Hashing[Hashing]\n    Cryptography --> PKI[Public Key Cryptography]",
+      "complexity": "medium",
+      "tags": [
+        "blockchain",
+        "technology",
+        "cryptocurrency",
+        "smart_contracts",
+        "consensus"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

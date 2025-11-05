@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "206",
+            "topic": "Comparative Mythology",
+            "category": "Literature/History",
+            "description": "A flowchart showing the fundamental concepts of Comparative Mythology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CM[Comparative Mythology] --> A[Approaches]\n    CM --> M[Mythological Themes]\n    CM --> A2[Archetypes]\n\n    A --> H[Historical]\n    A --> P[Psychological]\n    A --> S[Structuralist]\n    A --> F[Functionalist]\n\n    M --> C[Creation Myths]\n    M --> F2[Flood Myths]\n    M --> H2[Hero's Journey]\n    M --> D[Dying Gods]\n\n    A2 --> H3[The Hero]\n    A2 --> T[The Trickster]\n    A2 --> GM[The Great Mother]",
+            "complexity": "medium",
+            "tags": [
+                "comparative mythology",
+                "literature/history"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

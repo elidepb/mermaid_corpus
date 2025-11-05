@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consulting",
+            "category": "Business",
+            "description": "A detailed flowchart of the consulting process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Consulting Process] --> B[1. Client Acquisition]\n    B --> C[Networking]\n    B --> D[Proposals]\n\n    A --> E[2. Problem Definition]\n    E --> F[Scoping]\n    E --> G[Hypothesis formulation]\n\n    A --> H[3. Data Collection]\n    H --> I[Interviews]\n    H --> J[Workshops]\n    H --> K[Data Analysis]\n\n    A --> L[4. Solution Development]\n    L --> M[Brainstorming]\n    L --> N[Recommendation formulation]\n\n    A --> O[5. Implementation]\n    O --> P[Change Management]\n    O --> Q[Project Management]\n\n    A --> R[6. Client Relationship Management]",
+            "complexity": "high",
+            "tags": ["consulting", "business", "management_consulting", "problem_solving", "change_management"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

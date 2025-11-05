@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "239",
+      "topic": "Physiotherapy",
+      "category": "Physiotherapy",
+      "description": "A flowchart illustrating the process of a physiotherapy session.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    A(Patient Assessment) --> B(Goal Setting);\n    B --> C(Treatment Plan Development);\n    C --> D(Manual Therapy);\n    C --> E(Therapeutic Exercise);\n    C --> F(Modalities);\n    D & E & F --> G(Patient Education);\n    G --> H(Re-evaluation and Progression);",
+      "complexity": "medium",
+      "tags": [
+        "physiotherapy",
+        "rehabilitation",
+        "patient_care",
+        "treatment_planning",
+        "physical_therapy"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

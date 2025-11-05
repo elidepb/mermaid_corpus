@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Climate Change",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the causes, mechanisms, impacts, and responses related to climate change.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph Causes\n        A[Fossil Fuel Combustion]\n        B[Deforestation]\n        C[Industrial Processes]\n        D[Agriculture]\n    end\n\n    subgraph \"Greenhouse Gases (GHGs)\"\n        G1[Carbon Dioxide CO2]\n        G2[Methane CH4]\n        G3[Nitrous Oxide N2O]\n    end\n\n    Causes --> GHG[Increased GHG Emissions]\n    GHG --> G1 & G2 & G3\n    GHG --> EGE[Enhanced Greenhouse Effect]\n    EGE --> GW[Global Warming]\n\n    subgraph \"Physical Effects\"\n        P1[Rising Air Temperatures]\n        P2[Ocean Warming & Acidification]\n        P3[Melting Ice & Glaciers]\n        P4[Changes in Precipitation Patterns]\n    end\n\n    GW --> P1 & P2 & P3 & P4\n\n    subgraph \"Impacts on Systems\"\n        I1[Sea Level Rise] --> I1a(Coastal Flooding & Erosion)\n        I2[Extreme Weather Events] --> I2a(Hurricanes, Droughts, Heatwaves)\n        I3[Ecosystem Disruption] --> I3a(Biodiversity Loss, Species Migration)\n        I4[Social & Economic Impacts] --> I4a(Food Insecurity, Water Scarcity, Health Risks)\n    end\n\n    P1 & P2 & P3 & P4 --> I1 & I2 & I3 & I4\n\n    subgraph \"Global Response\"\n        R1[Mitigation]\n        R2[Adaptation]\n    end\n\n    I1 & I2 & I3 & I4 --> R1 & R2\n\n    subgraph \"Mitigation Strategies\"\n        M1[Renewable Energy Transition]\n        M2[Energy Efficiency]\n        M3[Reforestation & Afforestation]\n        M4[Carbon Capture & Storage]\n        M5[Sustainable Agriculture]\n    end\n\n    R1 --> M1 & M2 & M3 & M4 & M5\n\n    subgraph \"Adaptation Strategies\"\n        A1[Infrastructure Resilience]\n        A2[Water Resource Management]\n        A3[Early Warning Systems]\n        A4[Agricultural Adjustments]\n    end\n\n    R2 --> A1 & A2 & A3 & A4",
+            "complexity": "high",
+            "tags": ["climate_change", "environmental_science", "global_warming", "greenhouse_gas", "mitigation", "adaptation", "sustainability"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

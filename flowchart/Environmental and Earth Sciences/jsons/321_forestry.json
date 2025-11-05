@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "321",
+            "topic": "Forestry",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the principles and practices of sustainable forestry.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Sustainable Forestry]) --> SF[Sustainable Forestry]\n    \n    SF --> EM[Ecosystem Management]\n    SF --> SP[Socio-Economic Pillars]\n    \n    EM --> P1[Maintain Ecological Integrity]\n    EM --> P2[Silviculture]\n    EM --> P3[Forest Health]\n    EM --> P4[Harvesting]\n    \n    P1 --> P1a[Biodiversity, Soil, Water]\n    P2 --> P2a[Even-aged, Uneven-aged Systems]\n    P3 --> P3a[Pest & Disease Management, Fire Management]\n    P4 --> P4a[Reduced Impact Logging]\n    \n    SP --> S1[Forest Products]\n    SP --> S2[Community & Stakeholder Engagement]\n    SP --> S3[Economic Viability]\n    SP --> S4[Certification]\n    \n    S1 --> S1a[Timber & Non-Timber Products]\n    S4 --> S4a[FSC, SFI]\n    \n    EM --> Regen[Regeneration]\n    Regen --> Growth[Stand Growth & Dynamics]\n    Growth --> Harvest[Harvest Planning]\n    \n    Regen --> Regen_a[Natural & Artificial Regeneration]\n    \n    EM --> ES[Ecosystem Services]\n    SP --> ES\n    \n    ES --> ES1[Carbon Sequestration]\n    ES --> ES2[Watershed Protection]\n    ES --> ES3[Recreation & Aesthetics]\n    \n    ES1 --> End([Sustainable Forest Management])\n    ES2 --> End\n    ES3 --> End\n    \n    subgraph Ecosystem_Mgmt[\"Ecosystem Management\"]\n        EM\n        P1\n        P2\n        P3\n        P4\n    end\n    \n    subgraph Socio_Economic[\"Socio-Economic Pillars\"]\n        SP\n        S1\n        S2\n        S3\n        S4\n    end\n    \n    subgraph Lifecycle[\"Forest Lifecycle\"]\n        Regen\n        Growth\n        Harvest\n    end\n    \n    subgraph Services[\"Ecosystem Services\"]\n        ES\n        ES1\n        ES2\n        ES3\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style SF fill:#fff4e1\n    style EM fill:#e1ffe1\n    style SP fill:#e1ffe1\n    style ES fill:#fff4e1",
+            "complexity": "high",
+            "tags": ["forestry", "environmental_science", "forest_management", "conservation", "silviculture", "ecosystem_services", "fsc"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

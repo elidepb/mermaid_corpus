@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "486",
+            "topic": "Philosophy of Technology",
+            "category": "Philosophy",
+            "description": "A flowchart showing the fundamental concepts and structure of Philosophy of Technology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PhilosophyofTechnology[Philosophy of Technology] --> Foundations[Foundations]\n    PhilosophyofTechnology --> Methods[Research Methods]\n    PhilosophyofTechnology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "philosophy_of_technology",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

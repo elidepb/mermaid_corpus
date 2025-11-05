@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "429",
+            "topic": "Distributed Computing",
+            "category": "Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Distributed Computing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    DistributedComputing[Distributed Computing] --> Foundations[Foundations]\n    DistributedComputing --> Methods[Research Methods]\n    DistributedComputing --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "distributed_computing",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Civil Law",
+            "category": "Law",
+            "description": "A flowchart showing the fundamental concepts of Civil Law.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CL[Civil Law] --> T[Torts]\n    CL --> C[Contracts]\n    CL --> P[Property]\n    CL --> F[Family Law]\n\n    T --> N[Negligence]\n    T --> I[Intentional Torts]\n    T --> SL[Strict Liability]\n\n    C --> O[Offer]\n    C --> A[Acceptance]\n    C --> C2[Consideration]\n\n    P --> R[Real Property]\n    P --> P2[Personal Property]\n\n    F --> M[Marriage]\n    F --> D[Divorce]\n    F --> C3[Child Custody]",
+            "complexity": "medium",
+            "tags": [
+                "civil law",
+                "law"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

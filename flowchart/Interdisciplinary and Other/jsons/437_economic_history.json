@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "437",
+            "topic": "Economic History",
+            "category": "History/Economics",
+            "description": "A flowchart showing the fundamental concepts and structure of Economic History.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EconomicHistory[Economic History] --> Field1[History]\n    EconomicHistory --> Field2[Economics]\n    EconomicHistory --> Integration[Integration Areas]\n    history --> historySub1[Theory]\n    history --> historySub2[Practice]\n    economics --> economicsSub1[Theory]\n    economics --> economicsSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "economic_history",
+                "history",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

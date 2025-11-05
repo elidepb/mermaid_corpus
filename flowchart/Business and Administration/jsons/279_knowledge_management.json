@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Knowledge Management",
+            "category": "Business",
+            "description": "A detailed flowchart of the knowledge management cycle.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Knowledge Management Cycle] --> B[Knowledge Creation]\n    B --> C[Internal]\n    B --> D[External]\n\n    A --> E[Knowledge Storage]\n    E --> F[Databases]\n    E --> G[Documents]\n    E --> H[Tacit Knowledge]\n\n    A --> I[Knowledge Sharing]\n    I --> J[Communities of Practice]\n    I --> K[Mentoring]\n    I --> L[Intranets]\n\n    A --> M[Knowledge Application]\n    M --> N[Decision Making]\n    M --> O[Problem Solving]\n    M --> P[Innovation]",
+            "complexity": "high",
+            "tags": ["knowledge_management", "business", "organizational_learning", "information_management"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

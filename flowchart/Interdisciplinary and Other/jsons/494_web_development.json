@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "494",
+            "topic": "Web Development",
+            "category": "Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Web Development.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    WebDevelopment[Web Development] --> Frontend[Frontend Development]\n    WebDevelopment --> Backend[Backend Development]\n    WebDevelopment --> FullStack[Full-Stack Development]\n    Frontend --> HTML[HTML/CSS]\n    Frontend --> JavaScript[JavaScript]\n    Backend --> Servers[Server Technologies]\n    Backend --> Databases[Databases]\n    FullStack --> Frameworks[Frameworks]\n    FullStack --> APIs[APIs]",
+            "complexity": "medium",
+            "tags": [
+                "web_development",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

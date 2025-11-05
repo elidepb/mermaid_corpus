@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "309",
+            "topic": "Glaciology",
+            "category": "Earth Sciences",
+            "description": "A detailed flowchart illustrating the formation, dynamics, and features of glaciers.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Glaciology]) --> Formation[Glacier Formation]\n    \n    Formation --> S[Snowfall]\n    S --> A[Accumulation]\n    A --> C[Compaction & Recrystallization]\n    C --> F[Firn]\n    F --> GI[Glacial Ice]\n    \n    GI --> MassBalance[Glacier Mass Balance]\n    \n    MassBalance --> ZoneA[Zone of Accumulation]\n    MassBalance --> ZoneB[Zone of Ablation]\n    ZoneA --> Bal[Equilibrium Line]\n    ZoneB --> Bal\n    \n    Bal --> Retreat[Retreat]\n    Bal --> Advance[Advance]\n    \n    GI --> Flow[Glacier Flow]\n    \n    Flow --> Dynamics[Glacier Dynamics]\n    \n    Dynamics --> D[Deformation]\n    Dynamics --> B[Basal Sliding]\n    \n    Flow --> Erosion[Glacial Erosion]\n    \n    Erosion --> E1[Cirques]\n    Erosion --> E2[Arêtes]\n    Erosion --> E3[U-shaped Valleys]\n    Erosion --> E4[Fjords]\n    \n    Flow --> Deposition[Glacial Deposition]\n    \n    Deposition --> D1[Moraines]\n    Deposition --> D2[Drumlins]\n    Deposition --> D3[Eskers]\n    Deposition --> D4[Till & Outwash Plains]\n    \n    D1 --> D1a[Lateral, Medial, Terminal Moraines]\n    \n    GI --> Types[Types of Glaciers]\n    \n    Types --> T1[Alpine/Valley Glaciers]\n    Types --> T2[Ice Sheets]\n    Types --> T3[Ice Caps]\n    \n    T2 --> T2a[Antarctica, Greenland]\n    \n    E1 --> End([Glacial Features & Processes])\n    E2 --> End\n    E3 --> End\n    E4 --> End\n    D1a --> End\n    D2 --> End\n    D3 --> End\n    D4 --> End\n    T1 --> End\n    T2a --> End\n    T3 --> End\n    \n    subgraph Formation_Process[\"Formation Process\"]\n        Formation\n        S\n        A\n        C\n        F\n        GI\n    end\n    \n    subgraph Mass_Balance[\"Mass Balance\"]\n        MassBalance\n        ZoneA\n        ZoneB\n        Bal\n        Retreat\n        Advance\n    end\n    \n    subgraph Glacier_Dynamics[\"Glacier Dynamics\"]\n        Flow\n        Dynamics\n        D\n        B\n    end\n    \n    subgraph Erosional_Features[\"Erosional Features\"]\n        Erosion\n        E1\n        E2\n        E3\n        E4\n    end\n    \n    subgraph Depositional_Features[\"Depositional Features\"]\n        Deposition\n        D1\n        D2\n        D3\n        D4\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style GI fill:#e1f5ff\n    style Flow fill:#fff4e1\n    style Erosion fill:#ffe1e1\n    style Deposition fill:#e1ffe1",
+            "complexity": "high",
+            "tags": ["glaciology", "earth_sciences", "glaciers", "cryosphere", "erosion", "deposition", "moraine"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

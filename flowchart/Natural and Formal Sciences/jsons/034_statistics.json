@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "034",
+            "topic": "Statistics",
+            "category": "mathematics",
+            "description": "A flowchart showing the fundamental concepts of Statistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Statistics --> DS[Descriptive Statistics]\n    Statistics --> IS[Inferential Statistics]\n\n    DS --> CentralTendency[Measures of Central Tendency]\n    DS --> Variability[Measures of Variability]\n    DS --> Visualization[Data Visualization]\n\n    CentralTendency --> Mean[Mean]\n    CentralTendency --> Median[Median]\n    CentralTendency --> Mode[Mode]\n\n    Variability --> Range[Range]\n    Variability --> Variance[Variance]\n    Variability --> SD[Standard Deviation]\n\n    IS --> Estimation[Estimation]\n    IS --> Hypothesis[Hypothesis Testing]\n    IS --> Regression[Regression Analysis]\n\n    Estimation --> Point[Point Estimation]\n    Estimation --> Interval[Interval Estimation]\n\n    Hypothesis --> Null[Null Hypothesis]\n    Hypothesis --> Alternative[Alternative Hypothesis]\n    Hypothesis --> PValue[P-Value]",
+            "complexity": "medium",
+            "tags": ["statistics", "mathematics", "probability", "data_analysis", "hypothesis_testing"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

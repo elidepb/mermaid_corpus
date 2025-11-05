@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Data Science",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Data Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    DS[Data Science] --> Lifecycle[Data Science Lifecycle]\n    DS --> Core[Core Competencies]\n\n    Lifecycle --> BusinessUnderstanding[Business Understanding]\n    Lifecycle --> DataMining[Data Mining]\n    Lifecycle --> DataCleaning[Data Cleaning]\n    Lifecycle --> DataExploration[Data Exploration]\n    Lifecycle --> FeatureEngineering[Feature Engineering]\n    Lifecycle --> PredictiveModeling[Predictive Modeling]\n    Lifecycle --> DataVisualization[Data Visualization]\n\n    Core --> MathStats[Math & Statistics]\n    Core --> CS[Computer Science]\n    Core --> Domain[Domain Expertise]\n\n    CS --> Programming[Programming]\n    CS --> Databases[Databases]\n    CS --> ML[Machine Learning]\n    CS --> BigData[Big Data Technologies]",
+            "complexity": "medium",
+            "tags": ["data_science", "computer_science", "machine_learning", "data_analysis", "big_data"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

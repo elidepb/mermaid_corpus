@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "478",
+      "topic": "Pharmacoeconomics",
+      "category": "Pharmacy/Economics",
+      "description": "A flowchart showing the fundamental concepts and structure of Pharmacoeconomics.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    PE[Pharmacoeconomics] --> Perspectives[Perspectives]\n    PE --> CostTypes[Cost Types]\n    PE --> Outcomes[Outcome Measures]\n    PE --> Methods[Economic Evaluation Methods]\n    Perspectives --> Society[Societal Perspective]\n    Perspectives --> Payer[Payer Perspective]\n    Perspectives --> Provider[Provider Perspective]\n    Perspectives --> Patient[Patient Perspective]\n    CostTypes --> Direct[Direct Costs]\n    CostTypes --> Indirect[Indirect Costs]\n    CostTypes --> Intangible[Intangible Costs]\n    Direct --> Medical[Medical Costs]\n    Direct --> NonMedical[Non-Medical Costs]\n    Medical --> Drug[Drug Costs]\n    Medical --> Hospital[Hospitalization]\n    Medical --> Physician[Physician Visits]\n    Indirect --> Productivity[Productivity Loss]\n    Indirect --> Time[Time Costs]\n    Outcomes --> Clinical[Clinical Outcomes]\n    Outcomes --> Humanistic[Humanistic Outcomes]\n    Outcomes --> Economic[Economic Outcomes]\n    Clinical --> Efficacy[Efficacy]\n    Clinical --> Safety[Safety]\n    Clinical --> Quality[Quality of Life]\n    Humanistic --> QOL[Quality of Life]\n    Humanistic --> Satisfaction[Patient Satisfaction]\n    Humanistic --> Adherence[Adherence]\n    Methods --> CEA[Cost Effectiveness Analysis]\n    Methods --> CUA[Cost Utility Analysis]\n    Methods --> CBA[Cost Benefit Analysis]\n    Methods --> CMA[Cost Minimization Analysis]\n    CEA --> ICER[Incremental Cost Effectiveness Ratio]\n    CUA --> QALY[Quality Adjusted Life Years]\n    CBA --> NetBenefit[Net Benefit]\n    PE --> Modeling[Economic Modeling]\n    Modeling --> DecisionTree[Decision Tree Analysis]\n    Modeling --> Markov[Markov Models]\n    Modeling --> Simulation[Monte Carlo Simulation]\n    PE --> Applications[Applications]\n    Applications --> Formulary[Formulary Decisions]\n    Applications --> Pricing[Drug Pricing]\n    Applications --> Reimbursement[Reimbursement Decisions]\n    Applications --> Policy[Health Policy]\n    Applications --> Guidelines[Clinical Guidelines]",
+      "complexity": "high",
+      "tags": [
+        "pharmacoeconomics",
+        "pharmacy",
+        "economics"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

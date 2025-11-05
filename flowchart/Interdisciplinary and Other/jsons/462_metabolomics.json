@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "462",
+            "topic": "Metabolomics",
+            "category": "Biology",
+            "description": "A flowchart showing the fundamental concepts and structure of Metabolomics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Metabolomics[Metabolomics] --> Detection[Metabolite Detection]\n    Metabolomics --> Analysis[Metabolic Analysis]\n    Metabolomics --> Applications[Applications]\n    Detection --> MS[Mass Spectrometry]\n    Detection --> NMR[NMR Spectroscopy]\n    Analysis --> Identification[Metabolite Identification]\n    Analysis --> Quantification[Quantification]\n    Applications --> Biomarkers[Biomarker Discovery]\n    Applications --> Pathways[Metabolic Pathways]",
+            "complexity": "medium",
+            "tags": [
+                "metabolomics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

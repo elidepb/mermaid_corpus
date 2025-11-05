@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "389",
+            "topic": "Teratology",
+            "category": "Biology/Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Teratology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Teratology[Teratology] --> Field1[Biology]\n    Teratology --> Field2[Medicine]\n    Teratology --> Integration[Integration Areas]\n    biology --> biologySub1[Molecular Biology]\n    biology --> biologySub2[Genetics]\n    medicine --> medicineSub1[Theory]\n    medicine --> medicineSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "teratology",
+                "biology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

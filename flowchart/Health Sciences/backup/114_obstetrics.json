@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Obstetrics",
+            "category": "Medicine",
+            "description": "A comprehensive flowchart illustrating the three stages of labor with clinical decision points.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Inicio del Trabajo de Parto) --> B{Evaluación Materna y Fetal};\n    B --> C[Contracciones Regulares];\n    C --> D[Cuello Uterino: Borramiento y Dilatación];\n    D --> E{Dilatación Completa<br>10 cm};\n    E -- Sí --> F(Segunda Fase: Expulsivo);\n    E -- No --> D;\n    \n    F --> G{Pujos Efectivos};\n    G -- Sí --> H[Descenso y Nacimiento del Bebé];\n    G -- No --> I[Reevaluación y Apoyo];\n    I --> F;\n    \n    H --> J(Tercera Fase: Alumbramiento);\n    J --> K[Desprendimiento Placentario];\n    K --> L[Expulsión de la Placenta];\n    L --> M{Revisión Completa};\n    M -- Satisfactoria --> N(Final del Trabajo de Parto);\n    M -- Incompleta/Complicaciones --> O[Manejo de Complicaciones];\n    O --> N;",
+            "complexity": "medium",
+            "tags": ["obstetrics", "medicine", "labor", "childbirth", "pregnancy", "delivery", "stages of labor"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

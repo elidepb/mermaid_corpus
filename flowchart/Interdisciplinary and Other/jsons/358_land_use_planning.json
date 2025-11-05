@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "358",
+            "topic": "Land Use Planning",
+            "category": "Geography/Planning",
+            "description": "A flowchart showing the fundamental concepts and structure of Land Use Planning.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    LandUsePlanning[Land Use Planning] --> Field1[Geography]\n    LandUsePlanning --> Field2[Planning]\n    LandUsePlanning --> Integration[Integration Areas]\n    geography --> geographySub1[Theory]\n    geography --> geographySub2[Practice]\n    planning --> planningSub1[Theory]\n    planning --> planningSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "land_use_planning",
+                "geography",
+                "planning"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

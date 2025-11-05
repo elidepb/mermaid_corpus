@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.9.1"
+  },
+  "scripts": {
+    "build": "python scripts/check_syntax.py"
+  }
+}

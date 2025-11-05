@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "193",
+            "topic": "Industrial Design",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Industrial Design.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ID[Industrial Design] --> P[Process]\n    ID --> D[Disciplines]\n    ID --> H[History]\n\n    P --> R[Research]\n    P --> C[Concept Development]\n    P --> D2[Detailing & Prototyping]\n    P --> M[Manufacturing]\n\n    D --> P2[Product Design]\n    D --> T[Transportation Design]\n    D --> U[UI/UX Design]\n\n    H --> A[Arts & Crafts Movement]\n    H --> B[Bauhaus]\n    H --> S[Streamlining]\n    H --> P3[Post-war Modernism]",
+            "complexity": "medium",
+            "tags": [
+                "industrial design",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

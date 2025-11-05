@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "215",
+      "topic": "Immunology",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the adaptive immune response, involving T cells and B cells.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Pathogen Entry]) --> A[Antigen Encounter]\n    A --> B[Antigen Capture]\n    B --> C[Antigen Presenting Cell]\n    C -->|Dendritic Cell| D[Antigen Processing]\n    C -->|Macrophage| D\n    C -->|B-Cell| D\n    D --> E[MHC-II Presentation]\n    E --> F[Naive T-Helper Cell]\n    F --> G[T-Cell Activation]\n    G --> H[Signal 1: TCR-MHC]\n    G --> I[Signal 2: Co-stimulation]\n    H --> J[Proliferation]\n    I --> J\n    J --> K[T-Helper Cell Differentiation]\n    K --> L{TH1 or TH2?}\n    L -->|TH1| M[Cell-Mediated Immunity]\n    L -->|TH2| N[Humoral Immunity]\n    M --> O[Cytotoxic T-Cell Activation]\n    O --> P[CD8+ T-Cell]\n    P --> Q[Infected Cell Recognition]\n    Q --> R[MHC-I Presentation]\n    R --> S[Target Cell Killing]\n    S --> T[Apoptosis]\n    N --> U[B-Cell Activation]\n    U --> V[Antigen Binding]\n    V --> W[Co-stimulation by TH2]\n    W --> X[B-Cell Proliferation]\n    X --> Y{Plasma Cell or Memory?}\n    Y -->|Plasma Cell| Z[Plasma Cell Differentiation]\n    Y -->|Memory B-Cell| AA[Memory Cell Formation]\n    Z --> BB[Antibody Production]\n    BB --> CC[IgM - Primary Response]\n    BB --> DD[IgG - Secondary Response]\n    CC --> EE[Neutralization]\n    DD --> EE\n    EE --> FF[Opsonization]\n    EE --> GG[Complement Activation]\n    EE --> HH[Pathogen Elimination]\n    T --> HH\n    AA --> II[Long-term Immunity]\n    HH --> End([Immune Protection])\n    \n    subgraph Innate_Response[\"Innate Immune Response\"]\n        A\n        B\n        C\n    end\n    \n    subgraph Adaptive_Response[\"Adaptive Immune Response\"]\n        D\n        E\n        F\n        G\n        K\n        M\n        N\n        O\n        U\n    end\n    \n    subgraph Cell_Mediated[\"Cell-Mediated Immunity\"]\n        O\n        P\n        Q\n        R\n        S\n        T\n    end\n    \n    subgraph Humoral_Immunity[\"Humoral Immunity\"]\n        U\n        V\n        W\n        X\n        Y\n        Z\n        BB\n        CC\n        DD\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style HH fill:#e1ffe1\n    style T fill:#ffe1e1\n    style EE fill:#fff4e1\n    style II fill:#e1ffe1",
+      "complexity": "medium",
+      "tags": [
+        "immunology",
+        "medicine",
+        "adaptive_immunity",
+        "t_cells",
+        "b_cells"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "392",
+            "topic": "Polymer Science",
+            "category": "Chemistry",
+            "description": "A flowchart showing the fundamental concepts and structure of Polymer Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PolymerScience[Polymer Science] --> Synthesis[Polymer Synthesis]\n    PolymerScience --> Structure[Polymer Structure]\n    PolymerScience --> Properties[Polymer Properties]\n    Synthesis --> Addition[Addition Polymerization]\n    Synthesis --> Condensation[Condensation Polymerization]\n    Structure --> Molecular[Molecular Structure]\n    Structure --> Morphology[Morphology]\n    Properties --> Mechanical[Mechanical Properties]\n    Properties --> Thermal[Thermal Properties]",
+            "complexity": "medium",
+            "tags": [
+                "polymer_science",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

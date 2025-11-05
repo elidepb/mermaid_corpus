@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "205",
+      "topic": "Japanese Literature",
+      "category": "Literature",
+      "description": "A flowchart showing the fundamental concepts of Japanese Literature.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n JL[Japanese Literature] --> C[Classical Period]\n JL --> M[Medieval Period]\n JL --> E[Edo Period]\n JL --> M2[Modern Period]\n\n C --> K[Kojiki]\n C --> M3[Man'yoshu]\n C --> G[The Tale of Genji]\n\n M --> H[The Tale of the Heike]\n M --> T[Essays in Idleness]\n\n E --> B[Basho (Haiku)]\n E --> C2[Chikamatsu (Bunraku)]\n\n M2 --> S[Soseki]\n M2 --> K2[Kawabata]\n M2 --> M4[Mishima]\n M2 --> O[Oe]",
+      "complexity": "medium",
+      "tags": [
+        "japanese literature",
+        "literature"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

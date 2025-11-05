@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "267",
+            "topic": "Organizational Behavior",
+            "category": "Business",
+            "description": "A detailed flowchart of Organizational Behavior, showing the relationship between individual, group, and organizational levels.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Organizational Behavior] --> B[Individual Level]\n    B --> C[Personality]\n    B --> D[Values]\n    B --> E[Attitudes]\n    B --> F[Perception]\n    B --> G[Motivation]\n\n    A --> H[Group Level]\n    H --> I[Teams]\n    H --> J[Communication]\n    H --> K[Leadership]\n    H --> L[Power & Politics]\n    H --> M[Conflict & Negotiation]\n\n    A --> N[Organizational Level]\n    N --> O[Organizational Culture]\n    N --> P[Organizational Structure]\n    N --> Q[Organizational Change]",
+            "complexity": "high",
+            "tags": ["organizational_behavior", "management", "psychology", "leadership", "culture"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

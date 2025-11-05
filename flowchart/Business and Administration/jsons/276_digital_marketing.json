@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Digital Marketing",
+            "category": "Business",
+            "description": "A detailed flowchart of the digital marketing ecosystem.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Digital Marketing] --> B[Owned Media]\n    B --> C[Website]\n    B --> D[Blog]\n    B --> E[Social Media Profiles]\n\n    A --> F[Paid Media]\n    F --> G[PPC Advertising]\n    F --> H[Social Media Ads]\n    F --> I[Display Ads]\n\n    A --> J[Earned Media]\n    J --> K[SEO]\n    J --> L[Public Relations]\n    J --> M[Reviews]\n\n    A --> N[Digital Marketing Strategy]\n    N --> O[Goals]\n    N --> P[Target Audience]\n    N --> Q[Channels]\n    N --> R[Content]\n    N --> S[Measurement]",
+            "complexity": "high",
+            "tags": ["digital_marketing", "marketing", "seo", "ppc", "social_media_marketing"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

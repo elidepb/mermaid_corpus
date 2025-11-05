@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Journalism",
+            "category": "Communication",
+            "description": "A flowchart showing the fundamental concepts of Journalism.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    J[Journalism] --> T[Types]\n    J --> E[Ethics]\n    J --> P[Practices]\n    J --> I[Issues]\n\n    T --> P2[Print]\n    T --> B[Broadcast]\n    T --> D[Digital]\n\n    E --> O[Objectivity]\n    E --> A[Accuracy]\n    E --> F[Fairness]\n\n    P --> R[Reporting]\n    P --> W[Writing]\n    P --> E2[Editing]\n\n    I --> FN[Fake News]\n    I --> BI[Bias]\n    I --> D2[Decline of Traditional Media]",
+            "complexity": "medium",
+            "tags": [
+                "journalism",
+                "communication"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

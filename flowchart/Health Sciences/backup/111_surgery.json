@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Surgery",
+            "category": "Medicine",
+            "description": "A comprehensive flowchart illustrating the complete perioperative care process, including patient assessment, intraoperative management, and postoperative recovery with decision points for complications.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Evaluación Preoperatoria Inicial] --> B{Estado del Paciente}\n    \n    B -->|Apto para cirugía| C[Preparación Preoperatoria]\n    B -->|Requiere optimización| D[Manejo Médico Preoperatorio<br>Optimizar condiciones]\n    \n    C --> E[Obtención de Consentimiento Informado]\n    E --> F[Preparación Física<br>Ayuno, preparación de piel, etc.]\n    F --> G[Transferencia a Área Pre-Quirúrgica]\n    \n    D --> C\n    \n    G --> H[Fase Intraoperatoria]\n    \n    subgraph H[Fase Intraoperatoria]\n        H1[Inducción de Anestesia<br>General/Regional/Local]\n        H1 --> H2[Monitorización Continua<br>Signos vitales, gases sanguíneos]\n        H2 --> H3[Preparación del Campo Quirúrgico<br>Esterilización, draping]\n        H3 --> H4[Procedimiento Quirúrgico Principal]\n        H4 --> H5{Complicaciones Intraoperatorias}\n        H5 -->|No| H6[Cierre Quirúrgico]\n        H5 -->|Sí| H7[Manejo de Complicaciones]\n        H7 --> H6\n    end\n    \n    H6 --> I[Transferencia a Recuperación]\n    \n    I --> J[Fase Postoperatoria Inmediata<br>Primeras 24 horas]\n    \n    subgraph J[Recuperación Postoperatoria Inmediata]\n        J1[Monitorización en PACU<br>Unidad de Cuidados Postanestésicos]\n        J1 --> J2[Manejo del Dolor Agudo]\n        J2 --> J3[Estabilización de Signos Vitales]\n        J3 --> J4{Estado del Paciente}\n        J4 -->|Estable| K[Transferencia a Unidad de Hospitalización]\n        J4 -->|Inestable| L[Manejo en UCI/UCIN<br>si es necesario]\n    end\n    \n    K --> M[Cuidados Postoperatorios Hospitalarios]\n    \n    subgraph M[Cuidados durante Hospitalización]\n        M1[Manejo del Dolor Continuo]\n        M2[Cuidado de Heridas<br>y drenajes]\n        M3[Prevención de Complicaciones<br>TVP, neumonía, infección]\n        M4[Rehabilitación Temprana<br>y movilización]\n        M5[Nutrición<br>y soporte metabólico]\n    end\n    \n    M --> N{Evaluación para Alta}\n    \n    N -->|Listo para alta| O[Preparación para el Alta]\n    N -->|Complicaciones| P[Manejo de Complicaciones<br>Postoperatorias]\n    \n    O --> Q[Alta Hospitalaria<br>y Plan de Seguimiento]\n    P --> N\n    \n    Q --> R[Seguimiento Ambulatorio<br>Control post-alta]\n    \n    style A fill:#e8f5e8\n    style H fill:#e1f5fe\n    style J fill:#fff3e0\n    style M fill:#f3e5f5\n    style Q fill:#c8e6c9\n    style D fill:#ffebee\n    style L fill:#ffebee\n    style P fill:#ffebee",
+            "complexity": "medium",
+            "tags": ["surgery", "medicine", "perioperative", "operating_room", "patient_care", "anesthesia", "postoperative", "surgical_procedure", "recovery", "hospital_care"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

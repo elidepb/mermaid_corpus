@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "179",
+            "topic": "Baroque Art",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Baroque Art.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    BA[Baroque Art] --> I[Italy]\n    BA --> S[Spain]\n    BA --> F[Flanders]\n    BA --> D[Dutch Republic]\n\n    I --> C[Caravaggio]\n    I --> B[Bernini]\n\n    S --> V[Vel\u00e1zquez]\n\n    F --> R[Rubens]\n\n    D --> R2[Rembrandt]\n    D --> V2[Vermeer]",
+            "complexity": "medium",
+            "tags": [
+                "baroque art",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "496",
+            "topic": "Server Administration",
+            "category": "Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Server Administration.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ServerAdministration[Server Administration] --> Foundations[Foundations]\n    ServerAdministration --> Methods[Research Methods]\n    ServerAdministration --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "server_administration",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

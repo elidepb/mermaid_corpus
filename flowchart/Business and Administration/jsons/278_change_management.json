@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "278",
+      "topic": "Change Management",
+      "category": "Business",
+      "description": "A detailed flowchart of Kotter's 8-Step Change Model.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Change[Organizational Change] --> Assessment[Assess Current State]\n    Assessment --> Vision[Create Vision for Change]\n    Vision --> Urgency[Establish Sense of Urgency]\n    Urgency --> Coalition[Form Powerful Coalition]\n    Coalition --> Strategy[Develop Change Strategy]\n    Strategy --> Kotter[Kotter's 8-Step Model]\n    Strategy --> Lewin[Lewin's Change Model]\n    Kotter --> Step1[1. Create Urgency]\n    Kotter --> Step2[2. Form Coalition]\n    Kotter --> Step3[3. Create Vision]\n    Kotter --> Step4[4. Communicate Vision]\n    Kotter --> Step5[5. Empower Action]\n    Kotter --> Step6[6. Create Quick Wins]\n    Kotter --> Step7[7. Build on Change]\n    Kotter --> Step8[8. Anchor Change]\n    Lewin --> Unfreeze[Unfreeze Current State]\n    Lewin --> ChangePhase[Implement Change]\n    Lewin --> Refreeze[Refreeze New State]\n    Strategy --> Communication[Communication Plan]\n    Communication --> Stakeholders[Identify Stakeholders]\n    Communication --> Messages[Develop Messages]\n    Communication --> Channels[Select Channels]\n    Strategy --> Training[Training and Development]\n    Training --> Skills[Skill Assessment]\n    Training --> Programs[Training Programs]\n    Training --> Support[Ongoing Support]\n    Strategy --> Resistance[Resistance Management]\n    Resistance --> Identify[Identify Resistance]\n    Resistance --> Understand[Understand Root Causes]\n    Resistance --> Address[Address Concerns]\n    Resistance --> Engage[Engage Resistors]\n    Strategy --> Implementation[Implementation]\n    Implementation --> Timeline[Timeline and Milestones]\n    Implementation --> Resources[Resource Allocation]\n    Implementation --> Monitoring[Progress Monitoring]\n    Implementation --> Evaluation[Evaluation and Adjustment]\n    Evaluation --> Success[Change Successfully Implemented]",
+      "complexity": "high",
+      "tags": [
+        "change_management",
+        "kotters_8_step_model",
+        "organizational_change",
+        "leadership",
+        "business"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Nursing",
+            "category": "Nursing",
+            "description": "A comprehensive flowchart illustrating the nursing process (ADPIE: Assessment, Diagnosis, Planning, Implementation, Evaluation), showing detailed steps, decision points, and the cyclical nature of patient care.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Patient Encounter]) --> A{Assessment}\n    \n    A --> A1[Collect subjective data:<br/>- Patient history<br/>- Chief complaints<br/>- Patient interview]\n    A --> A2[Collect objective data:<br/>- Vital signs<br/>- Physical examination<br/>- Lab results]\n    \n    A1 --> B{Diagnosis}\n    A2 --> B\n    \n    B --> B1[Analyze data and<br/>identify patterns]\n    B1 --> B2[Formulate nursing diagnoses<br/>using NANDA taxonomy]\n    B2 --> B3[Prioritize diagnoses by:<br/>- Urgency<br/>- Maslow's hierarchy<br/>- Patient safety]\n    \n    B3 --> C{Planning}\n    \n    C --> C1[Establish measurable<br/>patient goals/outcomes]\n    C1 --> C2[Set realistic timeframes]\n    C2 --> C3[Develop nursing interventions<br/>using evidence-based practice]\n    C3 --> C4[Collaborate with<br/>interdisciplinary team]\n    \n    C4 --> D{Implementation}\n    \n    D --> D1[Execute planned<br/>nursing interventions]\n    D1 --> D2[Document care provided]\n    D2 --> D3[Continue monitoring<br/>patient status]\n    D3 --> D4[Modify interventions<br/>as needed]\n    \n    D4 --> E{Evaluation}\n    \n    E --> E1[Compare actual outcomes<br/>to expected goals]\n    E1 --> E2{Goals met?}\n    \n    E2 -->|Yes| E3[Document success<br/>and continue care]\n    E2 -->|Partially| E4[Revise plan of care]\n    E2 -->|No| E5[Reassess and identify<br/>barriers to success]\n    \n    E3 --> E6{Continue care?}\n    E6 -->|Yes| D3\n    E6 -->|No| End([Discharge/Transfer])\n    \n    E4 --> C\n    E5 --> A\n    \n    D3 -.->|Critical changes| A\n    \n    style Start fill:#90EE90\n    style A fill:#87CEEB\n    style B fill:#FFB6C1\n    style C fill:#FFD700\n    style D fill:#FFA07A\n    style E fill:#DDA0DD\n    style End fill:#90EE90\n    style E2 fill:#FF6B6B",
+            "complexity": "medium",
+            "tags": ["nursing", "patient_care", "nursing_process", "adpie", "healthcare", "assessment", "diagnosis", "planning", "implementation", "evaluation", "clinical_reasoning", "nanda"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

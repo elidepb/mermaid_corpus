@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "057",
+            "topic": "Mechanical Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Mechanical Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ME[Mechanical Engineering] --> Mechanics[Mechanics]\n    ME --> Thermo[Thermodynamics]\n    ME --> Materials[Materials Science]\n    ME --> Design[Mechanical Design]\n    ME --> Manufacturing[Manufacturing]\n\n    Mechanics --> Statics[Statics]\n    Mechanics --> Dynamics[Dynamics]\n    Mechanics --> Fluid[Fluid Mechanics]\n\n    Thermo --> HeatTransfer[Heat Transfer]\n    Thermo --> Energy[Energy Conversion]\n\n    Materials --> Properties[Material Properties]\n    Materials --> Selection[Material Selection]\n\n    Design --> CAD[Computer-Aided Design]\n    Design --> FEA[Finite Element Analysis]\n\n    Manufacturing --> Machining[Machining]\n    Manufacturing --> Casting[Casting]\n    Manufacturing --> Welding[Welding]\n    Manufacturing --> Additive[Additive Manufacturing]",
+            "complexity": "medium",
+            "tags": ["mechanical_engineering", "engineering", "mechanics", "thermodynamics", "manufacturing"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

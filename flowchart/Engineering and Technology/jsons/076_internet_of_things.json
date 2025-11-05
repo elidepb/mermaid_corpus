@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "076",
+      "topic": "Internet of Things",
+      "category": "technology",
+      "description": "A flowchart showing the fundamental concepts of the Internet of Things.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    InternetofThings[Internet of Things] --> Architecture[IoT Architecture]\n    InternetofThings --> Technologies[Key Technologies]\n    InternetofThings --> Applications[Applications]\n    Architecture --> Devices[Devices and Sensors]\n    Architecture --> Gateway[Gateway]\n    Architecture --> Cloud[Cloud Server]\n    Technologies --> Connectivity[Connectivity]\n    Technologies --> Platforms[IoT Platforms]\n    Connectivity --> WiFi[WiFi]\n    Connectivity --> Bluetooth[Bluetooth]\n    Applications --> SmartHome[Smart Home]\n    Applications --> Industrial[Industrial IoT]",
+      "complexity": "medium",
+      "tags": [
+        "internet_of_things",
+        "technology",
+        "iot",
+        "smart_home",
+        "iiot"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

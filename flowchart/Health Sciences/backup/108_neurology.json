@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Neurology",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of a neurological examination.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Patient History) --> B(Mental Status Examination);\n    B --> C(Cranial Nerve Examination);\n    C --> D(Motor System Examination);\n    D --> E(Sensory System Examination);\n    E --> F(Reflex Examination);\n    F --> G(Coordination and Gait Examination);\n    G --> H(Formulate a Diagnosis);",
+            "complexity": "medium",
+            "tags": ["neurology", "medicine", "neurological_exam", "clinical_assessment", "diagnosis"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

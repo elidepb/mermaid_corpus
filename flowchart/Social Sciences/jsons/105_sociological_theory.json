@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Sociological Theory",
+            "category": "Sociology",
+            "description": "A flowchart showing the fundamental concepts of Sociological Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ST[Sociological Theory] --> CT[Classical Theories]\n    ST --> MT[Modern Theories]\n    ST --> CONT[Contemporary Theories]\n\n    CT --> F[Functionalism]\n    CT --> CT2[Conflict Theory]\n    CT --> SI[Symbolic Interactionism]\n    CT --> UT[Utilitarianism]\n\n    F --> D[Durkheim]\n    F --> P[Parsons]\n    F --> M[Merton]\n\n    CT2 --> M2[Marx]\n    CT2 --> W[Weber]\n    \n    SI --> M3[Mead]\n    SI --> B[Blumer]\n    SI --> G[Goffman]\n\n    MT --> ST2[Structuration Theory]\n    MT --> FT[Feminist Theory]\n    MT --> PM[Postmodernism]\n    \n    CONT --> NET[Network Theory]\n    CONT --> CRIT[Critical Race Theory]",
+            "complexity": "medium",
+            "tags": [
+                "sociological theory",
+                "sociology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

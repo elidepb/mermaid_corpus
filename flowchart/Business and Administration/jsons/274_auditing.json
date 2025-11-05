@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditing",
+            "category": "Business",
+            "description": "A detailed flowchart of the financial audit process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Audit Process] --> B[Planning]\n    B --> C[Risk Assessment]\n    B --> D[Audit Strategy]\n\n    A --> E[Fieldwork]\n    E --> F[Test of Controls]\n    E --> G[Substantive Procedures]\n\n    A --> H[Reporting]\n    H --> I[Audit Opinion]\n    I --> J[Unqualified]\n    I --> K[Qualified]\n    I --> L[Adverse]\n    I --> M[Disclaimer]",
+            "complexity": "high",
+            "tags": ["auditing", "accounting", "finance", "internal_control", "audit_opinion"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

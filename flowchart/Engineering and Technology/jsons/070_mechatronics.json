@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "070",
+            "topic": "Mechatronics",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Mechatronics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Mechatronics --> Mechanical[Mechanical Systems]\n    Mechatronics --> Electrical[Electrical Systems]\n    Mechatronics --> CS[Computer Science]\n    Mechatronics --> Control[Control Engineering]\n\n    Mechanical --> Mechanisms[Mechanisms]\n    Mechanical --> CAD[CAD/CAM]\n\n    Electrical --> Electronics[Electronics]\n    Electrical --> Actuators[Actuators]\n    Electrical --> Sensors[Sensors]\n\n    CS --> Programming[Programming]\n    CS --> Microcontrollers[Microcontrollers]\n    CS --> RealTime[Real-Time Systems]\n\n    Control --> Modeling[System Modeling]\n    Control --> Controllers[Controllers]\n    Control --> SignalProcessing[Signal Processing]\n\n    Mechatronics --> Applications[Applications]\n    Applications --> Robotics[Robotics]\n    Applications --> Automation[Automation]\n    Applications --> Automotive[Automotive Systems]\n    Applications --> Aerospace[Aerospace Systems]",
+            "complexity": "medium",
+            "tags": ["mechatronics", "engineering", "robotics", "automation", "control_systems"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

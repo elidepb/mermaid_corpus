@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "333",
+            "topic": "Materials Science",
+            "category": "Physics/Chemistry/Engineering",
+            "description": "A flowchart showing the fundamental concepts and structure of Materials Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MaterialsScience[Materials Science] --> Synthesis[Material Synthesis]\n    MaterialsScience --> Characterization[Characterization]\n    MaterialsScience --> Properties[Properties & Performance]\n    Synthesis --> Processing[Processing Methods]\n    Synthesis --> Design[Material Design]\n    Characterization --> Structure[Structure Analysis]\n    Characterization --> Composition[Composition Analysis]\n    Properties --> Mechanical[Mechanical Properties]\n    Properties --> Electrical[Electrical Properties]",
+            "complexity": "high",
+            "tags": [
+                "materials_science",
+                "physics",
+                "chemistry",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

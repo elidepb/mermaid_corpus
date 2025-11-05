@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "405",
+            "topic": "Hydrodynamics",
+            "category": "Physics",
+            "description": "A flowchart showing the fundamental concepts and structure of Hydrodynamics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Hydrodynamics[Hydrodynamics] --> Foundations[Foundations]\n    Hydrodynamics --> Methods[Research Methods]\n    Hydrodynamics --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "hydrodynamics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

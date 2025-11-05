@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "231",
+      "topic": "Dentistry",
+      "category": "Medicine",
+      "description": "A comprehensive flowchart illustrating the complete dental filling procedure including diagnosis, material selection, and follow-up care.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start[Paciente con sintomatología] --> Examen[Examen Clínico Completo]\n    \n    Examen --> Diagnostico{Diagnóstico}\n    Diagnostico -->|Caries| PlanTratamiento[Plan de Tratamiento]\n    Diagnostico -->|Otro hallazgo| Derivacion[Derivación especializada]\n    \n    PlanTratamiento --> Anestesia[Anestesia Local]\n    Anestesia --> EfectoAnestesia{¿Efecto anestésico adecuado?}\n    EfectoAnestesia -->|No| Reanestesia[Reaplicar anestesia]\n    EfectoAnestesia -->|Sí| Aislamiento[Aislamiento del campo]\n    \n    Reanestesia --> Aislamiento\n    \n    Aislamiento --> RemoveCaries[Remoción de tejido cariado]\n    RemoveCaries --> PrepCavidad[Preparación cavitaria]\n    \n    PrepCavidad --> EvaluacionCavidad{Evaluación cavidad}\n    EvaluacionCavidad -->|Profunda/Próxima pulpa| BaseProtectora[Base protectora<br/>Hidróxido de calcio]\n    EvaluacionCavidad -->|Convencional| Acondicionamiento[Acondicionamiento<br/>Grabado ácido]\n    \n    BaseProtectora --> Acondicionamiento\n    Acondicionamiento --> Adhesivo[Sistema adhesivo]\n    \n    Adhesivo --> SeleccionMaterial{Selección material<br/>de obturación}\n    SeleccionMaterial -->|Posterior| CompositePost[Composite resinoso]\n    SeleccionMaterial -->|Anterior| CompositeAnt[Composite estético]\n    SeleccionMaterial -->|Temporal| Ionomero[Ionómero de vidrio]\n    \n    CompositePost --> Colocacion[Colocación material<br/>en capas incrementales]\n    CompositeAnt --> Colocacion\n    Ionomero --> Colocacion\n    \n    Colocacion --> Fotocurado[Fotocurado]\n    Fotocurado --> Desbaste[Desbaste y ajuste oclusal]\n    \n    Desbaste --> Pulido[Pulido y acabado]\n    Pulido --> PruebaOclusal{Prueba oclusal}\n    \n    PruebaOclusal -->|Ajuste necesario| Reajuste[Reajuste fino]\n    PruebaOclusal -->|Correcto| Instrucciones[Instrucciones post-tratamiento]\n    \n    Reajuste --> Instrucciones\n    Instrucciones --> Control[Control posterior<br/>1-2 semanas]\n    \n    Derivacion --> Fin[Fin del procedimiento]\n    Control --> Fin\n\n    classDef startEnd fill:#ffebee,stroke:#c62828,stroke-width:2px\n    classDef procedure fill:#e3f2fd,stroke:#1565c0,stroke-width:2px\n    classDef decision fill:#fff8e1,stroke:#ff8f00,stroke-width:2px\n    classDef material fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px\n    classDef special fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px\n    \n    class Start,Fin startEnd\n    class Examen,Anestesia,Aislamiento,RemoveCaries,PrepCavidad,Acondicionamiento,Adhesivo,Colocacion,Fotocurado,Desbaste,Pulido,Instrucciones,Control procedure\n    class Diagnostico,EfectoAnestesia,EvaluacionCavidad,SeleccionMaterial,PruebaOclusal decision\n    class CompositePost,CompositeAnt,Ionomero material\n    class BaseProtectora,Reanestesia,Reajuste,Derivacion special",
+      "complexity": "medium",
+      "tags": [
+        "dentistry",
+        "medicine",
+        "dental_filling",
+        "restorative_dentistry",
+        "oral_health",
+        "composite",
+        "dental_procedure",
+        "caries_treatment"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "181",
+            "topic": "Contemporary Art",
+            "category": "Art",
+            "description": "A flowchart showing the fundamental concepts of Contemporary Art.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CA[Contemporary Art] --> P[Pop Art]\n    CA --> M[Minimalism]\n    CA --> C[Conceptual Art]\n    CA --> P2[Photorealism]\n    CA --> P3[Postmodernism]\n    CA --> D[Digital Art]\n\n    P --> W[Warhol]\n    P --> L[Lichtenstein]\n\n    M --> J[Judd]\n\n    P3 --> S[Sherman]\n    P3 --> K[Koons]",
+            "complexity": "medium",
+            "tags": [
+                "contemporary art",
+                "art"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

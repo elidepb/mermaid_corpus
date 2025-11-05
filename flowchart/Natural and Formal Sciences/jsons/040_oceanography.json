@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "040",
+            "topic": "Oceanography",
+            "category": "earth_sciences",
+            "description": "A flowchart showing the fundamental concepts of Oceanography.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Oceanography --> Physical[Physical Oceanography]\n    Oceanography --> Chemical[Chemical Oceanography]\n    Oceanography --> Biological[Biological Oceanography]\n    Oceanography --> Geological[Geological Oceanography]\n\n    Physical --> Currents[Ocean Currents]\n    Physical --> Waves[Waves]\n    Physical --> Tides[Tides]\n\n    Currents --> Surface[Surface Currents]\n    Currents --> Deep[Deep Ocean Currents]\n\n    Chemical --> Salinity[Salinity]\n    Chemical --> Nutrients[Nutrients]\n    Chemical --> CarbonCycle[Carbon Cycle]\n\n    Biological --> MarineLife[Marine Life]\n    Biological --> Ecosystems[Marine Ecosystems]\n\n    MarineLife --> Plankton[Plankton]\n    MarineLife --> Nekton[Nekton]\n    MarineLife --> Benthos[Benthos]\n\n    Ecosystems --> CoralReefs[Coral Reefs]\n    Ecosystems --> HydrothermalVents[Hydrothermal Vents]\n\n    Geological --> Seafloor[Seafloor Spreading]\n    Geological --> Sediments[Marine Sediments]\n    Geological --> Coasts[Coastal Processes]",
+            "complexity": "medium",
+            "tags": ["oceanography", "earth_sciences", "ocean_currents", "marine_biology", "seafloor_spreading"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

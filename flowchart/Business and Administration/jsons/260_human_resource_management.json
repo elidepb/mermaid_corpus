@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Human Resource Management",
+            "category": "Business",
+            "description": "A detailed flowchart of the Human Resource Management cycle.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[HR Management] --> B[HR Planning]\n    B --> C[Job Analysis]\n    C --> D[Recruitment]\n    D --> E[Selection]\n    E --> F[Onboarding]\n    F --> G[Training & Development]\n    G --> H[Performance Management]\n    H --> I[Compensation & Benefits]\n    I --> J[Employee Relations]\n    J --> K[Separation]",
+            "complexity": "high",
+            "tags": ["human_resource_management", "hr", "recruitment", "performance_management", "compensation"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

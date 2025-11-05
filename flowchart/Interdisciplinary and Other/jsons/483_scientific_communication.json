@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "483",
+      "topic": "Scientific Communication",
+      "category": "Communication/Science",
+      "description": "A flowchart showing the fundamental concepts and structure of Scientific Communication.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    SciComm[Scientific Communication] --> PeerComm[Peer Communication]\n    SciComm --> PublicComm[Public Communication]\n    SciComm --> Formats[Communication Formats]\n    PeerComm --> Publications[Scientific Publications]\n    Publications --> Journals[Journal Articles]\n    Publications --> Conference[Conference Papers]\n    Publications --> Books[Books and Monographs]\n    Journals --> PeerReview[Peer Review Process]\n    PeerReview --> Submission[Manuscript Submission]\n    Submission --> Review[Editorial Review]\n    Review --> Revision[Revision]\n    Revision --> Acceptance[Acceptance]\n    Acceptance --> Publication[Publication]\n    PeerComm --> Conferences[Scientific Conferences]\n    Conferences --> Presentations[Oral Presentations]\n    Conferences --> Posters[Poster Presentations]\n    Conferences --> Workshops[Workshops]\n    Conferences --> Networking[Networking]\n    PeerComm --> Collaboration[Scientific Collaboration]\n    Collaboration --> Teams[Research Teams]\n    Collaboration --> Networks[Research Networks]\n    Collaboration --> Consortia[Consortia]\n    PublicComm --> PublicEngagement[Public Engagement]\n    PublicEngagement --> Outreach[Outreach Activities]\n    PublicEngagement --> Media[Media Engagement]\n    PublicEngagement --> Education[Public Education]\n    Outreach --> Events[Public Events]\n    Events --> Lectures[Public Lectures]\n    Events --> Workshops[Workshops]\n    Events --> Exhibitions[Exhibitions]\n    Media --> Interviews[Media Interviews]\n    Media --> PressReleases[Press Releases]\n    Media --> OpEds[Op-Eds]\n    Formats --> Written[Written Formats]\n    Written --> Papers[Research Papers]\n    Written --> Reports[Technical Reports]\n    Written --> Proposals[Grant Proposals]\n    Formats --> Oral[Oral Formats]\n    Oral --> Talks[Scientific Talks]\n    Oral --> Seminars[Seminars]\n    Oral --> Defenses[Thesis Defenses]\n    Formats --> Visual[Visual Formats]\n    Visual --> Figures[Figures and Graphs]\n    Visual --> Tables[Tables]\n    Visual --> Diagrams[Diagrams]\n    Visual --> Infographics[Infographics]\n    Formats --> Digital[Digital Formats]\n    Digital --> Preprints[Preprints]\n    Digital --> Repositories[Repositories]\n    Digital --> SocialMedia[Social Media]\n    Digital --> Blogs[Science Blogs]\n    SciComm --> Standards[Communication Standards]\n    Standards --> IMRAD[IMRAD Structure]\n    IMRAD --> Introduction[Introduction]\n    IMRAD --> Methods[Methods]\n    IMRAD --> Results[Results]\n    IMRAD --> Discussion[Discussion]\n    Standards --> Citations[Citation Standards]\n    Citations --> Formats[Citation Formats]\n    Citations --> Ethics[Citation Ethics]\n    Standards --> DataSharing[Data Sharing]\n    DataSharing --> Repositories[Data Repositories]\n    DataSharing --> Standards[Data Standards]\n    SciComm --> Barriers[Communication Barriers]\n    Barriers --> Language[Language Barriers]\n    Barriers --> Access[Access Barriers]\n    Barriers --> Technical[Technical Barriers]\n    Barriers --> Cultural[Cultural Barriers]\n    SciComm --> Impact[Measuring Impact]\n    Impact --> Citations[Citation Metrics]\n    Impact --> Altmetrics[Altmetrics]\n    Impact --> Influence[Scientific Influence]",
+      "complexity": "high",
+      "tags": [
+        "scientific_communication",
+        "communication",
+        "science"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "479",
+      "topic": "Health Law",
+      "category": "Law/Medicine",
+      "description": "A flowchart showing the fundamental concepts and structure of Health Law.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    HL[Health Law] --> Sources[Sources of Law]\n    HL --> Areas[Key Areas]\n    HL --> Regulation[Healthcare Regulation]\n    Sources --> Statutes[Statutes]\n    Sources --> Regulations[Administrative Regulations]\n    Sources --> CommonLaw[Common Law]\n    Sources --> Constitutional[Constitutional Law]\n    Areas --> Malpractice[Medical Malpractice]\n    Areas --> Consent[Informed Consent]\n    Areas --> Privacy[Health Privacy]\n    Areas --> Bioethics[Bioethics]\n    Malpractice --> Negligence[Negligence]\n    Malpractice --> Standard[Standard of Care]\n    Malpractice --> Causation[Causation]\n    Malpractice --> Damages[Damages]\n    Consent --> Disclosure[Disclosure Requirements]\n    Consent --> Capacity[Capacity to Consent]\n    Consent --> Minors[Consent for Minors]\n    Consent --> Emergency[Emergency Exceptions]\n    Privacy --> HIPAA[HIPAA Privacy Rule]\n    Privacy --> Security[HIPAA Security Rule]\n    Privacy --> Breach[Breach Notification]\n    Bioethics --> EndOfLife[End of Life Decisions]\n    Bioethics --> Reproductive[Reproductive Rights]\n    Bioethics --> Research[Research Ethics]\n    Bioethics --> Genetics[Genetic Testing]\n    Regulation --> Licensing[Professional Licensing]\n    Regulation --> Facilities[Facility Regulation]\n    Regulation --> Drugs[Drug Regulation]\n    Regulation --> Devices[Medical Device Regulation]\n    Licensing --> Physicians[Physician Licensing]\n    Licensing --> Nurses[Nurse Licensing]\n    Licensing --> Pharmacists[Pharmacist Licensing]\n    Facilities --> Hospitals[Hospital Regulation]\n    Facilities --> NursingHomes[Nursing Home Regulation]\n    Facilities --> Clinics[Clinic Regulation]\n    Drugs --> FDA[FDA Drug Approval]\n    Drugs --> Prescription[Prescription Requirements]\n    Devices --> FDAApproval[FDA Device Approval]\n    Devices --> Classification[Device Classification]\n    HL --> Insurance[Health Insurance Law]\n    Insurance --> ERISA[ERISA]\n    Insurance --> ACA[Affordable Care Act]\n    Insurance --> Medicare[Medicare Law]\n    Insurance --> Medicaid[Medicaid Law]\n    HL --> Antitrust[Healthcare Antitrust]\n    Antitrust --> Mergers[Mergers and Acquisitions]\n    Antitrust --> Competition[Competition Law]\n    HL --> PublicHealth[Public Health Law]\n    PublicHealth --> DiseaseControl[Disease Control]\n    PublicHealth --> Vaccination[Vaccination Requirements]\n    PublicHealth --> Quarantine[Quarantine Authority]",
+      "complexity": "high",
+      "tags": [
+        "health_law",
+        "law",
+        "medicine"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

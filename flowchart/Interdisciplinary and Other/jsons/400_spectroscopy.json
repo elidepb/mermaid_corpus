@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "400",
+            "topic": "Spectroscopy",
+            "category": "Chemistry/Physics",
+            "description": "A flowchart showing the fundamental concepts and structure of Spectroscopy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Spectroscopy[Spectroscopy] --> Techniques[Spectroscopic Techniques]\n    Spectroscopy --> Analysis[Spectral Analysis]\n    Spectroscopy --> Applications[Applications]\n    Techniques --> IR[Infrared Spectroscopy]\n    Techniques --> NMR[NMR Spectroscopy]\n    Techniques --> Mass[Mass Spectroscopy]\n    Analysis --> Identification[Compound Identification]\n    Analysis --> Structure[Structure Determination]\n    Applications --> Chemistry[Chemical Analysis]\n    Applications --> Biology[Biological Analysis]",
+            "complexity": "high",
+            "tags": [
+                "spectroscopy",
+                "chemistry",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

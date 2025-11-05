@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Political Science",
+            "category": "Political Science",
+            "description": "A flowchart showing the fundamental concepts of Political Science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PS[Political Science] --> PT[Political Theory]\n    PS --> CP[Comparative Politics]\n    PS --> IR[International Relations]\n    PS --> PA[Public Administration]\n    PS --> PL[Public Law]\n\n    PT --> CL[Classical]\n    PT --> MOD[Modern]\n    PT --> CONT[Contemporary]\n\n    CP --> S[States]\n    CP --> R[Regimes]\n    CP --> E[Elections]\n\n    IR --> T[Theories]\n    IR --> IO[International Organizations]\n    IR --> C2[Conflict]\n\n    PA --> B[Bureaucracy]\n    PA --> P[Policy]",
+            "complexity": "medium",
+            "tags": [
+                "political science",
+                "political science"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

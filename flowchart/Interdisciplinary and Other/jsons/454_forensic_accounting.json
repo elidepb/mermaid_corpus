@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "454",
+            "topic": "Forensic Accounting",
+            "category": "Accounting/Law",
+            "description": "A flowchart showing the fundamental concepts and structure of Forensic Accounting.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ForensicAccounting[Forensic Accounting] --> Field1[Accounting]\n    ForensicAccounting --> Field2[Law]\n    ForensicAccounting --> Integration[Integration Areas]\n    accounting --> accountingSub1[Theory]\n    accounting --> accountingSub2[Practice]\n    law --> lawSub1[Theory]\n    law --> lawSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "forensic_accounting",
+                "accounting",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

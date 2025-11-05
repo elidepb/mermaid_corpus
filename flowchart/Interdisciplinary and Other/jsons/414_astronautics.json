@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "414",
+            "topic": "Astronautics",
+            "category": "Engineering/Astronomy",
+            "description": "A flowchart showing the fundamental concepts and structure of Astronautics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Astronautics[Astronautics] --> Field1[Engineering]\n    Astronautics --> Field2[Astronomy]\n    Astronautics --> Integration[Integration Areas]\n    engineering --> engineeringSub1[Theory]\n    engineering --> engineeringSub2[Practice]\n    astronomy --> astronomySub1[Theory]\n    astronomy --> astronomySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "astronautics",
+                "engineering",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

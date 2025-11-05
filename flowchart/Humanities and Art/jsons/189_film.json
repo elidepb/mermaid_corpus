@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "189",
+      "topic": "Film",
+      "category": "Art",
+      "description": "A flowchart showing the fundamental concepts of Film.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Film[Film] --> Production[Production]\n    Film --> Aesthetics[Aesthetics Cinematography]\n    Film --> Genres[Genres]\n    Production --> Screenwriting[Screenwriting]\n    Production --> Directing[Directing]\n    Production --> Editing[Editing]\n    Aesthetics --> Shot[Shot Composition]\n    Aesthetics --> Lighting[Lighting]\n    Genres --> Western[Western]\n    Genres --> FilmNoir[Film Noir]\n    Genres --> ScienceFiction[Science Fiction]",
+      "complexity": "medium",
+      "tags": [
+        "film",
+        "art"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

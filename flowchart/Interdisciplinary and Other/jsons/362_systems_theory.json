@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "362",
+            "topic": "Systems Theory",
+            "category": "Mathematics/Philosophy",
+            "description": "A flowchart showing the fundamental concepts and structure of Systems Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SystemsTheory[Systems Theory] --> Field1[Mathematics]\n    SystemsTheory --> Field2[Philosophy]\n    SystemsTheory --> Integration[Integration Areas]\n    mathematics --> mathematicsSub1[Theory]\n    mathematics --> mathematicsSub2[Practice]\n    philosophy --> philosophySub1[Theory]\n    philosophy --> philosophySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "systems_theory",
+                "mathematics",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

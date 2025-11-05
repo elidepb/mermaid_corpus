@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "380",
+            "topic": "Ethology",
+            "category": "Zoology",
+            "description": "A flowchart showing the fundamental concepts and structure of Ethology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Ethology[Ethology] --> Foundations[Foundations]\n    Ethology --> Methods[Research Methods]\n    Ethology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "ethology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

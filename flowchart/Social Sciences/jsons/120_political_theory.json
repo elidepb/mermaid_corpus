@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Political Theory",
+            "category": "Political Science",
+            "description": "A flowchart showing the fundamental concepts of Political Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PT[Political Theory] --> CL[Classical]\n    PT --> MED[Medieval]\n    PT --> REN[Renaissance]\n    PT --> ENL[Enlightenment]\n    PT --> MOD[Modern]\n    PT --> CONT[Contemporary]\n\n    CL --> P[Plato]\n    CL --> A[Aristotle]\n\n    MED --> A2[Augustine]\n    MED --> A3[Aquinas]\n\n    REN --> M[Machiavelli]\n\n    ENL --> H[Hobbes]\n    ENL --> L[Locke]\n    ENL --> R[Rousseau]\n\n    MOD --> M2[Marx]\n    MOD --> M3[Mill]\n\n    CONT --> R2[Rawls]\n    CONT --> N[Nozick]",
+            "complexity": "medium",
+            "tags": [
+                "political theory",
+                "political science"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

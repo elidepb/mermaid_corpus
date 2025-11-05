@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "056",
+      "topic": "Robotics Engineering",
+      "category": "engineering",
+      "description": "A flowchart showing the fundamental concepts of Robotics Engineering.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    RoboticsEngineering[Robotics Engineering] --> Components[Robot Components]\n    RoboticsEngineering --> Kinematics[Kinematics and Dynamics]\n    RoboticsEngineering --> Control[Control Systems]\n    RoboticsEngineering --> Perception[Perception]\n    Components --> Manipulators[Manipulators]\n    Components --> Sensors[Sensors]\n    Components --> Actuators[Actuators]\n    Kinematics --> Forward[Forward Kinematics]\n    Kinematics --> Inverse[Inverse Kinematics]\n    Control --> PID[PID Control]\n    Perception --> Vision[Computer Vision]\n    Perception --> SLAM[SLAM]",
+      "complexity": "medium",
+      "tags": [
+        "robotics_engineering",
+        "engineering",
+        "robotics",
+        "kinematics",
+        "slam"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

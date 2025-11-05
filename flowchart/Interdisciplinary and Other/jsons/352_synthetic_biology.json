@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "352",
+            "topic": "Synthetic Biology",
+            "category": "Biology/Engineering",
+            "description": "A flowchart showing the fundamental concepts and structure of Synthetic Biology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SyntheticBiology[Synthetic Biology] --> Design[Genetic Design]\n    SyntheticBiology --> Construction[DNA Construction]\n    SyntheticBiology --> Testing[Biological Testing]\n    Design --> Parts[BioBricks & Parts]\n    Design --> Circuits[Genetic Circuits]\n    Construction --> Assembly[DNA Assembly]\n    Construction --> Synthesis[Gene Synthesis]\n    Testing --> Characterization[Characterization]\n    Testing --> Optimization[Optimization]",
+            "complexity": "high",
+            "tags": [
+                "synthetic_biology",
+                "biology",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

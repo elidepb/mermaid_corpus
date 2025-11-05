@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "036",
+            "topic": "Graph Theory",
+            "category": "mathematics",
+            "description": "A flowchart showing the fundamental concepts of Graph Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    GT[Graph Theory] --> Graphs[Types of Graphs]\n    GT --> Properties[Graph Properties]\n    GT --> Algorithms[Graph Algorithms]\n\n    Graphs --> Undirected[Undirected Graphs]\n    Graphs --> Directed[Directed Graphs]\n    Graphs --> Weighted[Weighted Graphs]\n    Graphs --> Trees[Trees]\n\n    Properties --> Connectivity[Connectivity]\n    Properties --> Cycles[Cycles]\n    Properties --> Coloring[Graph Coloring]\n\n    Algorithms --> Traversal[Traversal Algorithms]\n    Algorithms --> ShortestPath[Shortest Path Algorithms]\n    Algorithms --> MST[Minimum Spanning Tree Algorithms]\n\n    Traversal --> BFS[Breadth-First Search]\n    Traversal --> DFS[Depth-First Search]\n\n    ShortestPath --> Dijkstra[Dijkstra's Algorithm]\n    ShortestPath --> BellmanFord[Bellman-Ford Algorithm]\n\n    MST --> Kruskal[Kruskal's Algorithm]\n    MST --> Prim[Prim's Algorithm]",
+            "complexity": "medium",
+            "tags": ["graph_theory", "mathematics", "graphs", "algorithms", "trees"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

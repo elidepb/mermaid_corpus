@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "377",
+            "topic": "Ornithology",
+            "category": "Zoology",
+            "description": "A flowchart showing the fundamental concepts and structure of Ornithology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Ornithology[Ornithology] --> Taxonomy[Bird Taxonomy]\n    Ornithology --> Behavior[Bird Behavior]\n    Ornithology --> Ecology[Avian Ecology]\n    Taxonomy --> Classification[Classification]\n    Taxonomy --> Evolution[Evolution]\n    Behavior --> Migration[Migration]\n    Behavior --> Communication[Communication]\n    Ecology --> Habitats[Habitats]\n    Ecology --> Conservation[Conservation]",
+            "complexity": "medium",
+            "tags": [
+                "ornithology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

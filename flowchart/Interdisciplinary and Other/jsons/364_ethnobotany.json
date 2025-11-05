@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "364",
+            "topic": "Ethnobotany",
+            "category": "Anthropology/Botany",
+            "description": "A flowchart showing the fundamental concepts and structure of Ethnobotany.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Ethnobotany[Ethnobotany] --> Field1[Anthropology]\n    Ethnobotany --> Field2[Botany]\n    Ethnobotany --> Integration[Integration Areas]\n    anthropology --> anthropologySub1[Theory]\n    anthropology --> anthropologySub2[Practice]\n    botany --> botanySub1[Theory]\n    botany --> botanySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "ethnobotany",
+                "anthropology",
+                "botany"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

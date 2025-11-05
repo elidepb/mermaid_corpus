@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "International Relations",
+            "category": "Political Science",
+            "description": "A flowchart showing the fundamental concepts of International Relations.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    IR[International Relations] --> T[Theories]\n    IR --> A[Actors]\n    IR --> I[Issues]\n\n    T --> R2[Realism]\n    T --> L[Liberalism]\n    T --> C[Constructivism]\n\n    A --> S[States]\n    A --> IO[International Organizations]\n    A --> NGO[NGOs]\n    A --> MNC[MNCs]\n\n    I --> C2[Conflict]\n    I --> T2[Trade]\n    I --> E[Environment]\n    I --> HR[Human Rights]",
+            "complexity": "medium",
+            "tags": [
+                "international relations",
+                "political science"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

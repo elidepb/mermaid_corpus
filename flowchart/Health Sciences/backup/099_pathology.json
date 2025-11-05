@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Pathology",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the inflammatory response, a fundamental pathological process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Tissue Injury] --> B{Release of Chemical Mediators};\n    B --> C(Vasodilation);\n    B --> D(Increased Vascular Permeability);\n    C --> E(Increased Blood Flow);\n    D --> F(Exudation of Fluid and Plasma Proteins);\n    E --> G(Redness and Heat);\n    F --> H(Swelling, Pain, and Loss of Function);\n    B --> I(Recruitment of Leukocytes);\n    I --> J(Phagocytosis of Debris and Pathogens);",
+            "complexity": "medium",
+            "tags": ["pathology", "medicine", "inflammation", "immune_response", "injury"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

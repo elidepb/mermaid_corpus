@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "History of the Americas",
+            "category": "History",
+            "description": "A flowchart showing the fundamental concepts of History of the Americas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    HA[History of the Americas] --> P[Pre-Columbian]\n    HA --> C[Colonial Period]\n    HA --> I[Independence]\n    HA --> N[19th Century]\n    HA --> T[20th Century]\n\n    P --> M[Maya]\n    P --> A[Aztec]\n    P --> I2[Inca]\n\n    C --> S[Spanish]\n    C --> P2[Portuguese]\n    C --> B[British]\n    C --> F[French]\n\n    I --> R[Revolutions]\n\n    N --> W[Westward Expansion]\n    N --> CW[Civil War]\n\n    T --> WWI[WWI]\n    T --> WWII[WWII]\n    T --> CW2[Cold War]",
+            "complexity": "medium",
+            "tags": [
+                "history of the americas",
+                "history"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

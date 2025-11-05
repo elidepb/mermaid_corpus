@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "201",
+            "topic": "Paleography",
+            "category": "History",
+            "description": "A flowchart showing the fundamental concepts of Paleography.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    P[Paleography] --> S[Scripts]\n    P --> M[Materials]\n    P --> T[Techniques]\n\n    S --> R[Roman Scripts]\n    S --> I[Insular Scripts]\n    S --> C[Carolingian Minuscule]\n    S --> G[Gothic Scripts]\n    S --> H[Humanistic Scripts]\n\n    R --> C2[Capitalis]\n    R --> U[Uncial]\n\n    M --> P2[Papyrus]\n    M --> P3[Parchment]\n    M --> P4[Paper]\n\n    T --> A[Abbreviations]\n    T --> P5[Punctuation]\n    T --> D[Decipherment]",
+            "complexity": "medium",
+            "tags": [
+                "paleography",
+                "history"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Social Communication",
+            "category": "Communication",
+            "description": "A flowchart showing the fundamental concepts of Social Communication.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SC[Social Communication] --> M[Models]\n    SC --> T[Types]\n    SC --> C[Contexts]\n    SC --> E[Effects]\n\n    M --> L[Linear]\n    M --> I[Interactive]\n    M --> T2[Transactional]\n\n    T --> IV[Intrapersonal]\n    T --> IP[Interpersonal]\n    T --> G[Group]\n    T --> M2[Mass]\n\n    C --> C2[Cultural]\n    C --> O[Organizational]\n    C --> P2[Political]\n\n    E --> A[Agenda-Setting]\n    E --> F[Framing]\n    E --> C3[Cultivation]",
+            "complexity": "medium",
+            "tags": [
+                "social communication",
+                "communication"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

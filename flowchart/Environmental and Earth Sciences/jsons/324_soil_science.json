@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "324",
+            "topic": "Soil Science",
+            "category": "Earth Sciences",
+            "description": "A detailed flowchart illustrating the soil profile and the characteristics of different soil horizons.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    subgraph \"Soil Profile\"\n        SP[Soil Profile]\n    end\n\n    SP --> O & A & E & B & C & R\n\n    subgraph \"Master Horizons\"\n        O[O Horizon] --> O1(Organic Matter: Leaf litter, humus)\n        A[A Horizon] --> A1(Topsoil: Minerals mixed with humus)\n        E[E Horizon] --> E1(Zone of Eluviation or Leaching)\n        B[B Horizon] --> B1(Subsoil: Zone of Illuviation or Accumulation)\n        C[C Horizon] --> C1(Parent Material: Weathered rock)\n        R[R Horizon] --> R1(Bedrock: Unweathered rock)\n    end\n\n    subgraph \"Processes\"\n        P1[Additions]\n        P2[Losses]\n        P3[Translocations]\n        P4[Transformations]\n    end\n\n    Processes -- Drive formation of --> O & A & E & B & C & R\n\n    P3 --> E\n    P3 --> B",
+            "complexity": "high",
+            "tags": ["soil_science", "earth_sciences", "soil_horizons", "pedology", "soil_profile", "eluviation", "illuviation"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

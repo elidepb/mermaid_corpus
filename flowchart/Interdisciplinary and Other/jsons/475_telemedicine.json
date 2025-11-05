@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "475",
+            "topic": "Telemedicine",
+            "category": "Medicine/Technology",
+            "description": "A flowchart showing the fundamental concepts and structure of Telemedicine.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Telemedicine[Telemedicine] --> Technologies[Telehealth Technologies]\n    Telemedicine --> Services[Telemedicine Services]\n    Telemedicine --> Platforms[Telemedicine Platforms]\n    Technologies --> Video[Video Conferencing]\n    Technologies --> Remote[Remote Monitoring]\n    Services --> Consultation[Remote Consultation]\n    Services --> Diagnosis[Tele-diagnosis]\n    Platforms --> EHealth[eHealth Systems]\n    Platforms --> Mobile[Mobile Health]",
+            "complexity": "high",
+            "tags": [
+                "telemedicine",
+                "medicine",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

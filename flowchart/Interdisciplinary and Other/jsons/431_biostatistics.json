@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "431",
+            "topic": "Biostatistics",
+            "category": "Statistics/Biology",
+            "description": "A flowchart showing the fundamental concepts and structure of Biostatistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Biostatistics[Biostatistics] --> Design[Study Design]\n    Biostatistics --> Analysis[Statistical Analysis]\n    Biostatistics --> Applications[Medical Applications]\n    Design --> Clinical[Clinical Trials]\n    Design --> Epidemiological[Epidemiological Studies]\n    Analysis --> Survival[Survival Analysis]\n    Analysis --> Regression[Regression Methods]\n    Applications --> PublicHealth[Public Health]\n    Applications --> Research[Medical Research]",
+            "complexity": "high",
+            "tags": [
+                "biostatistics",
+                "statistics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Project Management",
+            "category": "Business",
+            "description": "A detailed flowchart of the project management process, based on the PMBOK guide.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Project Management] --> B[Initiating]\n    B --> C[Project Charter]\n    B --> D[Stakeholder Register]\n\n    A --> E[Planning]\n    E --> F[Scope Management]\n    E --> G[Schedule Management]\n    E --> H[Cost Management]\n    E --> I[Quality Management]\n    E --> J[Resource Management]\n    E --> K[Communications Management]\n    E --> L[Risk Management]\n    E --> M[Procurement Management]\n    E --> N[Stakeholder Management]\n\n    A --> O[Executing]\n    O --> P[Direct & Manage Project Work]\n    O --> Q[Manage Project Knowledge]\n    O --> R[Manage Quality]\n    O --> S[Acquire Resources]\n    O --> T[Develop Team]\n    O --> U[Manage Team]\n    O --> V[Manage Communications]\n    O --> W[Implement Risk Responses]\n    O --> X[Conduct Procurements]\n    O --> Y[Manage Stakeholder Engagement]\n\n    A --> Z[Monitoring & Controlling]\n    Z --> AA[Monitor & Control Project Work]\n    Z --> AB[Perform Integrated Change Control]\n    Z --> AC[Validate Scope]\n    Z --> AD[Control Scope]\n    Z --> AE[Control Schedule]\n    Z --> AF[Control Costs]\n    Z --> AG[Control Quality]\n    Z --> AH[Control Resources]\n    Z --> AI[Monitor Communications]\n    Z --> AJ[Monitor Risks]\n    Z --> AK[Control Procurements]\n    Z --> AL[Monitor Stakeholder Engagement]\n\n    A --> AM[Closing]\n    AM --> AN[Close Project or Phase]",
+            "complexity": "high",
+            "tags": ["project_management", "pmbok", "planning", "execution", "monitoring"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

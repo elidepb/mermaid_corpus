@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "084",
+      "topic": "Computer Vision",
+      "category": "computer_science",
+      "description": "A flowchart showing the fundamental concepts of Computer Vision.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    ComputerVision[Computer Vision] --> ImageProcessing[Image Processing]\n    ComputerVision --> FeatureExtraction[Feature Extraction]\n    ComputerVision --> Recognition[Recognition]\n    ImageProcessing --> Preprocessing[Preprocessing]\n    ImageProcessing --> Filtering[Filtering]\n    FeatureExtraction --> Edges[Edge Detection]\n    FeatureExtraction --> Descriptors[Feature Descriptors]\n    Recognition --> Classification[Image Classification]\n    Recognition --> Detection[Object Detection]\n    Classification --> CNN[Convolutional Neural Networks]\n    Detection --> YOLO[YOLO]",
+      "complexity": "medium",
+      "tags": [
+        "computer_vision",
+        "computer_science",
+        "image_processing",
+        "object_detection",
+        "cnn"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

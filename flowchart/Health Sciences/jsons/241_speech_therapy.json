@@ -1,0 +1,30 @@
+{
+  "diagrams": [
+    {
+      "id": "241",
+      "topic": "Speech Therapy",
+      "category": "Therapy",
+      "description": "A comprehensive flowchart illustrating the speech-language therapy process, from initial screening through assessment (speech, language, and related areas), diagnosis, evidence-based treatment planning and implementation, progress monitoring with decision points, and discharge planning for communication disorders.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Referral/Concern Identified]) --> A{Screening}\n    \n    A --> A1{Communication<br/>disorder suspected?}\n    A1 -->|No| A2[Provide resources<br/>or dismiss]\n    A1 -->|Yes| B{Comprehensive Assessment}\n    \n    B --> B1[Speech Assessment:<br/>- Articulation<br/>- Phonology<br/>- Fluency<br/>- Voice quality]\n    B --> B2[Language Assessment:<br/>- Receptive language<br/>- Expressive language<br/>- Pragmatics<br/>- Vocabulary]\n    B --> B3[Additional areas:<br/>- Oral motor skills<br/>- Swallowing/feeding<br/>- Hearing screening<br/>- Cognitive-communication]\n    \n    B1 --> B4[Standardized tests,<br/>observations, & case history]\n    B2 --> B4\n    B3 --> B4\n    \n    B4 --> C{Diagnosis & Analysis}\n    \n    C --> C1[Identify disorder type:<br/>- Speech sound disorder<br/>- Language disorder<br/>- Fluency disorder<br/>- Voice disorder<br/>- Dysphagia]\n    C1 --> C2[Determine severity level]\n    C2 --> C3[Consider impact on:<br/>- Academic performance<br/>- Social interaction<br/>- Quality of life]\n    \n    C3 --> D{Treatment Planning}\n    \n    D --> D1[Establish functional<br/>measurable goals]\n    D1 --> D2[Select evidence-based<br/>intervention approaches]\n    D2 --> D3[Determine frequency<br/>& duration of therapy]\n    D3 --> D4[Collaborate with:<br/>- Family/caregivers<br/>- Teachers<br/>- Other professionals]\n    \n    D4 --> E{Intervention Implementation}\n    \n    E --> E1[Direct therapy:<br/>- Individual sessions<br/>- Group therapy<br/>- Telepractice]\n    E1 --> E2[Techniques used:<br/>- Drill & practice<br/>- Modeling<br/>- Cueing strategies<br/>- Play-based therapy]\n    E2 --> E3[Home practice:<br/>- Caregiver training<br/>- Practice activities<br/>- Generalization tasks]\n    E3 --> E4[Progress monitoring<br/>& data collection]\n    \n    E4 --> F{Progress Review}\n    \n    F --> F1[Analyze treatment data]\n    F1 --> F2{Making adequate<br/>progress?}\n    \n    F2 -->|No| F3[Modify treatment approach<br/>or intensity]\n    F2 -->|Slow progress| F4[Adjust goals or<br/>add supports]\n    F2 -->|Yes| G{Goals achieved?}\n    \n    F3 --> D2\n    F4 --> D1\n    \n    G -->|Not yet| E1\n    G -->|Yes| H{Discharge Planning}\n    \n    H --> H1[Generalization across<br/>settings verified]\n    H1 --> H2[Maintenance strategies<br/>provided to family]\n    H2 --> H3[Recommendations for<br/>continued support]\n    H3 --> H4[Follow-up plan<br/>established]\n    \n    H4 --> I([Discharge])\n    \n    E4 -.->|Regression or<br/>new concerns| F\n    \n    style Start fill:#90EE90\n    style A fill:#B0E0E6\n    style B fill:#87CEEB\n    style C fill:#FFB6C1\n    style D fill:#FFD700\n    style E fill:#FFA07A\n    style F fill:#DDA0DD\n    style G fill:#DA70D6\n    style H fill:#F0E68C\n    style I fill:#90EE90\n    style A1 fill:#FFB6C1\n    style F2 fill:#FFB6C1\n    style G fill:#FFB6C1\n    style A2 fill:#D3D3D3",
+      "complexity": "medium",
+      "tags": [
+        "speech_therapy",
+        "therapy",
+        "communication",
+        "language",
+        "speech_language_pathology",
+        "articulation",
+        "fluency",
+        "voice",
+        "dysphagia",
+        "language_disorder",
+        "speech_sound_disorder",
+        "assessment",
+        "intervention",
+        "evidence_based_practice"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Corporate Finance",
+            "category": "Business",
+            "description": "A detailed flowchart of corporate finance, showing the relationship between investment, financing, and dividend decisions.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Corporate Finance] --> B[Investment Decisions]\n    A --> C[Financing Decisions]\n    A --> D[Dividend Decisions]\n\n    B --> E[Capital Budgeting]\n    B --> F[Working Capital Management]\n\n    E --> G[NPV]\n    E --> H[IRR]\n\n    F --> I[Cash Management]\n    F --> J[Inventory Management]\n\n    C --> K[Capital Structure]\n    C --> L[Sources of Funds]\n\n    K --> M[Debt]\n    K --> N[Equity]\n\n    L --> O[Short-Term]\n    L --> P[Long-Term]\n\n    D --> Q[Dividend Policy]\n    D --> R[Share Repurchases]",
+            "complexity": "high",
+            "tags": ["corporate_finance", "finance", "investment", "capital_budgeting", "dividend_policy"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

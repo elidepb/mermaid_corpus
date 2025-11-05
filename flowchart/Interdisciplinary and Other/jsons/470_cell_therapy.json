@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "470",
+            "topic": "Cell Therapy",
+            "category": "Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Cell Therapy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CellTherapy[Cell Therapy] --> Foundations[Foundations]\n    CellTherapy --> Methods[Research Methods]\n    CellTherapy --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "cell_therapy",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "072",
+            "topic": "Transportation Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Transportation Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    TransE[Transportation Engineering] --> Planning[Transportation Planning]\n    TransE --> Design[Geometric Design]\n    TransE --> Traffic[Traffic Engineering]\n    TransE --> Pavement[Pavement Engineering]\n    TransE --> Public[Public Transportation]\n\n    Planning --> Demand[Demand Forecasting]\n    Planning --> System[System Analysis]\n    Planning --> Policy[Transportation Policy]\n\n    Design --> Highways[Highway Design]\n    Design --> Intersections[Intersection Design]\n    Design --> Airports[Airport Design]\n\n    Traffic --> Flow[Traffic Flow Theory]\n    Traffic --> Control[Traffic Control Devices]\n    Traffic --> Safety[Traffic Safety]\n\n    Pavement --> Materials[Pavement Materials]\n    Pavement --> Design[Pavement Design]\n    Pavement --> Management[Pavement Management]\n\n    Public --> Modes[Modes of Public Transit]\n    Public --> Operations[Transit Operations]",
+            "complexity": "medium",
+            "tags": ["transportation_engineering", "engineering", "civil_engineering", "traffic_engineering", "transportation_planning"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

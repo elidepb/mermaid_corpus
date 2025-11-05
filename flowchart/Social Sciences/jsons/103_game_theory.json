@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Economics/Mathematics",
+            "description": "A flowchart showing the fundamental concepts of Game Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    GT[Game Theory] --> TG[Types of Games]\n    GT --> KC[Key Concepts]\n    GT --> STR[Strategies]\n    GT --> SOL[Solution Concepts]\n\n    TG --> S[Simultaneous]\n    TG --> SEQ[Sequential]\n    TG --> C[Cooperative]\n    TG --> NC[Non-Cooperative]\n\n    KC --> P[Players]\n    KC --> A[Actions]\n    KC --> PAY[Payoffs]\n    KC --> I[Information]\n\n    STR --> PS[Pure Strategies]\n    STR --> MS[Mixed Strategies]\n    STR --> DS[Dominant Strategies]\n\n    SOL --> NE[Nash Equilibrium]\n    SOL --> SPE[Subgame Perfect Equilibrium]\n    SOL --> PARETO[Pareto Optimality]",
+            "complexity": "medium",
+            "tags": [
+                "game theory",
+                "economics",
+                "mathematics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "303",
+      "topic": "Structural Geology",
+      "category": "Earth Sciences",
+      "description": "A detailed flowchart illustrating the relationship between stress, strain, and the formation of geological structures.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Tectonic Forces\"\n Stress[Stress]\n end\n\n Stress --> Strain[Rock Deformation (Strain)]\n\n subgraph \"Types of Stress\"\n S1[Compressional]\n S2[Tensional]\n S3[Shear]\n end\n\n Stress --> S1 & S2 & S3\n\n subgraph \"Deformation Behavior\"\n B1[Brittle]\n B2[Ductile]\n end\n\n Strain --> B1 & B2\n\n subgraph \"Brittle Structures\"\n F[Faults]\n J[Joints]\n end\n\n B1 --> F & J\n\n S1 --> RF[Reverse Fault]\n S2 --> NF[Normal Fault]\n S3 --> SSF[Strike-Slip Fault]\n\n F --> RF & NF & SSF\n\n subgraph \"Ductile Structures\"\n Fold[Folds]\n ShearZone[Shear Zones]\n end\n\n B2 --> Fold & ShearZone\n\n S1 --> Anticline[Anticline] & Syncline[Syncline]\n\n Fold --> Anticline & Syncline\n\n subgraph \"Resulting Landforms\"\n L1[Mountains]\n L2[Valleys]\n L3[Rift Zones]\n end\n\n RF & NF & SSF & Anticline & Syncline --> L1 & L2 & L3",
+      "complexity": "high",
+      "tags": [
+        "structural_geology",
+        "earth_sciences",
+        "geology",
+        "folds",
+        "faults",
+        "stress",
+        "strain",
+        "tectonics"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

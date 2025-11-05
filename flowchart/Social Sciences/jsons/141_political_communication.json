@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Political Communication",
+            "category": "Communication",
+            "description": "A flowchart showing the fundamental concepts of Political Communication.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PC[Political Communication] --> A[Actors]\n    PC --> M[Messages]\n    PC --> C[Channels]\n    PC --> E[Effects]\n\n    A --> P[Politicians]\n    A --> M2[Media]\n    A --> C2[Citizens]\n\n    M --> S[Speeches]\n    M --> A2[Ads]\n    M --> D[Debates]\n\n    C --> TV[Television]\n    C --> NP[Newspapers]\n    C --> SM[Social Media]\n\n    E --> AS[Agenda-Setting]\n    E --> F[Framing]\n    E --> P2[Priming]",
+            "complexity": "medium",
+            "tags": [
+                "political communication",
+                "communication"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

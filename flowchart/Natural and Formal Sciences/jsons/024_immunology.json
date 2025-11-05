@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "024",
+            "topic": "Immunology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Immunology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Immunology --> IS[Immune System]\n\n    IS --> Innate[Innate Immunity]\n    IS --> Adaptive[Adaptive Immunity]\n\n    Innate --> Barriers[Physical Barriers]\n    Innate --> Cells[Innate Immune Cells]\n    Innate --> Inflammation[Inflammation]\n\n    Cells --> Phagocytes[Phagocytes]\n    Cells --> NKC[Natural Killer Cells]\n\n    Adaptive --> Humoral[Humoral Immunity]\n    Adaptive --> CellMediated[Cell-Mediated Immunity]\n\n    Humoral --> BCells[B Cells]\n    Humoral --> Antibodies[Antibodies]\n\n    CellMediated --> TCells[T Cells]\n    TCells --> Helper[Helper T Cells]\n    TCells --> Cytotoxic[Cytotoxic T Cells]\n\n    IS --> Disorders[Immune System Disorders]\n    Disorders --> Autoimmunity[Autoimmunity]\n    Disorders --> Immunodeficiency[Immunodeficiency]\n    Disorders --> Hypersensitivity[Hypersensitivity]",
+            "complexity": "medium",
+            "tags": ["immunology", "biology", "immune_system", "innate_immunity", "adaptive_immunity"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

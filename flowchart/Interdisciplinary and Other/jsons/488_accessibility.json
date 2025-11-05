@@ -1,0 +1,19 @@
+{
+  "diagrams": [
+    {
+      "id": "488",
+      "topic": "Accessibility",
+      "category": "Technology/Design",
+      "description": "A flowchart showing the fundamental concepts and structure of Accessibility.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    A11y[Accessibility A11y] --> Principles[WCAG POUR Principles]\n    A11y --> Disabilities[Types of Disabilities]\n    A11y --> Standards[Accessibility Standards]\n    A11y --> Implementation[Implementation Process]\n    A11y --> Technologies[Assistive Technologies]\n    A11y --> Testing[Testing & Evaluation]\n    Principles --> Perceivable[Perceivable<br/>Information Presentation]\n    Principles --> Operable[Operable<br/>Interface Components]\n    Principles --> Understandable[Understandable<br/>Clear & Predictable]\n    Principles --> Robust[Robust<br/>Compatible Technologies]\n    Disabilities --> Visual[Visual Disabilities<br/>Blindness & Low Vision]\n    Disabilities --> Auditory[Auditory Disabilities<br/>Deafness & Hard of Hearing]\n    Disabilities --> Motor[Motor Disabilities<br/>Limited Mobility]\n    Disabilities --> Cognitive[Cognitive Disabilities<br/>Learning & Memory]\n    Disabilities --> Speech[Speech Disabilities]\n    Standards --> WCAG[WCAG 2.1 & 2.2<br/>Web Content Guidelines]\n    Standards --> Section508[Section 508<br/>US Federal Standards]\n    Standards --> ARIA[ARIA Standards<br/>WAI-ARIA]\n    Standards --> EN301549[EN 301 549<br/>European Standard]\n    Implementation --> Design[Design Phase<br/>Inclusive Design]\n    Implementation --> Development[Development<br/>Semantic HTML & ARIA]\n    Implementation --> Testing[Testing Phase]\n    Implementation --> Maintenance[Maintenance<br/>Ongoing Compliance]\n    Technologies --> ScreenReaders[Screen Readers<br/>NVDA, JAWS, VoiceOver]\n    Technologies --> VoiceControl[Voice Control<br/>Dragon, Siri]\n    Technologies --> Keyboard[Keyboard Navigation]\n    Technologies --> Magnifiers[Screen Magnifiers]\n    Testing --> Automated[Automated Testing<br/>Tools & Scanners]\n    Testing --> Manual[Manual Testing<br/>Keyboard & Screen Reader]\n    Testing --> UserTesting[User Testing<br/>Disability Community]",
+      "complexity": "high",
+      "tags": [
+        "accessibility",
+        "technology",
+        "design"
+      ],
+      "creation_date": "2025-11-04"
+    }
+  ]
+}

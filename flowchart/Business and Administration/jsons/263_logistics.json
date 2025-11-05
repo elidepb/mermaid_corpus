@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logistics",
+            "category": "Business",
+            "description": "A detailed flowchart of logistics, showing the relationship between inbound and outbound logistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Logistics] --> B[Inbound Logistics]\n    B --> C[Procurement]\n    B --> D[Receiving]\n    B --> E[Warehousing]\n\n    A --> F[Outbound Logistics]\n    F --> G[Order Processing]\n    F --> H[Packing]\n    F --> I[Shipping]\n\n    A --> J[Reverse Logistics]\n    J --> K[Returns]\n    J --> L[Recycling]\n    J --> M[Disposal]",
+            "complexity": "high",
+            "tags": ["logistics", "supply_chain", "transportation", "warehousing", "distribution"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

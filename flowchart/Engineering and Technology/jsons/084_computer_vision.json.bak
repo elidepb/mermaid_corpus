@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "084",
+      "topic": "Computer Vision",
+      "category": "computer_science",
+      "description": "A flowchart showing the fundamental concepts of Computer Vision.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n CV[Computer Vision] --> ImageProcessing[Low-Level: Image Processing]\n CV --> FeatureExtraction[Mid-Level: Feature Extraction]\n CV --> Recognition[High-Level: Recognition & Understanding]\n\n ImageProcessing --> Acquisition[Image Acquisition]\n ImageProcessing --> Preprocessing[Preprocessing]\n\n Preprocessing --> Filtering[Filtering]\n Preprocessing --> Enhancement[Contrast Enhancement]\n Preprocessing --> Color[Color Space Conversion]\n\n FeatureExtraction --> Edges[Edge Detection]\n FeatureExtraction --> Corners[Corner Detection]\n FeatureExtraction --> Blobs[Blob Detection]\n FeatureExtraction --> Descriptors[Feature Descriptors]\n\n Descriptors --> SIFT[SIFT]\n Descriptors --> SURF[SURF]\n Descriptors --> ORB[ORB]\n\n Recognition --> Classification[Image Classification]\n Recognition --> Detection[Object Detection]\n Recognition --> Segmentation[Segmentation]\n Recognition --> Tracking[Object Tracking]\n Recognition --> OCR[Optical Character Recognition]\n\n Classification --> SVM[SVM]\n Classification --> NN[Neural Networks]\n Classification --> CNN[Convolutional Neural Networks (CNN)]\n\n Detection --> R-CNN[R-CNN Family]\n Detection --> YOLO[YOLO]\n Detection --> SSD[SSD]",
+      "complexity": "medium",
+      "tags": [
+        "computer_vision",
+        "computer_science",
+        "image_processing",
+        "object_detection",
+        "cnn"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

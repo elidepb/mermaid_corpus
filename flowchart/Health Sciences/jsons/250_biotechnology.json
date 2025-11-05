@@ -1,0 +1,23 @@
+{
+  "diagrams": [
+    {
+      "id": "250",
+      "topic": "Biotechnology",
+      "category": "Biotechnology",
+      "description": "A detailed flowchart illustrating the Polymerase Chain Reaction (PCR) process including temperature cycles, key components, and decision points.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    A[Inicio del Proceso PCR] --> B[Preparación de la Mezcla de Reacción]\n    \n    B --> C[Desnaturalización<br>94-98°C<br>Separa hebras de ADN]\n    C --> D[Alise de Cebadores<br>50-65°C<br>Cebadores se unen al ADN]\n    D --> E[Extensión/Elongación<br>72°C<br>ADN polimerasa sintetiza nueva cadena]\n    \n    E --> F{Ciclos Completados?}\n    F -->|No| C\n    F -->|Sí| G[Finalización del PCR]\n    \n    G --> H[Producto de PCR Listo<br>para Análisis]\n    \n    %% Componentes de la mezcla\n    B --> I[Componentes:<br>- ADN molde<br>- Cebadores<br>- Nucleótidos<br>- ADN polimerasa<br>- Buffer]\n    \n    style A fill:#e1f5fe\n    style H fill:#c8e6c9\n    style I fill:#fff3e0\n    style C fill:#ffebee\n    style D fill:#f3e5f5\n    style E fill:#e8f5e8",
+      "complexity": "medium",
+      "tags": [
+        "biotechnology",
+        "pcr",
+        "molecular_biology",
+        "dna_amplification",
+        "genetics",
+        "thermocycling",
+        "dna_synthesis"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminology",
+            "category": "Law/Sociology",
+            "description": "A flowchart showing the fundamental concepts of Criminology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    C[Criminology] --> T[Theories of Crime]\n    C --> M[Measurement of Crime]\n    C --> T2[Types of Crime]\n    C --> CJ[Criminal Justice System]\n\n    T --> B[Biological]\n    T --> P[Psychological]\n    T --> S[Sociological]\n\n    M --> UCR[UCR]\n    M --> NCVS[NCVS]\n\n    T2 --> V[Violent Crime]\n    T2 --> P2[Property Crime]\n    T2 --> WC[White-Collar Crime]\n\n    CJ --> P3[Police]\n    CJ --> C2[Courts]\n    CJ --> C3[Corrections]",
+            "complexity": "medium",
+            "tags": [
+                "criminology",
+                "law/sociology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

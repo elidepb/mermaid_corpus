@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "448",
+            "topic": "Heraldry",
+            "category": "History",
+            "description": "A flowchart showing the fundamental concepts and structure of Heraldry.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Heraldry[Heraldry] --> Foundations[Foundations]\n    Heraldry --> Methods[Research Methods]\n    Heraldry --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "heraldry",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

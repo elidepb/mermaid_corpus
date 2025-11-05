@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "018",
+            "topic": "Microbiology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Microbiology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Microbiology --> Microorganisms[Types of Microorganisms]\n    Microbiology --> Growth[Microbial Growth]\n    Microbiology --> Metabolism[Microbial Metabolism]\n    Microbiology --> Genetics[Microbial Genetics]\n    Microbiology --> Control[Control of Microorganisms]\n\n    Microorganisms --> Bacteria[Bacteria]\n    Microorganisms --> Archaea[Archaea]\n    Microorganisms --> Fungi[Fungi]\n    Microorganisms --> Protozoa[Protozoa]\n    Microorganisms --> Algae[Algae]\n    Microorganisms --> Viruses[Viruses]\n\n    Growth --> Requirements[Growth Requirements]\n    Growth --> Curve[Growth Curve]\n\n    Metabolism --> Catabolism[Catabolism]\n    Metabolism --> Anabolism[Anabolism]\n\n    Genetics --> Mutation[Mutation]\n    Genetics --> HGT[Horizontal Gene Transfer]\n\n    Control --> Physical[Physical Agents]\n    Control --> Chemical[Chemical Agents]",
+            "complexity": "medium",
+            "tags": ["microbiology", "biology", "bacteria", "viruses", "fungi"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

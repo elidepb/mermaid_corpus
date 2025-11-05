@@ -1,0 +1,22 @@
+{
+  "diagrams": [
+    {
+      "id": "300",
+      "topic": "Water Resources Management",
+      "category": "Environmental Sciences",
+      "description": "A detailed flowchart illustrating the integrated approach to water resources management.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Assessment\"\n A1[Water Availability Assessment] --> A1a(Hydrological Monitoring)\n A2[Water Demand Assessment] --> A2a(Sectoral Analysis: Agri, Industry, Domestic)\n A3[Water Quality Assessment]\n end\n\n Assessment --> Plan[Integrated Water Resources Management (IWRM) Plan]\n\n subgraph \"Supply Management\"\n S1[Surface Water] --> S1a(Dams, Reservoirs)\n S2[Groundwater] --> S2a(Aquifer Management)\n S3[Alternative Sources] --> S3a(Desalination, Rainwater Harvesting)\n end\n\n subgraph \"Demand Management\"\n D1[Water Conservation & Efficiency]\n D2[Water Pricing & Allocation]\n D3[Public Awareness Campaigns]\n end\n\n subgraph \"Quality Management\"\n Q1[Pollution Control] --> Q1a(Wastewater Treatment)\n Q2[Source Water Protection]\n Q3[Water Quality Monitoring]\n end\n\n Plan --> S1 & S2 & S3\n Plan --> D1 & D2 & D3\n Plan --> Q1 & Q2 & Q3\n\n subgraph \"Governance & Institutional Framework\"\n G1[Policy & Legislation]\n G2[River Basin Organizations]\n G3[Stakeholder Participation]\n G4[Data & Information Systems]\n end\n\n S1 & D1 & Q1 --> G1 & G2 & G3 & G4\n\n subgraph \"Outcomes\"\n O1[Water Security]\n O2[Sustainable Economic Development]\n O3[Environmental Protection]\n end\n\n G1 & G2 & G3 & G4 --> O1 & O2 & O3",
+      "complexity": "high",
+      "tags": [
+        "water_resources_management",
+        "environmental_science",
+        "water_supply",
+        "water_quality",
+        "iwrm",
+        "governance"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "197",
+            "topic": "Philosophy of Language",
+            "category": "Philosophy",
+            "description": "A flowchart showing the fundamental concepts of Philosophy of Language.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PL[Philosophy of Language] --> M[Meaning]\n    PL --> R[Reference]\n    PL --> T[Truth]\n    PL --> U[Use]\n\n    M --> S[Sense]\n    M --> I[Intention]\n\n    R --> D[Definite Descriptions]\n    R --> N[Names]\n\n    T --> T2[Truth-conditional Theory]\n    T --> C[Correspondence Theory]\n\n    U --> S2[Speech Acts]\n    U --> I2[Implicature]\n\n    S2 --> A[Austin]\n    S2 --> S3[Searle]\n\n    I2 --> G[Grice]",
+            "complexity": "medium",
+            "tags": [
+                "philosophy of language",
+                "philosophy"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

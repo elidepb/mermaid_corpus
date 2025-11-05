@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "464",
+            "topic": "Transcriptomics",
+            "category": "Biology",
+            "description": "A flowchart showing the fundamental concepts and structure of Transcriptomics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Transcriptomics[Transcriptomics] --> Sequencing[RNA Sequencing]\n    Transcriptomics --> Analysis[Expression Analysis]\n    Transcriptomics --> Applications[Applications]\n    Sequencing --> RNAseq[RNA-seq]\n    Sequencing --> Microarray[Microarray]\n    Analysis --> Differential[Differential Expression]\n    Analysis --> Clustering[Expression Clustering]\n    Applications --> Disease[Disease Studies]\n    Applications --> Development[Development Studies]",
+            "complexity": "medium",
+            "tags": [
+                "transcriptomics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "198",
+      "topic": "Epistemology",
+      "category": "Philosophy",
+      "description": "A flowchart showing the fundamental concepts of Epistemology.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n E[Epistemology] --> K[Knowledge]\n E --> J[Justification]\n E --> B[Belief]\n E --> T[Truth]\n\n K --> A[Analysis of Knowledge (JTB)]\n K --> G[Gettier Problem]\n\n J --> F[Foundationalism]\n J --> C[Coherentism]\n J --> R[Reliabilism]\n\n B --> D[Doxastic States]\n\n T --> C2[Correspondence Theory]\n T --> C3[Coherence Theory]\n T --> P[Pragmatic Theory]",
+      "complexity": "medium",
+      "tags": [
+        "epistemology",
+        "philosophy"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

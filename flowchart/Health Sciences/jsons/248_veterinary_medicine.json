@@ -1,0 +1,24 @@
+{
+  "diagrams": [
+    {
+      "id": "248",
+      "topic": "Veterinary Medicine",
+      "category": "Veterinary Medicine",
+      "description": "A comprehensive flowchart illustrating the complete veterinary clinical approach, from triage through diagnosis, treatment planning, client communication, and follow-up care.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Animal Presents to<br/>Veterinary Clinic]) --> A[Triage Assessment]\n    \n    A --> B{Emergency<br/>Status?}\n    B -->|Critical| C[Immediate Stabilization<br/>ABCs: Airway, Breathing, Circulation]\n    B -->|Stable| D[Routine Intake Process]\n    \n    C --> E[Obtain Signalment]\n    D --> E\n    \n    E --> F[Record:<br/>Species, Breed, Age,<br/>Sex, Weight]\n    F --> G[Comprehensive History]\n    \n    G --> H[Chief Complaint<br/>Duration & Progression]\n    H --> I[Medical History:<br/>- Previous Illnesses<br/>- Vaccinations<br/>- Medications<br/>- Diet & Environment]\n    \n    I --> J[Physical Examination]\n    J --> K[Systematic Assessment]\n    \n    K --> L[General:<br/>Attitude, BCS,<br/>Temperature, Hydration]\n    K --> M[Cardiovascular:<br/>Heart Rate, Pulses,<br/>Mucous Membranes, CRT]\n    K --> N[Respiratory:<br/>Rate, Effort,<br/>Lung Sounds]\n    K --> O[Other Systems:<br/>GI, Neuro, Musculoskeletal,<br/>Integument, Eyes/Ears]\n    \n    L --> P[Generate Problem List]\n    M --> P\n    N --> P\n    O --> P\n    \n    P --> Q[Formulate Differential Diagnoses]\n    Q --> R{Diagnosis<br/>Immediately<br/>Apparent?}\n    \n    R -->|Yes| S[Presumptive Diagnosis]\n    R -->|No| T[Develop Diagnostic Plan]\n    \n    T --> U{Select Appropriate<br/>Diagnostics}\n    U -->|Basic| V[Minimum Database:<br/>CBC, Chemistry,<br/>Urinalysis]\n    U -->|Imaging| W[Radiographs<br/>Ultrasound<br/>CT/MRI]\n    U -->|Laboratory| X[Microbiology<br/>Cytology<br/>Histopathology]\n    U -->|Specialized| Y[Endocrine Tests<br/>Serology<br/>Genetic Testing]\n    \n    V --> Z[Review Results]\n    W --> Z\n    X --> Z\n    Y --> Z\n    \n    Z --> AA{Definitive<br/>Diagnosis<br/>Reached?}\n    AA -->|No| AB[Refine Differentials<br/>Additional Testing]\n    AA -->|Yes| AC[Confirmed Diagnosis]\n    \n    AB --> U\n    S --> AC\n    \n    AC --> AD[Develop Treatment Plan]\n    AD --> AE[Consider:]\n    \n    AE --> AF[Medical Management:<br/>- Medications<br/>- Fluid Therapy<br/>- Nutritional Support]\n    AE --> AG[Surgical Intervention:<br/>- Pre-op Assessment<br/>- Anesthesia Protocol<br/>- Procedure]\n    AE --> AH[Supportive Care:<br/>- Hospitalization<br/>- Monitoring<br/>- Nursing Care]\n    \n    AF --> AI[Client Communication]\n    AG --> AI\n    AH --> AI\n    \n    AI --> AJ[Discuss:<br/>- Prognosis<br/>- Treatment Options<br/>- Costs<br/>- Home Care]\n    \n    AJ --> AK{Owner<br/>Accepts<br/>Plan?}\n    AK -->|No| AL[Discuss Alternatives<br/>or Euthanasia if Indicated]\n    AK -->|Yes| AM[Implement Treatment]\n    \n    AL --> AN{Alternative<br/>Agreed?}\n    AN -->|Yes| AM\n    AN -->|No| AO[Compassionate<br/>End-of-Life Care]\n    \n    AM --> AP[Monitor Response]\n    AP --> AQ{Treatment<br/>Effective?}\n    \n    AQ -->|Improving| AR[Continue Treatment<br/>Adjust as Needed]\n    AQ -->|No Response| AS[Re-evaluate Diagnosis<br/>Modify Treatment Plan]\n    AQ -->|Deteriorating| AT[Intensify Care<br/>or Reconsider Prognosis]\n    \n    AS --> AD\n    AT --> AD\n    \n    AR --> AU[Schedule Follow-up]\n    AU --> AV{Condition<br/>Resolved?}\n    \n    AV -->|Yes| AW[Discharge with<br/>Home Care Instructions]\n    AV -->|No| AX[Continue Monitoring<br/>Long-term Management]\n    \n    AW --> AY([Case Complete<br/>Preventive Care Plan])\n    AX --> AY\n    AO --> AY\n    \n    style Start fill:#e1f5e1\n    style AY fill:#e1f5e1\n    style C fill:#ffcdd2\n    style AC fill:#c8e6c9\n    style AO fill:#e1bee7\n    style AI fill:#bbdefb",
+      "complexity": "medium",
+      "tags": [
+        "veterinary_medicine",
+        "animal_health",
+        "diagnosis",
+        "clinical_reasoning",
+        "patient_care",
+        "triage",
+        "treatment",
+        "client_communication"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

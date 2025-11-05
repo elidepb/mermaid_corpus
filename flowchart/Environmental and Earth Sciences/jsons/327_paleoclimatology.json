@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "327",
+            "topic": "Paleoclimatology",
+            "category": "Earth Sciences",
+            "description": "A detailed flowchart illustrating the methods and archives used in paleoclimatology to reconstruct past climates.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Paleoclimatology]) --> PC[Paleoclimatology]\n    \n    PC --> Archives[Climate Archives]\n    PC --> Proxies[Climate Proxies]\n    PC --> Models[Climate Models]\n    \n    Archives --> A1[Ice Cores]\n    Archives --> A2[Sediment Cores]\n    Archives --> A3[Tree Rings]\n    Archives --> A4[Corals]\n    Archives --> A5[Speleothems]\n    \n    A2 --> A2a[Ocean, Lake Sediments]\n    \n    Proxies --> P1[Isotopes]\n    Proxies --> P2[Trace Elements]\n    Proxies --> P3[Biological Proxies]\n    Proxies --> P4[Physical Properties]\n    \n    P1 --> P1a[δ18O, δD, δ13C Isotopes]\n    P3 --> P3a[Pollen, Foraminifera, Diatoms]\n    P4 --> P4a[Ice Layers, Sediment Grain Size]\n    \n    Archives --> Proxies\n    \n    Proxies --> Analysis[Data Analysis & Reconstruction]\n    \n    Analysis --> D1[Dating Methods]\n    Analysis --> D2[Calibration]\n    Analysis --> D3[Climate Reconstruction]\n    \n    D1 --> D1a[Radiocarbon, Layer Counting]\n    D2 --> D2a[Proxy vs. Instrumental Data]\n    \n    D1 --> D3\n    D2 --> D3\n    \n    D3 --> Models\n    Models --> D3\n    \n    D3 --> Applications[Applications]\n    Models --> Applications\n    \n    Applications --> App1[Understanding Past Climate Variability]\n    Applications --> App2[Informing Future Climate Projections]\n    Applications --> App3[Testing Climate Model Sensitivity]\n    \n    App1 --> End([Climate Understanding])\n    App2 --> End\n    App3 --> End\n    \n    subgraph Archives_Group[\"Climate Archives\"]\n        Archives\n        A1\n        A2\n        A3\n        A4\n        A5\n    end\n    \n    subgraph Proxies_Group[\"Climate Proxies\"]\n        Proxies\n        P1\n        P2\n        P3\n        P4\n    end\n    \n    subgraph Analysis_Group[\"Data Analysis\"]\n        Analysis\n        D1\n        D2\n        D3\n    end\n    \n    subgraph Models_Group[\"Climate Models\"]\n        Models\n        CM\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style PC fill:#fff4e1\n    style Archives fill:#e1ffe1\n    style Proxies fill:#e1ffe1\n    style Analysis fill:#fff4e1\n    style Models fill:#fff4e1",
+            "complexity": "high",
+            "tags": ["paleoclimatology", "earth_sciences", "climatology", "climate_proxies", "ice_cores", "sediment_cores", "isotopes"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

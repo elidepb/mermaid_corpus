@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "004",
+            "topic": "Electromagnetism",
+            "category": "physics",
+            "description": "A flowchart showing the fundamental concepts of Electromagnetism.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EM[Electromagnetism] --> ME[Maxwell's Equations]\n    EM --> F[Fundamental Forces]\n    EM --> W[Waves]\n\n    ME --> GL[Gauss's Law]\n    ME --> GLM[Gauss's Law for Magnetism]\n    ME --> FL[Faraday's Law of Induction]\n    ME --> AL[Ampère's Law]\n\n    F --> EF[Electric Field]\n    F --> MF[Magnetic Field]\n    F --> LF[Lorentz Force]\n\n    W --> EMW[Electromagnetic Waves]\n    EMW --> Spectrum[Electromagnetic Spectrum]\n\n    Spectrum --> Radio[Radio Waves]\n    Spectrum --> Micro[Microwaves]\n    Spectrum --> IR[Infrared]\n    Spectrum --> VL[Visible Light]\n    Spectrum --> UV[Ultraviolet]\n    Spectrum --> XRay[X-rays]\n    Spectrum --> Gamma[Gamma Rays]",
+            "complexity": "medium",
+            "tags": ["electromagnetism", "physics", "maxwell", "waves", "light"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

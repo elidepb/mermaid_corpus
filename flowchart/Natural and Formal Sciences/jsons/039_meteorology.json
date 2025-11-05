@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "039",
+            "topic": "Meteorology",
+            "category": "earth_sciences",
+            "description": "A flowchart showing the fundamental concepts of Meteorology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Meteorology --> Atmosphere[Atmosphere]\n    Meteorology --> Weather[Weather Phenomena]\n    Meteorology --> Climate[Climate]\n\n    Atmosphere --> Layers[Atmospheric Layers]\n    Atmosphere --> Composition[Composition]\n    Atmosphere --> Circulation[Atmospheric Circulation]\n\n    Layers --> Troposphere[Troposphere]\n    Layers --> Stratosphere[Stratosphere]\n    Layers --> Mesosphere[Mesosphere]\n    Layers --> Thermosphere[Thermosphere]\n\n    Weather --> Clouds[Clouds]\n    Weather --> Precipitation[Precipitation]\n    Weather --> Storms[Storms]\n    Weather --> Fronts[Weather Fronts]\n\n    Storms --> Thunderstorms[Thunderstorms]\n    Storms --> Tornadoes[Tornadoes]\n    Storms --> Hurricanes[Hurricanes]\n\n    Climate --> Zones[Climate Zones]\n    Climate --> Change[Climate Change]",
+            "complexity": "medium",
+            "tags": ["meteorology", "earth_sciences", "atmosphere", "weather", "climate"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

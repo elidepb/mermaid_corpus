@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Business Strategy",
+            "category": "Business",
+            "description": "A detailed flowchart of the strategic management process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Strategic Management Process] --> B[Mission & Vision]\n    B --> C[External Analysis]\n    C --> D[PESTLE]\n    C --> E[Porter's Five Forces]\n    B --> F[Internal Analysis]\n    F --> G[SWOT]\n    F --> H[VRIO]\n    A --> I[Strategy Formulation]\n    I --> J[Corporate Strategy]\n    I --> K[Business Strategy]\n    I --> L[Functional Strategy]\n    A --> M[Strategy Implementation]\n    A --> N[Evaluation & Control]",
+            "complexity": "high",
+            "tags": ["business_strategy", "strategic_management", "swot_analysis", "porters_five_forces", "corporate_strategy"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

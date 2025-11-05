@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "393",
+            "topic": "Organometallic Chemistry",
+            "category": "Chemistry",
+            "description": "A flowchart showing the fundamental concepts and structure of Organometallic Chemistry.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    OrganometallicChemistry[Organometallic Chemistry] --> Foundations[Foundations]\n    OrganometallicChemistry --> Methods[Research Methods]\n    OrganometallicChemistry --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "organometallic_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

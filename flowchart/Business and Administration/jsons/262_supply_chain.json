@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Supply Chain",
+            "category": "Business",
+            "description": "A detailed flowchart of the supply chain, including the flow of goods, information, and finances.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Supply Chain] --> B[Plan]\n    B --> C[Demand Forecasting]\n    B --> D[Supply Planning]\n\n    A --> E[Source]\n    E --> F[Supplier Selection]\n    E --> G[Procurement]\n\n    A --> H[Make]\n    H --> I[Production]\n    H --> J[Inventory Management]\n\n    A --> K[Deliver]\n    K --> L[Order Management]\n    K --> M[Warehousing]\n    K --> N[Transportation]\n\n    A --> O[Return]\n    O --> P[Reverse Logistics]",
+            "complexity": "high",
+            "tags": ["supply_chain", "logistics", "operations", "procurement", "inventory_management"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

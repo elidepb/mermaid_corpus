@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "219",
+      "topic": "Dietetics",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the Nutrition Care Process used by dietitians.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Client Referral]) --> A[Nutrition Assessment]\n    A --> B[Data Collection]\n    B --> C[Anthropometric Data]\n    B --> D[Biochemical Data]\n    B --> E[Clinical Data]\n    B --> F[Dietary Data]\n    B --> G[Economic Data]\n    C --> H[Data Analysis]\n    D --> H\n    E --> H\n    F --> H\n    G --> H\n    H --> I[Identify Nutrition Problems]\n    I --> J[Nutrition Diagnosis]\n    J --> K[PES Statement]\n    K --> L[Problem Etiology Signs/Symptoms]\n    L --> M[Prioritize Diagnoses]\n    M --> N[Nutrition Intervention]\n    N --> O[Intervention Planning]\n    O --> P[Set Goals & Objectives]\n    P --> Q[Select Intervention Strategy]\n    Q --> R{Intervention Type}\n    R -->|Food/Nutrient Delivery| S[Medical Nutrition Therapy]\n    R -->|Nutrition Education| T[Nutrition Counseling]\n    R -->|Nutrition Support| U[Enteral/Parenteral Nutrition]\n    R -->|Coordination of Care| V[Multidisciplinary Approach]\n    S --> W[Develop Intervention Plan]\n    T --> W\n    U --> W\n    V --> W\n    W --> X[Documentation]\n    X --> Y[Implementation]\n    Y --> Z[Client Education]\n    Y --> AA[Meal Planning]\n    Y --> AB[Follow-up Scheduling]\n    Z --> AC[Nutrition Monitoring & Evaluation]\n    AA --> AC\n    AB --> AC\n    AC --> AD[Monitor Indicators]\n    AD --> AE[Anthropometric Changes]\n    AD --> AF[Biochemical Changes]\n    AD --> AG[Clinical Changes]\n    AD --> AH[Dietary Adherence]\n    AE --> AI[Data Collection]\n    AF --> AI\n    AG --> AI\n    AH --> AI\n    AI --> AJ[Compare to Goals]\n    AJ --> AK{Goals Achieved?}\n    AK -->|Yes| AL[Continue Plan]\n    AK -->|Partial| AM[Modify Intervention]\n    AK -->|No| AN[Reassess Diagnosis]\n    AL --> AC\n    AM --> N\n    AN --> A\n    AC --> AO[Document Outcomes]\n    AO --> AP{Discharge Criteria Met?}\n    AP -->|Yes| AQ[Discharge Planning]\n    AP -->|No| AC\n    AQ --> AR[Final Documentation]\n    AR --> AS[Transition Plan]\n    AS --> End([Care Complete])\n    \n    subgraph Assessment[\"Assessment (ADIME)\"]\n        A\n        B\n        C\n        D\n        E\n        F\n        G\n        H\n        I\n    end\n    \n    subgraph Diagnosis[\"Diagnosis (ADIME)\"]\n        J\n        K\n        L\n        M\n    end\n    \n    subgraph Intervention[\"Intervention (ADIME)\"]\n        N\n        O\n        P\n        Q\n        R\n        S\n        T\n        U\n        V\n        W\n        X\n        Y\n    end\n    \n    subgraph Monitoring_Evaluation[\"Monitoring & Evaluation (ADIME)\"]\n        AC\n        AD\n        AE\n        AF\n        AG\n        AH\n        AI\n        AJ\n        AK\n        AO\n        AP\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style AK fill:#fff4e1\n    style AP fill:#fff4e1\n    style AL fill:#e1ffe1\n    style AM fill:#fff4e1\n    style AN fill:#ffe1e1",
+      "complexity": "medium",
+      "tags": [
+        "dietetics",
+        "medicine",
+        "nutrition_care_process",
+        "adime",
+        "dietitian"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

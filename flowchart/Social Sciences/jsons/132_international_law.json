@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "International Law",
+            "category": "Law",
+            "description": "A flowchart showing the fundamental concepts of International Law.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    IL[International Law] --> S[Sources]\n    IL --> A[Actors]\n    IL --> B[Branches]\n\n    S --> T[Treaties]\n    S --> C[Customary International Law]\n    S --> G[General Principles]\n\n    A --> S2[States]\n    A --> IO[International Organizations]\n\n    B --> HRL[Human Rights Law]\n    B --> IHL[International Humanitarian Law]\n    B --> ICL[International Criminal Law]\n    B --> EL[Environmental Law]",
+            "complexity": "medium",
+            "tags": [
+                "international law",
+                "law"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

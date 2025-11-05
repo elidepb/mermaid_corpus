@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "293",
+            "topic": "Sustainability",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the integrated model of sustainability, showing the three pillars and their key components.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Sustainability]\n\n    subgraph \"Environmental Pillar\"\n        E1[Resource Conservation]\n        E2[Pollution Prevention]\n        E3[Climate Action]\n        E4[Biodiversity Protection]\n    end\n\n    subgraph \"Social Pillar\"\n        S1[Equity & Social Justice]\n        S2[Health & Well-being]\n        S3[Education & Awareness]\n        S4[Community Resilience]\n    end\n\n    subgraph \"Economic Pillar\"\n        C1[Green Economy]\n        C2[Circular Economy]\n        C3[Fair Trade]\n        C4[Sustainable Innovation]\n    end\n\n    A --> E1 & S1 & C1\n\n    E1 --> E1a(Water, Energy, Materials)\n    E3 --> E3a(Renewable Energy, Carbon Sequestration)\n    S1 --> S1a(Access to Resources, Human Rights)\n    S4 --> S4a(Local Food Systems, Social Cohesion)\n    C1 --> C1a(Green Jobs, Sustainable Investments)\n    C2 --> C2a(Reduce, Reuse, Recycle)\n\n    E1 -- Intersects --> C2\n    E3 -- Intersects --> C1\n    S1 -- Intersects --> C3\n    S4 -- Intersects --> E4\n\n    style A fill:#f9f,stroke:#333,stroke-width:2px",
+            "complexity": "high",
+            "tags": ["sustainability", "environmental_science", "social_equity", "economic_viability", "circular_economy", "green_economy"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

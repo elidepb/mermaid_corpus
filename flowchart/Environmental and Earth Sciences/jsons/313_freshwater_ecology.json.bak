@@ -1,0 +1,23 @@
+{
+  "diagrams": [
+    {
+      "id": "313",
+      "topic": "Freshwater Ecology",
+      "category": "Biology",
+      "description": "A detailed flowchart illustrating the types, zones, and ecological factors of freshwater ecosystems.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Freshwater Ecosystems\"\n FE[Freshwater Ecology]\n end\n\n FE --> Types & Zones & Factors\n\n subgraph \"Types of Freshwater Ecosystems\"\n Lentic[Lentic (Standing Water)] --> L1(Lakes, Ponds, Wetlands)\n Lotic[Lotic (Flowing Water)] --> L2(Rivers, Streams)\n end\n\n subgraph \"Lake & River Zones\"\n subgraph \"Lake Zonation\"\n LZ1[Littoral Zone]\n LZ2[Limnetic Zone]\n LZ3[Profundal Zone]\n LZ4[Benthic Zone]\n end\n subgraph \"River Zonation\"\n RZ1[Source Zone]\n RZ2[Transition Zone]\n RZ3[Floodplain Zone]\n end\n end\n\n subgraph \"Key Ecological Factors\"\n F1[Water Chemistry] --> F1a(pH, Dissolved Oxygen, Nutrients)\n F2[Light Penetration]\n F3[Temperature]\n F4[Water Flow]\n F5[Substrate]\n end\n\n subgraph \"Freshwater Biota\"\n B1[Producers] --> B1a(Algae, Macrophytes)\n B2[Consumers] --> B2a(Zooplankton, Macroinvertebrates, Fish)\n B3[Decomposers] --> B3a(Bacteria, Fungi)\n end\n\n Factors -- Influence --> Biota\n Zones -- Characterize --> Habitats\n Types --> Zones & Factors",
+      "complexity": "high",
+      "tags": [
+        "freshwater_ecology",
+        "biology",
+        "ecology",
+        "lentic",
+        "lotic",
+        "limnology",
+        "riparian"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

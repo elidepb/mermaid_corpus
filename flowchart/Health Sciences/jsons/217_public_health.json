@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "217",
+      "topic": "Public Health",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the process of a public health intervention.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Public Health Issue Identified]) --> A[Problem Identification]\n    A --> B[Problem Statement]\n    B --> C[Define Target Population]\n    C --> D[Needs Assessment]\n    D --> E[Data Collection]\n    E --> F[Epidemiological Data]\n    E --> G[Behavioral Data]\n    E --> H[Environmental Data]\n    F --> I[Data Analysis]\n    G --> I\n    H --> I\n    I --> J[Prioritize Needs]\n    J --> K[Resource Assessment]\n    K --> L[Stakeholder Engagement]\n    L --> M[Intervention Planning]\n    M --> N[Set Objectives]\n    N --> O[Define Goals]\n    O --> P[Select Intervention Strategy]\n    P --> Q{Strategy Type}\n    Q -->|Education| R[Health Education]\n    Q -->|Policy| S[Policy Development]\n    Q -->|Environmental| T[Environmental Change]\n    Q -->|Screening| U[Screening Program]\n    Q -->|Treatment| V[Treatment Program]\n    R --> W[Intervention Design]\n    S --> W\n    T --> W\n    U --> W\n    V --> W\n    W --> X[Develop Implementation Plan]\n    X --> Y[Pilot Testing]\n    Y --> Z{Pilot Successful?}\n    Z -->|No| W\n    Z -->|Yes| AA[Full Implementation]\n    AA --> BB[Program Launch]\n    BB --> CC[Ongoing Monitoring]\n    CC --> DD[Process Evaluation]\n    CC --> EE[Outcome Evaluation]\n    CC --> FF[Impact Evaluation]\n    DD --> GG[Data Collection]\n    EE --> GG\n    FF --> GG\n    GG --> HH[Performance Indicators]\n    HH --> II[Analysis & Interpretation]\n    II --> JJ{Objectives Met?}\n    JJ -->|No| KK[Adjust Intervention]\n    JJ -->|Yes| LL[Continue Program]\n    KK --> CC\n    LL --> MM[Document Results]\n    MM --> NN[Prepare Report]\n    NN --> OO[Dissemination Planning]\n    OO --> PP[Scientific Publication]\n    OO --> QQ[Policy Briefs]\n    OO --> RR[Community Reports]\n    OO --> SS[Media Outreach]\n    PP --> End([Knowledge Translation])\n    QQ --> End\n    RR --> End\n    SS --> End\n    \n    subgraph Assessment_Phase[\"Assessment Phase\"]\n        A\n        B\n        C\n        D\n        E\n        F\n        G\n        H\n        I\n        J\n        K\n        L\n    end\n    \n    subgraph Planning_Phase[\"Planning Phase\"]\n        M\n        N\n        O\n        P\n        Q\n        R\n        S\n        T\n        U\n        V\n        W\n        X\n        Y\n    end\n    \n    subgraph Implementation_Phase[\"Implementation Phase\"]\n        AA\n        BB\n        CC\n    end\n    \n    subgraph Evaluation_Phase[\"Evaluation Phase\"]\n        DD\n        EE\n        FF\n        GG\n        HH\n        II\n        JJ\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style Z fill:#fff4e1\n    style JJ fill:#fff4e1\n    style LL fill:#e1ffe1\n    style Y fill:#fff4e1",
+      "complexity": "medium",
+      "tags": [
+        "public_health",
+        "medicine",
+        "intervention",
+        "program_planning",
+        "evaluation"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

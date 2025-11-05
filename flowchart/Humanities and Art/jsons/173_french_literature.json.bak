@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "173",
+      "topic": "French Literature",
+      "category": "Literature",
+      "description": "A flowchart showing the fundamental concepts of French Literature.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n FL[French Literature] --> M[Middle Ages]\n FL --> R[Renaissance]\n FL --> C[17th Century (Classicism)]\n FL --> E[18th Century (Enlightenment)]\n FL --> N[19th Century]\n FL --> T[20th Century]\n\n M --> S[Song of Roland]\n\n R --> R2[Rabelais]\n R --> M2[Montaigne]\n\n C --> M3[Molière]\n C --> R3[Racine]\n\n E --> V[Voltaire]\n E --> R4[Rousseau]\n\n N --> H[Hugo]\n N --> F[Flaubert]\n N --> Z[Zola]\n\n T --> P[Proust]\n T --> S2[Sartre]\n T --> C2[Camus]",
+      "complexity": "medium",
+      "tags": [
+        "french literature",
+        "literature"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

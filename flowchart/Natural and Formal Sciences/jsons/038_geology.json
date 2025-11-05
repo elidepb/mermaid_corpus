@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "038",
+            "topic": "Geology",
+            "category": "earth_sciences",
+            "description": "A flowchart showing the fundamental concepts of Geology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Geology --> Earth[Earth Structure]\n    Geology --> Minerals[Minerals]\n    Geology --> Rocks[Rocks]\n    Geology --> PT[Plate Tectonics]\n    Geology --> GST[Geologic Time]\n\n    Earth --> Crust[Crust]\n    Earth --> Mantle[Mantle]\n    Earth --> Core[Core]\n\n    Minerals --> Properties[Mineral Properties]\n    Minerals --> Groups[Mineral Groups]\n\n    Rocks --> Igneous[Igneous Rocks]\n    Rocks --> Sedimentary[Sedimentary Rocks]\n    Rocks --> Metamorphic[Metamorphic Rocks]\n\n    PT --> Boundaries[Plate Boundaries]\n    PT --> Earthquakes[Earthquakes]\n    PT --> Volcanoes[Volcanoes]\n\n    Boundaries --> Convergent[Convergent]\n    Boundaries --> Divergent[Divergent]\n    Boundaries --> Transform[Transform]\n\n    GST --> Relative[Relative Dating]\n    GST --> Absolute[Absolute Dating]",
+            "complexity": "medium",
+            "tags": ["geology", "earth_sciences", "rocks", "minerals", "plate_tectonics"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

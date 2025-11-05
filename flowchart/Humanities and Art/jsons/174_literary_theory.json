@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "174",
+            "topic": "Literary Theory",
+            "category": "Literature",
+            "description": "A flowchart showing the fundamental concepts of Literary Theory.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    LT[Literary Theory] --> F[Formalism]\n    LT --> S[Structuralism]\n    LT --> PS[Post-structuralism]\n    LT --> P[Psychoanalytic Criticism]\n    LT --> M[Marxist Criticism]\n    LT --> FT[Feminist Criticism]\n    LT --> PT[Postcolonial Theory]\n    LT --> R[Reader-Response Criticism]",
+            "complexity": "medium",
+            "tags": [
+                "literary theory",
+                "literature"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

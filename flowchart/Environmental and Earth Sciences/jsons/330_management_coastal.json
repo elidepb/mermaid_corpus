@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "330",
+            "topic": "Management Coastal",
+            "category": "Environmental Sciences",
+            "description": "A detailed flowchart illustrating the integrated approach to coastal zone management.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Start([Integrated Coastal Zone Management]) --> ICZM[ICZM]\n    \n    ICZM --> Issues[Key Coastal Issues]\n    ICZM --> Strategies[Management Strategies]\n    ICZM --> Governance[Governance & Policy]\n    \n    Issues --> I1[Coastal Hazards]\n    Issues --> I2[Development Pressures]\n    Issues --> I3[Habitat Degradation]\n    Issues --> I4[Water Quality]\n    \n    I1 --> I1a[Erosion, Sea Level Rise, Storms]\n    I2 --> I2a[Urbanization, Tourism, Industry]\n    I3 --> I3a[Wetlands, Coral Reefs, Mangroves]\n    I4 --> I4a[Pollution, Eutrophication]\n    \n    Strategies --> Hard[Hard Engineering]\n    Strategies --> Soft[Soft Engineering]\n    Strategies --> EBA[Ecosystem-based Adaptation]\n    \n    Hard --> H1[Seawalls]\n    Hard --> H2[Groynes]\n    Hard --> H3[Breakwaters]\n    \n    Soft --> S1[Beach Nourishment]\n    Soft --> S2[Dune Restoration]\n    Soft --> S3[Managed Retreat]\n    \n    EBA --> EBA1[Living Shorelines]\n    EBA --> EBA2[Mangrove & Reef Restoration]\n    \n    Governance --> G1[Policy & Legislation]\n    Governance --> G2[Spatial Planning]\n    Governance --> G3[Stakeholder Engagement]\n    Governance --> G4[Monitoring & Evaluation]\n    \n    G2 --> G2a[Marine Spatial Planning, Zoning]\n    \n    Issues --> Strategies\n    Issues --> Governance\n    \n    Strategies --> End([Sustainable Coastal Management])\n    Governance --> End\n    \n    subgraph Issues_Group[\"Coastal Issues\"]\n        Issues\n        I1\n        I2\n        I3\n        I4\n    end\n    \n    subgraph Strategies_Group[\"Management Strategies\"]\n        Strategies\n        Hard\n        Soft\n        EBA\n        H1\n        H2\n        H3\n        S1\n        S2\n        S3\n        EBA1\n        EBA2\n    end\n    \n    subgraph Governance_Group[\"Governance & Policy\"]\n        Governance\n        G1\n        G2\n        G3\n        G4\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style ICZM fill:#fff4e1\n    style Issues fill:#ffe1e1\n    style Strategies fill:#e1ffe1\n    style Governance fill:#e1ffe1",
+            "complexity": "high",
+            "tags": ["coastal_management", "environmental_science", "coastal_hazards", "coastal_ecosystems", "iczm", "sea_level_rise", "ecosystem-based_adaptation"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

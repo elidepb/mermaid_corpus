@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiography",
+            "category": "History",
+            "description": "A flowchart showing the fundamental concepts of Historiography.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    H[Historiography] --> T[Theories]\n    H --> M[Methods]\n    H --> S[Schools of Thought]\n\n    T --> WH[Whig History]\n    T --> M2[Marxist History]\n    T --> P[Postmodernism]\n\n    M --> OS[Oral History]\n    M --> Q[Quantitative History]\n    M --> M3[Microhistory]\n\n    S --> A[Annales School]\n    S --> B[British Marxist Historians]\n    S --> S2[Subaltern Studies]",
+            "complexity": "medium",
+            "tags": [
+                "historiography",
+                "history"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

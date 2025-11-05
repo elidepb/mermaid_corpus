@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banking and Finance",
+            "category": "Business",
+            "description": "A detailed flowchart of the banking and finance ecosystem.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Banking & Finance] --> B[Central Bank]\n    B --> C[Monetary Policy]\n    B --> D[Financial Stability]\n\n    A --> E[Commercial Banks]\n    E --> F[Retail Banking]\n    E --> G[Corporate Banking]\n    E --> H[Investment Banking]\n\n    A --> I[Financial Markets]\n    I --> J[Stock Market]\n    I --> K[Bond Market]\n    I --> L[Forex Market]\n\n    A --> M[Financial Institutions]\n    M --> N[Insurance Companies]\n    M --> O[Pension Funds]\n    M --> P[Mutual Funds]",
+            "complexity": "high",
+            "tags": ["banking", "finance", "central_bank", "commercial_bank", "financial_markets"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

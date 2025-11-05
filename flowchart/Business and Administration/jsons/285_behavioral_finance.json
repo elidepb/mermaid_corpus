@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Behavioral Finance",
+            "category": "Business",
+            "description": "A detailed flowchart of the key concepts in behavioral finance.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Behavioral Finance] --> B[Cognitive Biases]\n    B --> C[Anchoring]\n    B --> D[Confirmation Bias]\n    B --> E[Hindsight Bias]\n    B --> F[Overconfidence]\n\n    A --> G[Emotional Biases]\n    G --> H[Loss Aversion]\n    G --> I[Self-Control Bias]\n    G --> J[Status Quo Bias]\n    G --> K[Endowment Effect]\n\n    A --> L[Market Anomalies]\n    L --> M[Bubbles]\n    L --> N[Crashes]",
+            "complexity": "high",
+            "tags": ["behavioral_finance", "finance", "economics", "cognitive_biases", "emotional_biases"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

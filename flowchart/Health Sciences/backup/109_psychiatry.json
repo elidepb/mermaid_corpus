@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Psychiatry",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of a psychiatric evaluation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Referral and Initial Contact) --> B(Psychiatric Interview);\n    B --> C(Mental Status Examination);\n    B --> D(Medical History and Physical Exam);\n    B --> E(Collateral Information);\n    C & D & E --> F(Formulate a Differential Diagnosis);\n    F --> G(Develop a Treatment Plan);\n    G --> H(Follow-up and Monitoring);",
+            "complexity": "medium",
+            "tags": ["psychiatry", "medicine", "mental_health_assessment", "diagnosis", "treatment_planning"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

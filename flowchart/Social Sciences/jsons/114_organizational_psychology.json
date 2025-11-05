@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Organizational Psychology",
+            "category": "Psychology",
+            "description": "A flowchart showing the fundamental concepts of Organizational Psychology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    OP[Organizational Psychology] --> P[Personnel Psychology]\n    OP --> OB[Organizational Behavior]\n    OP --> HW[Health & Well-being]\n\n    P --> S[Selection & Placement]\n    P --> T[Training & Development]\n    P --> PA[Performance Appraisal]\n\n    OB --> M[Motivation]\n    OB --> L[Leadership]\n    OB --> T2[Team Dynamics]\n\n    HW --> S2[Stress]\n    HW --> WLB[Work-Life Balance]\n    HW --> S3[Safety]",
+            "complexity": "medium",
+            "tags": [
+                "organizational psychology",
+                "psychology"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

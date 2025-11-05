@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "203",
+            "topic": "Philology",
+            "category": "Linguistics/Literature",
+            "description": "A flowchart showing the fundamental concepts of Philology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    P[Philology] --> T[Textual Criticism]\n    P --> L[Literary Criticism]\n    P --> H[Historical Linguistics]\n\n    T --> S[Source Criticism]\n    T --> R[Recension]\n    T --> E[Emendation]\n\n    L --> I[Interpretation]\n    L --> A[Analysis]\n\n    H --> E2[Etymology]\n    H --> G[Grammar]",
+            "complexity": "medium",
+            "tags": [
+                "philology",
+                "linguistics/literature"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

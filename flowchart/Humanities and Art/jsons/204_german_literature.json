@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "204",
+            "topic": "German Literature",
+            "category": "Literature",
+            "description": "A flowchart showing the fundamental concepts of German Literature.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    GL[German Literature] --> M[Middle Ages]\n    GL --> R[Reformation]\n    GL --> B[Baroque]\n    GL --> E[Enlightenment]\n    GL --> SC[Sturm und Drang]\n    GL --> W[Weimar Classicism]\n    GL --> R2[Romanticism]\n    GL --> R3[Realism]\n    GL --> M2[Modernism]\n    GL --> P[Post-war Literature]\n\n    W --> G[Goethe]\n    W --> S[Schiller]\n\n    M2 --> K[Kafka]\n    M2 --> M3[Mann]\n    M2 --> B2[Brecht]\n\n    P --> G2[Grass]\n    P --> B3[B\u00f6ll]",
+            "complexity": "medium",
+            "tags": [
+                "german literature",
+                "literature"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

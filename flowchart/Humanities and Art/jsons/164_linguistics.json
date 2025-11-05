@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "164",
+            "topic": "Linguistics",
+            "category": "Linguistics",
+            "description": "A flowchart showing the fundamental concepts of Linguistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    L[Linguistics] --> C[Core Areas]\n    L --> I[Interdisciplinary Areas]\n\n    C --> P[Phonetics]\n    C --> P2[Phonology]\n    C --> M[Morphology]\n    C --> S[Syntax]\n    C --> S2[Semantics]\n    C --> P3[Pragmatics]\n\n    I --> S3[Sociolinguistics]\n    I --> P4[Psycholinguistics]\n    I --> H[Historical Linguistics]\n    I --> C2[Computational Linguistics]",
+            "complexity": "medium",
+            "tags": [
+                "linguistics",
+                "linguistics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

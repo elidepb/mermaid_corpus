@@ -1,0 +1,23 @@
+{
+  "diagrams": [
+    {
+      "id": "304",
+      "topic": "Mineralogy",
+      "category": "Earth Sciences",
+      "description": "A detailed flowchart showing the hierarchical classification of minerals based on their chemical composition.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Mineral Kingdom\"\n M[Minerals]\n end\n\n M --> C[Chemical Composition]\n\n subgraph \"Major Mineral Classes\"\n S[Silicates]\n NS[Non-Silicates]\n end\n\n C --> S & NS\n\n subgraph \"Silicate Structures (based on SiO4 tetrahedra)\"\n S1[Nesosilicates (Isolated)] --> S1a(e.g., Olivine, Garnet)\n S2[Sorosilicates (Double)] --> S2a(e.g., Epidote)\n S3[Cyclosilicates (Rings)] --> S3a(e.g., Tourmaline)\n S4[Inosilicates (Chains)] --> S4a(Single Chain: Pyroxenes)\n S4 --> S4b(Double Chain: Amphiboles)\n S5[Phyllosilicates (Sheets)] --> S5a(e.g., Micas, Clays)\n S6[Tectosilicates (Framework)] --> S6a(e.g., Quartz, Feldspars)\n end\n\n S --> S1 & S2 & S3 & S4 & S5 & S6\n\n subgraph \"Non-Silicate Classes\"\n NS1[Oxides] --> NS1a(e.g., Hematite, Magnetite)\n NS2[Sulfides] --> NS2a(e.g., Pyrite, Galena)\n NS3[Sulfates] --> NS3a(e.g., Gypsum, Barite)\n NS4[Halides] --> NS4a(e.g., Halite, Fluorite)\n NS5[Carbonates] --> NS5a(e.g., Calcite, Dolomite)\n NS6[Phosphates] --> NS6a(e.g., Apatite)\n NS7[Native Elements] --> NS7a(e.g., Gold, Copper, Sulfur)\n end\n\n NS --> NS1 & NS2 & NS3 & NS4 & NS5 & NS6 & NS7",
+      "complexity": "very_high",
+      "tags": [
+        "mineralogy",
+        "earth_sciences",
+        "geology",
+        "minerals",
+        "silicates",
+        "non-silicates",
+        "crystal_structure"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

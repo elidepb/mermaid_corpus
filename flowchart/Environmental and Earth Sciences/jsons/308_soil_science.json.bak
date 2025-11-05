@@ -1,0 +1,22 @@
+{
+  "diagrams": [
+    {
+      "id": "308",
+      "topic": "Soil Science",
+      "category": "Earth Sciences",
+      "description": "A detailed flowchart illustrating the components, formation, and properties of soil.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n subgraph \"Core Concept\"\n Soil[Soil]\n end\n\n Soil --> Comp[Composition] & Form[Formation] & Prop[Properties]\n\n subgraph \"Soil Composition\"\n M[Mineral Matter] --> M1(Sand, Silt, Clay)\n O[Organic Matter] --> O1(Humus, Organisms)\n W[Water]\n A[Air]\n end\n\n Comp --> M & O & W & A\n\n subgraph \"Soil Formation (Pedogenesis)\"\n F[Factors]\n end\n\n Form --> F\n\n subgraph \"Formation Factors (CLORPT)\"\n CL[Climate]\n OR[Organisms]\n R[Relief (Topography)]\n PM[Parent Material]\n T[Time]\n end\n\n F --> CL & OR & R & PM & T\n\n subgraph \"Soil Properties\"\n subgraph \"Physical\"\n P1[Texture]\n P2[Structure]\n P3[Color]\n P4[Porosity]\n end\n subgraph \"Chemical\"\n C1[pH]\n C2[Cation Exchange Capacity (CEC)]\n C3[Nutrient Content]\n end\n subgraph \"Biological\"\n B1[Microorganisms]\n B2[Soil Fauna]\n end\n end\n\n Prop --> Physical & Chemical & Biological",
+      "complexity": "high",
+      "tags": [
+        "soil_science",
+        "earth_sciences",
+        "pedology",
+        "soil_composition",
+        "soil_formation",
+        "clorpt"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

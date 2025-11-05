@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Oncology",
+            "category": "Medicine",
+            "description": "A flowchart illustrating the process of cancer treatment, from diagnosis to follow-up.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A(Diagnosis and Staging) --> B(Treatment Planning);\n    B --> C{Treatment Modalities};\n    C -- Surgery --> D(Post-treatment Care);\n    C -- Chemotherapy --> D;\n    C -- Radiation Therapy --> D;\n    C -- Immunotherapy --> D;\n    C -- Targeted Therapy --> D;\n    D --> E(Follow-up and Surveillance);",
+            "complexity": "medium",
+            "tags": ["oncology", "medicine", "cancer_treatment", "patient_care", "multidisciplinary_team"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

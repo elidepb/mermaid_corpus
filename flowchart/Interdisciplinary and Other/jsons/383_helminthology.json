@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "383",
+            "topic": "Helminthology",
+            "category": "Biology",
+            "description": "A flowchart showing the fundamental concepts and structure of Helminthology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Helminthology[Helminthology] --> Foundations[Foundations]\n    Helminthology --> Methods[Research Methods]\n    Helminthology --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "helminthology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

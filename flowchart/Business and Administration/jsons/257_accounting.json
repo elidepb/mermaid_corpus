@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Accounting",
+            "category": "Business",
+            "description": "A detailed flowchart of the accounting cycle, from transaction to post-closing trial balance.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Start] --> B[1. Identify Transactions]\n    B --> C[2. Record in Journals]\n    C --> D[3. Post to General Ledger]\n    D --> E[4. Unadjusted Trial Balance]\n    E --> F[5. Record Adjusting Entries]\n    F --> G[6. Adjusted Trial Balance]\n    G --> H[7. Prepare Financial Statements]\n    H --> I[Income Statement]\n    H --> J[Balance Sheet]\n    H --> K[Statement of Cash Flows]\n    H --> L[8. Closing Entries]\n    L --> M[9. Post-Closing Trial Balance]\n    M --> N[End]",
+            "complexity": "high",
+            "tags": ["accounting", "finance", "accounting_cycle", "financial_statements", "bookkeeping"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

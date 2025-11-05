@@ -1,0 +1,26 @@
+{
+  "diagrams": [
+    {
+      "id": "254",
+      "topic": "Neuroscience",
+      "category": "Neuroscience",
+      "description": "A comprehensive flowchart illustrating the complete process of synaptic neurotransmission, including receptor types, postsynaptic potentials, and signal termination mechanisms.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    A[Potencial de Acción<br>llega al terminal axónico] --> B[Apertura de Canales<br>de Calcio Voltaje-dependientes]\n    \n    B --> C[Entrada de Calcio<br>Ca²⁺ al terminal presináptico]\n    \n    C --> D[Movimiento de Vesículas Sinápticas<br>hacia la membrana presináptica]\n    \n    D --> E[Fusión de Vesículas<br>con membrana presináptica]\n    \n    E --> F[Liberación de Neurotransmisores<br>a la hendidura sináptica]\n    \n    F --> G{Unión a Receptores Postsinápticos}\n    \n    G --> H[Receptores Ionotrópicos<br>Canales iónicos directos]\n    G --> I[Receptores Metabotrópicos<br>Segundos mensajeros]\n    \n    H --> J[Apertura/Cierre de Canales Iónicos<br>Na⁺, K⁺, Cl⁻, Ca²⁺]\n    I --> K[Activación de Cascadas<br>de Señalización Intracelular]\n    \n    J --> L[Generación de Potencial Postsináptico]\n    K --> L\n    \n    L --> M{Tipo de Potencial Postsináptico}\n    M --> N[Potencial Excitador PEPS<br>Despolarización]\n    M --> O[Potencial Inhibidor PIPS<br>Hiperpolarización]\n    \n    N --> P[Integración Neuronal<br>Sumación de señales]\n    O --> P\n    \n    F --> Q[Terminación de la Señal]\n    \n    Q --> R[Recaptación<br>por neuronas o glía]\n    Q --> S[Degradación Enzimática<br>Ej: Acetilcolinesterasa]\n    Q --> T[Difusión<br>Fuera de la hendidura]\n    \n    R --> U[Reciclaje de Neurotransmisores<br>y vesículas]\n    S --> V[Productos de degradación<br>eliminados]\n    T --> W[Señal terminada]\n    \n    U --> A\n    \n    style A fill:#e8f5e8\n    style F fill:#e1f5fe\n    style L fill:#fff3e0\n    style P fill:#c8e6c9\n    style N fill:#e8f5e8\n    style O fill:#ffebee\n    style U fill:#f3e5f5",
+      "complexity": "medium",
+      "tags": [
+        "neuroscience",
+        "neurotransmission",
+        "synapse",
+        "neuron",
+        "brain",
+        "neurotransmitters",
+        "receptors",
+        "postsynaptic_potential",
+        "signal_integration",
+        "neurology"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

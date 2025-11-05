@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Software Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Software Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SE[Software Engineering] --> SDLC[Software Development Life Cycle]\n    SE --> Methodologies[Methodologies]\n    SE --> Principles[Design Principles]\n    SE --> Quality[Software Quality]\n    SE --> Tools[Tools & Environments]\n\n    SDLC --> Requirements[Requirements]\n    SDLC --> Design[Design]\n    SDLC --> Implementation[Implementation]\n    SDLC --> Testing[Testing]\n    SDLC --> Maintenance[Maintenance]\n\n    Methodologies --> Waterfall[Waterfall]\n    Methodologies --> Agile[Agile]\n    Methodologies --> DevOps[DevOps]\n\n    Agile --> Scrum[Scrum]\n    Agile --> Kanban[Kanban]\n    Agile --> XP[Extreme Programming]\n\n    Principles --> SOLID[SOLID]\n    Principles --> DRY[Don't Repeat Yourself]\n    Principles --> KISS[Keep It Simple, Stupid]\n    Principles --> YAGNI[You Ain't Gonna Need It]\n    Principles --> Patterns[Design Patterns]\n\n    Quality --> Reliability[Reliability]\n    Quality --> Maintainability[Maintainability]\n    Quality --> Efficiency[Efficiency]\n    Quality --> Usability[Usability]\n    Quality --> SQA[Software Quality Assurance]\n\n    Tools --> VCS[Version Control]\n    Tools --> IDEs[IDEs]\n    Tools --> CI_CD[CI/CD]\n    Tools --> TestingFrameworks[Testing Frameworks]",
+            "complexity": "medium",
+            "tags": ["software_engineering", "engineering", "sdlc", "agile", "solid"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

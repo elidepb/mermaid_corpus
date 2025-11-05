@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "212",
+      "topic": "Physiology",
+      "category": "Medicine",
+      "description": "A flowchart illustrating the stages of cellular respiration, a key physiological process.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Start([Glucose Entry]) --> A[Glucose]\n    A --> B[Glycolysis]\n    B -->|2 ATP| Energy1[ATP Produced]\n    B -->|2 NADH| C[NADH Generated]\n    B --> D[Pyruvate]\n    D -->|Oxygen Present| E[Aerobic Pathway]\n    D -->|No Oxygen| F[Anaerobic Pathway]\n    F --> G[Lactic Acid Fermentation]\n    E --> H[Pyruvate Oxidation]\n    H --> I[Acetyl-CoA]\n    I --> J[Krebs Cycle]\n    J -->|CO2 Released| K[Carbon Dioxide]\n    J -->|NADH & FADH2| L[Electron Carriers]\n    J -->|2 ATP| Energy2[ATP Produced]\n    C --> M[Electron Transport Chain]\n    L --> M\n    M -->|O2| N[Oxygen Reduction]\n    N --> O[Water Formation]\n    M -->|Proton Gradient| P[ATP Synthase]\n    P -->|~32 ATP| Energy3[ATP Produced]\n    Energy1 --> Total[Total ATP: ~36]\n    Energy2 --> Total\n    Energy3 --> Total\n    Total --> End([Cellular Energy])\n    \n    subgraph Cytoplasm[\"Cytoplasm\"]\n        B\n        D\n        F\n        G\n    end\n    \n    subgraph Mitochondria[\"Mitochondria\"]\n        H\n        I\n        J\n        M\n        P\n    end\n    \n    style Start fill:#e1f5ff\n    style End fill:#ffe1f5\n    style Energy1 fill:#e1ffe1\n    style Energy2 fill:#e1ffe1\n    style Energy3 fill:#e1ffe1\n    style Total fill:#fff4e1",
+      "complexity": "medium",
+      "tags": [
+        "physiology",
+        "medicine",
+        "cellular_respiration",
+        "atp",
+        "metabolism"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

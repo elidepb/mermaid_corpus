@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "357",
+            "topic": "Urban Planning",
+            "category": "Planning/Architecture",
+            "description": "A flowchart showing the fundamental concepts and structure of Urban Planning.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    UrbanPlanning[Urban Planning] --> Field1[Planning]\n    UrbanPlanning --> Field2[Architecture]\n    UrbanPlanning --> Integration[Integration Areas]\n    planning --> planningSub1[Theory]\n    planning --> planningSub2[Practice]\n    architecture --> architectureSub1[Theory]\n    architecture --> architectureSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "urban_planning",
+                "planning",
+                "architecture"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

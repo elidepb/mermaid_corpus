@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "technology",
+            "description": "A flowchart showing the fundamental concepts of Augmented Reality.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AR[Augmented Reality] --> Hardware[Hardware]\n    AR --> Software[Software]\n    AR --> Concepts[Key Concepts]\n    AR --> Types[Types of AR]\n    AR --> Applications[Applications]\n\n    Hardware --> Displays[Displays]\n    Hardware --> Processors[Processors]\n    Hardware --> Sensors[Sensors]\n\n    Displays --> HMDs[Head-Mounted Displays]\n    Displays --> Handheld[Handheld Displays]\n\n    Sensors --> GPS[GPS]\n    Sensors --> Accelerometer[Accelerometer]\n    Sensors --> Gyroscope[Gyroscope]\n    Sensors --> Camera[Camera]\n\n    Software --> SDKs[AR SDKs]\n    Software --> Content[AR Content]\n\n    SDKs --> ARKit[Apple ARKit]\n    SDKs --> ARCore[Google ARCore]\n    SDKs --> Vuforia[Vuforia]\n\n    Concepts --> Tracking[Tracking]\n    Concepts --> Registration[Registration]\n    Concepts --> Rendering[Rendering]\n\n    Types --> MarkerBased[Marker-Based AR]\n    Types --> Markerless[Markerless AR]\n    Types --> ProjectionBased[Projection-Based AR]\n    Types --> Superimposition[Superimposition-Based AR]\n\n    Applications --> Gaming[Gaming]\n    Applications --> Retail[Retail]\n    Applications --> Manufacturing[Manufacturing]\n    Applications --> Navigation[Navigation]\n    Applications --> Education[Education]",
+            "complexity": "medium",
+            "tags": ["augmented_reality", "technology", "ar", "arkit", "arcore"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

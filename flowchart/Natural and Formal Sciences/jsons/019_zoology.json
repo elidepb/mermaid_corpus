@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "019",
+            "topic": "Zoology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Zoology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Zoology --> Kingdom[Animal Kingdom]\n\n    Kingdom --> Invertebrates[Invertebrates]\n    Kingdom --> Vertebrates[Vertebrates]\n\n    Invertebrates --> Porifera[Porifera]\n    Invertebrates --> Cnidaria[Cnidaria]\n    Invertebrates --> Platyhelminthes[Platyhelminthes]\n    Invertebrates --> Nematoda[Nematoda]\n    Invertebrates --> Annelida[Annelida]\n    Invertebrates --> Mollusca[Mollusca]\n    Invertebrates --> Arthropoda[Arthropoda]\n    Invertebrates --> Echinodermata[Echinodermata]\n\n    Vertebrates --> Fish[Fish]\n    Vertebrates --> Amphibians[Amphibians]\n    Vertebrates --> Reptiles[Reptiles]\n    Vertebrates --> Birds[Birds]\n    Vertebrates --> Mammals[Mammals]",
+            "complexity": "medium",
+            "tags": ["zoology", "biology", "animals", "invertebrates", "vertebrates"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "091",
+            "topic": "Petroleum Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Petroleum Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PE[Petroleum Engineering] --> Upstream[Upstream Sector]\n    PE --> Midstream[Midstream Sector]\n    PE --> Downstream[Downstream Sector]\n\n    Upstream --> Exploration[Exploration]\n    Upstream --> Drilling[Drilling Engineering]\n    Upstream --> Reservoir[Reservoir Engineering]\n    Upstream --> Production[Production Engineering]\n\n    Exploration --> Geophysics[Geophysical Surveys]\n    Exploration --> Geology[Geological Analysis]\n\n    Drilling --> WellDesign[Well Design]\n    Drilling --> DrillingFluids[Drilling Fluids]\n    Drilling --> Casing[Casing & Cementing]\n\n    Reservoir --> RockProperties[Reservoir Rock Properties]\n    Reservoir --> FluidProperties[Fluid Properties]\n    Reservoir --> Flow[Fluid Flow in Porous Media]\n    Reservoir --> EOR[Enhanced Oil Recovery]\n\n    Production --> WellCompletion[Well Completion]\n    Production --> ArtificialLift[Artificial Lift]\n    Production --> SurfaceFacilities[Surface Facilities]\n\n    Midstream --> Transportation[Transportation]\n    Midstream --> Storage[Storage]\n\n    Transportation --> Pipelines[Pipelines]\n    Transportation --> Tankers[Tankers]\n\n    Downstream --> Refining[Refining]\n    Downstream --> Petrochemicals[Petrochemicals]\n    Downstream --> Distribution[Distribution & Marketing]",
+            "complexity": "medium",
+            "tags": ["petroleum_engineering", "engineering", "oil_and_gas", "reservoir_engineering", "drilling"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

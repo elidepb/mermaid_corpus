@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "042",
+            "topic": "Seismology",
+            "category": "earth_sciences",
+            "description": "A flowchart showing the fundamental concepts of Seismology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Seismology --> Earthquakes[Earthquakes]\n    Seismology --> Waves[Seismic Waves]\n    Seismology --> Measurement[Measuring Earthquakes]\n    Seismology --> Hazards[Earthquake Hazards]\n\n    Earthquakes --> Faults[Faults]\n    Earthquakes --> Epicenter[Epicenter & Focus]\n\n    Waves --> Body[Body Waves]\n    Waves --> Surface[Surface Waves]\n\n    Body --> Pwaves[P-waves]\n    Body --> Swaves[S-waves]\n\n    Surface --> Love[Love Waves]\n    Surface --> Rayleigh[Rayleigh Waves]\n\n    Measurement --> Seismographs[Seismographs]\n    Measurement --> Magnitude[Magnitude Scales]\n    Measurement --> Intensity[Intensity Scales]\n\n    Magnitude --> Richter[Richter Scale]\n    Magnitude --> Moment[Moment Magnitude Scale]\n\n    Intensity --> MMI[Modified Mercalli Intensity Scale]\n\n    Hazards --> GroundShaking[Ground Shaking]\n    Hazards --> Liquefaction[Liquefaction]\n    Hazards --> Landslides[Landslides]\n    Hazards --> Tsunamis[Tsunamis]",
+            "complexity": "medium",
+            "tags": ["seismology", "earth_sciences", "earthquakes", "seismic_waves", "faults"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

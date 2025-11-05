@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "053",
+            "topic": "Computer Networks",
+            "category": "computer_science",
+            "description": "A flowchart showing the fundamental concepts of Computer Networks.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CN[Computer Networks] --> Models[Network Models]\n    CN --> Topologies[Network Topologies]\n    CN --> Hardware[Network Hardware]\n    CN --> Protocols[Key Protocols]\n\n    Models --> OSI[OSI Model]\n    Models --> TCPIP[TCP/IP Model]\n\n    OSI --> Physical[1. Physical]\n    OSI --> DataLink[2. Data Link]\n    OSI --> Network[3. Network]\n    OSI --> Transport[4. Transport]\n    OSI --> Session[5. Session]\n    OSI --> Presentation[6. Presentation]\n    OSI --> Application[7. Application]\n\n    Topologies --> Bus[Bus]\n    Topologies --> Star[Star]\n    Topologies --> Ring[Ring]\n    Topologies --> Mesh[Mesh]\n    Topologies --> Tree[Tree]\n\n    Hardware --> Routers[Routers]\n    Hardware --> Switches[Switches]\n    Hardware --> Hubs[Hubs]\n    Hardware --> NICs[Network Interface Cards]\n\n    Protocols --> IP[IP]\n    Protocols --> TCP[TCP]\n    Protocols --> UDP[UDP]\n    Protocols --> HTTP[HTTP]\n    Protocols --> DNS[DNS]",
+            "complexity": "medium",
+            "tags": ["computer_networks", "computer_science", "osi_model", "tcp_ip", "protocols"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

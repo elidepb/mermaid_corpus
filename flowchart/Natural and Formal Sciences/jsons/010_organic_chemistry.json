@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "010",
+            "topic": "Organic Chemistry",
+            "category": "chemistry",
+            "description": "A flowchart showing the fundamental concepts of Organic Chemistry.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    OC[Organic Chemistry] --> SF[Structure & Bonding]\n    OC --> FG[Functional Groups]\n    OC --> RX[Reactions]\n    OC --> S[Spectroscopy]\n\n    SF --> H[Hybridization]\n    SF --> R[Resonance]\n    SF --> SC[Stereochemistry]\n\n    FG --> Alkanes[Alkanes]\n    FG --> Alkenes[Alkenes]\n    FG --> Alkynes[Alkynes]\n    FG --> Alcohols[Alcohols]\n    FG --> Ethers[Ethers]\n    FG --> Aldehydes[Aldehydes]\n    FG --> Ketones[Ketones]\n    FG --> CA[Carboxylic Acids]\n    FG --> Esters[Esters]\n    FG --> Amines[Amines]\n    FG --> Amides[Amides]\n\n    RX --> Add[Addition]\n    RX --> Sub[Substitution]\n    RX --> Elim[Elimination]\n    RX --> RA[Rearrangement]\n\n    S --> NMR[NMR Spectroscopy]\n    S --> IR[IR Spectroscopy]\n    S --> MS[Mass Spectrometry]",
+            "complexity": "medium",
+            "tags": ["organic_chemistry", "chemistry", "hydrocarbons", "functional_groups", "spectroscopy"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

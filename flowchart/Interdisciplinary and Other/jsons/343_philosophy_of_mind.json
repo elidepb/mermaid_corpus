@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "343",
+            "topic": "Philosophy of Mind",
+            "category": "Philosophy/Psychology",
+            "description": "A flowchart showing the fundamental concepts and structure of Philosophy of Mind.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PhilosophyofMind[Philosophy of Mind] --> Field1[Philosophy]\n    PhilosophyofMind --> Field2[Psychology]\n    PhilosophyofMind --> Integration[Integration Areas]\n    philosophy --> philosophySub1[Theory]\n    philosophy --> philosophySub2[Practice]\n    psychology --> psychologySub1[Theory]\n    psychology --> psychologySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "philosophy_of_mind",
+                "philosophy",
+                "psychology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

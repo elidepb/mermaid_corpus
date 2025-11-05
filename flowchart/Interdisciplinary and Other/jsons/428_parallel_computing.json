@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "428",
+            "topic": "Parallel Computing",
+            "category": "Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Parallel Computing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ParallelComputing[Parallel Computing] --> Architectures[Parallel Architectures]\n    ParallelComputing --> Programming[Parallel Programming]\n    ParallelComputing --> Algorithms[Parallel Algorithms]\n    Architectures --> Multiprocessor[Multiprocessor Systems]\n    Architectures --> Distributed[Distributed Systems]\n    Programming --> Models[Programming Models]\n    Programming --> Languages[Parallel Languages]\n    Algorithms --> Decomposition[Decomposition]\n    Algorithms --> Synchronization[Synchronization]",
+            "complexity": "medium",
+            "tags": [
+                "parallel_computing",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

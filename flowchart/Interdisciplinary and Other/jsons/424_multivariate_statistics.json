@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "424",
+            "topic": "Multivariate Statistics",
+            "category": "Mathematics",
+            "description": "A flowchart showing the fundamental concepts and structure of Multivariate Statistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    MultivariateStatistics[Multivariate Statistics] --> Foundations[Foundations]\n    MultivariateStatistics --> Methods[Research Methods]\n    MultivariateStatistics --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "multivariate_statistics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

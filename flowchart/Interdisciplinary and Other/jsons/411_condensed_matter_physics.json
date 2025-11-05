@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "411",
+            "topic": "Condensed Matter Physics",
+            "category": "Physics",
+            "description": "A flowchart showing the fundamental concepts and structure of Condensed Matter Physics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CondensedMatterPhysics[Condensed Matter Physics] --> Foundations[Foundations]\n    CondensedMatterPhysics --> Methods[Research Methods]\n    CondensedMatterPhysics --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "condensed_matter_physics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

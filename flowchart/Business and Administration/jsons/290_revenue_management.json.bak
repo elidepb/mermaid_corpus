@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "290",
+      "topic": "Revenue Management",
+      "category": "Business",
+      "description": "A detailed flowchart of the revenue management process.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n A[Revenue Management Process] --> B[1. Data Collection]\n B --> C[Historical Data]\n B --> D[Market Data]\n B --> E[Competitor Data]\n\n A --> F[2. Segmentation]\n F --> G[Customer Behavior]\n F --> H[Price Sensitivity]\n\n A --> I[3. Forecasting]\n I --> J[Demand Forecasting]\n I --> K[Revenue Forecasting]\n\n A --> L[4. Optimization]\n L --> M[Pricing]\n L --> N[Inventory Control]\n\n A --> O[5. Performance Measurement]\n O --> P[Key Performance Indicators (KPIs)]\n O --> Q[RevPAR]\n O --> R[GOPPAR]",
+      "complexity": "high",
+      "tags": [
+        "revenue_management",
+        "business",
+        "marketing",
+        "pricing",
+        "forecasting"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

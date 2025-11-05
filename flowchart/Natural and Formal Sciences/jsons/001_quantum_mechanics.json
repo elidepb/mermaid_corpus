@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "001",
+            "topic": "Quantum Mechanics",
+            "category": "physics",
+            "description": "A flowchart showing the fundamental concepts of Quantum Mechanics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    QM[Quantum Mechanics] --> F[Foundations]\n    QM --> PH[Key Phenomena]\n    QM --> APP[Applications]\n\n    F --> WP[Wave-Particle Duality]\n    F --> UP[Uncertainty Principle]\n    F --> SE[Schrödinger Equation]\n    F --> QS[Quantum States & Superposition]\n\n    WP --> DE[De Broglie Hypothesis]\n    UP --> HI[Heisenberg's Formulation]\n    SE --> WF[Wave Function]\n    QS --> Q[Qubits]\n\n    PH --> QE[Quantization of Energy]\n    PH --> QT[Quantum Tunneling]\n    PH --> QE[Quantum Entanglement]\n    PH --> INT[Interference]\n\n    APP --> QCOMP[Quantum Computing]\n    APP --> QCRY[Quantum Cryptography]\n    APP --> LASER[Lasers]\n    APP --> MRI[MRI]\n    APP --> SS[Solid-State Physics]",
+            "complexity": "medium",
+            "tags": ["quantum_mechanics", "physics", "quantum_physics", "quantum_computing"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

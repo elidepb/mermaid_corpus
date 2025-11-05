@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Quality Management",
+            "category": "Business",
+            "description": "A detailed flowchart of the Total Quality Management (TQM) framework.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Total Quality Management] --> B[Customer Focus]\n    A --> C[Leadership]\n    A --> D[Employee Involvement]\n    A --> E[Process Approach]\n    A --> F[System Approach to Management]\n    A --> G[Continual Improvement]\n    A --> H[Factual Approach to Decision Making]\n    A --> I[Mutually Beneficial Supplier Relationships]",
+            "complexity": "high",
+            "tags": ["quality_management", "tqm", "six_sigma", "iso_9000", "continuous_improvement"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

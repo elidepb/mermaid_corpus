@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "419",
+            "topic": "Functional Analysis",
+            "category": "Mathematics",
+            "description": "A flowchart showing the fundamental concepts and structure of Functional Analysis.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    FunctionalAnalysis[Functional Analysis] --> Foundations[Foundations]\n    FunctionalAnalysis --> Methods[Research Methods]\n    FunctionalAnalysis --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "functional_analysis",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

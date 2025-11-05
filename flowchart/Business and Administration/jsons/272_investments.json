@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "272",
+            "topic": "Investments",
+            "category": "Business",
+            "description": "A detailed flowchart of the investment process.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Investment Process] --> B[Set Investment Goals]\n    B --> C[Determine Risk Tolerance]\n    C --> D[Asset Allocation]\n    D --> E[Security Selection]\n    E --> F[Portfolio Construction]\n    F --> G[Monitoring & Rebalancing]\n\n    D --> H[Stocks]\n    D --> I[Bonds]\n    D --> J[Real Estate]\n    D --> K[Commodities]\n    D --> L[Alternatives]",
+            "complexity": "high",
+            "tags": ["investments", "finance", "portfolio_management", "asset_allocation", "risk_management"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

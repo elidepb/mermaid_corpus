@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "365",
+            "topic": "Ethnopharmacology",
+            "category": "Anthropology/Pharmacy",
+            "description": "A flowchart showing the fundamental concepts and structure of Ethnopharmacology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Ethnopharmacology[Ethnopharmacology] --> Field1[Anthropology]\n    Ethnopharmacology --> Field2[Pharmacy]\n    Ethnopharmacology --> Integration[Integration Areas]\n    anthropology --> anthropologySub1[Theory]\n    anthropology --> anthropologySub2[Practice]\n    pharmacy --> pharmacySub1[Theory]\n    pharmacy --> pharmacySub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "ethnopharmacology",
+                "anthropology",
+                "pharmacy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

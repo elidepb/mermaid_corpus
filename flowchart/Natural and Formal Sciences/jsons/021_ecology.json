@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "021",
+            "topic": "Ecology",
+            "category": "biology",
+            "description": "A flowchart showing the fundamental concepts of Ecology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Ecology --> Levels[Levels of Organization]\n    Ecology --> Interactions[Ecological Interactions]\n    Ecology --> Ecosystems[Ecosystem Dynamics]\n\n    Levels --> Individual[Individual]\n    Levels --> Population[Population]\n    Levels --> Community[Community]\n    Levels --> Ecosystem[Ecosystem]\n    Levels --> Biome[Biome]\n    Levels --> Biosphere[Biosphere]\n\n    Interactions --> Competition[Competition]\n    Interactions --> Predation[Predation]\n    Interactions --> Symbiosis[Symbiosis]\n\n    Symbiosis --> Mutualism[Mutualism]\n    Symbiosis --> Commensalism[Commensalism]\n    Symbiosis --> Parasitism[Parasitism]\n\n    Ecosystems --> EnergyFlow[Energy Flow]\n    Ecosystems --> NutrientCycling[Nutrient Cycling]\n\n    EnergyFlow --> FoodChains[Food Chains]\n    EnergyFlow --> FoodWebs[Food Webs]\n\n    NutrientCycling --> CarbonCycle[Carbon Cycle]\n    NutrientCycling --> NitrogenCycle[Nitrogen Cycle]\n    NutrientCycling --> WaterCycle[Water Cycle]",
+            "complexity": "medium",
+            "tags": ["ecology", "biology", "ecosystem", "symbiosis", "nutrient_cycling"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

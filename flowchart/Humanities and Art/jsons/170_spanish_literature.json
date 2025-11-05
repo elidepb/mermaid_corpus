@@ -1,0 +1,18 @@
+{
+  "diagrams": [
+    {
+      "id": "170",
+      "topic": "Spanish Literature",
+      "category": "Literature",
+      "description": "A flowchart showing the fundamental concepts of Spanish Literature.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    SpanishLiterature[Spanish Literature] --> MiddleAges[Middle Ages]\n    SpanishLiterature --> Renaissance[Renaissance]\n    SpanishLiterature --> GoldenAge[Golden Age]\n    SpanishLiterature --> Modern[Modern Period]\n    MiddleAges --> ElCid[El Cid]\n    GoldenAge --> Cervantes[Cervantes]\n    GoldenAge --> LopeDeVega[Lope de Vega]\n    Modern --> Generation98[Generation of 98]\n    Modern --> Lorca[Lorca]",
+      "complexity": "medium",
+      "tags": [
+        "spanish literature",
+        "literature"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

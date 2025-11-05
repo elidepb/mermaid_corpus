@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "International Business",
+            "category": "Business",
+            "description": "A detailed flowchart of international business, including modes of entry and environmental factors.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[International Business] --> B[Modes of Entry]\n    B --> C[Exporting]\n    B --> D[Licensing]\n    B --> E[Franchising]\n    B --> F[Joint Venture]\n    B --> G[Wholly Owned Subsidiary]\n\n    A --> H[Environmental Factors]\n    H --> I[Political]\n    H --> J[Economic]\n    H --> K[Social]\n    H --> L[Technological]\n    H --> M[Legal]\n    H --> N[Environmental]",
+            "complexity": "high",
+            "tags": ["international_business", "globalization", "modes_of_entry", "pestle_analysis", "business"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

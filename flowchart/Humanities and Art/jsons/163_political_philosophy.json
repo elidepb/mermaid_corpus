@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "163",
+            "topic": "Political Philosophy",
+            "category": "Philosophy",
+            "description": "A flowchart showing the fundamental concepts of Political Philosophy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    PP[Political Philosophy] --> C[Concepts]\n    PP --> T[Theories of Justice]\n    PP --> F[Forms of Government]\n\n    C --> J[Justice]\n    C --> L[Liberty]\n    C --> E[Equality]\n    C --> R[Rights]\n    C --> A[Authority]\n    C --> P[Power]\n\n    T --> U[Utilitarianism]\n    T --> L2[Liberalism]\n    T --> L3[Libertarianism]\n    T --> C2[Communitarianism]\n\n    F --> D[Democracy]\n    F --> M[Monarchy]\n    F --> A2[Aristocracy]\n    F --> O[Oligarchy]",
+            "complexity": "medium",
+            "tags": [
+                "political philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

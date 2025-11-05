@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "363",
+            "topic": "Psychoneuroimmunology",
+            "category": "Psychology/Medicine",
+            "description": "A flowchart showing the fundamental concepts and structure of Psychoneuroimmunology.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Psychoneuroimmunology[Psychoneuroimmunology] --> Field1[Psychology]\n    Psychoneuroimmunology --> Field2[Medicine]\n    Psychoneuroimmunology --> Integration[Integration Areas]\n    psychology --> psychologySub1[Theory]\n    psychology --> psychologySub2[Practice]\n    medicine --> medicineSub1[Theory]\n    medicine --> medicineSub2[Practice]\n    Integration --> Methods[Research Methods]\n    Integration --> Applications[Applications]",
+            "complexity": "high",
+            "tags": [
+                "psychoneuroimmunology",
+                "psychology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

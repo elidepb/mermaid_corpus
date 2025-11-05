@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "433",
+            "topic": "Pharmacovigilance",
+            "category": "Pharmacy",
+            "description": "A flowchart showing the fundamental concepts and structure of Pharmacovigilance.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Pharmacovigilance[Pharmacovigilance] --> Foundations[Foundations]\n    Pharmacovigilance --> Methods[Research Methods]\n    Pharmacovigilance --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "pharmacovigilance",
+                "pharmacy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

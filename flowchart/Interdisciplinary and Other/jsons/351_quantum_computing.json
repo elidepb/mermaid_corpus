@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "351",
+            "topic": "Quantum Computing",
+            "category": "Physics/Computer Science",
+            "description": "A flowchart showing the fundamental concepts and structure of Quantum Computing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    QuantumComputing[Quantum Computing] --> Qubits[Qubits & Quantum States]\n    QuantumComputing --> Gates[Quantum Gates]\n    QuantumComputing --> Algorithms[Quantum Algorithms]\n    Qubits --> Superposition[Superposition]\n    Qubits --> Entanglement[Entanglement]\n    Gates --> Single[Single-Qubit Gates]\n    Gates --> Multi[Multi-Qubit Gates]\n    Algorithms --> Shor[Shor's Algorithm]\n    Algorithms --> Grover[Grover's Algorithm]",
+            "complexity": "high",
+            "tags": [
+                "quantum_computing",
+                "physics",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

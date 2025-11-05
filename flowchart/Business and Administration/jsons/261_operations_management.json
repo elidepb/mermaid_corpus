@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "261",
+            "topic": "Operations Management",
+            "category": "Business",
+            "description": "A detailed flowchart of Operations Management, including inputs, transformation processes, and outputs.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Operations Management] --> B[Inputs]\n    B --> C[Human Resources]\n    B --> D[Raw Materials]\n    B --> E[Technology]\n    B --> F[Capital]\n\n    A --> G[Transformation Process]\n    G --> H[Product Design]\n    G --> I[Process Strategy]\n    G --> J[Quality Management]\n    G --> K[Inventory Management]\n\n    A --> L[Outputs]\n    L --> M[Goods]\n    L --> N[Services]",
+            "complexity": "high",
+            "tags": ["operations_management", "business", "supply_chain", "quality_management", "inventory_management"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+/* General Body Styles */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2c3e50;
+    --background-color: #ecf0f1;
+    --font-color: #34495e;
+    --card-background: #ffffff;
+    --error-color: #e74c3c;
+    --hover-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--font-color);
+    margin: 0;
+    padding: 2rem;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+/* Header and Footer */
+header {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    color: var(--secondary-color);
+    font-size: 0.9em;
+}
+
+/* Typography */
+h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+/* Card Grid for Diagram List */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.card {
+    background: var(--card-background);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--hover-shadow);
+}
+
+.card-image-container {
+    width: 100%;
+    height: 200px;
+    background: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-bottom: 1px solid #e9ecef;
+    position: relative;
+}
+
+.skeleton-loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s ease-in-out infinite;
+    border-radius: 4px;
+}
+
+@keyframes skeleton-loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.mermaid-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+
+.mermaid-container.queued {
+    opacity: 0;
+}
+
+.mermaid-container[style*="display: block"],
+.mermaid-container.mermaid-rendered {
+    opacity: 1;
+    visibility: visible;
+}
+
+.card-image-container .mermaid,
+.card-image-container .mermaid-rendered {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    background: white;
+    min-height: 200px;
+}
+
+.card-image-container .mermaid {
+    color: transparent;
+    font-size: 0;
+}
+
+.card-image-container .mermaid svg,
+.card-image-container .mermaid-rendered svg {
+    color: initial;
+    font-size: initial;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.mermaid-error {
+    color: #e74c3c;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: white;
+}
+
+.mermaid-error-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-height: 200px;
+    background: white;
+}
+
+.mermaid-error-container .error-text,
+.mermaid-error-container .error-icon {
+    display: none !important;
+}
+
+body .error-text,
+body .error-icon {
+    display: none !important;
+}
+
+.mermaid-rendered .error-text,
+.mermaid-rendered .error-icon,
+.mermaid .error-text,
+.mermaid .error-icon {
+    display: none !important;
+}
+
+svg + .error-text,
+svg + .error-icon,
+.error-icon + .error-text {
+    display: none !important;
+}
+
+.card-body {
+    padding: 1.5rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.2em;
+    color: var(--primary-color);
+    line-height: 1.4;
+}
+
+.diagram-number {
+    font-weight: bold;
+    color: var(--secondary-color);
+    margin-right: 0.5rem;
+}
+
+.card-text.error {
+    color: var(--error-color);
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+/* Diagram View */
+.button {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #2980b9;
+}
+
+.diagram-container {
+    position: relative;
+    min-height: 400px;
+    background: var(--card-background);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skeleton-loader-large {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s ease-in-out infinite;
+    border-radius: 8px;
+}
+
+.mermaid-detail {
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mermaid-detail.mermaid-rendered {
+    display: block;
+}
+
+.mermaid-detail.mermaid-rendered svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.mermaid {
+    background: var(--card-background);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

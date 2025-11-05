@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "259",
+      "topic": "Marketing",
+      "category": "Business",
+      "description": "A detailed flowchart of the marketing process, from market analysis to customer relationship management.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n A[Marketing Process] --> B[Market Analysis]\n B --> C[SWOT Analysis]\n B --> D[PESTLE Analysis]\n B --> E[Competitor Analysis]\n\n A --> F[Marketing Strategy]\n F --> G[Segmentation]\n F --> H[Targeting]\n F --> I[Positioning]\n\n A --> J[Marketing Mix (4 Ps)]\n J --> K[Product]\n J --> L[Price]\n J --> M[Place]\n J --> N[Promotion]\n\n A --> O[Implementation & Control]\n O --> P[Action Plan]\n O --> Q[Budget]\n O --> R[Monitoring & Metrics]\n\n A --> S[Customer Relationship Management]\n S --> T[Customer Acquisition]\n S --> U[Customer Retention]\n S --> V[Customer Loyalty]",
+      "complexity": "high",
+      "tags": [
+        "marketing",
+        "business",
+        "marketing_strategy",
+        "marketing_mix",
+        "crm"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

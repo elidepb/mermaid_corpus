@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Hydraulic Engineering",
+            "category": "engineering",
+            "description": "A flowchart showing the fundamental concepts of Hydraulic Engineering.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    HE[Hydraulic Engineering] --> FluidMechanics[Fluid Mechanics]\n    HE --> OpenChannel[Open Channel Flow]\n    HE --> PipeFlow[Pipe Flow]\n    HE --> Hydrology[Hydrology]\n    HE --> Structures[Hydraulic Structures]\n\n    FluidMechanics --> Properties[Fluid Properties]\n    FluidMechanics --> Statics[Fluid Statics]\n    FluidMechanics --> Dynamics[Fluid Dynamics]\n\n    OpenChannel --> Uniform[Uniform Flow]\n    OpenChannel --> Varied[Gradually & Rapidly Varied Flow]\n\n    PipeFlow --> Laminar[Laminar Flow]\n    PipeFlow --> Turbulent[Turbulent Flow]\n    PipeFlow --> Friction[Friction Losses]\n\n    Hydrology --> Rainfall[Rainfall-Runoff Analysis]\n    Hydrology --> Floods[Flood Routing]\n\n    Structures --> Dams[Dams]\n    Structures --> Weirs[Weirs]\n    Structures --> Spillways[Spillways]\n    Structures --> Culverts[Culverts]\n    Structures --> Canals[Canals]",
+            "complexity": "medium",
+            "tags": ["hydraulic_engineering", "engineering", "civil_engineering", "fluid_mechanics", "hydrology"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

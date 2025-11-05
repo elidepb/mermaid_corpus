@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "413",
+            "topic": "Radio Astronomy",
+            "category": "Astronomy",
+            "description": "A flowchart showing the fundamental concepts and structure of Radio Astronomy.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    RadioAstronomy[Radio Astronomy] --> Foundations[Foundations]\n    RadioAstronomy --> Methods[Research Methods]\n    RadioAstronomy --> Applications[Applications]\n    Foundations --> Theory[Theoretical Foundations]\n    Foundations --> Practice[Practical Foundations]\n    Theory --> Principles[Core Principles]\n    Theory --> Concepts[Key Concepts]\n    Practice --> Techniques[Techniques]\n    Practice --> Tools[Tools & Methods]",
+            "complexity": "medium",
+            "tags": [
+                "radio_astronomy",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
