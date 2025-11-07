@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "168",
+            "topic": "Syntax",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Syntax.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Syntax))\n    Sentence Structure\n      Constituents\n      Phrase Structure\n      Head & Complement\n      Modifiers\n    Grammatical Relations\n      Subject\n      Object\n      Predicate\n    Syntactic Theory\n      Transformational Grammar\n      X-bar Theory\n      Government & Binding\n      Minimalist Program\n    Phenomena\n      Word Order\n      Agreement\n      Case\n      Movement",
+            "complexity": "high",
+            "tags": [
+                "syntax",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

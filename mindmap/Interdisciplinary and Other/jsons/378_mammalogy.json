@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "378",
+            "topic": "Mammalogy",
+            "category": "Zoology",
+            "description": "A mindmap showing the fundamental concepts and structure of Mammalogy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Mammalogy))\n    Zoology\n      Mammals\n      Anatomy\n      Physiology\n      Taxonomy\n    Groups\n      Primates\n      Carnivores\n      Rodents\n      Marine Mammals\n    Research\n      Behavior\n      Ecology\n      Evolution\n      Conservation\n    Topics\n      Reproduction\n      Thermoregulation\n      Social Structure\n      Adaptation",
+            "complexity": "high",
+            "tags": [
+                "mammalogy",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

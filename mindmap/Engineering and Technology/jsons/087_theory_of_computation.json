@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Theory of Computation",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Theory of Computation.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Theory of Computation))\n    Automata Theory\n      Finite Automata\n      Pushdown Automata\n      Turing Machines\n    Computational Complexity\n      P vs NP Problem\n      Time Complexity\n      Space Complexity\n    Formal Languages\n      Regular Languages\n      Context-Free Languages\n      Recursively Enumerable\n    Computability\n      Decidability\n      Church-Turing Thesis\n      Halting Problem",
+            "complexity": "high",
+            "tags": [
+                "theory_of_computation",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

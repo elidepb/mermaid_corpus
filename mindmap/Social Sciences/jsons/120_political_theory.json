@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Political Theory",
+            "category": "Political Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Political Theory.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Political Theory))\n    Classical Thought\n      Plato\n      Aristotle\n      Machiavelli\n      Hobbes\n      Locke\n      Rousseau\n    Modern Theory\n      Liberalism\n      Conservatism\n      Socialism\n      Anarchism\n    Contemporary Debates\n      Justice\n      Democracy\n      Rights\n      Power\n    Key Concepts\n      Sovereignty\n      Legitimacy\n      Authority\n      Freedom",
+            "complexity": "high",
+            "tags": [
+                "political_theory",
+                "political_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

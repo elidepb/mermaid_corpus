@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "448",
+            "topic": "Heraldry",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Heraldry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Heraldry))\n    Definition\n      System of hereditary symbols\n      Coats of arms\n    Components\n      Shield\n        Field\n        Charges\n        Ordinaries\n      Crest\n      Supporters\n      Motto\n    Tinctures\n      Metals\n        Or (gold)\n        Argent (silver)\n      Colors\n        Gules (red)\n        Azure (blue)\n        Vert (green)\n      Furs\n    Blazoning\n      Heraldic language\n      Precise descriptions\n    History\n      Medieval origins\n      Tournament identification\n      Family lineages\n    Applications\n      Genealogy\n      Corporate identity\n      Institutional symbols\n      Personal arms",
+            "complexity": "high",
+            "tags": [
+                "heraldry",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "071",
+            "topic": "Telecommunications Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Telecommunications Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Telecommunications Engineering))\n    Signal Theory\n      Analog Signals\n      Digital Signals\n      Modulation\n      Multiplexing\n    Transmission Systems\n      Wired Transmission\n      Wireless Transmission\n      Fiber Optics\n      Satellite Communications\n    Network Architecture\n      Network Topology\n      Protocols\n      Switching\n      Routing\n    Mobile Communications\n      Cellular Networks\n      5G Technology\n      Mobile Devices\n      Handoff\n    Data Communications\n      Error Detection\n      Error Correction\n      Compression\n      Encryption\n    Broadcasting\n      Radio Broadcasting\n      Television\n      Digital Broadcasting\n      Streaming\n    Antenna Systems\n      Antenna Design\n      Propagation\n      Antenna Arrays\n      Microwave Antennas\n    Network Management\n      Performance Monitoring\n      Quality of Service\n      Traffic Management\n      Network Security",
+            "complexity": "high",
+            "tags": [
+                "telecommunications_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

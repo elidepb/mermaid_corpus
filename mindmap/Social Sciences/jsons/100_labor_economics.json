@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Labor Economics",
+            "category": "Economics",
+            "description": "A mindmap showing the fundamental concepts and structure of Labor Economics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Labor Economics))\n    Labor Supply\n      Work-Leisure Choice\n      Human Capital\n      Labor Force Participation\n    Labor Demand\n      Marginal Productivity\n      Hiring Decisions\n    Wage Determination\n      Supply and Demand\n      Minimum Wage\n      Collective Bargaining\n    Topics\n      Unemployment\n      Discrimination\n      Immigration\n      Unions",
+            "complexity": "high",
+            "tags": [
+                "labor_economics",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

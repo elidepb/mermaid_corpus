@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "486",
+            "topic": "Philosophy of Technology",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Philosophy of Technology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Philosophy of<br/>Technology))\n    Definition\n      Philosophical questions about technology\n      Nature and impact\n    Classical Questions\n      What is Technology?\n        Artifacts\n        Systems\n        Practices\n      Technology and Human Nature\n        Enhancement\n        Essence\n      Technology and Society\n        Determinism\n        Social shaping\n    Ethical Issues\n      Risk and Safety\n        Assessment\n        Precautionary principle\n      Privacy\n        Surveillance\n        Data\n      Autonomy\n        Automation\n        Control\n      Justice\n        Access\n        Digital divide\n      Environmental Impact\n    Key Thinkers\n      Martin Heidegger\n        Technology as enframing\n      Jacques Ellul\n        Technological society\n      Don Ihde\n        Postphenomenology\n      Albert Borgmann\n        Device paradigm\n    Contemporary Topics\n      AI Ethics\n        Decision-making\n        Bias\n        Consciousness\n      Biotechnology\n        Enhancement\n        Identity\n      Digital Technology\n        Virtual reality\n        Social media\n    Approaches\n      Phenomenology\n      Social Constructivism\n      Critical Theory\n      Pragmatism\n    Values in Design\n      Value-sensitive design\n      Embedded values\n      Democratic technology",
+            "complexity": "high",
+            "tags": [
+                "philosophy_of_technology",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

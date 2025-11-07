@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Climate Change",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Climate Change.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Climate Change))\n    Causes\n      Greenhouse Gases\n      CO2 Emissions\n      Deforestation\n      Industrial Activity\n    Effects\n      Temperature Rise\n      Sea Level Rise\n      Extreme Weather\n      Ecosystem Disruption\n    Mitigation\n      Carbon Reduction\n      Renewable Energy\n      Reforestation\n      Carbon Capture\n    Adaptation\n      Infrastructure\n      Agriculture\n      Disaster Preparedness\n    Policy\n      Paris Agreement\n      IPCC\n      Carbon Markets",
+            "complexity": "high",
+            "tags": [
+                "climate_change",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

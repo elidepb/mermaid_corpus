@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "368",
+            "topic": "Professional Ethics",
+            "category": "Ethics/Professional",
+            "description": "A mindmap showing the fundamental concepts and structure of Professional Ethics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Professional<br/>Ethics))\n    Ethics\n      Moral Philosophy\n      Normative Ethics\n      Applied Ethics\n      Virtue Ethics\n    Professional Fields\n      Medicine\n      Law\n      Engineering\n      Business\n    Key Concepts\n      Codes of Conduct\n      Confidentiality\n      Integrity\n      Accountability\n    Issues\n      Conflicts of Interest\n      Duty to Society\n      Competence\n      Whistleblowing",
+            "complexity": "high",
+            "tags": [
+                "professional_ethics",
+                "ethics",
+                "professional"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "383",
+            "topic": "Helminthology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Helminthology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Helminthology))\n    Biology\n      Parasitology\n      Zoology\n      Medicine\n      Ecology\n    Helminths\n      Nematodes\n      Cestodes\n      Trematodes\n      Acanthocephalans\n    Topics\n      Life Cycles\n      Host-Parasite Relations\n      Pathology\n      Epidemiology\n    Applications\n      Disease Prevention\n      Veterinary Medicine\n      Public Health\n      Drug Development",
+            "complexity": "high",
+            "tags": [
+                "helminthology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

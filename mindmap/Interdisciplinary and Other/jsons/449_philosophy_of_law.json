@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "449",
+            "topic": "Philosophy of Law",
+            "category": "Philosophy/Law",
+            "description": "A mindmap showing the fundamental concepts and structure of Philosophy of Law.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Philosophy<br/>of Law))\n    Definition\n      Philosophical examination of law\n      Nature of legal systems\n    Major Questions\n      What is law?\n      Law and morality\n      Legal obligation\n      Justice\n    Schools of Thought\n      Natural Law\n        Universal principles\n        Moral foundation\n      Legal Positivism\n        Separation thesis\n        Social facts\n      Legal Realism\n        Law in action\n        Judicial behavior\n      Critical Legal Studies\n    Key Thinkers\n      H.L.A. Hart\n      Ronald Dworkin\n      Hans Kelsen\n      John Austin\n    Topics\n      Rights theory\n      Legal interpretation\n      Punishment\n      Authority",
+            "complexity": "high",
+            "tags": [
+                "philosophy_of_law",
+                "philosophy",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "469",
+            "topic": "Immunotherapy",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Immunotherapy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Immunotherapy))\n    Definition\n      Harnessing immune system\n      Cancer and disease treatment\n    Types\n      Active\n        Cancer vaccines\n        Cytokine therapy\n      Passive\n        Monoclonal antibodies\n        Adoptive cell transfer\n      Checkpoint Inhibitors\n        PD-1/PD-L1\n        CTLA-4\n    Cell-Based Therapies\n      CAR-T Cells\n        Modified T cells\n        Target specific antigens\n      TILs\n        Tumor-infiltrating lymphocytes\n      NK Cells\n    Antibody Therapies\n      Naked antibodies\n      Conjugated antibodies\n      Bispecific antibodies\n    Applications\n      Cancer Treatment\n        Melanoma\n        Leukemia\n        Solid tumors\n      Autoimmune Diseases\n      Infectious Diseases\n    Challenges\n      Side effects\n        Cytokine storm\n        Autoimmunity\n      Resistance\n      Cost\n      Patient selection\n    Future Directions\n      Combination therapies\n      Personalized vaccines\n      Microbiome modulation",
+            "complexity": "high",
+            "tags": [
+                "immunotherapy",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "211",
+            "topic": "Anatomy",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Anatomy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Anatomy))\n    Gross Anatomy\n      Regional Anatomy\n      Systemic Anatomy\n      Surface Anatomy\n    Microscopic Anatomy\n      Histology\n        Tissues\n        Cells\n      Cytology\n    Systems\n      Skeletal System\n      Muscular System\n      Cardiovascular System\n      Nervous System\n      Respiratory System\n      Digestive System\n    Methods\n      Dissection\n      Imaging\n      3D Modeling",
+            "complexity": "high",
+            "tags": [
+                "anatomy",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

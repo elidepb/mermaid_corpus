@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Computer Architecture",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computer Architecture.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computer Architecture))\n    CPU Architecture\n      Instruction Set\n      Pipeline\n      Superscalar\n      RISC vs CISC\n    Memory Hierarchy\n      Registers\n      Cache\n      RAM\n      Virtual Memory\n    I/O Systems\n      Buses\n      Interrupts\n      DMA\n      Peripheral Devices\n    Processor Design\n      Control Unit\n      ALU\n      Clock Speed\n      Multi-core\n    Parallel Processing\n      SIMD\n      MIMD\n      GPU Architecture\n      Distributed Computing\n    Performance Metrics\n      Clock Speed\n      IPC\n      Throughput\n      Latency\n      Benchmarking\n    Emerging Technologies\n      Quantum Computing\n      Neuromorphic Computing\n      Optical Computing",
+            "complexity": "high",
+            "tags": [
+                "computer_architecture",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consulting",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Consulting.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Consulting))\n    Types\n      Strategy\n      Management\n      IT\n      HR\n      Financial\n    Process\n      Engagement\n      Diagnosis\n      Analysis\n      Recommendations\n      Implementation\n    Skills\n      Problem Solving\n      Communication\n      Analysis\n      Client Management\n    Firms\n      MBB\n      Big Four\n      Boutique\n    Deliverables\n      Reports\n      Presentations\n      Workshops",
+            "complexity": "high",
+            "tags": [
+                "consulting",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

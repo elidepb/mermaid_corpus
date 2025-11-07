@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "312",
+            "topic": "Marine Ecology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Marine Ecology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Marine Ecology))\n    Zones\n      Intertidal\n      Neritic\n      Oceanic\n      Benthic\n      Pelagic\n    Ecosystems\n      Coral Reefs\n      Kelp Forests\n      Seagrass\n      Deep Sea\n      Estuaries\n    Interactions\n      Food Webs\n      Symbiosis\n      Competition\n      Predation\n    Threats\n      Overfishing\n      Pollution\n      Acidification\n      Warming\n    Conservation\n      MPAs\n      Sustainable Fisheries\n      Restoration",
+            "complexity": "high",
+            "tags": [
+                "marine_ecology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

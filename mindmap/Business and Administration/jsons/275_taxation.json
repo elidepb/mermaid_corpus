@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Taxation",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Taxation.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Taxation))\n    Types\n      Income Tax\n      Corporate Tax\n      Sales Tax\n      VAT\n      Property Tax\n    Planning\n      Deductions\n      Credits\n      Deferrals\n    Compliance\n      Filing\n      Documentation\n      Deadlines\n    International\n      Transfer Pricing\n      Tax Treaties\n      BEPS\n    Strategy\n      Tax Efficiency\n      Legal Optimization",
+            "complexity": "high",
+            "tags": [
+                "taxation",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "232",
+            "topic": "Ophthalmology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Ophthalmology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ophthalmology))\n    Eye Anatomy\n      Cornea\n      Lens\n      Retina\n      Optic Nerve\n    Common Conditions\n      Refractive Errors\n        Myopia\n        Hyperopia\n        Astigmatism\n      Cataracts\n      Glaucoma\n      Macular Degeneration\n      Diabetic Retinopathy\n    Diagnostics\n      Visual Acuity Test\n      Fundoscopy\n      Tonometry\n      OCT\n      Visual Field Test\n    Treatments\n      Corrective Lenses\n      Medications\n      Laser Therapy\n      Cataract Surgery\n      Retinal Surgery",
+            "complexity": "high",
+            "tags": [
+                "ophthalmology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "231",
+            "topic": "Dentistry",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Dentistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Dentistry))\n    Specialties\n      Orthodontics\n      Periodontics\n      Endodontics\n      Prosthodontics\n      Oral Surgery\n      Pediatric Dentistry\n    Common Conditions\n      Dental Caries\n      Periodontal Disease\n      Malocclusion\n      Oral Infections\n    Procedures\n      Fillings\n      Root Canal\n      Extractions\n      Crowns & Bridges\n      Implants\n    Prevention\n      Oral Hygiene\n      Fluoride Treatment\n      Sealants\n      Regular Checkups",
+            "complexity": "high",
+            "tags": [
+                "dentistry",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "058",
+            "topic": "Electrical Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Electrical Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Electrical Engineering))\n    Circuit Theory\n      Ohm's Law\n      Kirchhoff's Laws\n      AC/DC Circuits\n      Network Analysis\n    Electronics\n      Diodes\n      Transistors\n      Amplifiers\n      Digital Circuits\n    Power Systems\n      Generation\n      Transmission\n      Distribution\n      Power Electronics\n    Electromagnetics\n      Maxwell's Equations\n      Antennas\n      Wave Propagation\n      Microwave Engineering\n    Control Systems\n      Feedback Systems\n      PID Control\n      State Space\n      Stability Analysis\n    Signal Processing\n      Filtering\n      Fourier Analysis\n      Digital Signal Processing\n      Sampling Theory\n    Applications\n      Power Grid\n      Renewable Energy\n      Electric Motors\n      Communication Systems",
+            "complexity": "high",
+            "tags": [
+                "electrical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

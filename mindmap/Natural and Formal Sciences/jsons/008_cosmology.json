@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "008",
+            "topic": "Cosmology",
+            "category": "Astronomy",
+            "description": "A mindmap showing the fundamental concepts and structure of Cosmology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cosmology))\n    Big Bang Theory\n      Cosmic Inflation\n      Nucleosynthesis\n      Recombination\n      Cosmic Microwave Background\n    Universe Structure\n      Large Scale Structure\n      Galaxy Clusters\n      Cosmic Web\n      Voids\n    Dark Components\n      Dark Matter\n      Dark Energy\n      Modified Gravity\n    Cosmic Evolution\n      Universe Expansion\n      Hubble's Law\n      Redshift\n      Age of Universe\n    Cosmological Models\n      Lambda-CDM Model\n      Multiverse Theories\n      Cyclic Models",
+            "complexity": "high",
+            "tags": [
+                "cosmology",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "022",
+            "topic": "Evolutionary Biology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Evolutionary Biology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Evolutionary Biology))\n    Mechanisms of Evolution\n      Natural Selection\n      Genetic Drift\n      Gene Flow\n      Mutation\n    Evidence for Evolution\n      Fossil Record\n      Comparative Anatomy\n      Molecular Evidence\n      Biogeography\n    Speciation\n      Allopatric Speciation\n      Sympatric Speciation\n      Reproductive Isolation\n      Adaptive Radiation\n    Phylogenetics\n      Cladistics\n      Phylogenetic Trees\n      Molecular Clocks\n    Evolutionary Development\n      Evo-Devo\n      Hox Genes\n      Developmental Constraints",
+            "complexity": "high",
+            "tags": [
+                "evolutionary_biology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

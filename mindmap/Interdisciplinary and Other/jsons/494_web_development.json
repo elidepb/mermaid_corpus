@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "494",
+            "topic": "Web Development",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Web Development.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Web<br/>Development))\n    Definition\n      Building websites and web apps\n      Front-end and back-end\n    Front-End\n      HTML\n        Structure\n        Semantic markup\n      CSS\n        Styling\n        Responsive design\n        Frameworks (Bootstrap, Tailwind)\n      JavaScript\n        Interactivity\n        DOM manipulation\n        Frameworks (React, Vue, Angular)\n    Back-End\n      Server-Side Languages\n        Python (Django, Flask)\n        JavaScript (Node.js)\n        PHP\n        Ruby (Rails)\n        Java\n      Databases\n        SQL (PostgreSQL, MySQL)\n        NoSQL (MongoDB, Redis)\n      APIs\n        REST\n        GraphQL\n        WebSockets\n    Full Stack\n      Integration\n      DevOps\n      Architecture\n    Technologies\n      Version Control\n        Git\n        GitHub/GitLab\n      Build Tools\n        Webpack\n        Vite\n      Package Managers\n        npm\n        yarn\n      Testing\n        Unit tests\n        Integration tests\n        E2E tests\n    Best Practices\n      Clean Code\n      Documentation\n      Security\n        HTTPS\n        Input validation\n        Authentication\n      Performance\n        Optimization\n        Caching\n      Accessibility\n      SEO\n    Deployment\n      Hosting\n        Cloud (AWS, Azure, GCP)\n        Shared hosting\n      CI/CD\n        Automated deployment\n      Monitoring\n        Analytics\n        Error tracking",
+            "complexity": "high",
+            "tags": [
+                "web_development",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

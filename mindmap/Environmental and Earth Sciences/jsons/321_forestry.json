@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "321",
+            "topic": "Forestry",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Forestry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Forestry))\n    Management\n      Silviculture\n      Harvesting\n      Regeneration\n      Thinning\n    Types\n      Production\n      Protection\n      Recreation\n      Conservation\n    Practices\n      Selective Logging\n      Clear-cutting\n      Shelterwood\n      Coppicing\n    Services\n      Timber\n      Carbon Sequestration\n      Water Regulation\n      Biodiversity\n    Certification\n      FSC\n      PEFC\n      SFI\n    Threats\n      Deforestation\n      Pests\n      Fire\n      Climate Change",
+            "complexity": "high",
+            "tags": [
+                "forestry",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

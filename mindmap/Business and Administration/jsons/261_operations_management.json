@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "261",
+            "topic": "Operations Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Operations Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Operations Management))\n    Production\n      Capacity Planning\n      Scheduling\n      Quality Control\n    Process Design\n      Lean\n      Six Sigma\n      Automation\n    Inventory\n      Just-in-Time\n      EOQ\n      ABC Analysis\n    Efficiency\n      Productivity\n      Optimization\n      Waste Reduction",
+            "complexity": "high",
+            "tags": [
+                "operations_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

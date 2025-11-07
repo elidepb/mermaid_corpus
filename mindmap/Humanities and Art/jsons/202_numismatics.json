@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "202",
+            "topic": "Numismatics",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Numismatics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Numismatics))\n    Coin Types\n      Ancient Coins\n      Medieval Coins\n      Modern Coins\n      Commemorative\n    Study Areas\n      Iconography\n      Metallurgy\n      Minting Techniques\n      Circulation\n    Applications\n      Historical Dating\n      Economic History\n      Political History\n      Trade Routes\n    Methods\n      Authentication\n      Grading\n      Cataloging\n      Conservation",
+            "complexity": "high",
+            "tags": [
+                "numismatics",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

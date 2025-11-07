@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "309",
+            "topic": "Glaciology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Glaciology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Glaciology))\n    Glacier Types\n      Ice Sheets\n      Ice Caps\n      Valley Glaciers\n      Piedmont\n    Processes\n      Accumulation\n      Ablation\n      Flow\n      Calving\n    Ice Core Studies\n      Climate History\n      Gas Composition\n      Isotopes\n    Mass Balance\n      Input\n      Output\n      Net Balance\n    Impacts\n      Sea Level\n      Water Resources\n      Landscape Formation\n    Climate Change\n      Retreat\n      Melting\n      Feedback Loops",
+            "complexity": "high",
+            "tags": [
+                "glaciology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

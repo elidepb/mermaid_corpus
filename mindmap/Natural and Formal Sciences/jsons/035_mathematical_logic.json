@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "035",
+            "topic": "Mathematical Logic",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Mathematical Logic.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Mathematical Logic))\n    Propositional Logic\n      Logical Connectives\n      Truth Tables\n      Tautologies\n      Logical Equivalence\n    Predicate Logic\n      Quantifiers\n      Predicates\n      Inference Rules\n      Logical Validity\n    Proof Theory\n      Natural Deduction\n      Formal Proofs\n      Proof Techniques\n      Consistency\n    Model Theory\n      Structures\n      Interpretations\n      Satisfaction\n      Completeness\n    Set Theory\n      Axioms\n      Ordinals\n      Cardinals\n      Continuum Hypothesis\n    Computability\n      Turing Machines\n      Decidability\n      Gödel's Theorems\n      Complexity Classes",
+            "complexity": "high",
+            "tags": [
+                "mathematical_logic",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

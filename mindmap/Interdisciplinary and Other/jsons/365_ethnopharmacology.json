@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "365",
+            "topic": "Ethnopharmacology",
+            "category": "Anthropology/Pharmacy",
+            "description": "A mindmap showing the fundamental concepts and structure of Ethnopharmacology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ethnopharma-<br/>cology))\n    Anthropology\n      Traditional Medicine\n      Cultural Beliefs\n      Healing Practices\n      Indigenous Knowledge\n    Pharmacy\n      Drug Development\n      Pharmacology\n      Phytochemistry\n      Clinical Trials\n    Research\n      Plant Screening\n      Bioactive Compounds\n      Traditional Remedies\n      Validation Studies\n    Applications\n      New Drugs\n      Alternative Medicine\n      Natural Products\n      Healthcare Access",
+            "complexity": "high",
+            "tags": [
+                "ethnopharmacology",
+                "anthropology",
+                "pharmacy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

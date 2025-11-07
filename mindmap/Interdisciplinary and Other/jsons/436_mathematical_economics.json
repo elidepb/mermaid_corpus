@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "436",
+            "topic": "Mathematical Economics",
+            "category": "Economics/Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Mathematical Economics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Mathematical<br/>Economics))\n    Economics\n      Microeconomics\n      Macroeconomics\n      Game Theory\n      Econometrics\n    Mathematics\n      Calculus\n      Optimization\n      Linear Algebra\n      Probability\n    Topics\n      Equilibrium Theory\n      Growth Models\n      Utility Theory\n      Market Dynamics\n    Applications\n      Policy Analysis\n      Financial Markets\n      Resource Allocation\n      Forecasting",
+            "complexity": "high",
+            "tags": [
+                "mathematical_economics",
+                "economics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

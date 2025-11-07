@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "344",
+            "topic": "Health Economics",
+            "category": "Economics/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Health Economics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Health<br/>Economics))\n    Economics\n      Cost-Benefit Analysis\n      Market Theory\n      Resource Allocation\n      Game Theory\n    Medicine\n      Healthcare Systems\n      Clinical Outcomes\n      Public Health\n      Medical Innovation\n    Topics\n      Insurance Markets\n      Drug Pricing\n      Hospital Efficiency\n      Health Inequality\n    Applications\n      Policy Design\n      Healthcare Reform\n      Budget Planning\n      Quality Assessment",
+            "complexity": "high",
+            "tags": [
+                "health_economics",
+                "economics",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

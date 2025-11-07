@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "294",
+            "topic": "Renewable Energy",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Renewable Energy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Renewable Energy))\n    Sources\n      Solar\n      Wind\n      Hydroelectric\n      Geothermal\n      Biomass\n      Tidal\n    Technologies\n      Photovoltaic\n      Wind Turbines\n      Dams\n      Heat Pumps\n    Benefits\n      Clean\n      Inexhaustible\n      Job Creation\n    Challenges\n      Intermittency\n      Storage\n      Infrastructure\n      Cost\n    Grid Integration\n      Smart Grids\n      Battery Storage\n      Demand Management",
+            "complexity": "high",
+            "tags": [
+                "renewable_energy",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

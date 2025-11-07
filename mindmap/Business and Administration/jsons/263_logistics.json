@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logistics",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Logistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Logistics))\n    Transportation\n      Modes\n      Route Planning\n      Fleet Management\n    Warehousing\n      Storage\n      Inventory Control\n      Picking & Packing\n    Distribution\n      Last Mile\n      Cross-Docking\n    Technology\n      WMS\n      TMS\n      GPS Tracking\n    3PL/4PL\n      Outsourcing\n      Partners",
+            "complexity": "high",
+            "tags": [
+                "logistics",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

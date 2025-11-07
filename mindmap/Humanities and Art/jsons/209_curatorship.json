@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "209",
+            "topic": "Curatorship",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Curatorship.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Curatorship))\n    Exhibition Planning\n      Concept Development\n      Object Selection\n      Space Design\n      Interpretation\n    Collections Management\n      Acquisition\n      Documentation\n      Storage\n      Loans\n    Research\n      Art History\n      Provenance\n      Conservation\n    Public Engagement\n      Educational Programs\n      Catalogs\n      Labels\n      Tours",
+            "complexity": "high",
+            "tags": [
+                "curatorship",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

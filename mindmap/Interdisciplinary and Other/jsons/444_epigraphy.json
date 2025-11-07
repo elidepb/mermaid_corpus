@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "444",
+            "topic": "Epigraphy",
+            "category": "History/Archaeology",
+            "description": "A mindmap showing the fundamental concepts and structure of Epigraphy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Epigraphy))\n    Definition\n      Study of inscriptions\n      Deciphering ancient texts\n    Materials\n      Stone\n        Monuments\n        Stelae\n      Metal\n        Coins\n        Plaques\n      Clay\n        Tablets\n      Wood and Papyrus\n    Writing Systems\n      Cuneiform\n      Hieroglyphics\n      Greek and Latin\n      Runic\n    Methods\n      Photography\n      Squeezes and Rubbings\n      Digital imaging\n      Linguistic analysis\n    Applications\n      Dating artifacts\n      Historical reconstruction\n      Language evolution\n      Cultural understanding\n    Challenges\n      Weathering\n      Incomplete texts\n      Unknown languages",
+            "complexity": "high",
+            "tags": [
+                "epigraphy",
+                "history",
+                "archaeology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

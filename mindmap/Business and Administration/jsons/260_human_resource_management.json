@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Human Resource Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Human Resource Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Human Resource Management))\n    Recruitment\n      Sourcing\n      Selection\n      Onboarding\n    Development\n      Training\n      Career Planning\n      Succession\n    Compensation\n      Salary\n      Benefits\n      Incentives\n    Performance\n      Appraisal\n      Feedback\n      KPIs\n    Relations\n      Employee Engagement\n      Conflict Resolution",
+            "complexity": "high",
+            "tags": [
+                "human_resource_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

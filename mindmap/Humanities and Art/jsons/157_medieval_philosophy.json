@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "157",
+            "topic": "Medieval Philosophy",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Medieval Philosophy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Medieval Philosophy))\n    Early Medieval\n      Augustine\n        Faith & Reason\n        City of God\n      Boethius\n    Scholasticism\n      Anselm\n        Ontological Argument\n      Thomas Aquinas\n        Natural Law\n        Five Ways\n      Duns Scotus\n      William of Ockham\n    Islamic Philosophy\n      Avicenna\n      Averroes\n    Jewish Philosophy\n      Maimonides",
+            "complexity": "high",
+            "tags": [
+                "medieval_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

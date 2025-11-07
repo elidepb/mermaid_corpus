@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "163",
+            "topic": "Political Philosophy",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Political Philosophy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Political Philosophy))\n    Classical Theories\n      Social Contract\n        Hobbes\n        Locke\n        Rousseau\n      Liberalism\n      Conservatism\n    Modern Theories\n      Marxism\n      Libertarianism\n      Communitarianism\n    Contemporary Issues\n      Justice\n        Rawls\n      Rights\n      Democracy\n      Multiculturalism\n    Concepts\n      Liberty\n      Equality\n      Authority\n      Power",
+            "complexity": "high",
+            "tags": [
+                "political_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "355",
+            "topic": "Chronobiology",
+            "category": "Biology/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Chronobiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Chronobiology))\n    Biology\n      Circadian Rhythms\n      Molecular Clocks\n      Genetics\n      Physiology\n    Medicine\n      Sleep Disorders\n      Metabolism\n      Hormones\n      Disease Timing\n    Research Areas\n      Clock Genes\n      Seasonal Rhythms\n      Jet Lag\n      Shift Work\n    Applications\n      Drug Timing\n      Treatment Optimization\n      Performance Enhancement\n      Health Management",
+            "complexity": "high",
+            "tags": [
+                "chronobiology",
+                "biology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

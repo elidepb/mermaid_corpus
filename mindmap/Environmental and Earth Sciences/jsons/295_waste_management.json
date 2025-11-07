@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "295",
+            "topic": "Waste Management",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Waste Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Waste Management))\n    Hierarchy\n      Prevention\n      Reduction\n      Reuse\n      Recycling\n      Recovery\n      Disposal\n    Types\n      Municipal\n      Industrial\n      Hazardous\n      Electronic\n      Medical\n    Methods\n      Landfill\n      Incineration\n      Composting\n      Recycling\n    Circular Economy\n      Material Recovery\n      Upcycling\n      Zero Waste\n    Policy\n      Regulations\n      Extended Producer Responsibility\n      Waste-to-Energy",
+            "complexity": "high",
+            "tags": [
+                "waste_management",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

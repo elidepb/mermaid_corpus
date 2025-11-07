@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "442",
+            "topic": "Anthropological Linguistics",
+            "category": "Linguistics/Anthropology",
+            "description": "A mindmap showing the fundamental concepts and structure of Anthropological Linguistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Anthropological<br/>Linguistics))\n    Definition\n      Language and culture intersection\n      Linguistic diversity\n    Research Areas\n      Language and Identity\n        Ethnicity\n        Gender\n        Social class\n      Language Documentation\n        Endangered languages\n        Field methods\n      Ethnography of Communication\n        Speaking patterns\n        Cultural context\n    Methods\n      Participant observation\n      Recording and transcription\n      Community collaboration\n    Key Figures\n      Franz Boas\n      Edward Sapir\n      Dell Hymes\n    Applications\n      Language revitalization\n      Cultural preservation\n      Cross-cultural communication",
+            "complexity": "high",
+            "tags": [
+                "anthropological_linguistics",
+                "linguistics",
+                "anthropology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

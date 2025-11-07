@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "013",
+            "topic": "Analytical Chemistry",
+            "category": "Chemistry",
+            "description": "A mindmap showing the fundamental concepts and structure of Analytical Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Analytical Chemistry))\n    Spectroscopic Methods\n      UV-Vis Spectroscopy\n      IR Spectroscopy\n      NMR Spectroscopy\n      Mass Spectrometry\n    Chromatography\n      Gas Chromatography\n      Liquid Chromatography\n      HPLC\n      Thin Layer Chromatography\n    Electroanalytical Methods\n      Potentiometry\n      Voltammetry\n      Conductometry\n    Separation Techniques\n      Extraction\n      Distillation\n      Crystallization\n    Quality Control\n      Calibration\n      Validation\n      Error Analysis\n      Standards",
+            "complexity": "high",
+            "tags": [
+                "analytical_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

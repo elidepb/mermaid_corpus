@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "A mindmap showing the fundamental concepts and structure of Macroeconomics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Macroeconomics))\n    Key Indicators\n      GDP\n      Inflation\n      Unemployment\n      Interest Rates\n    Economic Models\n      Aggregate Demand-Supply\n      IS-LM Model\n      Phillips Curve\n    Policy Tools\n      Monetary Policy\n        Central Banks\n        Interest Rates\n      Fiscal Policy\n        Government Spending\n        Taxation\n    Topics\n      Economic Growth\n      Business Cycles\n      International Trade",
+            "complexity": "high",
+            "tags": [
+                "macroeconomics",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

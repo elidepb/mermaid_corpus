@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "408",
+            "topic": "Nuclear Physics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Nuclear Physics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Nuclear<br/>Physics))\n    Physics\n      Quantum Mechanics\n      Particle Physics\n      Radioactivity\n      Strong Force\n    Topics\n      Nuclear Structure\n      Nuclear Reactions\n      Fission\n      Fusion\n    Phenomena\n      Decay Processes\n      Isotopes\n      Nuclear Models\n      Cross Sections\n    Applications\n      Nuclear Energy\n      Medical Imaging\n      Dating Methods\n      Weapons Research",
+            "complexity": "high",
+            "tags": [
+                "nuclear_physics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

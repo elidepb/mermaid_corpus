@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Machine Learning",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Machine Learning.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Machine Learning))\n    Supervised Learning\n      Classification\n      Regression\n      Decision Trees\n      Support Vector Machines\n      Neural Networks\n    Unsupervised Learning\n      Clustering\n      Dimensionality Reduction\n      Association Rules\n      Anomaly Detection\n    Deep Learning\n      CNNs\n      RNNs\n      Transformers\n      GANs\n      Autoencoders\n    Model Training\n      Loss Functions\n      Optimization\n      Gradient Descent\n      Regularization\n      Cross-validation\n    Feature Engineering\n      Feature Selection\n      Feature Extraction\n      Normalization\n      Encoding\n    Evaluation Metrics\n      Accuracy\n      Precision and Recall\n      F1 Score\n      ROC Curves\n    Applications\n      Predictive Analytics\n      Image Recognition\n      NLP\n      Recommendation Systems",
+            "complexity": "high",
+            "tags": [
+                "machine_learning",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

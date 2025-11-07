@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "305",
+            "topic": "Petrology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Petrology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Petrology))\n    Rock Types\n      Igneous\n      Sedimentary\n      Metamorphic\n    Igneous\n      Intrusive\n      Extrusive\n      Magma Composition\n      Texture\n    Sedimentary\n      Clastic\n      Chemical\n      Organic\n      Depositional Environments\n    Metamorphic\n      Contact\n      Regional\n      Grade\n      Facies\n    Analysis\n      Thin Sections\n      Geochemistry\n      Field Studies",
+            "complexity": "high",
+            "tags": [
+                "petrology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

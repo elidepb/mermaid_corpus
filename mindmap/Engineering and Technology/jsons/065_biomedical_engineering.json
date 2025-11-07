@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Biomedical Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Biomedical Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Biomedical Engineering))\n    Medical Imaging\n      X-ray and CT\n      MRI\n      Ultrasound\n      PET and SPECT\n    Biomechanics\n      Tissue Mechanics\n      Joint Mechanics\n      Gait Analysis\n      Prosthetics and Orthotics\n    Biomaterials\n      Biocompatibility\n      Implant Materials\n      Tissue Engineering Scaffolds\n      Drug Delivery Systems\n    Medical Devices\n      Diagnostic Devices\n      Therapeutic Devices\n      Surgical Instruments\n      Monitoring Systems\n    Tissue Engineering\n      Cell Culture\n      Scaffolds\n      Regenerative Medicine\n      Organ Engineering\n    Bioinstrumentation\n      Biosensors\n      Signal Processing\n      Data Acquisition\n      Wearable Devices\n    Rehabilitation Engineering\n      Assistive Technology\n      Prosthetics\n      Wheelchairs\n      Accessibility\n    Regulatory Affairs\n      FDA Approval\n      Clinical Trials\n      Quality Standards\n      Safety Testing",
+            "complexity": "high",
+            "tags": [
+                "biomedical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Structural Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Structural Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Structural Engineering))\n    Structural Analysis\n      Statics\n      Load Distribution\n      Stress Analysis\n      Deformation\n    Design Methods\n      Limit State Design\n      Allowable Stress Design\n      Performance-based Design\n      Seismic Design\n    Materials\n      Steel Structures\n      Concrete Structures\n      Timber Structures\n      Composite Structures\n    Structural Elements\n      Beams\n      Columns\n      Slabs\n      Trusses\n      Frames\n    Foundation Design\n      Shallow Foundations\n      Deep Foundations\n      Mat Foundations\n      Pile Foundations\n    Structural Dynamics\n      Earthquake Engineering\n      Wind Loading\n      Vibration Analysis\n      Dynamic Response\n    Advanced Topics\n      Finite Element Analysis\n      Structural Optimization\n      Progressive Collapse\n      Retrofitting\n    Building Codes\n      Standards\n      Safety Factors\n      Design Requirements\n      Compliance",
+            "complexity": "high",
+            "tags": [
+                "structural_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

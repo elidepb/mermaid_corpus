@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Commercial Law",
+            "category": "Law",
+            "description": "A mindmap showing the fundamental concepts and structure of Commercial Law.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Commercial Law))\n    Business Organizations\n      Sole Proprietorship\n      Partnerships\n      Corporations\n      LLCs\n    Commercial Transactions\n      Sales\n      Negotiable Instruments\n      Secured Transactions\n    Banking & Finance\n      Banking Regulation\n      Securities Law\n      Consumer Protection\n    Insolvency\n      Bankruptcy\n      Restructuring\n      Liquidation",
+            "complexity": "high",
+            "tags": [
+                "commercial_law",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Augmented Reality.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Augmented Reality))\n    Core Technology\n      AR Displays\n        Head-Mounted Displays\n        Smart Glasses\n        Mobile Devices\n      Tracking Systems\n        Marker-based\n        Markerless\n        GPS/Location\n    Applications\n      Gaming & Entertainment\n      Education & Training\n      Healthcare\n        Surgery assistance\n        Medical visualization\n      Retail & E-commerce\n      Industrial Maintenance\n    Development Tools\n      ARKit Apple\n      ARCore Google\n      Unity AR Foundation\n      Vuforia",
+            "complexity": "high",
+            "tags": [
+                "augmented_reality",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

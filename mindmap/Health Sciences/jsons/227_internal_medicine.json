@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "227",
+            "topic": "Internal Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Internal Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Internal Medicine))\n    Subspecialties\n      Cardiology\n      Pulmonology\n      Gastroenterology\n      Nephrology\n      Endocrinology\n      Rheumatology\n      Infectious Disease\n    Approach\n      History Taking\n      Physical Examination\n      Differential Diagnosis\n      Management Planning\n    Common Conditions\n      Hypertension\n      Diabetes\n      COPD\n      Chronic Kidney Disease\n    Skills\n      Clinical Reasoning\n      Evidence-Based Medicine\n      Patient Communication",
+            "complexity": "high",
+            "tags": [
+                "internal_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

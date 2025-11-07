@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "349",
+            "topic": "Cryptography",
+            "category": "Mathematics/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Cryptography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cryptography))\n    Mathematics\n      Number Theory\n      Algebra\n      Probability\n      Complexity Theory\n    Computer Science\n      Algorithms\n      Security\n      Networks\n      Protocols\n    Techniques\n      Encryption\n      Hashing\n      Digital Signatures\n      Key Exchange\n    Applications\n      Secure Communication\n      Blockchain\n      Authentication\n      Privacy Protection",
+            "complexity": "high",
+            "tags": [
+                "cryptography",
+                "mathematics",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

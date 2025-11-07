@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "424",
+            "topic": "Multivariate Statistics",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Multivariate Statistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Multivariate<br/>Statistics))\n    Mathematics\n      Linear Algebra\n      Probability\n      Matrix Theory\n      Optimization\n    Methods\n      PCA\n      Factor Analysis\n      Cluster Analysis\n      Discriminant Analysis\n    Topics\n      Correlation\n      Regression\n      Covariance Matrices\n      Dimension Reduction\n    Applications\n      Data Science\n      Economics\n      Psychology\n      Bioinformatics",
+            "complexity": "high",
+            "tags": [
+                "multivariate_statistics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "224",
+            "topic": "Psychiatry",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Psychiatry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psychiatry))\n    Mental Disorders\n      Mood Disorders\n        Depression\n        Bipolar Disorder\n      Anxiety Disorders\n      Psychotic Disorders\n        Schizophrenia\n      Personality Disorders\n      Substance Use Disorders\n    Assessment\n      Psychiatric Interview\n      Mental Status Exam\n      Psychological Testing\n      Diagnostic Criteria DSM-5\n    Treatments\n      Psychopharmacology\n      Psychotherapy\n        CBT\n        Psychodynamic\n      Electroconvulsive Therapy\n      Hospitalization",
+            "complexity": "high",
+            "tags": [
+                "psychiatry",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

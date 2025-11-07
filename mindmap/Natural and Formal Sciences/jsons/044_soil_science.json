@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "044",
+            "topic": "Soil Science",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Soil Science.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Soil Science))\n    Soil Formation\n      Parent Material\n      Climate\n      Organisms\n      Topography\n      Time\n    Soil Composition\n      Minerals\n      Organic Matter\n      Water\n      Air\n    Soil Properties\n      Texture\n      Structure\n      pH\n      Fertility\n      Color\n    Soil Classification\n      Soil Orders\n      Soil Horizons\n      Taxonomic Systems\n    Soil Chemistry\n      Cation Exchange\n      Nutrient Availability\n      Soil Reactions\n      Contamination\n    Soil Biology\n      Microorganisms\n      Soil Fauna\n      Decomposition\n      Mycorrhizae\n    Applications\n      Agriculture\n      Land Management\n      Environmental Protection\n      Construction",
+            "complexity": "high",
+            "tags": [
+                "soil_science",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Urban Studies",
+            "category": "Social Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Urban Studies.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Urban Studies))\n    Urban Theory\n      Urban Ecology\n      Political Economy\n      Postmodern Urbanism\n    Urban Planning\n      Land Use\n      Transportation\n      Housing Policy\n      Zoning\n    Urban Issues\n      Gentrification\n      Segregation\n      Poverty\n      Sustainability\n    Research Methods\n      Urban Ethnography\n      Spatial Analysis\n      Community Surveys",
+            "complexity": "high",
+            "tags": [
+                "urban_studies",
+                "social_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

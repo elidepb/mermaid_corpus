@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "237",
+            "topic": "Tropical Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Tropical Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Tropical Medicine))\n    Tropical Diseases\n      Malaria\n      Dengue\n      Yellow Fever\n      Leishmaniasis\n      Schistosomiasis\n      Chagas Disease\n    Parasitic Infections\n      Protozoan\n      Helminthic\n      Ectoparasites\n    Vector Control\n      Mosquitoes\n      Flies\n      Ticks\n    Travel Medicine\n      Pre-Travel Consultation\n      Vaccinations\n      Prophylaxis\n      Post-Travel Illness",
+            "complexity": "high",
+            "tags": [
+                "tropical_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

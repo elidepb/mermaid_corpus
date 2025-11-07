@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "206",
+            "topic": "Comparative Mythology",
+            "category": "Literature/History",
+            "description": "A mindmap showing the fundamental concepts and structure of Comparative Mythology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Comparative Mythology))\n    Mythological Systems\n      Greek Mythology\n      Roman Mythology\n      Norse Mythology\n      Egyptian Mythology\n      Hindu Mythology\n      Chinese Mythology\n    Themes\n      Creation Myths\n      Hero's Journey\n      Flood Myths\n      Trickster Figures\n    Approaches\n      Structuralism\n        Lévi-Strauss\n      Psychoanalytic\n        Jung Archetypes\n      Functionalism\n    Applications\n      Literature\n      Anthropology\n      Religious Studies",
+            "complexity": "high",
+            "tags": [
+                "comparative_mythology",
+                "literature",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

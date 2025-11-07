@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "International Relations",
+            "category": "Political Science",
+            "description": "A mindmap showing the fundamental concepts and structure of International Relations.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((International Relations))\n    Theoretical Perspectives\n      Realism\n      Liberalism\n      Constructivism\n      Marxism\n    Key Concepts\n      Power\n      Security\n      Sovereignty\n      International Law\n    Global Issues\n      War & Peace\n      Terrorism\n      Nuclear Proliferation\n      Climate Change\n    Actors\n      States\n      International Organizations\n      NGOs\n      Multinational Corporations",
+            "complexity": "high",
+            "tags": [
+                "international_relations",
+                "political_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

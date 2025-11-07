@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "340",
+            "topic": "Archaeometry",
+            "category": "Archaeology/Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Archaeometry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Archaeometry))\n    Archaeology\n      Excavation\n      Artifacts\n      Dating\n      Context\n    Science\n      Chemistry\n      Physics\n      Geology\n      Biology\n    Techniques\n      Radiocarbon Dating\n      DNA Analysis\n      Spectroscopy\n      Imaging\n    Applications\n      Provenance Studies\n      Conservation\n      Authentication\n      Environmental Reconstruction",
+            "complexity": "high",
+            "tags": [
+                "archaeometry",
+                "archaeology",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

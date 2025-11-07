@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "259",
+            "topic": "Marketing",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Marketing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Marketing))\n    4Ps\n      Product\n      Price\n      Place\n      Promotion\n    Strategy\n      Segmentation\n      Targeting\n      Positioning\n    Channels\n      Traditional\n      Digital\n      Social Media\n    Research\n      Market Analysis\n      Consumer Behavior\n    Branding\n      Identity\n      Awareness",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

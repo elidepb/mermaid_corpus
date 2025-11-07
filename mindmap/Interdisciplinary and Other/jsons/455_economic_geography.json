@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "455",
+            "topic": "Economic Geography",
+            "category": "Geography/Economics",
+            "description": "A mindmap showing the fundamental concepts and structure of Economic Geography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Economic<br/>Geography))\n    Definition\n      Spatial distribution of economic activity\n      Location and economy\n    Topics\n      Industrial Location\n        Factors of production\n        Agglomeration\n      Trade Patterns\n        Global flows\n        Regional integration\n      Development Geography\n        Inequality\n        Growth poles\n      Labor Markets\n        Migration\n        Skills distribution\n    Approaches\n      Classical location theory\n      New economic geography\n      Evolutionary approaches\n    Scales\n      Local\n      Regional\n      National\n      Global\n    Applications\n      Urban planning\n      Regional policy\n      Investment decisions\n      Trade policy",
+            "complexity": "high",
+            "tags": [
+                "economic_geography",
+                "geography",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

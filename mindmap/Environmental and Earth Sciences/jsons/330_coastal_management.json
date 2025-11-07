@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "330",
+            "topic": "Coastal Management",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Coastal Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Coastal Management))\n    Issues\n      Erosion\n      Sea Level Rise\n      Storm Surge\n      Development Pressure\n      Pollution\n    Approaches\n      ICZM\n      Setbacks\n      Nature-Based Solutions\n      Hard Engineering\n      Soft Engineering\n    Ecosystems\n      Beaches\n      Dunes\n      Wetlands\n      Mangroves\n      Coral Reefs\n    Stakeholders\n      Communities\n      Government\n      Industry\n      Tourism\n    Planning\n      Vulnerability Assessment\n      Adaptation Strategies\n      Monitoring\n      Regulation",
+            "complexity": "high",
+            "tags": [
+                "coastal_management",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

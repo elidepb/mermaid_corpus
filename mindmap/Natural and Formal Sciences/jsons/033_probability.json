@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "033",
+            "topic": "Probability",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Probability.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Probability))\n    Probability Theory\n      Sample Spaces\n      Events\n      Probability Axioms\n      Conditional Probability\n    Random Variables\n      Discrete\n      Continuous\n      Probability Distributions\n      Expected Value\n      Variance\n    Common Distributions\n      Binomial\n      Poisson\n      Normal\n      Exponential\n      Uniform\n    Limit Theorems\n      Law of Large Numbers\n      Central Limit Theorem\n      Convergence Concepts\n    Stochastic Processes\n      Markov Chains\n      Random Walks\n      Poisson Processes\n      Brownian Motion",
+            "complexity": "high",
+            "tags": [
+                "probability",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

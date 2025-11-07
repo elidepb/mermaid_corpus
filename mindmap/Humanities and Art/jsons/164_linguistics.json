@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "164",
+            "topic": "Linguistics",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Linguistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Linguistics))\n    Branches\n      Phonetics\n      Phonology\n      Morphology\n      Syntax\n      Semantics\n      Pragmatics\n    Approaches\n      Structuralism\n        Saussure\n      Generative Grammar\n        Chomsky\n      Cognitive Linguistics\n      Functional Linguistics\n    Areas of Study\n      Language Acquisition\n      Psycholinguistics\n      Neurolinguistics\n      Computational Linguistics",
+            "complexity": "high",
+            "tags": [
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

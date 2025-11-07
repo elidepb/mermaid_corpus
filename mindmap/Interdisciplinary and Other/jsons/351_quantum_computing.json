@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "351",
+            "topic": "Quantum Computing",
+            "category": "Physics/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Quantum Computing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Quantum<br/>Computing))\n    Physics\n      Quantum Mechanics\n      Superposition\n      Entanglement\n      Decoherence\n    Computer Science\n      Algorithms\n      Complexity Theory\n      Programming\n      Architecture\n    Key Algorithms\n      Shor's Algorithm\n      Grover's Algorithm\n      Quantum Simulation\n      Optimization\n    Applications\n      Cryptography\n      Drug Discovery\n      Financial Modeling\n      AI Enhancement",
+            "complexity": "high",
+            "tags": [
+                "quantum_computing",
+                "physics",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

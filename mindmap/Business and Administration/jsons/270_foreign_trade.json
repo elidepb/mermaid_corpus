@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "270",
+            "topic": "Foreign Trade",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Foreign Trade.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Foreign Trade))\n    Export/Import\n      Documentation\n      Regulations\n      Customs\n    Payment Methods\n      Letter of Credit\n      Open Account\n      Wire Transfer\n    Incoterms\n      FOB\n      CIF\n      DDP\n    Trade Finance\n      Export Credit\n      Factoring\n    Logistics\n      Shipping\n      Insurance\n      Freight",
+            "complexity": "high",
+            "tags": [
+                "foreign_trade",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

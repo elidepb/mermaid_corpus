@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "012",
+            "topic": "Physical Chemistry",
+            "category": "Chemistry",
+            "description": "A mindmap showing the fundamental concepts and structure of Physical Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Physical Chemistry))\n    Quantum Chemistry\n      Atomic Structure\n      Molecular Orbitals\n      Spectroscopy\n      Computational Chemistry\n    Chemical Kinetics\n      Reaction Rates\n      Rate Laws\n      Activation Energy\n      Catalysis\n    Thermochemistry\n      Enthalpy\n      Entropy\n      Gibbs Free Energy\n      Chemical Equilibrium\n    Electrochemistry\n      Redox Reactions\n      Electrochemical Cells\n      Nernst Equation\n      Corrosion\n    Surface Chemistry\n      Adsorption\n      Catalysis\n      Colloids\n      Interfaces",
+            "complexity": "high",
+            "tags": [
+                "physical_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

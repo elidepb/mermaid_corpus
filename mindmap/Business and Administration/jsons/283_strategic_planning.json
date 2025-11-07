@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Strategic Planning",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Strategic Planning.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Strategic Planning))\n    Process\n      Vision\n      Mission\n      Goals\n      Objectives\n      Action Plans\n    Analysis\n      Internal\n      External\n      Competitive\n    Tools\n      Balanced Scorecard\n      Strategy Map\n      OKRs\n    Implementation\n      Resource Allocation\n      Timeline\n      Accountability\n    Review\n      Monitoring\n      Evaluation\n      Adaptation",
+            "complexity": "high",
+            "tags": [
+                "strategic_planning",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

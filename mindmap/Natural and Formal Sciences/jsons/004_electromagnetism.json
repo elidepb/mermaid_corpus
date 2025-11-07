@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "004",
+            "topic": "Electromagnetism",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Electromagnetism.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Electromagnetism))\n    Electric Fields\n      Coulomb's Law\n      Electric Potential\n      Gauss's Law\n      Capacitance\n    Magnetic Fields\n      Biot-Savart Law\n      Ampère's Law\n      Magnetic Flux\n      Inductance\n    Maxwell's Equations\n      Gauss's Law for E-field\n      Gauss's Law for B-field\n      Faraday's Law\n      Ampère-Maxwell Law\n    Electromagnetic Waves\n      Light\n      Radio Waves\n      X-rays\n      Gamma Rays\n    Applications\n      Motors and Generators\n      Transformers\n      Wireless Communication\n      Electromagnetic Induction",
+            "complexity": "high",
+            "tags": [
+                "electromagnetism",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

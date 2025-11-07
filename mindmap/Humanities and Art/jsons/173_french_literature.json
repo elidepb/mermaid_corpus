@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "173",
+            "topic": "French Literature",
+            "category": "Literature",
+            "description": "A mindmap showing the fundamental concepts and structure of French Literature.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((French Literature))\n    Medieval\n      Chanson de Roland\n      Chrétien de Troyes\n    Renaissance\n      Rabelais\n      Montaigne\n    Classical Period\n      Molière\n      Racine\n      Corneille\n    Enlightenment\n      Voltaire\n      Rousseau\n      Diderot\n    19th Century\n      Hugo\n      Balzac\n      Flaubert\n      Baudelaire\n    20th Century\n      Proust\n      Camus\n      Sartre",
+            "complexity": "high",
+            "tags": [
+                "french_literature",
+                "literature"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

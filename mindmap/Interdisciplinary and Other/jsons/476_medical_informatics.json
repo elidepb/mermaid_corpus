@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "476",
+            "topic": "Medical Informatics",
+            "category": "Medicine/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Medical Informatics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Medical<br/>Informatics))\n    Definition\n      Information technology in medicine\n      Data management and analysis\n    Components\n      Electronic Health Records\n        Documentation\n        Interoperability\n        Standards (HL7, FHIR)\n      Clinical Decision Support\n        Alerts\n        Guidelines\n        AI assistance\n      Medical Imaging Informatics\n        PACS\n        Image analysis\n      Public Health Informatics\n        Surveillance\n        Epidemiology\n    Technologies\n      Databases\n      Cloud Computing\n      Machine Learning\n      Natural Language Processing\n      Blockchain\n    Applications\n      Quality Improvement\n        Metrics\n        Benchmarking\n      Research\n        Big data\n        Precision medicine\n      Patient Safety\n        Error prevention\n        Adverse event detection\n      Population Health\n        Risk stratification\n    Standards\n      Terminology\n        SNOMED CT\n        ICD\n        LOINC\n      Data Exchange\n      Security\n    Challenges\n      Data Privacy\n      System Integration\n      User Adoption\n      Cost",
+            "complexity": "high",
+            "tags": [
+                "medical_informatics",
+                "medicine",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

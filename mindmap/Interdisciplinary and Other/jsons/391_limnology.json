@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "391",
+            "topic": "Limnology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Limnology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Limnology))\n    Biology\n      Aquatic Ecology\n      Microbiology\n      Zoology\n      Botany\n    Study Areas\n      Lakes\n      Rivers\n      Wetlands\n      Reservoirs\n    Topics\n      Water Chemistry\n      Nutrient Cycling\n      Food Webs\n      Productivity\n    Applications\n      Water Management\n      Conservation\n      Fisheries\n      Climate Studies",
+            "complexity": "high",
+            "tags": [
+                "limnology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

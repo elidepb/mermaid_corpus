@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "357",
+            "topic": "Urban Planning",
+            "category": "Planning/Architecture",
+            "description": "A mindmap showing the fundamental concepts and structure of Urban Planning.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Urban<br/>Planning))\n    Planning\n      Land Use\n      Transportation\n      Zoning\n      Development\n    Architecture\n      Design\n      Built Environment\n      Public Spaces\n      Infrastructure\n    Considerations\n      Sustainability\n      Community Needs\n      Economic Development\n      Cultural Heritage\n    Tools\n      GIS Mapping\n      Modeling\n      Public Engagement\n      Policy Analysis",
+            "complexity": "high",
+            "tags": [
+                "urban_planning",
+                "planning",
+                "architecture"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Physical Anthropology",
+            "category": "Anthropology",
+            "description": "A mindmap showing the fundamental concepts and structure of Physical Anthropology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Physical Anthropology))\n    Human Evolution\n      Primate Studies\n      Fossil Record\n      Hominin Evolution\n    Biological Variation\n      Genetics\n      Adaptation\n      Race & Ethnicity\n    Osteology\n      Skeletal Analysis\n      Forensic Anthropology\n    Research Areas\n      Paleoanthropology\n      Primatology\n      Human Biology\n      Bioarchaeology",
+            "complexity": "high",
+            "tags": [
+                "physical_anthropology",
+                "anthropology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

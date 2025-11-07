@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Corporate Finance",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Corporate Finance.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Corporate Finance))\n    Capital Structure\n      Debt\n      Equity\n      Hybrid\n    Investment Decisions\n      Capital Budgeting\n      NPV\n      IRR\n    Financial Planning\n      Forecasting\n      Budgeting\n    Risk Management\n      Hedging\n      Derivatives\n    Valuation\n      DCF\n      Multiples",
+            "complexity": "high",
+            "tags": [
+                "corporate_finance",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

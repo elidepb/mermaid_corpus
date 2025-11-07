@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "165",
+            "topic": "Historical Linguistics",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Historical Linguistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historical Linguistics))\n    Language Change\n      Sound Change\n      Grammaticalization\n      Semantic Change\n      Lexical Change\n    Comparative Method\n      Language Families\n        Indo-European\n        Sino-Tibetan\n        Afro-Asiatic\n      Reconstruction\n      Cognates\n    Topics\n      Language Contact\n      Pidgins & Creoles\n      Language Death\n      Etymology",
+            "complexity": "high",
+            "tags": [
+                "historical_linguistics",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

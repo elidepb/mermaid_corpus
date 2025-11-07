@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Social Communication",
+            "category": "Communication",
+            "description": "A mindmap showing the fundamental concepts and structure of Social Communication.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Social Communication))\n    Communication Models\n      Linear Model\n      Interactive Model\n      Transactional Model\n    Communication Types\n      Interpersonal\n      Group\n      Organizational\n      Mass Communication\n    Social Dynamics\n      Social Networks\n      Opinion Leaders\n      Diffusion of Innovations\n    Research Methods\n      Content Analysis\n      Surveys\n      Focus Groups\n      Ethnography",
+            "complexity": "high",
+            "tags": [
+                "social_communication",
+                "communication"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

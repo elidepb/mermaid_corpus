@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "427",
+            "topic": "Compilers",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Compilers.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Compilers))\n    Computer Science\n      Programming Languages\n      Theory of Computation\n      Algorithms\n      Computer Architecture\n    Phases\n      Lexical Analysis\n      Parsing\n      Semantic Analysis\n      Code Generation\n    Topics\n      Optimization\n      Type Systems\n      Runtime Systems\n      Error Handling\n    Applications\n      Language Implementation\n      Interpreters\n      JIT Compilation\n      Code Analysis",
+            "complexity": "high",
+            "tags": [
+                "compilers",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

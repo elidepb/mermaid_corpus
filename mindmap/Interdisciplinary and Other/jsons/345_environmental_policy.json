@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "345",
+            "topic": "Environmental Policy",
+            "category": "Political Science/Environmental",
+            "description": "A mindmap showing the fundamental concepts and structure of Environmental Policy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Environmental<br/>Policy))\n    Political Science\n      Governance\n      Policy Analysis\n      International Relations\n      Regulation\n    Environmental Science\n      Climate Change\n      Biodiversity\n      Pollution\n      Sustainability\n    Instruments\n      Legislation\n      Market Mechanisms\n      Treaties\n      Incentives\n    Areas\n      Energy Policy\n      Conservation\n      Waste Management\n      Climate Agreements",
+            "complexity": "high",
+            "tags": [
+                "environmental_policy",
+                "political_science",
+                "environmental"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

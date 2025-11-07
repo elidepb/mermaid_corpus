@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "167",
+            "topic": "Phonetics",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Phonetics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Phonetics))\n    Articulatory Phonetics\n      Place of Articulation\n      Manner of Articulation\n      Voicing\n      Airstream Mechanisms\n    Acoustic Phonetics\n      Sound Waves\n      Formants\n      Spectrograms\n      Acoustic Analysis\n    Auditory Phonetics\n      Speech Perception\n      Auditory System\n    Transcription\n      IPA International Phonetic Alphabet\n      Narrow vs Broad Transcription",
+            "complexity": "high",
+            "tags": [
+                "phonetics",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

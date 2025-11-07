@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "027",
+            "topic": "Linear Algebra",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Linear Algebra.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Linear Algebra))\n    Vectors\n      Vector Operations\n      Linear Combinations\n      Span\n      Linear Independence\n    Matrices\n      Matrix Operations\n      Determinants\n      Inverse Matrices\n      Matrix Rank\n    Systems of Equations\n      Gaussian Elimination\n      Row Reduction\n      Solution Spaces\n    Vector Spaces\n      Subspaces\n      Basis\n      Dimension\n      Linear Transformations\n    Eigenvalues\n      Eigenvectors\n      Diagonalization\n      Characteristic Polynomial\n    Applications\n      Computer Graphics\n      Machine Learning\n      Quantum Mechanics",
+            "complexity": "high",
+            "tags": [
+                "linear_algebra",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

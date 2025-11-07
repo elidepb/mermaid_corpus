@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "040",
+            "topic": "Oceanography",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Oceanography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Oceanography))\n    Physical Oceanography\n      Ocean Currents\n      Waves\n      Tides\n      Temperature and Salinity\n    Chemical Oceanography\n      Dissolved Gases\n      Nutrients\n      Ocean Acidification\n      Chemical Cycles\n    Biological Oceanography\n      Marine Ecosystems\n      Plankton\n      Food Webs\n      Marine Life Zones\n    Geological Oceanography\n      Ocean Floor\n      Plate Tectonics\n      Sediments\n      Hydrothermal Vents\n    Ocean Circulation\n      Thermohaline Circulation\n      Upwelling\n      Gyres\n      El Niño/La Niña\n    Marine Technology\n      Submersibles\n      Remote Sensing\n      Sonar\n      Ocean Buoys",
+            "complexity": "high",
+            "tags": [
+                "oceanography",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

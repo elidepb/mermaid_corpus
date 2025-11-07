@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "244",
+            "topic": "Bioethics",
+            "category": "Ethics/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Bioethics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Bioethics))\n    Principles\n      Autonomy\n      Beneficence\n      Non-Maleficence\n      Justice\n    Issues\n      Informed Consent\n      Confidentiality\n      End-of-Life Care\n      Resource Allocation\n    Specific Topics\n      Genetics & Cloning\n      Reproduction Technologies\n      Organ Transplantation\n      Research Ethics\n      Pandemic Ethics\n    Approaches\n      Principlism\n      Casuistry\n      Virtue Ethics\n      Care Ethics",
+            "complexity": "high",
+            "tags": [
+                "bioethics",
+                "ethics",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

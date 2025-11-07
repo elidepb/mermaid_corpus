@@ -1,0 +1,24 @@
+```mermaid
+mindmap
+  root((Herpetology))
+    Zoology
+      Reptiles
+      Amphibians
+      Morphology
+      Evolution
+    Reptiles
+      Snakes
+      Lizards
+      Turtles
+      Crocodilians
+    Amphibians
+      Frogs
+      Salamanders
+      Caecilians
+    Topics
+      Behavior
+      Ecology
+      Venom
+      Conservation
+```
+

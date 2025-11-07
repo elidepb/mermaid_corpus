@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "411",
+            "topic": "Condensed Matter Physics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Condensed Matter Physics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Condensed Matter<br/>Physics))\n    Physics\n      Quantum Mechanics\n      Statistical Mechanics\n      Solid State Physics\n      Many-Body Theory\n    States\n      Solids\n      Liquids\n      Soft Matter\n      Quantum Fluids\n    Phenomena\n      Phase Transitions\n      Emergent Properties\n      Collective Behavior\n      Topological States\n    Applications\n      Electronics\n      Quantum Materials\n      Nanotechnology\n      Superconductors",
+            "complexity": "high",
+            "tags": [
+                "condensed_matter_physics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

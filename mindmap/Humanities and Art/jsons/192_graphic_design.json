@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "192",
+            "topic": "Graphic Design",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Graphic Design.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Graphic Design))\n    Principles\n      Balance\n      Contrast\n      Hierarchy\n      Unity\n      White Space\n    Elements\n      Typography\n      Color\n      Layout\n      Imagery\n    Areas\n      Branding\n      Editorial Design\n      Advertising\n      Web Design\n      Packaging\n    Tools\n      Adobe Creative Suite\n      Sketch\n      Figma\n    Movements\n      Bauhaus\n      Swiss Style\n      Postmodernism",
+            "complexity": "high",
+            "tags": [
+                "graphic_design",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

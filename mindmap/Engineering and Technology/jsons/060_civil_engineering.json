@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Civil Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Civil Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Civil Engineering))\n    Structural Engineering\n      Building Design\n      Bridge Design\n      Structural Analysis\n      Load Calculations\n    Geotechnical Engineering\n      Soil Mechanics\n      Foundations\n      Slope Stability\n      Retaining Walls\n    Transportation Engineering\n      Highway Design\n      Traffic Engineering\n      Pavement Design\n      Transportation Planning\n    Water Resources\n      Hydrology\n      Hydraulics\n      Drainage Systems\n      Water Supply\n    Construction Management\n      Project Planning\n      Scheduling\n      Cost Estimation\n      Quality Control\n    Materials\n      Concrete\n      Steel\n      Asphalt\n      Composite Materials\n    Surveying\n      Land Surveying\n      GPS\n      Leveling\n      Mapping\n    Environmental Engineering\n      Waste Management\n      Water Treatment\n      Air Quality\n      Sustainability",
+            "complexity": "high",
+            "tags": [
+                "civil_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

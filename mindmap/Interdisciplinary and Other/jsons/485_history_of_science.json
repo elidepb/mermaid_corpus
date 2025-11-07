@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "485",
+            "topic": "History of Science",
+            "category": "History/Science",
+            "description": "A mindmap showing the fundamental concepts and structure of History of Science.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((History of<br/>Science))\n    Definition\n      Study of scientific development\n      Context and change over time\n    Periods\n      Ancient Science\n        Greek philosophy\n        Mathematics\n      Medieval Science\n        Islamic Golden Age\n        Scholasticism\n      Scientific Revolution\n        16th-17th centuries\n        Copernicus, Newton\n      Modern Science\n        19th-20th centuries\n        Specialization\n    Approaches\n      Internalist\n        Ideas and theories\n        Progress narrative\n      Externalist\n        Social context\n        Institutions\n      Integrated\n        Both perspectives\n    Themes\n      Scientific Method\n        Evolution of methods\n      Institutions\n        Universities\n        Academies\n        Laboratories\n      Instruments\n        Technology\n        Observation\n      Revolutionary Changes\n        Paradigm shifts\n        Kuhn's theory\n    Disciplines\n      History of Physics\n      History of Biology\n      History of Chemistry\n      History of Medicine\n    Methods\n      Primary Sources\n        Original papers\n        Correspondence\n      Archival Research\n      Contextual Analysis\n    Historiography\n      Whig history critique\n      Presentism\n      Periodization",
+            "complexity": "high",
+            "tags": [
+                "history_of_science",
+                "history",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

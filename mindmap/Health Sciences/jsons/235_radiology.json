@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "235",
+            "topic": "Radiology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Radiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Radiology))\n    Imaging Modalities\n      X-Ray\n      CT Computed Tomography\n      MRI Magnetic Resonance\n      Ultrasound\n      Nuclear Medicine\n        PET\n        SPECT\n    Interventional Radiology\n      Angiography\n      Biopsy\n      Drainage Procedures\n      Embolization\n    Applications\n      Diagnosis\n      Treatment Guidance\n      Screening\n      Follow-up\n    Radiation Safety\n      ALARA Principle\n      Shielding\n      Dose Management",
+            "complexity": "high",
+            "tags": [
+                "radiology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

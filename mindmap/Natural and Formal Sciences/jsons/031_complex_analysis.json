@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "031",
+            "topic": "Complex Analysis",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Complex Analysis.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Complex Analysis))\n    Complex Numbers\n      Arithmetic\n      Polar Form\n      Roots of Unity\n      Complex Plane\n    Analytic Functions\n      Cauchy-Riemann Equations\n      Harmonic Functions\n      Conformal Mappings\n    Integration\n      Contour Integrals\n      Cauchy's Theorem\n      Cauchy's Integral Formula\n      Residue Theorem\n    Series\n      Taylor Series\n      Laurent Series\n      Singularities\n      Poles and Residues\n    Applications\n      Fluid Dynamics\n      Electromagnetism\n      Signal Processing\n      Quantum Mechanics",
+            "complexity": "high",
+            "tags": [
+                "complex_analysis",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

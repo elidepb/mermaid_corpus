@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "223",
+            "topic": "Neurology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Neurology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Neurology))\n    Nervous System\n      Central Nervous System\n        Brain\n        Spinal Cord\n      Peripheral Nervous System\n      Autonomic Nervous System\n    Neurological Disorders\n      Stroke\n      Epilepsy\n      Multiple Sclerosis\n      Parkinson's Disease\n      Alzheimer's Disease\n      Migraine\n    Diagnostics\n      Neurological Examination\n      EEG\n      MRI\n      CT Scan\n      Lumbar Puncture\n    Treatments\n      Pharmacotherapy\n      Neurosurgery\n      Rehabilitation",
+            "complexity": "high",
+            "tags": [
+                "neurology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

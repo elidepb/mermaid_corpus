@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Political Communication",
+            "category": "Communication",
+            "description": "A mindmap showing the fundamental concepts and structure of Political Communication.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Political Communication))\n    Campaign Communication\n      Political Advertising\n      Debates\n      Campaign Strategy\n    Media & Politics\n      Agenda Setting\n      Framing\n      Priming\n      Media Bias\n    Digital Politics\n      Social Media Campaigns\n      Misinformation\n      Online Mobilization\n    Political Rhetoric\n      Persuasion\n      Propaganda\n      Political Discourse",
+            "complexity": "high",
+            "tags": [
+                "political_communication",
+                "communication"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

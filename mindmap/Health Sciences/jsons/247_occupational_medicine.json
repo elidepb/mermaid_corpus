@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "247",
+            "topic": "Occupational Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Occupational Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Occupational Medicine))\n    Workplace Hazards\n      Physical Hazards\n      Chemical Hazards\n      Biological Hazards\n      Ergonomic Hazards\n      Psychosocial Hazards\n    Occupational Diseases\n      Respiratory Diseases\n      Musculoskeletal Disorders\n      Occupational Cancer\n      Hearing Loss\n    Health Surveillance\n      Pre-Employment Screening\n      Periodic Examinations\n      Fitness for Work\n    Prevention\n      Risk Assessment\n      Engineering Controls\n      Personal Protective Equipment\n      Health Education\n      Return to Work Programs",
+            "complexity": "high",
+            "tags": [
+                "occupational_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

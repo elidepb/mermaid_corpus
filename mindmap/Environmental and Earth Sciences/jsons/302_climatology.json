@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "302",
+            "topic": "Climatology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Climatology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Climatology))\n    Elements\n      Temperature\n      Precipitation\n      Humidity\n      Wind\n      Pressure\n    Climate Classification\n      Köppen\n      Thornthwaite\n      Trewartha\n    Scales\n      Microclimate\n      Mesoclimate\n      Macroclimate\n      Global\n    Methods\n      Statistical Analysis\n      Climate Models\n      Paleoclimate\n      Observations\n    Applications\n      Agriculture\n      Urban Planning\n      Climate Change\n      Risk Assessment",
+            "complexity": "high",
+            "tags": [
+                "climatology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

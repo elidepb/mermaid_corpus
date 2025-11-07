@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "086",
+            "topic": "Computer Simulation",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computer Simulation.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computer Simulation))\n    Types\n      Discrete Event Simulation\n      Continuous Simulation\n      Agent-Based Modeling\n      Monte Carlo Simulation\n    Applications\n      Weather Forecasting\n      Engineering Design\n      Economic Modeling\n      Training Simulators\n      Drug Discovery\n    Components\n      Model Development\n      Validation\n      Verification\n      Sensitivity Analysis\n    Tools\n      MATLAB Simulink\n      AnyLogic\n      NetLogo",
+            "complexity": "high",
+            "tags": [
+                "computer_simulation",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

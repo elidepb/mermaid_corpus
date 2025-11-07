@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "341",
+            "topic": "Educational Psychology",
+            "category": "Psychology/Education",
+            "description": "A mindmap showing the fundamental concepts and structure of Educational Psychology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Educational<br/>Psychology))\n    Psychology\n      Learning Theory\n      Cognitive Development\n      Motivation\n      Individual Differences\n    Education\n      Teaching Methods\n      Curriculum Design\n      Assessment\n      Classroom Management\n    Research Areas\n      Learning Disabilities\n      Gifted Education\n      Social-Emotional Learning\n      Technology Integration\n    Applications\n      Student Support\n      Teacher Training\n      Educational Policy\n      Intervention Programs",
+            "complexity": "high",
+            "tags": [
+                "educational_psychology",
+                "psychology",
+                "education"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

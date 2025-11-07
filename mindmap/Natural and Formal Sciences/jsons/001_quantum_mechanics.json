@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "001",
+            "topic": "Quantum Mechanics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Quantum Mechanics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Quantum Mechanics))\n    Fundamental Concepts\n      Wave-Particle Duality\n      Uncertainty Principle\n      Quantum Superposition\n      Quantum Entanglement\n    Mathematical Framework\n      Schrödinger Equation\n      Wavefunction\n      Operators and Observables\n      Hilbert Space\n    Key Phenomena\n      Quantum Tunneling\n      Quantum States\n      Energy Quantization\n      Spin\n    Applications\n      Quantum Computing\n      Quantum Cryptography\n      Lasers\n      Semiconductors",
+            "complexity": "high",
+            "tags": [
+                "quantum_mechanics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

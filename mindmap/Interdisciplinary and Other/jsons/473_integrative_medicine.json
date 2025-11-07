@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "473",
+            "topic": "Integrative Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Integrative Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Integrative<br/>Medicine))\n    Definition\n      Combines conventional and complementary\n      Whole-person care\n    Principles\n      Patient-Practitioner Partnership\n      Evidence-Based\n      Healing-Oriented\n      Whole Person\n        Body, mind, spirit\n      Prevention Focus\n    Conventional Medicine\n      Pharmaceuticals\n      Surgery\n      Standard treatments\n    Complementary Approaches\n      Mind-Body\n        Meditation\n        Yoga\n        Tai Chi\n      Natural Products\n        Herbs\n        Supplements\n      Manual Therapies\n        Massage\n        Chiropractic\n        Acupuncture\n      Lifestyle\n        Nutrition\n        Exercise\n        Sleep\n    Applications\n      Chronic Pain\n      Stress Management\n      Cancer Support\n      Cardiovascular Health\n      Mental Health\n    Research\n      Clinical trials\n      Mechanisms\n      Safety\n      Effectiveness\n    Challenges\n      Evidence quality\n      Insurance coverage\n      Standardization\n      Integration barriers",
+            "complexity": "high",
+            "tags": [
+                "integrative_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

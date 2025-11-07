@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsychology",
+            "category": "Psychology",
+            "description": "A mindmap showing the fundamental concepts and structure of Neuropsychology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Neuropsychology))\n    Brain Structure\n      Cortical Regions\n      Subcortical Structures\n      Neurotransmitters\n    Cognitive Functions\n      Memory Systems\n      Executive Functions\n      Language & Speech\n      Visual Processing\n    Assessment\n      Neuropsychological Tests\n      Brain Imaging\n        fMRI\n        PET\n        EEG\n    Clinical Applications\n      Brain Injury\n      Neurodegenerative Diseases\n      Stroke Rehabilitation",
+            "complexity": "high",
+            "tags": [
+                "neuropsychology",
+                "psychology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

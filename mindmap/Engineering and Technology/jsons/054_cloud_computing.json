@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "054",
+            "topic": "Cloud Computing",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Cloud Computing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cloud Computing))\n    Service Models\n      IaaS\n      PaaS\n      SaaS\n      FaaS/Serverless\n    Deployment Models\n      Public Cloud\n      Private Cloud\n      Hybrid Cloud\n      Multi-cloud\n    Virtualization\n      Virtual Machines\n      Containers\n      Hypervisors\n      Docker/Kubernetes\n    Cloud Architecture\n      Microservices\n      Load Balancing\n      Auto-scaling\n      Distributed Systems\n    Cloud Storage\n      Object Storage\n      Block Storage\n      File Storage\n      CDN\n    Cloud Providers\n      AWS\n      Azure\n      Google Cloud\n      Oracle Cloud\n    Cloud Security\n      Identity Management\n      Encryption\n      Compliance\n      Data Privacy\n    Cost Management\n      Pricing Models\n      Resource Optimization\n      Monitoring\n      Budgeting",
+            "complexity": "high",
+            "tags": [
+                "cloud_computing",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

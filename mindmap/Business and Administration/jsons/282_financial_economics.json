@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Financial Economics",
+            "category": "Economics/Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Financial Economics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Financial Economics))\n    Markets\n      Efficiency\n      Anomalies\n      Bubbles\n    Asset Pricing\n      CAPM\n      APT\n      Factor Models\n    Corporate Finance\n      Capital Structure\n      Dividend Policy\n      M&A\n    Behavioral\n      Biases\n      Heuristics\n      Market Psychology\n    Econometrics\n      Time Series\n      Regression\n      Forecasting",
+            "complexity": "high",
+            "tags": [
+                "financial_economics",
+                "economics",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

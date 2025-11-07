@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "039",
+            "topic": "Meteorology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Meteorology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Meteorology))\n    Atmospheric Structure\n      Troposphere\n      Stratosphere\n      Mesosphere\n      Thermosphere\n    Weather Systems\n      Highs and Lows\n      Fronts\n      Cyclones\n      Anticyclones\n    Precipitation\n      Rain\n      Snow\n      Hail\n      Cloud Formation\n    Atmospheric Dynamics\n      Wind Patterns\n      Jet Streams\n      Coriolis Effect\n      Pressure Systems\n    Weather Forecasting\n      Numerical Models\n      Satellite Observations\n      Radar Technology\n      Data Analysis\n    Severe Weather\n      Thunderstorms\n      Tornadoes\n      Hurricanes\n      Blizzards\n    Climate vs Weather\n      Climate Zones\n      Climate Change\n      Long-term Patterns",
+            "complexity": "high",
+            "tags": [
+                "meteorology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

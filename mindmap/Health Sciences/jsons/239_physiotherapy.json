@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "239",
+            "topic": "Physiotherapy",
+            "category": "Physiotherapy",
+            "description": "A mindmap showing the fundamental concepts and structure of Physiotherapy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Physiotherapy))\n    Treatment Modalities\n      Manual Therapy\n      Exercise Therapy\n      Electrotherapy\n      Hydrotherapy\n      Heat & Cold Therapy\n    Specializations\n      Orthopedic\n      Neurological\n      Cardiopulmonary\n      Pediatric\n      Sports\n      Geriatric\n    Assessment\n      Movement Analysis\n      Muscle Testing\n      Range of Motion\n      Functional Assessment\n    Rehabilitation\n      Post-Surgical\n      Post-Injury\n      Chronic Conditions\n      Disability Management",
+            "complexity": "high",
+            "tags": [
+                "physiotherapy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

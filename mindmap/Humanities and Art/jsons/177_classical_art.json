@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "177",
+            "topic": "Classical Art",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Classical Art.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Classical Art))\n    Greek Art\n      Archaic Period\n        Kouros & Kore\n      Classical Period\n        Parthenon\n        Phidias\n      Hellenistic Period\n        Laocoön\n    Roman Art\n      Republican Period\n      Imperial Art\n        Augustus\n        Trajan's Column\n      Mosaics\n      Frescoes\n    Characteristics\n      Idealism\n      Naturalism\n      Proportion\n      Harmony",
+            "complexity": "high",
+            "tags": [
+                "classical_art",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

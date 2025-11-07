@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "246",
+            "topic": "Preventive Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Preventive Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Preventive Medicine))\n    Levels of Prevention\n      Primary Prevention\n        Immunization\n        Health Education\n      Secondary Prevention\n        Screening\n        Early Detection\n      Tertiary Prevention\n        Rehabilitation\n        Disease Management\n    Risk Assessment\n      Risk Factors\n      Screening Programs\n      Health Promotion\n    Lifestyle Medicine\n      Nutrition\n      Physical Activity\n      Smoking Cessation\n      Stress Management\n    Public Health Initiatives\n      Disease Surveillance\n      Community Programs",
+            "complexity": "high",
+            "tags": [
+                "preventive_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

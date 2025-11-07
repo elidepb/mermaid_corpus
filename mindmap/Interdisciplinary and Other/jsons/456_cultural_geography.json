@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "456",
+            "topic": "Cultural Geography",
+            "category": "Geography/Anthropology",
+            "description": "A mindmap showing the fundamental concepts and structure of Cultural Geography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cultural<br/>Geography))\n    Definition\n      Spatial aspects of culture\n      Place and identity\n    Themes\n      Cultural Landscapes\n        Built environment\n        Sacred spaces\n      Place and Identity\n        Sense of place\n        Belonging\n      Cultural Diffusion\n        Innovation spread\n        Cultural exchange\n      Language Geography\n        Dialect regions\n        Linguistic boundaries\n    Approaches\n      Traditional\n        Carl Sauer\n        Cultural regions\n      Contemporary\n        Social construction\n        Power relations\n    Methods\n      Fieldwork\n      Ethnography\n      Textual analysis\n      Visual methods\n    Topics\n      Race and ethnicity\n      Gender\n      Religion\n      Popular culture",
+            "complexity": "high",
+            "tags": [
+                "cultural_geography",
+                "geography",
+                "anthropology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

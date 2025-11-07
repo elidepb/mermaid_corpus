@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "212",
+            "topic": "Physiology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Physiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Physiology))\n    Cellular Physiology\n      Cell Membrane\n      Transport Mechanisms\n      Cellular Respiration\n    Systems Physiology\n      Cardiovascular\n      Respiratory\n      Renal\n      Endocrine\n      Digestive\n      Nervous\n    Regulation\n      Homeostasis\n      Feedback Mechanisms\n      Hormonal Control\n    Topics\n      Metabolism\n      Electrolyte Balance\n      Acid-Base Balance",
+            "complexity": "high",
+            "tags": [
+                "physiology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

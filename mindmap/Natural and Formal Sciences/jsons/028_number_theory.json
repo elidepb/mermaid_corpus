@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "028",
+            "topic": "Number Theory",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Number Theory.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Number Theory))\n    Divisibility\n      Prime Numbers\n      GCD and LCM\n      Fundamental Theorem\n    Modular Arithmetic\n      Congruences\n      Chinese Remainder Theorem\n      Euler's Theorem\n      Fermat's Little Theorem\n    Diophantine Equations\n      Linear Equations\n      Pythagorean Triples\n      Pell's Equation\n    Cryptography\n      RSA\n      Public Key Systems\n      Primality Testing\n    Algebraic Number Theory\n      Algebraic Integers\n      Number Fields\n      Class Groups\n    Analytic Number Theory\n      Prime Number Theorem\n      Riemann Zeta Function\n      Dirichlet Series",
+            "complexity": "high",
+            "tags": [
+                "number_theory",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

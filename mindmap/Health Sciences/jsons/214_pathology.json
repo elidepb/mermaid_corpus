@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "214",
+            "topic": "Pathology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Pathology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Pathology))\n    General Pathology\n      Cell Injury\n      Inflammation\n      Neoplasia\n      Hemodynamic Disorders\n    Systemic Pathology\n      Cardiovascular Pathology\n      Respiratory Pathology\n      Gastrointestinal Pathology\n      Neuropathology\n    Diagnostic Methods\n      Histopathology\n      Cytopathology\n      Molecular Pathology\n      Autopsy\n    Disease Mechanisms\n      Infection\n      Genetic Disorders\n      Degenerative Diseases",
+            "complexity": "high",
+            "tags": [
+                "pathology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

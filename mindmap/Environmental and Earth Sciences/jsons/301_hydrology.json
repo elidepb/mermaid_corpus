@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "301",
+            "topic": "Hydrology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Hydrology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Hydrology))\n    Components\n      Precipitation\n      Evaporation\n      Infiltration\n      Runoff\n      Groundwater Flow\n    Hydrologic Cycle\n      Atmospheric Water\n      Surface Water\n      Subsurface Water\n    Analysis\n      Streamflow\n      Flood Frequency\n      Drought Analysis\n      Water Balance\n    Applications\n      Water Supply\n      Flood Control\n      Irrigation\n      Hydropower\n    Tools\n      Hydrologic Models\n      GIS\n      Remote Sensing\n      Gauging Stations",
+            "complexity": "high",
+            "tags": [
+                "hydrology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

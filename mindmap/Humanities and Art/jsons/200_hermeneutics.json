@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "200",
+            "topic": "Hermeneutics",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Hermeneutics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Hermeneutics))\n    Classical Hermeneutics\n      Biblical Interpretation\n      Legal Interpretation\n      Schleiermacher\n    Philosophical Hermeneutics\n      Heidegger\n        Being & Time\n      Gadamer\n        Truth & Method\n        Fusion of Horizons\n    Concepts\n      Understanding\n      Interpretation\n      Hermeneutic Circle\n      Prejudice\n    Applications\n      Literary Interpretation\n      Historical Understanding\n      Social Sciences",
+            "complexity": "high",
+            "tags": [
+                "hermeneutics",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

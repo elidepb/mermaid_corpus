@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "222",
+            "topic": "Cardiology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Cardiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cardiology))\n    Cardiac Anatomy\n      Heart Chambers\n      Valves\n      Coronary Arteries\n      Conduction System\n    Cardiac Diseases\n      Coronary Artery Disease\n      Heart Failure\n      Arrhythmias\n      Valvular Disease\n      Cardiomyopathy\n    Diagnostics\n      ECG\n      Echocardiography\n      Cardiac Catheterization\n      Stress Testing\n    Treatments\n      Medications\n      Interventional Procedures\n      Cardiac Surgery\n      Cardiac Rehabilitation",
+            "complexity": "high",
+            "tags": [
+                "cardiology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

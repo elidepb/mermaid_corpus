@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "198",
+            "topic": "Epistemology",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Epistemology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Epistemology))\n    Sources of Knowledge\n      Rationalism\n      Empiricism\n      Intuition\n      Testimony\n    Theories of Justification\n      Foundationalism\n      Coherentism\n      Reliabilism\n      Virtue Epistemology\n    Knowledge Types\n      A Priori\n      A Posteriori\n      Propositional\n      Procedural\n    Skepticism\n      External World\n      Other Minds\n      Induction\n    Gettier Problem",
+            "complexity": "high",
+            "tags": [
+                "epistemology",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

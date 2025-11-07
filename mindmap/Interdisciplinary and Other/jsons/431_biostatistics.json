@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "431",
+            "topic": "Biostatistics",
+            "category": "Statistics/Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Biostatistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Biostatistics))\n    Statistics\n      Statistical Inference\n      Experimental Design\n      Survival Analysis\n      Longitudinal Data\n    Biology\n      Epidemiology\n      Clinical Trials\n      Genetics\n      Public Health\n    Methods\n      Hypothesis Testing\n      Regression Models\n      Meta-Analysis\n      Power Analysis\n    Applications\n      Drug Development\n      Disease Surveillance\n      Health Policy\n      Genomics",
+            "complexity": "high",
+            "tags": [
+                "biostatistics",
+                "statistics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

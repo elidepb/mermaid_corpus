@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Business Administration",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Business Administration.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Business Administration))\n    Core Functions\n      Planning\n      Organizing\n      Leading\n      Controlling\n    Key Areas\n      Finance\n      Marketing\n      Operations\n      HR\n    Skills\n      Decision Making\n      Communication\n      Problem Solving\n    Tools\n      ERP Systems\n      Analytics\n      Automation",
+            "complexity": "high",
+            "tags": [
+                "business_administration",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

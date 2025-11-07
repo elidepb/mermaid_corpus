@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "467",
+            "topic": "Tissue Culture",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Tissue Culture.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Tissue Culture))\n    Definition\n      Growing cells outside organism\n      In vitro cell cultivation\n    Types\n      Primary Culture\n        Direct from tissue\n        Limited lifespan\n      Cell Lines\n        Immortalized\n        Continuous growth\n      Organ Culture\n        Tissue fragments\n        3D structure\n      3D Culture\n        Spheroids\n        Organoids\n    Components\n      Culture Medium\n        Nutrients\n        Growth factors\n        Serum\n      Incubation\n        Temperature\n        CO2\n        Humidity\n      Sterility\n        Aseptic technique\n        Antibiotics\n    Applications\n      Research\n        Disease modeling\n        Drug testing\n      Biotechnology\n        Protein production\n        Vaccines\n      Regenerative Medicine\n        Tissue engineering\n        Cell therapy\n    Techniques\n      Passaging\n      Cryopreservation\n      Transfection\n      Differentiation\n    Challenges\n      Contamination\n      Genetic drift\n      Maintaining phenotype",
+            "complexity": "high",
+            "tags": [
+                "tissue_culture",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

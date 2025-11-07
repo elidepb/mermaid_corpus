@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "248",
+            "topic": "Veterinary Medicine",
+            "category": "Veterinary Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Veterinary Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Veterinary Medicine))\n    Species\n      Companion Animals\n        Dogs\n        Cats\n      Large Animals\n        Horses\n        Cattle\n      Exotic Animals\n      Wildlife\n    Specialties\n      Surgery\n      Internal Medicine\n      Emergency & Critical Care\n      Oncology\n      Dentistry\n    Public Health\n      Zoonotic Diseases\n      Food Safety\n      Animal Welfare\n    Practice\n      Clinical Diagnosis\n      Treatment\n      Preventive Care\n      Surgery",
+            "complexity": "high",
+            "tags": [
+                "veterinary_medicine",
+                "veterinary_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

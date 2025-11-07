@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Computer Vision",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computer Vision.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computer Vision))\n    Core Tasks\n      Image Classification\n      Object Detection\n      Segmentation\n      Face Recognition\n      Motion Analysis\n    Techniques\n      Convolutional Neural Networks\n      Feature Extraction\n        SIFT\n        HOG\n      Image Preprocessing\n    Applications\n      Autonomous Vehicles\n      Medical Imaging\n      Surveillance\n      Augmented Reality\n      Quality Control\n    Challenges\n      Lighting Variations\n      Occlusion\n      Real-time Processing",
+            "complexity": "high",
+            "tags": [
+                "computer_vision",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Cognitive Psychology",
+            "category": "Psychology",
+            "description": "A mindmap showing the fundamental concepts and structure of Cognitive Psychology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cognitive Psychology))\n    Mental Processes\n      Perception\n      Attention\n      Memory\n        Short-term\n        Long-term\n        Working Memory\n      Language\n    Problem Solving\n      Reasoning\n      Decision Making\n      Creativity\n    Research Methods\n      Experimental Studies\n      Brain Imaging\n      Computational Modeling\n    Applications\n      Learning\n      Human-Computer Interaction\n      Cognitive Therapy",
+            "complexity": "high",
+            "tags": [
+                "cognitive_psychology",
+                "psychology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

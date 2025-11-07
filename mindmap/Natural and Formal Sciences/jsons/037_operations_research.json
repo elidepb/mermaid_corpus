@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "037",
+            "topic": "Operations Research",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Operations Research.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Operations Research))\n    Linear Programming\n      Simplex Method\n      Duality\n      Sensitivity Analysis\n      Integer Programming\n    Optimization\n      Convex Optimization\n      Non-linear Programming\n      Dynamic Programming\n      Combinatorial Optimization\n    Network Models\n      Maximum Flow\n      Minimum Cost Flow\n      Transportation Problem\n      Assignment Problem\n    Queuing Theory\n      Queue Models\n      Arrival Processes\n      Service Times\n      Performance Measures\n    Decision Analysis\n      Decision Trees\n      Game Theory\n      Multi-criteria Decision Making\n      Risk Analysis\n    Simulation\n      Monte Carlo Methods\n      Discrete Event Simulation\n      Stochastic Modeling",
+            "complexity": "high",
+            "tags": [
+                "operations_research",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

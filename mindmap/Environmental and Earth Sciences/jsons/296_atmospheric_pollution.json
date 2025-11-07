@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "296",
+            "topic": "Atmospheric Pollution",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Atmospheric Pollution.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Atmospheric Pollution))\n    Pollutants\n      Particulate Matter\n      NOx\n      SOx\n      CO\n      Ozone\n      VOCs\n    Sources\n      Industry\n      Transportation\n      Agriculture\n      Residential\n    Effects\n      Respiratory Disease\n      Acid Rain\n      Smog\n      Climate Impact\n    Monitoring\n      Air Quality Index\n      Sensors\n      Satellite Data\n    Control\n      Emission Standards\n      Scrubbers\n      Catalytic Converters\n      Clean Technology",
+            "complexity": "high",
+            "tags": [
+                "atmospheric_pollution",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Cybersecurity",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Cybersecurity.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cybersecurity))\n    Threats\n      Malware\n        Viruses\n        Ransomware\n        Trojans\n      Social Engineering\n        Phishing\n        Pretexting\n      Network Attacks\n        DDoS\n        Man-in-the-Middle\n    Defense Mechanisms\n      Encryption\n      Firewalls\n      Intrusion Detection\n      Authentication\n        Multi-factor\n        Biometrics\n    Domains\n      Network Security\n      Application Security\n      Cloud Security\n      IoT Security",
+            "complexity": "high",
+            "tags": [
+                "cybersecurity",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

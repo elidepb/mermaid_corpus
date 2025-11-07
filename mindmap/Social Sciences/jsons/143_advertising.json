@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Advertising",
+            "category": "Communication",
+            "description": "A mindmap showing the fundamental concepts and structure of Advertising.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Advertising))\n    Types\n      Print Advertising\n      Television Advertising\n      Digital Advertising\n      Out-of-Home\n    Creative Process\n      Concept Development\n      Copywriting\n      Art Direction\n      Production\n    Media Planning\n      Target Audience\n      Media Selection\n      Budget Allocation\n      Campaign Timing\n    Effectiveness\n      Brand Awareness\n      Recall\n      Persuasion\n      ROI",
+            "complexity": "high",
+            "tags": [
+                "advertising",
+                "communication"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

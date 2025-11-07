@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Virtual Reality",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Virtual Reality.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Virtual Reality))\n    VR Hardware\n      Head-mounted Displays\n      Controllers\n      Tracking Systems\n      Haptic Devices\n    Display Technology\n      Resolution\n      Field of View\n      Refresh Rate\n      Stereoscopic Display\n    Tracking and Input\n      6DoF Tracking\n      Hand Tracking\n      Eye Tracking\n      Motion Controllers\n    VR Software\n      Game Engines\n      VR SDKs\n      Development Tools\n      Content Creation\n    3D Graphics\n      Rendering\n      Shading\n      Lighting\n      Optimization\n    User Experience\n      Immersion\n      Presence\n      Comfort\n      Motion Sickness\n    Applications\n      Gaming\n      Training and Simulation\n      Education\n      Healthcare\n      Architecture\n      Entertainment\n    Interaction Design\n      User Interface\n      Navigation\n      Object Manipulation\n      Feedback",
+            "complexity": "high",
+            "tags": [
+                "virtual_reality",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

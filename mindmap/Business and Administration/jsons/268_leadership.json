@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "268",
+            "topic": "Leadership",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Leadership.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Leadership))\n    Styles\n      Transformational\n      Transactional\n      Servant\n      Situational\n    Skills\n      Vision\n      Communication\n      Empathy\n      Decision Making\n    Theories\n      Trait\n      Behavioral\n      Contingency\n    Development\n      Coaching\n      Mentoring\n      Self-Awareness\n    Impact\n      Motivation\n      Culture\n      Performance",
+            "complexity": "high",
+            "tags": [
+                "leadership",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

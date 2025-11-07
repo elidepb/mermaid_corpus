@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "International Business",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of International Business.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((International Business))\n    Entry Modes\n      Export\n      Licensing\n      FDI\n      Joint Venture\n    Environment\n      Political\n      Economic\n      Cultural\n      Legal\n    Strategy\n      Globalization\n      Localization\n      Glocalization\n    Trade\n      Barriers\n      Agreements\n      WTO\n    Operations\n      Global Supply Chain\n      Offshoring\n      Outsourcing",
+            "complexity": "high",
+            "tags": [
+                "international_business",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

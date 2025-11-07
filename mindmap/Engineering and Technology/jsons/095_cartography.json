@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "095",
+            "topic": "Cartography",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Cartography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cartography))\n    Map Types\n      Topographic Maps\n      Thematic Maps\n      Navigation Maps\n      Digital Maps\n    Map Elements\n      Scale\n      Projection\n      Symbols\n      Legend\n    Technologies\n      GIS Geographic Information Systems\n      Remote Sensing\n      Digital Mapping\n    Applications\n      Urban Planning\n      Environmental Monitoring\n      Navigation",
+            "complexity": "high",
+            "tags": [
+                "cartography",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "161",
+            "topic": "Aesthetics",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Aesthetics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Aesthetics))\n    Nature of Art\n      Definition of Art\n      Art vs Craft\n      Institutional Theory\n    Aesthetic Experience\n      Beauty\n      Sublime\n      Taste\n      Judgment\n    Art & Emotion\n      Expression Theory\n      Formalism\n      Representation\n    Contemporary Issues\n      Digital Art\n      Popular Art\n      Art & Politics",
+            "complexity": "high",
+            "tags": [
+                "aesthetics",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

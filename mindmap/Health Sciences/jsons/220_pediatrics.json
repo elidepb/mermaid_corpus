@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "220",
+            "topic": "Pediatrics",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Pediatrics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Pediatrics))\n    Developmental Stages\n      Neonatal\n      Infancy\n      Childhood\n      Adolescence\n    Common Conditions\n      Respiratory Infections\n      Gastrointestinal Disorders\n      Growth Disorders\n      Developmental Delays\n    Preventive Care\n      Well-Child Visits\n      Immunizations\n      Growth Monitoring\n      Developmental Screening\n    Specialties\n      Neonatology\n      Pediatric Cardiology\n      Pediatric Neurology\n      Pediatric Oncology",
+            "complexity": "high",
+            "tags": [
+                "pediatrics",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

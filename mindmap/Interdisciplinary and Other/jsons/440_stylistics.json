@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "440",
+            "topic": "Stylistics",
+            "category": "Literature/Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Stylistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Stylistics))\n    Literature\n      Literary Theory\n      Genres\n      Narrative\n      Poetics\n    Linguistics\n      Syntax\n      Semantics\n      Pragmatics\n      Phonology\n    Analysis Levels\n      Lexical\n      Grammatical\n      Discourse\n      Textual\n    Applications\n      Literary Analysis\n      Authorship Attribution\n      Translation\n      Creative Writing",
+            "complexity": "high",
+            "tags": [
+                "stylistics",
+                "literature",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

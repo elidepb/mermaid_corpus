@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "499",
+            "topic": "Business Analytics",
+            "category": "Business/Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Business Analytics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Business<br/>Analytics))\n    Definition\n      Data analysis for business decisions\n      Insights from data\n    Types\n      Descriptive\n        What happened?\n        Reporting\n      Diagnostic\n        Why did it happen?\n        Root cause\n      Predictive\n        What will happen?\n        Forecasting\n      Prescriptive\n        What should we do?\n        Recommendations\n    Data Sources\n      Internal\n        Transactions\n        Operations\n        CRM\n        ERP\n      External\n        Market data\n        Social media\n        Competitors\n    Process\n      Data Collection\n        Gathering\n        Integration\n      Data Preparation\n        Cleaning\n        Transformation\n      Analysis\n        Statistical methods\n        Machine learning\n      Visualization\n        Dashboards\n        Reports\n      Action\n        Decisions\n        Implementation\n    Tools\n      Business Intelligence\n        Tableau\n        Power BI\n        Qlik\n      Statistical Software\n        R\n        Python\n        SAS\n        SPSS\n      Databases\n        SQL\n        Data warehouses\n    Techniques\n      Regression Analysis\n      Segmentation\n      Time Series\n      A/B Testing\n      Cohort Analysis\n      Attribution Modeling\n    Applications\n      Marketing\n        Campaign optimization\n        Customer segmentation\n      Finance\n        Risk analysis\n        Forecasting\n      Operations\n        Process optimization\n        Supply chain\n      Sales\n        Pipeline analysis\n        Forecasting\n    KPIs\n      Revenue metrics\n      Customer metrics\n      Operational metrics\n      Financial metrics",
+            "complexity": "high",
+            "tags": [
+                "business_analytics",
+                "business",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

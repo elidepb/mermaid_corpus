@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "303",
+            "topic": "Structural Geology",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Structural Geology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Structural Geology))\n    Structures\n      Folds\n      Faults\n      Joints\n      Foliations\n      Lineations\n    Stress and Strain\n      Deformation\n      Brittle\n      Ductile\n    Tectonics\n      Plate Boundaries\n      Orogenesis\n      Rifting\n    Methods\n      Field Mapping\n      Stereographic Projection\n      Cross Sections\n      3D Modeling\n    Applications\n      Resource Exploration\n      Hazard Assessment\n      Engineering",
+            "complexity": "high",
+            "tags": [
+                "structural_geology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

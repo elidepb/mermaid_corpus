@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "172",
+            "topic": "English Literature",
+            "category": "Literature",
+            "description": "A mindmap showing the fundamental concepts and structure of English Literature.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((English Literature))\n    Medieval\n      Beowulf\n      Chaucer\n        Canterbury Tales\n    Renaissance\n      Shakespeare\n      Marlowe\n      Spenser\n    Romantic Period\n      Wordsworth\n      Coleridge\n      Byron\n      Shelley\n      Keats\n    Victorian Era\n      Dickens\n      Brontë Sisters\n      George Eliot\n    Modern & Contemporary\n      Joyce\n      Woolf\n      Orwell\n      Salman Rushdie",
+            "complexity": "high",
+            "tags": [
+                "english_literature",
+                "literature"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

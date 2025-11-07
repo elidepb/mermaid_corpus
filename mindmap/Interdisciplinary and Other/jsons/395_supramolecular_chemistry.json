@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "395",
+            "topic": "Supramolecular Chemistry",
+            "category": "Chemistry",
+            "description": "A mindmap showing the fundamental concepts and structure of Supramolecular Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Supramolecular<br/>Chemistry))\n    Chemistry\n      Molecular Recognition\n      Self-Assembly\n      Host-Guest Chemistry\n      Non-Covalent Bonds\n    Interactions\n      Hydrogen Bonding\n      Van der Waals\n      Electrostatic\n      Hydrophobic\n    Systems\n      Crown Ethers\n      Cyclodextrins\n      Calixarenes\n      Molecular Machines\n    Applications\n      Drug Delivery\n      Sensors\n      Catalysis\n      Materials",
+            "complexity": "high",
+            "tags": [
+                "supramolecular_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

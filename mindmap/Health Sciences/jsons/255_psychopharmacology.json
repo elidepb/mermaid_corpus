@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "255",
+            "topic": "Psychopharmacology",
+            "category": "Psychology/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Psychopharmacology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psychopharmacology))\n    Drug Classes\n      Antidepressants\n        SSRIs\n        SNRIs\n        Tricyclics\n      Anxiolytics\n        Benzodiazepines\n        Buspirone\n      Antipsychotics\n        Typical\n        Atypical\n      Mood Stabilizers\n      Stimulants\n    Mechanisms\n      Neurotransmitter Systems\n        Serotonin\n        Dopamine\n        Norepinephrine\n        GABA\n      Receptor Binding\n      Synaptic Effects\n    Clinical Use\n      Treatment Selection\n      Dosing Strategies\n      Monitoring\n      Side Effects\n    Research\n      Novel Compounds\n      Treatment Resistance\n      Combination Therapy",
+            "complexity": "high",
+            "tags": [
+                "psychopharmacology",
+                "psychology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

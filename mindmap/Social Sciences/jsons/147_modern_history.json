@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Modern History",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Modern History.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Modern History))\n    Major Events\n      Renaissance\n      Reformation\n      Age of Exploration\n      Scientific Revolution\n      Enlightenment\n    Revolutions\n      English Civil War\n      American Revolution\n      French Revolution\n    Colonialism\n      European Empires\n      Atlantic Slave Trade\n      Colonial Resistance\n    Industrialization\n      Industrial Revolution\n      Urbanization\n      Social Changes",
+            "complexity": "high",
+            "tags": [
+                "modern_history",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

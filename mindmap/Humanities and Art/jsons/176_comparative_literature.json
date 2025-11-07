@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "176",
+            "topic": "Comparative Literature",
+            "category": "Literature",
+            "description": "A mindmap showing the fundamental concepts and structure of Comparative Literature.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Comparative Literature))\n    Methods\n      Cross-Cultural Analysis\n      Translation Studies\n      Intertextuality\n      World Literature\n    Themes\n      Literary Movements\n      Genres Across Cultures\n      Influence & Reception\n      Adaptation\n    Theoretical Frameworks\n      Postcolonial Theory\n      Transnationalism\n      Globalization\n    Areas\n      East-West Studies\n      European Literature\n      Postcolonial Literature",
+            "complexity": "high",
+            "tags": [
+                "comparative_literature",
+                "literature"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

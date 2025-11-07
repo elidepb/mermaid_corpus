@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "016",
+            "topic": "Genetics",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Genetics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Genetics))\n    Mendelian Genetics\n      Laws of Inheritance\n      Dominance\n      Segregation\n      Independent Assortment\n    Molecular Genetics\n      DNA Structure\n      Gene Expression\n      Mutations\n      Genetic Code\n    Population Genetics\n      Hardy-Weinberg Equilibrium\n      Genetic Drift\n      Gene Flow\n      Natural Selection\n    Genetic Engineering\n      CRISPR\n      Cloning\n      GMOs\n      Gene Therapy\n    Human Genetics\n      Pedigree Analysis\n      Genetic Disorders\n      Chromosome Abnormalities\n      Genomics",
+            "complexity": "high",
+            "tags": [
+                "genetics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

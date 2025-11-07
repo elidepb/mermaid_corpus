@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "272",
+            "topic": "Investments",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Investments.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Investments))\n    Asset Classes\n      Stocks\n      Bonds\n      Real Estate\n      Commodities\n      Alternatives\n    Strategy\n      Value\n      Growth\n      Income\n      Index\n    Analysis\n      Fundamental\n      Technical\n      Quantitative\n    Portfolio\n      Diversification\n      Allocation\n      Rebalancing\n    Risk/Return\n      Risk Tolerance\n      Time Horizon",
+            "complexity": "high",
+            "tags": [
+                "investments",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

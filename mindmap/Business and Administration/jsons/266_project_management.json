@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Project Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Project Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Project Management))\n    Phases\n      Initiation\n      Planning\n      Execution\n      Monitoring\n      Closure\n    Knowledge Areas\n      Scope\n      Time\n      Cost\n      Quality\n      Risk\n    Methodologies\n      Waterfall\n      Agile\n      Scrum\n      Kanban\n    Tools\n      Gantt Charts\n      Critical Path\n      PM Software",
+            "complexity": "high",
+            "tags": [
+                "project_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

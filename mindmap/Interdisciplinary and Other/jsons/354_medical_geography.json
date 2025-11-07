@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "354",
+            "topic": "Medical Geography",
+            "category": "Geography/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Medical Geography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Medical<br/>Geography))\n    Geography\n      Spatial Analysis\n      GIS\n      Environment\n      Demographics\n    Medicine\n      Epidemiology\n      Public Health\n      Disease Patterns\n      Healthcare Access\n    Topics\n      Disease Mapping\n      Health Disparities\n      Environmental Health\n      Service Distribution\n    Applications\n      Outbreak Response\n      Resource Planning\n      Health Policy\n      Risk Assessment",
+            "complexity": "high",
+            "tags": [
+                "medical_geography",
+                "geography",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

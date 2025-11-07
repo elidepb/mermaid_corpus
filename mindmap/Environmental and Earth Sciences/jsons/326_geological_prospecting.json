@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "326",
+            "topic": "Geological Prospecting",
+            "category": "Earth Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Geological Prospecting.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Geological Prospecting))\n    Methods\n      Geophysical\n      Geochemical\n      Remote Sensing\n      Drilling\n      Mapping\n    Resources\n      Minerals\n      Oil & Gas\n      Groundwater\n      Geothermal\n    Exploration Stages\n      Reconnaissance\n      Detailed Survey\n      Drilling\n      Resource Estimation\n    Tools\n      Seismic\n      Magnetic\n      Gravity\n      Electromagnetic\n      Geochemical Analysis\n    Economics\n      Cost-Benefit\n      Risk Assessment\n      Reserve Calculation",
+            "complexity": "high",
+            "tags": [
+                "geological_prospecting",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

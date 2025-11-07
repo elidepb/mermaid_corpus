@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "388",
+            "topic": "Embryology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Embryology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Embryology))\n    Biology\n      Developmental Biology\n      Cell Biology\n      Genetics\n      Evolution\n    Stages\n      Fertilization\n      Cleavage\n      Gastrulation\n      Organogenesis\n    Concepts\n      Cell Differentiation\n      Morphogenesis\n      Pattern Formation\n      Induction\n    Applications\n      Stem Cell Research\n      Regenerative Medicine\n      Birth Defects\n      Evolution Studies",
+            "complexity": "high",
+            "tags": [
+                "embryology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

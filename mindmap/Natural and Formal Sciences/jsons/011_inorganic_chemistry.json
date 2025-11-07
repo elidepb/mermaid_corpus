@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "011",
+            "topic": "Inorganic Chemistry",
+            "category": "Chemistry",
+            "description": "A mindmap showing the fundamental concepts and structure of Inorganic Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Inorganic Chemistry))\n    Coordination Chemistry\n      Ligands\n      Complex Formation\n      Crystal Field Theory\n      Coordination Geometries\n    Main Group Elements\n      Alkali Metals\n      Alkaline Earth Metals\n      Halogens\n      Noble Gases\n    Transition Metals\n      Electronic Configuration\n      Oxidation States\n      Catalysis\n      Organometallics\n    Solid State Chemistry\n      Crystal Structures\n      Lattice Energy\n      Band Theory\n      Semiconductors\n    Bioinorganic Chemistry\n      Metalloproteins\n      Metalloenzymes\n      Iron in Hemoglobin",
+            "complexity": "high",
+            "tags": [
+                "inorganic_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

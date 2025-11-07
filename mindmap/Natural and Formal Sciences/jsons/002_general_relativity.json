@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "002",
+            "topic": "General Relativity",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of General Relativity.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((General Relativity))\n    Core Principles\n      Equivalence Principle\n      Spacetime Curvature\n      Geodesics\n    Einstein Field Equations\n      Energy-Momentum Tensor\n      Metric Tensor\n      Ricci Curvature\n    Predictions\n      Gravitational Waves\n      Black Holes\n      Time Dilation\n      Gravitational Lensing\n    Cosmological Implications\n      Expanding Universe\n      Big Bang Theory\n      Dark Energy\n    Tests and Observations\n      Mercury's Perihelion\n      Light Bending\n      GPS Systems",
+            "complexity": "high",
+            "tags": [
+                "general_relativity",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

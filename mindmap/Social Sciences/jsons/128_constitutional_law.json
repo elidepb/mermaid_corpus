@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Constitutional Law",
+            "category": "Law",
+            "description": "A mindmap showing the fundamental concepts and structure of Constitutional Law.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Constitutional Law))\n    Core Principles\n      Separation of Powers\n      Rule of Law\n      Fundamental Rights\n      Federalism\n    Constitutional Interpretation\n      Originalism\n      Living Constitution\n      Judicial Review\n    Rights & Freedoms\n      Civil Rights\n      Political Rights\n      Social Rights\n    Topics\n      Constitutional Amendment\n      Emergency Powers\n      Constitutionalism",
+            "complexity": "high",
+            "tags": [
+                "constitutional_law",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

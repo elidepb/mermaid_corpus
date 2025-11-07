@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "379",
+            "topic": "Primatology",
+            "category": "Zoology",
+            "description": "A mindmap showing the fundamental concepts and structure of Primatology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Primatology))\n    Zoology\n      Primates\n      Taxonomy\n      Anatomy\n      Evolution\n    Groups\n      Prosimians\n      Monkeys\n      Apes\n      Humans\n    Research Areas\n      Behavior\n      Cognition\n      Social Structure\n      Communication\n    Applications\n      Conservation\n      Human Evolution\n      Medical Research\n      Ecology",
+            "complexity": "high",
+            "tags": [
+                "primatology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

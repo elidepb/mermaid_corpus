@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "238",
+            "topic": "Nursing",
+            "category": "Nursing",
+            "description": "A mindmap showing the fundamental concepts and structure of Nursing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Nursing))\n    Nursing Process\n      Assessment\n      Diagnosis\n      Planning\n      Implementation\n      Evaluation\n    Specialties\n      Medical-Surgical\n      Critical Care\n      Pediatric\n      Obstetric\n      Psychiatric\n      Community Health\n    Skills\n      Clinical Skills\n      Patient Care\n      Medication Administration\n      Documentation\n    Professional Practice\n      Evidence-Based Practice\n      Patient Safety\n      Ethics\n      Leadership",
+            "complexity": "high",
+            "tags": [
+                "nursing"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

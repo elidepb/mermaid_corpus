@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "267",
+            "topic": "Organizational Behavior",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Organizational Behavior.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Organizational Behavior))\n    Individual\n      Personality\n      Perception\n      Motivation\n      Learning\n    Group\n      Teams\n      Communication\n      Conflict\n      Leadership\n    Organization\n      Culture\n      Structure\n      Change\n      Politics\n    Applications\n      Performance\n      Job Satisfaction\n      Engagement",
+            "complexity": "high",
+            "tags": [
+                "organizational_behavior",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

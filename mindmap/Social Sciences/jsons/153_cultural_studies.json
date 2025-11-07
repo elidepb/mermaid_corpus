@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Cultural Studies",
+            "category": "Social Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Cultural Studies.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cultural Studies))\n    Key Concepts\n      Culture\n      Ideology\n      Hegemony\n      Identity\n      Representation\n    Theoretical Approaches\n      Marxism\n      Post-Structuralism\n      Postcolonialism\n      Feminism\n    Areas of Study\n      Popular Culture\n      Media Studies\n      Youth Culture\n      Subcultures\n    Topics\n      Globalization\n      Consumerism\n      Cultural Identity\n      Power & Resistance",
+            "complexity": "high",
+            "tags": [
+                "cultural_studies",
+                "social_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

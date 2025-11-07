@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "387",
+            "topic": "Comparative Physiology",
+            "category": "Zoology",
+            "description": "A mindmap showing the fundamental concepts and structure of Comparative Physiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Comparative<br/>Physiology))\n    Zoology\n      Physiology\n      Evolution\n      Adaptation\n      Ecology\n    Systems\n      Respiratory\n      Circulatory\n      Nervous\n      Excretory\n    Topics\n      Environmental Adaptation\n      Metabolic Rates\n      Thermoregulation\n      Osmoregulation\n    Applications\n      Biomimetics\n      Conservation\n      Medicine\n      Climate Research",
+            "complexity": "high",
+            "tags": [
+                "comparative_physiology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

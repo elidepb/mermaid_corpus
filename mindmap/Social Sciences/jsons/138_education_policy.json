@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Education Policy",
+            "category": "Education",
+            "description": "A mindmap showing the fundamental concepts and structure of Education Policy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Education Policy))\n    Policy Areas\n      Access & Equity\n      Quality Standards\n      Curriculum Reform\n      Teacher Training\n    Governance\n      Centralization vs Decentralization\n      Accountability\n      Funding Models\n    Reform Movements\n      School Choice\n      Standardized Testing\n      Technology Integration\n    International Perspectives\n      Comparative Education\n      PISA\n      Global Education Goals",
+            "complexity": "high",
+            "tags": [
+                "education_policy",
+                "education"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

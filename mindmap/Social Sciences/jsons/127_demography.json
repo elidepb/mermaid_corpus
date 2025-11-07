@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demography",
+            "category": "Sociology",
+            "description": "A mindmap showing the fundamental concepts and structure of Demography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Demography))\n    Population Dynamics\n      Fertility\n      Mortality\n      Migration\n    Demographic Transition\n      Stages\n      Population Pyramids\n      Aging Societies\n    Methods\n      Census\n      Vital Statistics\n      Surveys\n      Projections\n    Applications\n      Public Policy\n      Urban Planning\n      Healthcare Planning\n      Economic Forecasting",
+            "complexity": "high",
+            "tags": [
+                "demography",
+                "sociology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

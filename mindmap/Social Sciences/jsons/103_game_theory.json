@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Economics/Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Game Theory.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Game Theory))\n    Game Types\n      Cooperative Games\n      Non-Cooperative Games\n      Sequential Games\n      Simultaneous Games\n    Solution Concepts\n      Nash Equilibrium\n      Dominant Strategy\n      Pareto Optimality\n    Classic Games\n      Prisoner's Dilemma\n      Ultimatum Game\n      Chicken Game\n    Applications\n      Economics\n      Political Science\n      Biology\n      Computer Science",
+            "complexity": "high",
+            "tags": [
+                "game_theory",
+                "economics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

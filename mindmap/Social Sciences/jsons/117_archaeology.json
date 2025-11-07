@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Archaeology",
+            "category": "Anthropology",
+            "description": "A mindmap showing the fundamental concepts and structure of Archaeology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Archaeology))\n    Methods\n      Survey\n        Remote Sensing\n        Ground Survey\n      Excavation\n      Dating Techniques\n        Radiocarbon\n        Stratigraphy\n      Lab Analysis\n    Specializations\n      Prehistoric Archaeology\n      Historical Archaeology\n      Classical Archaeology\n      Underwater Archaeology\n    Material Culture\n      Artifacts\n      Ecofacts\n      Features\n    Interpretation\n      Site Formation\n      Cultural Evolution\n      Trade & Exchange",
+            "complexity": "high",
+            "tags": [
+                "archaeology",
+                "anthropology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

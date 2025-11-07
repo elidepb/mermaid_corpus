@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "498",
+            "topic": "Grid Computing",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Grid Computing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Grid Computing))\n    Definition\n      Distributed computing over network\n      Coordinated resource sharing\n    Architecture\n      Resource Layer\n        Compute nodes\n        Storage\n      Middleware\n        Job scheduling\n        Resource management\n      Application Layer\n        User interfaces\n    Components\n      Compute Nodes\n        Heterogeneous systems\n      Storage Systems\n        Distributed storage\n      Network\n        High-speed connections\n      Scheduler\n        Job distribution\n        Load balancing\n    Types\n      Computational Grid\n        CPU-intensive tasks\n      Data Grid\n        Large datasets\n      Service Grid\n        Web services\n    Technologies\n      Globus Toolkit\n      gLite\n      BOINC\n        Volunteer computing\n      Hadoop\n        MapReduce\n    Applications\n      Scientific Research\n        CERN LHC\n        Protein folding\n        Climate modeling\n      Financial Analysis\n      Engineering Simulations\n      Drug Discovery\n    Benefits\n      Computing Power\n        Parallel processing\n      Resource Sharing\n        Cost efficiency\n      Scalability\n        Add nodes easily\n      Fault Tolerance\n        Redundancy\n    Challenges\n      Heterogeneity\n        Different systems\n      Security\n        Distributed trust\n      Resource Management\n        Coordination\n      Network Latency\n      Scheduling Complexity\n    vs Cloud Computing\n      Architecture differences\n      Use cases\n      Control",
+            "complexity": "high",
+            "tags": [
+                "grid_computing",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

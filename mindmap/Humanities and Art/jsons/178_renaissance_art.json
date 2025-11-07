@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "178",
+            "topic": "Renaissance Art",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Renaissance Art.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Renaissance Art))\n    Early Renaissance\n      Masaccio\n      Donatello\n      Brunelleschi\n        Perspective\n    High Renaissance\n      Leonardo da Vinci\n      Michelangelo\n        Sistine Chapel\n      Raphael\n    Northern Renaissance\n      Jan van Eyck\n      Dürer\n      Bosch\n    Innovations\n      Linear Perspective\n      Chiaroscuro\n      Sfumato",
+            "complexity": "high",
+            "tags": [
+                "renaissance_art",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

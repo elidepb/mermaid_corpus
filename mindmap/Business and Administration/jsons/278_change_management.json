@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "278",
+            "topic": "Change Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Change Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Change Management))\n    Models\n      Kotter's 8 Steps\n      ADKAR\n      Lewin's Model\n    Process\n      Assess\n      Plan\n      Implement\n      Sustain\n    Resistance\n      Causes\n      Mitigation\n      Communication\n    Leadership\n      Sponsorship\n      Champions\n      Stakeholders\n    Tools\n      Readiness Assessment\n      Impact Analysis\n      Training",
+            "complexity": "high",
+            "tags": [
+                "change_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

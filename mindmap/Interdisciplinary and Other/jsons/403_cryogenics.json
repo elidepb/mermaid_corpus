@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "403",
+            "topic": "Cryogenics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Cryogenics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cryogenics))\n    Physics\n      Thermodynamics\n      Low Temperature Physics\n      Quantum Mechanics\n      Material Properties\n    Topics\n      Liquefaction\n      Superconductivity\n      Superfluidity\n      Cryopreservation\n    Cryogens\n      Liquid Nitrogen\n      Liquid Helium\n      Liquid Hydrogen\n      Cryogenic Mixtures\n    Applications\n      Medical Storage\n      Space Technology\n      Superconducting Magnets\n      Gas Separation",
+            "complexity": "high",
+            "tags": [
+                "cryogenics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Digital Marketing",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Digital Marketing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Digital Marketing))\n    Channels\n      SEO\n      SEM\n      Social Media\n      Email\n      Content\n    Strategy\n      Personas\n      Funnel\n      Attribution\n    Analytics\n      Google Analytics\n      KPIs\n      A/B Testing\n    Tools\n      CRM\n      Marketing Automation\n      Ad Platforms\n    Trends\n      AI\n      Personalization\n      Video",
+            "complexity": "high",
+            "tags": [
+                "digital_marketing",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

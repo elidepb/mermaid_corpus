@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "007",
+            "topic": "Astrophysics",
+            "category": "Astronomy",
+            "description": "A mindmap showing the fundamental concepts and structure of Astrophysics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Astrophysics))\n    Stellar Physics\n      Star Formation\n      Nuclear Fusion\n      Stellar Evolution\n      Supernovae\n    Compact Objects\n      White Dwarfs\n      Neutron Stars\n      Black Holes\n      Pulsars\n    Galactic Structure\n      Spiral Galaxies\n      Elliptical Galaxies\n      Dark Matter Halos\n      Galactic Nuclei\n    High Energy Phenomena\n      Gamma-Ray Bursts\n      Active Galactic Nuclei\n      Cosmic Rays\n    Observational Techniques\n      Spectroscopy\n      Radio Astronomy\n      X-ray Astronomy\n      Gravitational Wave Detection",
+            "complexity": "high",
+            "tags": [
+                "astrophysics",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Linguistic Anthropology",
+            "category": "Anthropology",
+            "description": "A mindmap showing the fundamental concepts and structure of Linguistic Anthropology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Linguistic Anthropology))\n    Language Structure\n      Phonology\n      Morphology\n      Syntax\n      Semantics\n    Sociolinguistics\n      Language Variation\n      Dialect\n      Code-Switching\n    Language & Culture\n      Linguistic Relativity\n      Language Ideology\n      Discourse Analysis\n    Research Areas\n      Language Acquisition\n      Endangered Languages\n      Multilingualism\n      Language Change",
+            "complexity": "high",
+            "tags": [
+                "linguistic_anthropology",
+                "anthropology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Software Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Software Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Software Engineering))\n    Development Methodologies\n      Agile\n        Scrum\n        Kanban\n      Waterfall\n      DevOps\n      Extreme Programming\n    Software Lifecycle\n      Requirements Analysis\n      Design\n      Implementation\n      Testing\n      Maintenance\n    Best Practices\n      Version Control\n      Code Review\n      Documentation\n      Continuous Integration\n    Quality Assurance\n      Unit Testing\n      Integration Testing\n      Performance Testing",
+            "complexity": "high",
+            "tags": [
+                "software_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

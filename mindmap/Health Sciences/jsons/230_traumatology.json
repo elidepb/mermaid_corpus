@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "230",
+            "topic": "Traumatology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Traumatology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Traumatology))\n    Trauma Types\n      Blunt Trauma\n      Penetrating Trauma\n      Burns\n      Blast Injuries\n    Fracture Management\n      Classification\n      Reduction\n      Fixation\n        Internal\n        External\n      Rehabilitation\n    Soft Tissue Injuries\n      Sprains\n      Strains\n      Dislocations\n      Ligament Tears\n    Emergency Care\n      Primary Survey\n      Stabilization\n      Damage Control Surgery\n      Polytrauma Management",
+            "complexity": "high",
+            "tags": [
+                "traumatology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

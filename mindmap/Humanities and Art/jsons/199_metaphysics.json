@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "199",
+            "topic": "Metaphysics",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Metaphysics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Metaphysics))\n    Ontology\n      Being\n      Existence\n      Substance\n      Universals vs Particulars\n    Identity & Change\n      Persistence\n      Personal Identity\n      Mereology\n    Causation\n      Determinism\n      Free Will\n      Laws of Nature\n    Time & Space\n      A-theory vs B-theory\n      Presentism\n      Eternalism\n    Mind & Body\n      Dualism\n      Materialism\n      Idealism",
+            "complexity": "high",
+            "tags": [
+                "metaphysics",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

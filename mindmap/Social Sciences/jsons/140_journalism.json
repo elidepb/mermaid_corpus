@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Journalism",
+            "category": "Communication",
+            "description": "A mindmap showing the fundamental concepts and structure of Journalism.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Journalism))\n    Types\n      Print Journalism\n      Broadcast Journalism\n      Digital Journalism\n      Photojournalism\n    Principles\n      Accuracy\n      Objectivity\n      Fairness\n      Independence\n    Practices\n      News Gathering\n      Interviewing\n      Fact-Checking\n      Editing\n    Ethics\n      Source Protection\n      Conflict of Interest\n      Privacy\n      Public Interest",
+            "complexity": "high",
+            "tags": [
+                "journalism",
+                "communication"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

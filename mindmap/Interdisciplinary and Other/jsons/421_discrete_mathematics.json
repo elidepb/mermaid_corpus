@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "421",
+            "topic": "Discrete Mathematics",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Discrete Mathematics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Discrete<br/>Mathematics))\n    Mathematics\n      Logic\n      Set Theory\n      Number Theory\n      Combinatorics\n    Topics\n      Graph Theory\n      Boolean Algebra\n      Recurrence Relations\n      Discrete Structures\n    Concepts\n      Proofs\n      Induction\n      Recursion\n      Algorithms\n    Applications\n      Computer Science\n      Cryptography\n      Network Design\n      Optimization",
+            "complexity": "high",
+            "tags": [
+                "discrete_mathematics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

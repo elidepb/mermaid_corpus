@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Blockchain",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Blockchain.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Blockchain))\n    Architecture\n      Distributed Ledger\n      Consensus Mechanisms\n        Proof of Work\n        Proof of Stake\n        Byzantine Fault Tolerance\n      Cryptography\n        Hash Functions\n        Digital Signatures\n    Applications\n      Cryptocurrencies\n        Bitcoin\n        Ethereum\n        Altcoins\n      Smart Contracts\n      Supply Chain\n      Digital Identity\n    Challenges\n      Scalability\n      Energy Consumption\n      Regulation\n      Interoperability",
+            "complexity": "high",
+            "tags": [
+                "blockchain",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

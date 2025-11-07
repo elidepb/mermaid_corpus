@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "497",
+            "topic": "Virtualization",
+            "category": "Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Virtualization.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Virtualization))\n    Definition\n      Creating virtual versions of resources\n      Hardware abstraction\n    Types\n      Server Virtualization\n        Multiple VMs on hardware\n      Desktop Virtualization\n        VDI\n        Remote desktops\n      Application Virtualization\n        Isolated apps\n      Storage Virtualization\n        Unified storage pool\n      Network Virtualization\n        SDN\n        Virtual networks\n    Hypervisors\n      Type 1 (Bare-Metal)\n        VMware ESXi\n        Hyper-V\n        KVM\n        Xen\n      Type 2 (Hosted)\n        VirtualBox\n        VMware Workstation\n        Parallels\n    Containers\n      Docker\n        Lightweight\n        Portable\n      Kubernetes\n        Orchestration\n        Scaling\n      LXC/LXD\n    Benefits\n      Resource Efficiency\n        Better utilization\n      Cost Savings\n        Reduced hardware\n      Flexibility\n        Easy provisioning\n      Isolation\n        Security\n        Testing\n      Disaster Recovery\n        Snapshots\n        Backups\n    Use Cases\n      Development and Testing\n      Server Consolidation\n      Cloud Computing\n      Legacy Application Support\n    Management\n      Resource Allocation\n        CPU\n        Memory\n        Storage\n      Monitoring\n        Performance\n        Health\n      Migration\n        Live migration\n        Load balancing\n    Challenges\n      Performance Overhead\n      Licensing\n      Complexity\n      Security Boundaries",
+            "complexity": "high",
+            "tags": [
+                "virtualization",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

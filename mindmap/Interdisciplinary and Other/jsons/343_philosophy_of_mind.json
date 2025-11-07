@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "343",
+            "topic": "Philosophy of Mind",
+            "category": "Philosophy/Psychology",
+            "description": "A mindmap showing the fundamental concepts and structure of Philosophy of Mind.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Philosophy<br/>of Mind))\n    Philosophy\n      Metaphysics\n      Epistemology\n      Logic\n      Ethics\n    Psychology\n      Consciousness\n      Perception\n      Cognition\n      Behavior\n    Key Problems\n      Mind-Body Problem\n      Free Will\n      Personal Identity\n      Qualia\n    Theories\n      Dualism\n      Functionalism\n      Materialism\n      Emergentism",
+            "complexity": "high",
+            "tags": [
+                "philosophy_of_mind",
+                "philosophy",
+                "psychology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "053",
+            "topic": "Computer Networks",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computer Networks.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computer Networks))\n    Network Architecture\n      OSI Model\n      TCP/IP Model\n      Protocols\n      Standards\n    Physical Layer\n      Transmission Media\n      Signal Encoding\n      Multiplexing\n      Network Topology\n    Data Link Layer\n      MAC Addressing\n      Error Detection\n      Flow Control\n      Ethernet\n    Network Layer\n      IP Addressing\n      Routing Algorithms\n      Subnetting\n      IPv4 vs IPv6\n    Transport Layer\n      TCP\n      UDP\n      Port Numbers\n      Congestion Control\n    Application Layer\n      HTTP/HTTPS\n      FTP\n      DNS\n      Email Protocols\n    Network Security\n      Firewalls\n      Encryption\n      VPN\n      Network Attacks\n    Wireless Networks\n      Wi-Fi\n      Bluetooth\n      Cellular Networks\n      Satellite",
+            "complexity": "high",
+            "tags": [
+                "computer_networks",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

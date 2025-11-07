@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "179",
+            "topic": "Baroque Art",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Baroque Art.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Baroque Art))\n    Italian Baroque\n      Caravaggio\n        Tenebrism\n      Bernini\n        Sculpture\n      Borromini\n        Architecture\n    Spanish Baroque\n      Velázquez\n      Zurbarán\n      Murillo\n    Flemish Baroque\n      Rubens\n      Van Dyck\n    Characteristics\n      Dramatic Lighting\n      Movement\n      Emotional Intensity\n      Grandeur",
+            "complexity": "high",
+            "tags": [
+                "baroque_art",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

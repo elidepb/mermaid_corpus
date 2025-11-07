@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Ancient History",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Ancient History.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ancient History))\n    Civilizations\n      Mesopotamia\n      Ancient Egypt\n      Ancient Greece\n      Ancient Rome\n      Ancient China\n      Ancient India\n    Topics\n      Political Systems\n      Social Structure\n      Economy & Trade\n      Religion & Mythology\n    Sources\n      Archaeological Evidence\n      Written Records\n      Art & Architecture\n    Key Periods\n      Bronze Age\n      Iron Age\n      Classical Antiquity",
+            "complexity": "high",
+            "tags": [
+                "ancient_history",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

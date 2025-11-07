@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "185",
+            "topic": "Classical Music",
+            "category": "Music",
+            "description": "A mindmap showing the fundamental concepts and structure of Classical Music.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Classical Music))\n    Periods\n      Baroque\n        Bach\n        Handel\n        Vivaldi\n      Classical\n        Mozart\n        Haydn\n        Beethoven\n      Romantic\n        Chopin\n        Wagner\n        Brahms\n      Modern\n        Stravinsky\n        Schoenberg\n    Forms\n      Symphony\n      Concerto\n      Sonata\n      Opera\n      Chamber Music\n    Elements\n      Melody\n      Harmony\n      Rhythm\n      Timbre",
+            "complexity": "high",
+            "tags": [
+                "classical_music",
+                "music"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

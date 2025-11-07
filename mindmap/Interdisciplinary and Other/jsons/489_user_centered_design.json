@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "489",
+            "topic": "User-Centered Design",
+            "category": "Design",
+            "description": "A mindmap showing the fundamental concepts and structure of User-Centered Design.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((User-Centered<br/>Design))\n    Definition\n      Design focused on user needs\n      Iterative process\n    Principles\n      Focus on Users\n        Understand deeply\n      Involve Users\n        Throughout process\n      Iterative Design\n        Refine continuously\n      Holistic Approach\n        Entire experience\n    Process\n      Research\n        User interviews\n        Observation\n        Surveys\n        Personas\n      Design\n        Ideation\n        Sketching\n        Wireframes\n        Prototypes\n      Test\n        Usability testing\n        Feedback\n      Implement\n      Evaluate\n        Metrics\n        Analytics\n    Methods\n      Contextual Inquiry\n        Observe in context\n      Participatory Design\n        Co-design\n      Card Sorting\n        Information structure\n      Journey Mapping\n        End-to-end experience\n    Deliverables\n      Personas\n        User archetypes\n      Scenarios\n      User Stories\n      Wireframes\n      Prototypes\n      Style Guides\n    Team Roles\n      UX Researchers\n      Designers\n      Developers\n      Product Managers\n      Stakeholders\n    Benefits\n      User Satisfaction\n      Reduced Errors\n      Lower Support Costs\n      Competitive Advantage\n    Challenges\n      Time and Resources\n      Stakeholder Buy-in\n      Balancing Needs\n      Accessibility",
+            "complexity": "high",
+            "tags": [
+                "user_centered_design",
+                "design"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

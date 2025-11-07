@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "333",
+            "topic": "Materials Science",
+            "category": "Physics/Chemistry/Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Materials Science.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Materials<br/>Science))\n    Physics\n      Quantum Mechanics\n      Thermodynamics\n      Solid State Physics\n    Chemistry\n      Chemical Bonding\n      Synthesis\n      Characterization\n    Engineering\n      Processing\n      Design\n      Manufacturing\n      Testing\n    Applications\n      Semiconductors\n      Biomaterials\n      Smart Materials\n      Energy Storage",
+            "complexity": "high",
+            "tags": [
+                "materials_science",
+                "physics",
+                "chemistry",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

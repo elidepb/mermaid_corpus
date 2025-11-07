@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "273",
+            "topic": "Financial Analysis",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Financial Analysis.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Financial Analysis))\n    Statements Analysis\n      Horizontal\n      Vertical\n      Ratio\n    Ratios\n      Liquidity\n      Profitability\n      Leverage\n      Efficiency\n    Valuation\n      DCF\n      Comparable\n      Precedent\n    Forecasting\n      Revenue\n      Expenses\n      Cash Flow\n    Tools\n      Excel\n      Financial Software",
+            "complexity": "high",
+            "tags": [
+                "financial_analysis",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

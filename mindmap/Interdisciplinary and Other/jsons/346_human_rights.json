@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "346",
+            "topic": "Human Rights",
+            "category": "Law/Politics",
+            "description": "A mindmap showing the fundamental concepts and structure of Human Rights.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Human<br/>Rights))\n    Law\n      International Law\n      Constitutional Law\n      Legal Frameworks\n      Courts\n    Politics\n      Democracy\n      Power Relations\n      Social Movements\n      Advocacy\n    Core Rights\n      Civil Rights\n      Political Rights\n      Social Rights\n      Economic Rights\n    Issues\n      Discrimination\n      Refugees\n      Justice\n      Development",
+            "complexity": "high",
+            "tags": [
+                "human_rights",
+                "law",
+                "politics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

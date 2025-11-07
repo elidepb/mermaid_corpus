@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "018",
+            "topic": "Microbiology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Microbiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Microbiology))\n    Bacterial Structure\n      Cell Wall\n      Flagella\n      Pili\n      Capsule\n    Bacterial Growth\n      Binary Fission\n      Growth Curves\n      Culture Media\n      Metabolism\n    Viruses\n      Structure\n      Replication Cycles\n      Viral Diseases\n      Bacteriophages\n    Fungi\n      Yeast\n      Molds\n      Mycology\n      Fungal Infections\n    Medical Microbiology\n      Pathogens\n      Antibiotics\n      Resistance\n      Vaccination\n    Environmental Microbiology\n      Nitrogen Cycle\n      Decomposition\n      Bioremediation",
+            "complexity": "high",
+            "tags": [
+                "microbiology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

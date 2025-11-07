@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Behavioral Finance",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Behavioral Finance.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Behavioral Finance))\n    Biases\n      Overconfidence\n      Anchoring\n      Herding\n      Loss Aversion\n    Heuristics\n      Availability\n      Representativeness\n    Market Anomalies\n      Momentum\n      Value Premium\n      Calendar Effects\n    Applications\n      Portfolio Management\n      Financial Planning\n      Market Prediction\n    Research\n      Prospect Theory\n      Mental Accounting",
+            "complexity": "high",
+            "tags": [
+                "behavioral_finance",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

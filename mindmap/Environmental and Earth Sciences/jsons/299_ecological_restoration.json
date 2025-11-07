@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "299",
+            "topic": "Ecological Restoration",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Ecological Restoration.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ecological Restoration))\n    Goals\n      Ecosystem Function\n      Biodiversity\n      Resilience\n      Ecosystem Services\n    Approaches\n      Passive\n      Active\n      Assisted Natural Regeneration\n    Phases\n      Assessment\n      Planning\n      Implementation\n      Monitoring\n      Adaptive Management\n    Techniques\n      Revegetation\n      Soil Remediation\n      Hydrology Restoration\n      Species Reintroduction\n    Challenges\n      Degradation Level\n      Funding\n      Time Scale\n      Climate Change",
+            "complexity": "high",
+            "tags": [
+                "ecological_restoration",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

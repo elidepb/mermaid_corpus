@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "218",
+            "topic": "Nutrition",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Nutrition.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Nutrition))\n    Macronutrients\n      Carbohydrates\n      Proteins\n      Fats\n    Micronutrients\n      Vitamins\n        Water-Soluble\n        Fat-Soluble\n      Minerals\n        Major\n        Trace\n    Metabolism\n      Energy Balance\n      Nutrient Metabolism\n      Digestion & Absorption\n    Applications\n      Clinical Nutrition\n      Sports Nutrition\n      Community Nutrition\n      Nutritional Assessment",
+            "complexity": "high",
+            "tags": [
+                "nutrition",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

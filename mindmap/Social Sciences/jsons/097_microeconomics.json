@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomics",
+            "category": "Economics",
+            "description": "A mindmap showing the fundamental concepts and structure of Microeconomics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Microeconomics))\n    Market Structures\n      Perfect Competition\n      Monopoly\n      Oligopoly\n      Monopolistic Competition\n    Consumer Theory\n      Utility Maximization\n      Indifference Curves\n      Budget Constraints\n    Producer Theory\n      Production Functions\n      Cost Curves\n      Profit Maximization\n    Market Failures\n      Externalities\n      Public Goods\n      Information Asymmetry",
+            "complexity": "high",
+            "tags": [
+                "microeconomics",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

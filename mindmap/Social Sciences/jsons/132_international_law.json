@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "International Law",
+            "category": "Law",
+            "description": "A mindmap showing the fundamental concepts and structure of International Law.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((International Law))\n    Public International Law\n      Treaties\n      Customary Law\n      State Sovereignty\n      Diplomatic Relations\n    International Organizations\n      United Nations\n      International Court of Justice\n      Regional Organizations\n    Specialized Areas\n      Human Rights Law\n      Humanitarian Law\n      Environmental Law\n      Trade Law\n    Enforcement\n      Sanctions\n      International Courts\n      State Responsibility",
+            "complexity": "high",
+            "tags": [
+                "international_law",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

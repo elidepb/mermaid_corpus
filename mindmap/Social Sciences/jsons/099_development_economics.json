@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Development Economics",
+            "category": "Economics",
+            "description": "A mindmap showing the fundamental concepts and structure of Development Economics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Development Economics))\n    Core Issues\n      Poverty\n      Inequality\n      Economic Growth\n      Sustainability\n    Development Theories\n      Modernization Theory\n      Dependency Theory\n      Endogenous Growth\n    Policy Areas\n      Education\n      Healthcare\n      Infrastructure\n      Microfinance\n    Measurement\n      Human Development Index\n      Gini Coefficient\n      Poverty Line",
+            "complexity": "high",
+            "tags": [
+                "development_economics",
+                "economics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

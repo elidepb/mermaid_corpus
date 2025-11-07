@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "319",
+            "topic": "Sustainable Agriculture",
+            "category": "Agriculture",
+            "description": "A mindmap showing the fundamental concepts and structure of Sustainable Agriculture.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sustainable Agriculture))\n    Practices\n      Crop Rotation\n      Cover Crops\n      Integrated Pest Management\n      Conservation Tillage\n    Principles\n      Soil Health\n      Biodiversity\n      Water Conservation\n      Animal Welfare\n    Systems\n      Organic\n      Agroforestry\n      Permaculture\n      Biodynamic\n    Benefits\n      Food Security\n      Environmental\n      Economic Viability\n      Resilience\n    Challenges\n      Yield Gap\n      Market Access\n      Knowledge\n      Policy",
+            "complexity": "high",
+            "tags": [
+                "sustainable_agriculture",
+                "agriculture"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

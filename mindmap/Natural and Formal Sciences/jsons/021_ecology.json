@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "021",
+            "topic": "Ecology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Ecology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ecology))\n    Ecosystem Structure\n      Producers\n      Consumers\n      Decomposers\n      Food Webs\n    Energy Flow\n      Trophic Levels\n      Energy Pyramids\n      Nutrient Cycling\n    Population Ecology\n      Growth Models\n      Carrying Capacity\n      Competition\n      Predation\n    Community Ecology\n      Succession\n      Biodiversity\n      Symbiosis\n      Niche Theory\n    Conservation\n      Habitat Loss\n      Climate Change\n      Endangered Species\n      Restoration Ecology",
+            "complexity": "high",
+            "tags": [
+                "ecology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

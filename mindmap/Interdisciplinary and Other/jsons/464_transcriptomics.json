@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "464",
+            "topic": "Transcriptomics",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Transcriptomics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Transcriptomics))\n    Definition\n      Study of all RNA transcripts\n      Gene expression patterns\n    Types\n      mRNA Analysis\n        Coding genes\n        Expression levels\n      Non-coding RNA\n        miRNA\n        lncRNA\n        siRNA\n      Alternative Splicing\n        Isoform detection\n    Technologies\n      RNA-Seq\n        Next-generation sequencing\n        Single-cell RNA-seq\n      Microarrays\n        Gene chips\n        Expression profiling\n      qRT-PCR\n        Validation\n        Quantification\n    Applications\n      Disease Mechanisms\n        Cancer profiling\n        Pathology\n      Drug Response\n        Pharmacogenomics\n        Resistance\n      Development\n        Cell differentiation\n        Tissue specificity\n    Analysis\n      Differential expression\n      Pathway enrichment\n      Network analysis\n      Clustering\n    Emerging Areas\n      Spatial transcriptomics\n      Single-cell analysis\n      Long-read sequencing",
+            "complexity": "high",
+            "tags": [
+                "transcriptomics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

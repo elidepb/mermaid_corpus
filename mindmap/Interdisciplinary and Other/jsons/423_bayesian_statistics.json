@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "423",
+            "topic": "Bayesian Statistics",
+            "category": "Mathematics",
+            "description": "A mindmap showing the fundamental concepts and structure of Bayesian Statistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Bayesian<br/>Statistics))\n    Mathematics\n      Probability Theory\n      Inference\n      Decision Theory\n      Computation\n    Concepts\n      Prior Distribution\n      Posterior Distribution\n      Likelihood\n      Bayes Theorem\n    Methods\n      MCMC\n      Variational Inference\n      Hierarchical Models\n      Model Selection\n    Applications\n      Machine Learning\n      Medical Diagnosis\n      Risk Analysis\n      Forecasting",
+            "complexity": "high",
+            "tags": [
+                "bayesian_statistics",
+                "mathematics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

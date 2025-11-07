@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "250",
+            "topic": "Biotechnology",
+            "category": "Biotechnology",
+            "description": "A mindmap showing the fundamental concepts and structure of Biotechnology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Biotechnology))\n    Applications\n      Medical Biotechnology\n      Agricultural Biotechnology\n      Industrial Biotechnology\n      Environmental Biotechnology\n    Techniques\n      Recombinant DNA\n      Cell Culture\n      Fermentation\n      Bioreactors\n    Products\n      Biologics\n      Vaccines\n      Antibodies\n      Enzymes\n      Biofuels\n    Tools\n      CRISPR\n      Gene Cloning\n      Protein Engineering\n      Synthetic Biology",
+            "complexity": "high",
+            "tags": [
+                "biotechnology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

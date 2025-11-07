@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Gender Studies",
+            "category": "Social Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of Gender Studies.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Gender Studies))\n    Core Concepts\n      Gender Identity\n      Gender Roles\n      Patriarchy\n      Femininity & Masculinity\n    Feminist Theory\n      Liberal Feminism\n      Radical Feminism\n      Intersectional Feminism\n      Postmodern Feminism\n    Topics\n      Gender Inequality\n      Sexuality\n      LGBTQ+ Studies\n      Reproductive Rights\n    Applications\n      Gender & Work\n      Gender & Politics\n      Gender & Media\n      Gender-Based Violence",
+            "complexity": "high",
+            "tags": [
+                "gender_studies",
+                "social_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

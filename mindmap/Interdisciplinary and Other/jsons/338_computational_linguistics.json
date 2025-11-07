@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "338",
+            "topic": "Computational Linguistics",
+            "category": "Linguistics/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computational Linguistics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computational<br/>Linguistics))\n    Linguistics\n      Syntax\n      Semantics\n      Phonetics\n      Pragmatics\n    Computer Science\n      NLP\n      Machine Learning\n      Algorithms\n      AI\n    Applications\n      Machine Translation\n      Speech Recognition\n      Sentiment Analysis\n      Chatbots\n    Tools\n      NLTK\n      SpaCy\n      Transformers\n      Corpus Analysis",
+            "complexity": "high",
+            "tags": [
+                "computational_linguistics",
+                "linguistics",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

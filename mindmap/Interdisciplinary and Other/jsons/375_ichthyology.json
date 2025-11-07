@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "375",
+            "topic": "Ichthyology",
+            "category": "Zoology",
+            "description": "A mindmap showing the fundamental concepts and structure of Ichthyology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ichthyology))\n    Zoology\n      Fish\n      Anatomy\n      Physiology\n      Evolution\n    Categories\n      Bony Fish\n      Cartilaginous Fish\n      Jawless Fish\n      Marine & Freshwater\n    Research\n      Taxonomy\n      Behavior\n      Ecology\n      Conservation\n    Applications\n      Fisheries\n      Aquaculture\n      Biodiversity\n      Environmental Monitoring",
+            "complexity": "high",
+            "tags": [
+                "ichthyology",
+                "zoology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

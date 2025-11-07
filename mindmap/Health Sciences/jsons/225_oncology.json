@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "225",
+            "topic": "Oncology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Oncology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Oncology))\n    Cancer Types\n      Carcinomas\n      Sarcomas\n      Leukemias\n      Lymphomas\n      Brain Tumors\n    Pathophysiology\n      Cell Transformation\n      Tumor Growth\n      Metastasis\n      Angiogenesis\n    Diagnostics\n      Biopsy\n      Imaging\n        CT\n        MRI\n        PET\n      Tumor Markers\n    Treatments\n      Surgery\n      Chemotherapy\n      Radiation Therapy\n      Immunotherapy\n      Targeted Therapy\n      Palliative Care",
+            "complexity": "high",
+            "tags": [
+                "oncology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

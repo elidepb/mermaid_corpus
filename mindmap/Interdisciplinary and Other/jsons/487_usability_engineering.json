@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "487",
+            "topic": "Usability Engineering",
+            "category": "Engineering/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Usability Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Usability<br/>Engineering))\n    Definition\n      Systematic design for usability\n      Engineering approach to UX\n    Principles\n      Learnability\n        Easy to learn\n        Intuitive\n      Efficiency\n        Productivity\n        Task completion\n      Memorability\n        Return users\n      Error Prevention\n        Reduce mistakes\n        Recovery\n      Satisfaction\n        Subjective experience\n    Process\n      Requirements Analysis\n        User needs\n        Context of use\n      Design\n        Iterative\n        Prototyping\n      Evaluation\n        Testing\n        Metrics\n      Refinement\n    Methods\n      Task Analysis\n        User goals\n        Workflows\n      Heuristic Evaluation\n        Nielsen's heuristics\n      Cognitive Walkthrough\n      Usability Testing\n        Lab testing\n        Remote testing\n        A/B testing\n    Metrics\n      Time on Task\n      Success Rate\n      Error Rate\n      Satisfaction Scores\n      SUS (System Usability Scale)\n    Standards\n      ISO 9241\n        Ergonomics\n      WCAG\n        Accessibility\n    Tools\n      Wireframing\n      Prototyping Software\n      Analytics\n      Eye Tracking\n      Heat Maps\n    Applications\n      Software\n      Websites\n      Mobile Apps\n      Hardware\n      Medical Devices",
+            "complexity": "high",
+            "tags": [
+                "usability_engineering",
+                "engineering",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

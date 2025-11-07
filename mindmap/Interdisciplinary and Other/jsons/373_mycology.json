@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "373",
+            "topic": "Mycology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Mycology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Mycology))\n    Biology\n      Fungi Kingdom\n      Taxonomy\n      Cell Biology\n      Genetics\n    Groups\n      Mushrooms\n      Yeasts\n      Molds\n      Lichens\n    Research Areas\n      Ecology\n      Pathology\n      Biotechnology\n      Evolution\n    Applications\n      Medicine\n      Food Industry\n      Bioremediation\n      Agriculture",
+            "complexity": "high",
+            "tags": [
+                "mycology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

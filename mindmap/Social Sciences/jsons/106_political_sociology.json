@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Political Sociology",
+            "category": "Sociology",
+            "description": "A mindmap showing the fundamental concepts and structure of Political Sociology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Political Sociology))\n    Power & Authority\n      Legitimacy\n      Hegemony\n      Political Elites\n    Social Movements\n      Collective Action\n      Resource Mobilization\n      Framing\n    State & Society\n      State Formation\n      Civil Society\n      Democracy\n    Topics\n      Political Culture\n      Voting Behavior\n      Revolution\n      Nationalism",
+            "complexity": "high",
+            "tags": [
+                "political_sociology",
+                "sociology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

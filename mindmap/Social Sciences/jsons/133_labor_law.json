@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Labor Law",
+            "category": "Law",
+            "description": "A mindmap showing the fundamental concepts and structure of Labor Law.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Labor Law))\n    Employment Relationship\n      Employment Contracts\n      Employee Rights\n      Employer Obligations\n    Collective Relations\n      Trade Unions\n      Collective Bargaining\n      Strikes\n    Workplace Rights\n      Minimum Wage\n      Working Hours\n      Health & Safety\n      Anti-Discrimination\n    Dispute Resolution\n      Labor Courts\n      Arbitration\n      Mediation",
+            "complexity": "high",
+            "tags": [
+                "labor_law",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

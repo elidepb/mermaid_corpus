@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "382",
+            "topic": "Protozoology",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Protozoology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Protozoology))\n    Biology\n      Microbiology\n      Cell Biology\n      Parasitology\n      Ecology\n    Protozoa Types\n      Flagellates\n      Ciliates\n      Amoeboids\n      Sporozoans\n    Research\n      Life Cycles\n      Pathogenesis\n      Symbiosis\n      Evolution\n    Applications\n      Disease Control\n      Water Quality\n      Biotechnology\n      Model Organisms",
+            "complexity": "high",
+            "tags": [
+                "protozoology",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

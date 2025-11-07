@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "094",
+            "topic": "Surveying",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Surveying.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Surveying))\n    Types\n      Land Surveying\n      Engineering Surveying\n      Cadastral Surveying\n      Hydrographic Surveying\n    Instruments\n      Total Stations\n      GPS/GNSS\n      Laser Scanners\n      Theodolites\n    Techniques\n      Triangulation\n      Traversing\n      Leveling\n      Photogrammetry\n    Applications\n      Construction\n      Mapping\n      Boundary Determination",
+            "complexity": "high",
+            "tags": [
+                "surveying",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

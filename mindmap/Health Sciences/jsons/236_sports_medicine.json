@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "236",
+            "topic": "Sports Medicine",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Sports Medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sports Medicine))\n    Injury Types\n      Acute Injuries\n        Fractures\n        Sprains\n        Dislocations\n      Overuse Injuries\n        Tendinitis\n        Stress Fractures\n    Prevention\n      Conditioning\n      Proper Technique\n      Protective Equipment\n      Warm-up & Cool-down\n    Treatment\n      RICE Protocol\n      Physical Therapy\n      Surgery\n      Return to Play\n    Performance\n      Exercise Physiology\n      Nutrition\n      Biomechanics\n      Performance Enhancement",
+            "complexity": "high",
+            "tags": [
+                "sports_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiography",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Historiography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historiography))\n    Historical Methods\n      Source Criticism\n      Contextualization\n      Interpretation\n      Narrative Construction\n    Schools of Thought\n      Positivism\n      Marxist History\n      Annales School\n      Social History\n      Cultural History\n    Debates\n      Objectivity vs Subjectivity\n      Structure vs Agency\n      Continuity vs Change\n    Writing History\n      Archives\n      Primary Sources\n      Secondary Sources\n      Historical Narrative",
+            "complexity": "high",
+            "tags": [
+                "historiography",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

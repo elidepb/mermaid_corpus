@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "399",
+            "topic": "Crystallography",
+            "category": "Chemistry/Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Crystallography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Crystallography))\n    Chemistry\n      Solid State Chemistry\n      Molecular Structure\n      Materials Chemistry\n    Physics\n      X-ray Diffraction\n      Symmetry\n      Lattice Theory\n      Scattering\n    Techniques\n      X-ray\n      Neutron\n      Electron Diffraction\n      NMR\n    Applications\n      Drug Design\n      Protein Structure\n      Materials Analysis\n      Mineralogy",
+            "complexity": "high",
+            "tags": [
+                "crystallography",
+                "chemistry",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

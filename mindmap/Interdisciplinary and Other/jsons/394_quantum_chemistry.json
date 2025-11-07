@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "394",
+            "topic": "Quantum Chemistry",
+            "category": "Chemistry/Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Quantum Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Quantum<br/>Chemistry))\n    Chemistry\n      Physical Chemistry\n      Theoretical Chemistry\n      Molecular Structure\n    Physics\n      Quantum Mechanics\n      Wave Functions\n      Operators\n      Spectroscopy\n    Topics\n      Electronic Structure\n      Molecular Orbitals\n      Bonding Theory\n      Reaction Dynamics\n    Methods\n      Ab Initio\n      DFT\n      Semi-Empirical\n      Molecular Mechanics",
+            "complexity": "high",
+            "tags": [
+                "quantum_chemistry",
+                "chemistry",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "404",
+            "topic": "Statistical Mechanics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Statistical Mechanics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Statistical<br/>Mechanics))\n    Physics\n      Thermodynamics\n      Probability Theory\n      Quantum Mechanics\n      Classical Mechanics\n    Approaches\n      Microcanonical\n      Canonical\n      Grand Canonical\n      Quantum Statistics\n    Concepts\n      Entropy\n      Phase Transitions\n      Partition Functions\n      Ensembles\n    Applications\n      Material Properties\n      Chemical Reactions\n      Biological Systems\n      Complex Systems",
+            "complexity": "high",
+            "tags": [
+                "statistical_mechanics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

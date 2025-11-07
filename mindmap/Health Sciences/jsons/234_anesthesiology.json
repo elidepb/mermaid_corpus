@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "234",
+            "topic": "Anesthesiology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Anesthesiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Anesthesiology))\n    Types of Anesthesia\n      General Anesthesia\n      Regional Anesthesia\n        Spinal\n        Epidural\n      Local Anesthesia\n      Sedation\n    Anesthetic Agents\n      Inhalational Agents\n      Intravenous Agents\n      Local Anesthetics\n      Muscle Relaxants\n    Perioperative Management\n      Preoperative Assessment\n      Intraoperative Monitoring\n      Postoperative Pain Control\n    Critical Care\n      Airway Management\n      Hemodynamic Support\n      Resuscitation",
+            "complexity": "high",
+            "tags": [
+                "anesthesiology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

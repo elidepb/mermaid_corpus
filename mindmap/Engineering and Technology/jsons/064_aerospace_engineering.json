@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Aerospace Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Aerospace Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Aerospace Engineering))\n    Aerodynamics\n      Lift and Drag\n      Flow Analysis\n      Wind Tunnels\n      Computational Fluid Dynamics\n    Flight Mechanics\n      Aircraft Performance\n      Stability and Control\n      Flight Dynamics\n      Navigation\n    Propulsion\n      Jet Engines\n      Rockets\n      Propellants\n      Thrust Generation\n    Aircraft Structures\n      Airframe Design\n      Composite Materials\n      Stress Analysis\n      Fatigue\n    Avionics\n      Flight Control Systems\n      Navigation Systems\n      Communication Systems\n      Instrumentation\n    Orbital Mechanics\n      Orbital Dynamics\n      Satellite Design\n      Launch Systems\n      Mission Planning\n    Space Systems\n      Spacecraft Design\n      Life Support\n      Re-entry\n      Space Exploration\n    Manufacturing\n      Aircraft Production\n      Quality Control\n      Materials Processing\n      Assembly",
+            "complexity": "high",
+            "tags": [
+                "aerospace_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Medieval History",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Medieval History.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Medieval History))\n    Regions\n      Medieval Europe\n      Byzantine Empire\n      Islamic World\n      Medieval China\n      Medieval Japan\n    Feudalism\n      Manor System\n      Vassalage\n      Knights & Chivalry\n    Church & Religion\n      Papacy\n      Monasticism\n      Crusades\n      Inquisition\n    Culture\n      Universities\n      Gothic Architecture\n      Manuscripts\n      Trade Routes",
+            "complexity": "high",
+            "tags": [
+                "medieval_history",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

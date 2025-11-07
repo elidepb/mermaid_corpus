@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditing",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Auditing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Auditing))\n    Types\n      Internal\n      External\n      Forensic\n      Compliance\n    Process\n      Planning\n      Testing\n      Evidence\n      Reporting\n    Standards\n      GAAS\n      ISA\n      PCAOB\n    Techniques\n      Sampling\n      Confirmation\n      Observation\n    Independence\n      Ethics\n      Objectivity",
+            "complexity": "high",
+            "tags": [
+                "auditing",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

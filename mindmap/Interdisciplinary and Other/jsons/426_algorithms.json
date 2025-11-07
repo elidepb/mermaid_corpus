@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "426",
+            "topic": "Algorithms",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Algorithms.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Algorithms))\n    Computer Science\n      Complexity Theory\n      Data Structures\n      Discrete Mathematics\n      Optimization\n    Types\n      Sorting\n      Searching\n      Graph Algorithms\n      Dynamic Programming\n    Analysis\n      Time Complexity\n      Space Complexity\n      Correctness\n      Optimality\n    Applications\n      Software Development\n      AI\n      Cryptography\n      Operations Research",
+            "complexity": "high",
+            "tags": [
+                "algorithms",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

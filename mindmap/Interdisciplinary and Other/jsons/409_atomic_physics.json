@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "409",
+            "topic": "Atomic Physics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Atomic Physics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Atomic<br/>Physics))\n    Physics\n      Quantum Mechanics\n      Electromagnetism\n      Spectroscopy\n      Collision Theory\n    Topics\n      Atomic Structure\n      Energy Levels\n      Electron Configuration\n      Quantum Numbers\n    Phenomena\n      Absorption\n      Emission\n      Ionization\n      Excitation\n    Applications\n      Lasers\n      Atomic Clocks\n      Quantum Computing\n      Spectral Analysis",
+            "complexity": "high",
+            "tags": [
+                "atomic_physics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

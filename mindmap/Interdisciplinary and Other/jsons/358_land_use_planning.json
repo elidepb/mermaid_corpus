@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "358",
+            "topic": "Land Use Planning",
+            "category": "Geography/Planning",
+            "description": "A mindmap showing the fundamental concepts and structure of Land Use Planning.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Land Use<br/>Planning))\n    Geography\n      Spatial Analysis\n      Environmental Systems\n      Demographics\n      Resources\n    Planning\n      Zoning\n      Regulation\n      Development Control\n      Strategic Planning\n    Topics\n      Agricultural Land\n      Urban Expansion\n      Conservation\n      Infrastructure\n    Methods\n      GIS\n      Impact Assessment\n      Stakeholder Engagement\n      Scenario Planning",
+            "complexity": "high",
+            "tags": [
+                "land_use_planning",
+                "geography",
+                "planning"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

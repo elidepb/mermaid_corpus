@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "462",
+            "topic": "Metabolomics",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Metabolomics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Metabolomics))\n    Definition\n      Study of all metabolites\n      Small molecule profiles\n    Approaches\n      Targeted\n        Known metabolites\n        Quantitative\n      Untargeted\n        Discovery\n        Comprehensive\n    Technologies\n      Mass Spectrometry\n        LC-MS\n        GC-MS\n        MALDI\n      NMR Spectroscopy\n        Non-destructive\n        Quantitative\n    Sample Types\n      Blood/Plasma\n      Urine\n      Tissue\n      Cells\n      Saliva\n    Applications\n      Disease Biomarkers\n        Diagnosis\n        Prognosis\n      Drug Development\n        Pharmacometabolomics\n        Toxicity\n      Nutrition\n        Nutrimetabolomics\n      Microbiome\n    Data Analysis\n      Peak detection\n      Identification\n      Statistical analysis\n      Pathway mapping\n    Challenges\n      Metabolite identification\n      Standardization\n      Data complexity",
+            "complexity": "high",
+            "tags": [
+                "metabolomics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

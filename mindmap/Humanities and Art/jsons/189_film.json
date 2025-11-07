@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "189",
+            "topic": "Film",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Film.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Film))\n    Genres\n      Drama\n      Comedy\n      Thriller\n      Science Fiction\n      Documentary\n      Animation\n    Film Elements\n      Cinematography\n      Editing\n      Sound Design\n      Mise-en-scène\n    Production\n      Pre-production\n      Production\n      Post-production\n      Distribution\n    Notable Directors\n      Hitchcock\n      Kurosawa\n      Fellini\n      Bergman\n      Scorsese\n      Kubrick",
+            "complexity": "high",
+            "tags": [
+                "film",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

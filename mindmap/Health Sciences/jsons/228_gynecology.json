@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "228",
+            "topic": "Gynecology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Gynecology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Gynecology))\n    Reproductive System\n      Anatomy\n      Menstrual Cycle\n      Hormonal Regulation\n    Common Conditions\n      Menstrual Disorders\n      Endometriosis\n      Fibroids\n      Ovarian Cysts\n      Pelvic Inflammatory Disease\n    Gynecologic Oncology\n      Cervical Cancer\n      Ovarian Cancer\n      Endometrial Cancer\n    Procedures\n      Pap Smear\n      Colposcopy\n      Hysterectomy\n      Laparoscopy\n    Reproductive Health\n      Contraception\n      Infertility\n      Menopause",
+            "complexity": "high",
+            "tags": [
+                "gynecology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

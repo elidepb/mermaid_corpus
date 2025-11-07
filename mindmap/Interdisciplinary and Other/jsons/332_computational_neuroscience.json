@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "332",
+            "topic": "Computational Neuroscience",
+            "category": "Neuroscience/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Computational Neuroscience.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Computational<br/>Neuroscience))\n    Neuroscience\n      Neural Networks\n      Brain Function\n      Synaptic Plasticity\n      Cognitive Processes\n    Computer Science\n      Modeling\n      Simulation\n      AI/ML\n      Data Analysis\n    Research Areas\n      Brain Mapping\n      Neural Coding\n      Learning Mechanisms\n      Sensory Processing\n    Applications\n      Brain-Computer Interface\n      Neural Prosthetics\n      Mental Disorder Treatment\n      AI Inspiration",
+            "complexity": "high",
+            "tags": [
+                "computational_neuroscience",
+                "neuroscience",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

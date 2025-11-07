@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "435",
+            "topic": "Sociometry",
+            "category": "Sociology",
+            "description": "A mindmap showing the fundamental concepts and structure of Sociometry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sociometry))\n    Sociology\n      Social Networks\n      Group Dynamics\n      Social Psychology\n      Research Methods\n    Concepts\n      Social Relationships\n      Network Structure\n      Social Influence\n      Group Cohesion\n    Methods\n      Sociograms\n      Network Analysis\n      Matrix Methods\n      Statistical Models\n    Applications\n      Organizational Analysis\n      Education\n      Community Studies\n      Team Building",
+            "complexity": "high",
+            "tags": [
+                "sociometry",
+                "sociology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

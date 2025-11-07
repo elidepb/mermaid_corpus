@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Data Science",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Data Science.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Data Science))\n    Data Collection\n      Data Sources\n      Web Scraping\n      APIs\n      Sensors\n      Surveys\n    Data Cleaning\n      Missing Data\n      Outliers\n      Duplicates\n      Data Quality\n    Exploratory Analysis\n      Statistical Analysis\n      Visualization\n      Pattern Recognition\n      Hypothesis Testing\n    Machine Learning\n      Predictive Modeling\n      Classification\n      Clustering\n      Feature Engineering\n    Big Data Technologies\n      Hadoop\n      Spark\n      NoSQL Databases\n      Distributed Computing\n    Data Visualization\n      Charts and Graphs\n      Dashboards\n      Interactive Visualizations\n      Storytelling\n    Tools and Languages\n      Python\n      R\n      SQL\n      Jupyter Notebooks\n      Tableau",
+            "complexity": "high",
+            "tags": [
+                "data_science",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

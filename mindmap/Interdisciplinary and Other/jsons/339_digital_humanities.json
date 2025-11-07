@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "339",
+            "topic": "Digital Humanities",
+            "category": "Humanities/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Digital Humanities.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Digital<br/>Humanities))\n    Humanities\n      History\n      Literature\n      Philosophy\n      Arts\n    Computer Science\n      Data Visualization\n      Text Mining\n      Digital Archives\n      Web Technologies\n    Methods\n      Corpus Analysis\n      Network Analysis\n      GIS Mapping\n      3D Modeling\n    Projects\n      Digital Libraries\n      Virtual Museums\n      Textual Databases\n      Cultural Analytics",
+            "complexity": "high",
+            "tags": [
+                "digital_humanities",
+                "humanities",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "005",
+            "topic": "Optics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Optics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Optics))\n    Geometric Optics\n      Reflection\n      Refraction\n      Snell's Law\n      Lenses\n      Mirrors\n    Wave Optics\n      Interference\n      Diffraction\n      Polarization\n      Coherence\n    Quantum Optics\n      Photons\n      Quantum States of Light\n      Laser Physics\n    Instruments\n      Microscopes\n      Telescopes\n      Spectrometers\n      Cameras\n    Applications\n      Fiber Optics\n      Holography\n      Optical Computing\n      Medical Imaging",
+            "complexity": "high",
+            "tags": [
+                "optics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

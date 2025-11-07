@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Accounting",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Accounting.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Accounting))\n    Types\n      Financial\n      Managerial\n      Tax\n      Forensic\n    Principles\n      GAAP\n      IFRS\n      Accrual Basis\n    Processes\n      Recording\n      Classifying\n      Summarizing\n      Reporting\n    Statements\n      Balance Sheet\n      Income Statement\n      Cash Flow\n      Equity Statement",
+            "complexity": "high",
+            "tags": [
+                "accounting",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

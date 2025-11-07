@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "466",
+            "topic": "Lipidomics",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Lipidomics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Lipidomics))\n    Definition\n      Comprehensive lipid analysis\n      Lipid species and pathways\n    Lipid Classes\n      Fatty Acids\n      Glycerolipids\n      Phospholipids\n      Sphingolipids\n      Sterols\n      Eicosanoids\n    Functions\n      Membrane Structure\n        Bilayers\n        Fluidity\n      Energy Storage\n        Triglycerides\n      Signaling\n        Second messengers\n        Hormones\n    Technologies\n      Mass Spectrometry\n        Shotgun lipidomics\n        LC-MS\n      Chromatography\n        TLC\n        GC\n      NMR\n      Imaging\n        MALDI imaging\n    Applications\n      Disease Research\n        Metabolic disorders\n        Cardiovascular\n        Neurodegenerative\n      Nutrition\n        Dietary lipids\n        Obesity\n      Drug Discovery\n        Lipid targets\n    Challenges\n      Chemical diversity\n      Ionization efficiency\n      Quantification",
+            "complexity": "high",
+            "tags": [
+                "lipidomics",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

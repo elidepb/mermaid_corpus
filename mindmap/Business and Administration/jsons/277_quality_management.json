@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Quality Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Quality Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Quality Management))\n    Principles\n      Customer Focus\n      Leadership\n      Process Approach\n      Continuous Improvement\n    Systems\n      ISO 9001\n      TQM\n      Six Sigma\n      Lean\n    Tools\n      Control Charts\n      Pareto\n      Fishbone\n      FMEA\n    Audit\n      Internal\n      External\n      Certification\n    Culture\n      Engagement\n      Training",
+            "complexity": "high",
+            "tags": [
+                "quality_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

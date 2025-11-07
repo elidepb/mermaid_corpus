@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "425",
+            "topic": "Data Mining",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Data Mining.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Data<br/>Mining))\n    Computer Science\n      Machine Learning\n      Databases\n      Statistics\n      Algorithms\n    Techniques\n      Classification\n      Clustering\n      Association Rules\n      Anomaly Detection\n    Topics\n      Pattern Recognition\n      Feature Selection\n      Text Mining\n      Web Mining\n    Applications\n      Business Intelligence\n      Fraud Detection\n      Marketing\n      Healthcare",
+            "complexity": "high",
+            "tags": [
+                "data_mining",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "188",
+            "topic": "Jazz",
+            "category": "Music",
+            "description": "A mindmap showing the fundamental concepts and structure of Jazz.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Jazz))\n    Styles\n      New Orleans Jazz\n      Swing\n      Bebop\n      Cool Jazz\n      Free Jazz\n      Fusion\n    Key Figures\n      Louis Armstrong\n      Duke Ellington\n      Charlie Parker\n      Miles Davis\n      John Coltrane\n    Elements\n      Improvisation\n      Syncopation\n      Blue Notes\n      Call & Response\n    Instruments\n      Saxophone\n      Trumpet\n      Piano\n      Double Bass\n      Drums",
+            "complexity": "high",
+            "tags": [
+                "jazz",
+                "music"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

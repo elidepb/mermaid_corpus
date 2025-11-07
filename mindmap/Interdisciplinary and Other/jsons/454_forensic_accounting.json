@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "454",
+            "topic": "Forensic Accounting",
+            "category": "Accounting/Law",
+            "description": "A mindmap showing the fundamental concepts and structure of Forensic Accounting.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Forensic<br/>Accounting))\n    Definition\n      Accounting expertise for legal matters\n      Financial investigation\n    Services\n      Fraud Investigation\n        Embezzlement\n        Financial statement fraud\n      Litigation Support\n        Damage calculation\n        Expert testimony\n      Dispute Resolution\n      Valuation Services\n    Techniques\n      Data analysis\n      Document examination\n      Interview methods\n      Tracing assets\n    Types of Cases\n      Criminal\n        Money laundering\n        Tax evasion\n      Civil\n        Divorce\n        Partnership disputes\n        Insurance claims\n    Tools\n      Forensic software\n      Statistical analysis\n      Database queries\n    Certifications\n      CFE\n      CFF\n      ABV",
+            "complexity": "high",
+            "tags": [
+                "forensic_accounting",
+                "accounting",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

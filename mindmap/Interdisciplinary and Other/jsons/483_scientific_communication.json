@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "483",
+            "topic": "Scientific Communication",
+            "category": "Communication/Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Scientific Communication.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Scientific<br/>Communication))\n    Definition\n      Communication among scientists\n      Research dissemination\n    Formal Channels\n      Peer-Reviewed Journals\n        Articles\n        Reviews\n        Letters\n      Books\n        Monographs\n        Textbooks\n      Conference Proceedings\n    Informal Channels\n      Preprints\n        arXiv\n        bioRxiv\n      Conference Presentations\n        Talks\n        Posters\n      Seminars\n      Correspondence\n    Writing Types\n      Research Articles\n        IMRaD structure\n        Methods\n        Results\n        Discussion\n      Review Articles\n      Grants\n      Technical Reports\n    Peer Review\n      Single-blind\n      Double-blind\n      Open peer review\n      Post-publication\n    Open Science\n      Open Access\n        Gold\n        Green\n      Data Sharing\n      Reproducibility\n    Metrics\n      Citations\n      Impact Factor\n      h-index\n      Altmetrics\n    Challenges\n      Publication Bias\n      Predatory Journals\n      Reproducibility Crisis\n      Language Barriers\n    Ethics\n      Authorship\n      Plagiarism\n      Conflicts of Interest",
+            "complexity": "high",
+            "tags": [
+                "scientific_communication",
+                "communication",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

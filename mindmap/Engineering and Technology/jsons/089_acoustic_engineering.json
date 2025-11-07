@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "089",
+            "topic": "Acoustic Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Acoustic Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Acoustic Engineering))\n    Sound Fundamentals\n      Wave Propagation\n      Frequency & Amplitude\n      Resonance\n    Applications\n      Architectural Acoustics\n      Audio Engineering\n      Noise Control\n      Ultrasound Technology\n    Measurement\n      Sound Level Meters\n      Frequency Analysis\n      Room Acoustics Testing\n    Design Areas\n      Concert Halls\n      Recording Studios\n      Soundproofing",
+            "complexity": "high",
+            "tags": [
+                "acoustic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

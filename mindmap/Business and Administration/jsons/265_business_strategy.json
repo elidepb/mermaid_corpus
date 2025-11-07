@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Business Strategy",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Business Strategy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Business Strategy))\n    Analysis\n      SWOT\n      PESTEL\n      Porter's Five Forces\n    Formulation\n      Vision & Mission\n      Goals\n      Objectives\n    Types\n      Corporate\n      Competitive\n      Functional\n    Implementation\n      Resource Allocation\n      Execution\n    Evaluation\n      Metrics\n      Adjustment",
+            "complexity": "high",
+            "tags": [
+                "business_strategy",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

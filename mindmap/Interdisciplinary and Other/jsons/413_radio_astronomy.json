@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "413",
+            "topic": "Radio Astronomy",
+            "category": "Astronomy",
+            "description": "A mindmap showing the fundamental concepts and structure of Radio Astronomy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Radio<br/>Astronomy))\n    Astronomy\n      Radio Waves\n      Interferometry\n      Signal Processing\n      Telescope Arrays\n    Objects\n      Pulsars\n      Quasars\n      Radio Galaxies\n      Molecular Clouds\n    Techniques\n      VLBI\n      Aperture Synthesis\n      Spectral Lines\n      Continuum Emission\n    Applications\n      Cosmology\n      Star Formation\n      Planetary Science\n      SETI",
+            "complexity": "high",
+            "tags": [
+                "radio_astronomy",
+                "astronomy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

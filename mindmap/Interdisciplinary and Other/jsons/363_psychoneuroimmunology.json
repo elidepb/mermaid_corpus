@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "363",
+            "topic": "Psychoneuroimmunology",
+            "category": "Psychology/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Psychoneuroimmunology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psychoneuro-<br/>immunology))\n    Psychology\n      Stress\n      Behavior\n      Emotions\n      Cognition\n    Medicine\n      Immune System\n      Neuroscience\n      Endocrinology\n      Disease\n    Mechanisms\n      Mind-Body Connection\n      Neural Pathways\n      Hormonal Signaling\n      Cytokines\n    Research Areas\n      Stress Effects\n      Depression & Immunity\n      Healing\n      Psychosomatics",
+            "complexity": "high",
+            "tags": [
+                "psychoneuroimmunology",
+                "psychology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

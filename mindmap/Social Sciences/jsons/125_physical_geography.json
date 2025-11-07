@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Physical Geography",
+            "category": "Geography",
+            "description": "A mindmap showing the fundamental concepts and structure of Physical Geography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Physical Geography))\n    Geomorphology\n      Landforms\n      Erosion\n      Weathering\n      Tectonic Processes\n    Climatology\n      Climate Systems\n      Climate Change\n      Weather Patterns\n    Hydrology\n      Water Cycle\n      Rivers\n      Groundwater\n    Biogeography\n      Ecosystems\n      Species Distribution\n      Biodiversity",
+            "complexity": "high",
+            "tags": [
+                "physical_geography",
+                "geography"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

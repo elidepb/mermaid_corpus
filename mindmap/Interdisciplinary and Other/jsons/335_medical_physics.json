@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "335",
+            "topic": "Medical Physics",
+            "category": "Physics/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Medical Physics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Medical<br/>Physics))\n    Physics\n      Radiation\n      Imaging\n      Optics\n      Acoustics\n    Medicine\n      Diagnosis\n      Treatment\n      Patient Safety\n      Clinical Practice\n    Technologies\n      MRI\n      CT Scans\n      Radiation Therapy\n      Ultrasound\n    Applications\n      Cancer Treatment\n      Medical Imaging\n      Dosimetry\n      Quality Assurance",
+            "complexity": "high",
+            "tags": [
+                "medical_physics",
+                "physics",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

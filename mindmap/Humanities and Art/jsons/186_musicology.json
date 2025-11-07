@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "186",
+            "topic": "Musicology",
+            "category": "Music",
+            "description": "A mindmap showing the fundamental concepts and structure of Musicology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Musicology))\n    Subdisciplines\n      Historical Musicology\n        Medieval Music\n        Renaissance Music\n        Baroque Music\n      Ethnomusicology\n        World Music\n        Folk Music\n      Systematic Musicology\n        Acoustics\n        Psychology of Music\n    Methods\n      Archival Research\n      Performance Practice\n      Musical Analysis\n      Fieldwork\n    Topics\n      Music History\n      Music Theory\n      Cultural Context\n      Reception History",
+            "complexity": "high",
+            "tags": [
+                "musicology",
+                "music"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

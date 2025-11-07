@@ -1,0 +1,26 @@
+```mermaid
+mindmap
+  root((Auditing))
+    Types
+      Internal
+      External
+      Forensic
+      Compliance
+    Process
+      Planning
+      Testing
+      Evidence
+      Reporting
+    Standards
+      GAAS
+      ISA
+      PCAOB
+    Techniques
+      Sampling
+      Confirmation
+      Observation
+    Independence
+      Ethics
+      Objectivity
+```
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "160",
+            "topic": "Ethics",
+            "category": "Philosophy",
+            "description": "A mindmap showing the fundamental concepts and structure of Ethics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ethics))\n    Normative Ethics\n      Consequentialism\n        Utilitarianism\n      Deontology\n        Kantian Ethics\n      Virtue Ethics\n        Aristotelian Ethics\n    Meta-Ethics\n      Moral Realism\n      Moral Anti-Realism\n      Emotivism\n    Applied Ethics\n      Bioethics\n      Business Ethics\n      Environmental Ethics\n      Animal Rights",
+            "complexity": "high",
+            "tags": [
+                "ethics",
+                "philosophy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

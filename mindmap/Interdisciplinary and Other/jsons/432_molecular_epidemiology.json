@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "432",
+            "topic": "Molecular Epidemiology",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Molecular Epidemiology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Molecular<br/>Epidemiology))\n    Medicine\n      Epidemiology\n      Public Health\n      Disease Surveillance\n      Prevention\n    Topics\n      Genetic Markers\n      Pathogen Typing\n      Disease Transmission\n      Risk Factors\n    Methods\n      DNA Sequencing\n      Genotyping\n      Phylogenetics\n      Statistical Modeling\n    Applications\n      Outbreak Investigation\n      Disease Prevention\n      Vaccine Development\n      Antimicrobial Resistance",
+            "complexity": "high",
+            "tags": [
+                "molecular_epidemiology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

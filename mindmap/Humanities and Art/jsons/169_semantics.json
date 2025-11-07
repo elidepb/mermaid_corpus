@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "169",
+            "topic": "Semantics",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Semantics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Semantics))\n    Meaning Types\n      Lexical Semantics\n        Word Meaning\n        Polysemy\n        Synonymy\n      Compositional Semantics\n        Sentence Meaning\n    Truth Conditions\n      Logical Semantics\n      Model Theory\n      Reference\n      Sense\n    Relations\n      Entailment\n      Presupposition\n      Implicature\n    Approaches\n      Formal Semantics\n      Cognitive Semantics\n      Frame Semantics",
+            "complexity": "high",
+            "tags": [
+                "semantics",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

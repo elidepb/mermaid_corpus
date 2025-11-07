@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "003",
+            "topic": "Thermodynamics",
+            "category": "Physics",
+            "description": "A mindmap showing the fundamental concepts and structure of Thermodynamics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Thermodynamics))\n    Laws of Thermodynamics\n      Zeroth Law\n      First Law - Energy Conservation\n      Second Law - Entropy\n      Third Law - Absolute Zero\n    Key Concepts\n      Temperature\n      Heat Transfer\n      Work\n      Internal Energy\n      Entropy\n    Thermodynamic Systems\n      Open Systems\n      Closed Systems\n      Isolated Systems\n    Processes\n      Isothermal\n      Adiabatic\n      Isobaric\n      Isochoric\n    Applications\n      Heat Engines\n      Refrigeration\n      Phase Transitions\n      Chemical Reactions",
+            "complexity": "high",
+            "tags": [
+                "thermodynamics",
+                "physics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

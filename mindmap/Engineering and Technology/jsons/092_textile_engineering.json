@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "092",
+            "topic": "Textile Engineering",
+            "category": "Engineering",
+            "description": "A mindmap showing the fundamental concepts and structure of Textile Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Textile Engineering))\n    Fiber Technology\n      Natural Fibers\n        Cotton\n        Wool\n        Silk\n      Synthetic Fibers\n        Polyester\n        Nylon\n    Manufacturing Processes\n      Spinning\n      Weaving\n      Knitting\n      Dyeing & Finishing\n    Applications\n      Apparel\n      Technical Textiles\n      Smart Textiles\n      Medical Textiles\n    Quality Control\n      Testing Methods\n      Standards",
+            "complexity": "high",
+            "tags": [
+                "textile_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

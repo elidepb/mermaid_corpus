@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "438",
+            "topic": "Philosophy of History",
+            "category": "Philosophy/History",
+            "description": "A mindmap showing the fundamental concepts and structure of Philosophy of History.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Philosophy<br/>of History))\n    Philosophy\n      Metaphysics\n      Epistemology\n      Ethics\n      Hermeneutics\n    History\n      Historical Method\n      Historiography\n      Narrative\n      Causation\n    Questions\n      Historical Explanation\n      Progress\n      Teleology\n      Objectivity\n    Approaches\n      Idealism\n      Materialism\n      Cyclical Views\n      Linear Views",
+            "complexity": "high",
+            "tags": [
+                "philosophy_of_history",
+                "philosophy",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

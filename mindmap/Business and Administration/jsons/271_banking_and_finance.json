@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banking and Finance",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Banking and Finance.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Banking and Finance))\n    Banking Types\n      Commercial\n      Investment\n      Central\n      Retail\n    Services\n      Deposits\n      Loans\n      Credit Cards\n      Mortgages\n    Markets\n      Money Market\n      Capital Market\n      Forex\n    Regulation\n      Basel III\n      Compliance\n      KYC/AML\n    Fintech\n      Digital Banking\n      Blockchain\n      Cryptocurrencies",
+            "complexity": "high",
+            "tags": [
+                "banking_and_finance",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

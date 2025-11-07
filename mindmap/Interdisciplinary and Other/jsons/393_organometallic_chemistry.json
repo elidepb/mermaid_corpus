@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "393",
+            "topic": "Organometallic Chemistry",
+            "category": "Chemistry",
+            "description": "A mindmap showing the fundamental concepts and structure of Organometallic Chemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Organometallic<br/>Chemistry))\n    Chemistry\n      Organic Chemistry\n      Inorganic Chemistry\n      Coordination Chemistry\n      Catalysis\n    Compounds\n      Metal-Carbon Bonds\n      Complexes\n      Ligands\n      Transition Metals\n    Applications\n      Catalysis\n      Synthesis\n      Materials\n      Pharmaceuticals\n    Reactions\n      Cross-Coupling\n      Hydrogenation\n      Polymerization\n      C-H Activation",
+            "complexity": "high",
+            "tags": [
+                "organometallic_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "460",
+            "topic": "Geographic Information Systems",
+            "category": "Geography/Technology",
+            "description": "A mindmap showing the fundamental concepts and structure of Geographic Information Systems.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Geographic<br/>Information<br/>Systems))\n    Definition\n      Systems for spatial data\n      Mapping and analysis\n    Components\n      Hardware\n        Computers\n        GPS devices\n      Software\n        Desktop GIS\n        Web GIS\n        Mobile GIS\n      Data\n        Vector\n        Raster\n        Attribute tables\n      People and Methods\n    Functions\n      Data Input\n        Digitizing\n        GPS collection\n        Import\n      Data Management\n        Databases\n        Editing\n        Quality control\n      Analysis\n        Spatial queries\n        Overlay\n        Network analysis\n        3D analysis\n      Visualization\n        Maps\n        Charts\n        3D views\n    Applications\n      Urban planning\n      Natural resource management\n      Public health\n      Transportation\n      Business analysis\n    Technologies\n      Cloud GIS\n      Real-time GIS\n      Big data integration",
+            "complexity": "high",
+            "tags": [
+                "geographic_information_systems",
+                "geography",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

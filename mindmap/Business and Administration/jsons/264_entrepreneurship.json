@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Entrepreneurship",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Entrepreneurship.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Entrepreneurship))\n    Mindset\n      Innovation\n      Risk Taking\n      Resilience\n    Process\n      Ideation\n      Validation\n      Launch\n      Scale\n    Funding\n      Bootstrapping\n      Angel Investors\n      Venture Capital\n    Business Model\n      Canvas\n      Revenue Streams\n    Ecosystem\n      Incubators\n      Accelerators\n      Mentors",
+            "complexity": "high",
+            "tags": [
+                "entrepreneurship",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

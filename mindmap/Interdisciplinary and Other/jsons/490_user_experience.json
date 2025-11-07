@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "490",
+            "topic": "User Experience",
+            "category": "Design/Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of User Experience.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((User Experience<br/>UX))\n    Definition\n      Overall experience with product\n      Holistic interaction design\n    Components\n      Usability\n        Ease of use\n      Utility\n        Functionality\n      Desirability\n        Emotional design\n      Accessibility\n        Inclusive design\n      Credibility\n        Trust\n      Findability\n        Information discovery\n      Value\n        User benefit\n    UX Design Process\n      Discovery\n        Research\n        Analysis\n      Definition\n        Requirements\n        Strategy\n      Design\n        Information Architecture\n        Interaction Design\n        Visual Design\n      Delivery\n        Implementation\n        Testing\n    Research Methods\n      User Interviews\n      Surveys\n      Analytics\n      Usability Testing\n      A/B Testing\n      Eye Tracking\n      Field Studies\n    Design Tools\n      Figma\n      Sketch\n      Adobe XD\n      InVision\n      Axure\n      Miro\n    Metrics\n      Task Success Rate\n      Time on Task\n      NPS (Net Promoter Score)\n      CSAT (Customer Satisfaction)\n      Retention\n      Conversion\n    Career Paths\n      UX Researcher\n      UX Designer\n      Interaction Designer\n      Information Architect\n      UX Writer\n    Related Fields\n      UI Design\n      Service Design\n      Product Design\n      HCI",
+            "complexity": "high",
+            "tags": [
+                "user_experience",
+                "design",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

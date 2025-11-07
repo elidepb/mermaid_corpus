@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "014",
+            "topic": "Biochemistry",
+            "category": "Chemistry/Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Biochemistry.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Biochemistry))\n    Biomolecules\n      Proteins\n      Carbohydrates\n      Lipids\n      Nucleic Acids\n    Metabolism\n      Glycolysis\n      Krebs Cycle\n      Oxidative Phosphorylation\n      Fatty Acid Metabolism\n    Enzymes\n      Catalytic Mechanisms\n      Enzyme Kinetics\n      Regulation\n      Cofactors\n    Molecular Genetics\n      DNA Replication\n      Transcription\n      Translation\n      Gene Expression\n    Signal Transduction\n      Receptors\n      Second Messengers\n      Protein Kinases\n      Hormones",
+            "complexity": "high",
+            "tags": [
+                "biochemistry",
+                "chemistry",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

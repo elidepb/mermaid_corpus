@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "428",
+            "topic": "Parallel Computing",
+            "category": "Computer Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Parallel Computing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Parallel<br/>Computing))\n    Computer Science\n      Algorithms\n      Computer Architecture\n      Operating Systems\n      Performance Analysis\n    Concepts\n      Concurrency\n      Synchronization\n      Load Balancing\n      Speedup\n    Models\n      Shared Memory\n      Message Passing\n      Data Parallelism\n      Task Parallelism\n    Applications\n      Scientific Computing\n      Big Data\n      Graphics\n      Simulation",
+            "complexity": "high",
+            "tags": [
+                "parallel_computing",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

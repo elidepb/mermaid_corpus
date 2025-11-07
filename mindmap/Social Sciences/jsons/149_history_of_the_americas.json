@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "History of the Americas",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of History of the Americas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((History of the Americas))\n    Pre-Columbian\n      Indigenous Civilizations\n        Maya\n        Aztec\n        Inca\n      Native American Societies\n    Colonial Period\n      Spanish Empire\n      Portuguese Brazil\n      British Colonies\n      French Colonies\n    Independence\n      Latin American Independence\n      US Independence\n      Haiti Revolution\n    Modern Era\n      Civil Wars\n      Dictatorships\n      Democracy Movements\n      Economic Development",
+            "complexity": "high",
+            "tags": [
+                "history_of_the_americas",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

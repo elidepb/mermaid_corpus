@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "204",
+            "topic": "German Literature",
+            "category": "Literature",
+            "description": "A mindmap showing the fundamental concepts and structure of German Literature.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((German Literature))\n    Medieval Period\n      Nibelungenlied\n      Minnesang\n    Enlightenment\n      Lessing\n    Sturm und Drang\n      Young Goethe\n    Weimar Classicism\n      Goethe\n        Faust\n      Schiller\n    Romanticism\n      Novalis\n      Hoffmann\n    Modern Period\n      Kafka\n      Mann\n      Brecht\n      Grass",
+            "complexity": "high",
+            "tags": [
+                "german_literature",
+                "literature"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

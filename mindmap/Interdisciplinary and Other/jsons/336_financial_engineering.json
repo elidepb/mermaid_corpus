@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "336",
+            "topic": "Financial Engineering",
+            "category": "Engineering/Finance",
+            "description": "A mindmap showing the fundamental concepts and structure of Financial Engineering.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Financial<br/>Engineering))\n    Engineering\n      Systems Design\n      Optimization\n      Risk Management\n      Problem Solving\n    Finance\n      Derivatives\n      Portfolio Theory\n      Market Analysis\n      Investment Strategy\n    Tools\n      Quantitative Models\n      Algorithms\n      Statistical Methods\n      Simulation\n    Applications\n      Trading Systems\n      Risk Assessment\n      Product Development\n      Hedging Strategies",
+            "complexity": "high",
+            "tags": [
+                "financial_engineering",
+                "engineering",
+                "finance"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

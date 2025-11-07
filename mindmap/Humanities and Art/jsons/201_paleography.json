@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "201",
+            "topic": "Paleography",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Paleography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Paleography))\n    Writing Systems\n      Ancient Scripts\n        Cuneiform\n        Hieroglyphics\n      Medieval Scripts\n        Carolingian\n        Gothic\n      Early Modern Scripts\n    Methods\n      Script Analysis\n      Dating Documents\n      Decipherment\n      Transcription\n    Applications\n      Manuscript Studies\n      Historical Research\n      Textual Criticism\n    Tools\n      Digital Paleography\n      Manuscript Databases",
+            "complexity": "high",
+            "tags": [
+                "paleography",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

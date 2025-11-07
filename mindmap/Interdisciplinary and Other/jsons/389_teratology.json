@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "389",
+            "topic": "Teratology",
+            "category": "Biology/Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Teratology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Teratology))\n    Biology\n      Developmental Biology\n      Genetics\n      Toxicology\n    Medicine\n      Obstetrics\n      Pediatrics\n      Public Health\n      Pharmacology\n    Causes\n      Genetic\n      Environmental\n      Infectious\n      Maternal Factors\n    Applications\n      Drug Safety\n      Prevention\n      Risk Assessment\n      Clinical Diagnosis",
+            "complexity": "high",
+            "tags": [
+                "teratology",
+                "biology",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

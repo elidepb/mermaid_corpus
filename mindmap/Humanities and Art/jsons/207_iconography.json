@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "207",
+            "topic": "Iconography",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Iconography.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Iconography))\n    Symbolism\n      Religious Symbols\n        Christian\n        Buddhist\n        Islamic\n      Mythological Symbols\n      Allegorical Figures\n    Methods\n      Attribute Identification\n      Contextual Analysis\n      Historical Research\n    Iconology\n      Panofsky\n        Three Levels\n      Meaning & Interpretation\n    Applications\n      Art History\n      Visual Culture\n      Cultural Studies",
+            "complexity": "high",
+            "tags": [
+                "iconography",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

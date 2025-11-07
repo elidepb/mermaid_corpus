@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "441",
+            "topic": "Pragmatics",
+            "category": "Linguistics",
+            "description": "A mindmap showing the fundamental concepts and structure of Pragmatics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Pragmatics))\n    Definition\n      Study of language in context\n      Meaning beyond literal words\n    Core Concepts\n      Speech Acts\n        Performative utterances\n        Illocutionary force\n      Deixis\n        Personal\n        Spatial\n        Temporal\n      Implicature\n        Conversational\n        Conventional\n      Presupposition\n    Key Theorists\n      Paul Grice\n        Cooperative Principle\n        Maxims\n      J.L. Austin\n      John Searle\n    Applications\n      Translation\n      Language teaching\n      Communication disorders\n      AI and NLP",
+            "complexity": "high",
+            "tags": [
+                "pragmatics",
+                "linguistics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "020",
+            "topic": "Botany",
+            "category": "Biology",
+            "description": "A mindmap showing the fundamental concepts and structure of Botany.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Botany))\n    Plant Anatomy\n      Roots\n      Stems\n      Leaves\n      Flowers\n    Plant Physiology\n      Photosynthesis\n      Transpiration\n      Nutrient Transport\n      Hormone Regulation\n    Plant Classification\n      Bryophytes\n      Pteridophytes\n      Gymnosperms\n      Angiosperms\n    Plant Reproduction\n      Pollination\n      Seed Formation\n      Vegetative Propagation\n      Life Cycles\n    Economic Botany\n      Crop Science\n      Medicinal Plants\n      Forestry\n      Horticulture",
+            "complexity": "high",
+            "tags": [
+                "botany",
+                "biology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

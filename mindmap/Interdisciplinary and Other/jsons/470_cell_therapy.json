@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "470",
+            "topic": "Cell Therapy",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Cell Therapy.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Cell Therapy))\n    Definition\n      Living cells as treatment\n      Therapeutic cell transplantation\n    Cell Types\n      Stem Cells\n        Embryonic\n        Adult/Somatic\n        iPSCs\n      Immune Cells\n        T cells\n        NK cells\n        Dendritic cells\n      Specialized Cells\n        Neurons\n        Cardiomyocytes\n        Beta cells\n    Approaches\n      Autologous\n        Patient's own cells\n        Lower rejection risk\n      Allogeneic\n        Donor cells\n        Off-the-shelf\n      Xenogeneic\n        Animal cells\n        Research stage\n    Manufacturing\n      Cell Isolation\n      Expansion\n      Modification\n        Genetic engineering\n        Differentiation\n      Quality Control\n      Cryopreservation\n    Applications\n      Cancer\n        CAR-T therapy\n      Regenerative Medicine\n        Tissue repair\n      Genetic Disorders\n        Gene-corrected cells\n      Diabetes\n        Beta cell replacement\n    Challenges\n      Manufacturing scale\n      Cost\n      Regulation\n      Long-term safety",
+            "complexity": "high",
+            "tags": [
+                "cell_therapy",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

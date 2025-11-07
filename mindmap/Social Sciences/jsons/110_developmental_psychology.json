@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Developmental Psychology",
+            "category": "Psychology",
+            "description": "A mindmap showing the fundamental concepts and structure of Developmental Psychology.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Developmental Psychology))\n    Life Stages\n      Prenatal Development\n      Infancy & Toddlerhood\n      Childhood\n      Adolescence\n      Adulthood\n      Aging\n    Theoretical Perspectives\n      Piaget's Theory\n      Erikson's Theory\n      Vygotsky's Theory\n      Attachment Theory\n    Domains\n      Cognitive Development\n      Social Development\n      Emotional Development\n      Moral Development",
+            "complexity": "high",
+            "tags": [
+                "developmental_psychology",
+                "psychology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

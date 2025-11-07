@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "229",
+            "topic": "Obstetrics",
+            "category": "Medicine",
+            "description": "A mindmap showing the fundamental concepts and structure of Obstetrics.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Obstetrics))\n    Prenatal Care\n      Prenatal Visits\n      Fetal Development\n      Prenatal Screening\n      Ultrasound\n    Pregnancy Complications\n      Gestational Diabetes\n      Preeclampsia\n      Placental Disorders\n      Multiple Gestation\n    Labor & Delivery\n      Stages of Labor\n      Pain Management\n      Vaginal Delivery\n      Cesarean Section\n    Postpartum Care\n      Maternal Recovery\n      Breastfeeding\n      Postpartum Depression\n      Newborn Care",
+            "complexity": "high",
+            "tags": [
+                "obstetrics",
+                "medicine"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

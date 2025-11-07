@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Supply Chain",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Supply Chain.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Supply Chain))\n    Components\n      Suppliers\n      Manufacturers\n      Distributors\n      Retailers\n    Planning\n      Demand Forecasting\n      S&OP\n    Execution\n      Procurement\n      Production\n      Distribution\n    Optimization\n      Cost Reduction\n      Lead Time\n      Visibility\n    Technology\n      SCM Software\n      Blockchain\n      IoT",
+            "complexity": "high",
+            "tags": [
+                "supply_chain",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

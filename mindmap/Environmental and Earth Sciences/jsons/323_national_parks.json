@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "323",
+            "topic": "National Parks",
+            "category": "Environmental Sciences",
+            "description": "A mindmap showing the fundamental concepts and structure of National Parks.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((National Parks))\n    Purpose\n      Conservation\n      Recreation\n      Education\n      Research\n    Management\n      Zoning\n      Visitor Control\n      Resource Protection\n      Infrastructure\n    Categories\n      Wilderness\n      Natural Monument\n      Protected Landscape\n    Challenges\n      Tourism Impact\n      Poaching\n      Encroachment\n      Funding\n    Benefits\n      Biodiversity\n      Ecosystem Services\n      Tourism Revenue\n      Cultural Heritage",
+            "complexity": "high",
+            "tags": [
+                "national_parks",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

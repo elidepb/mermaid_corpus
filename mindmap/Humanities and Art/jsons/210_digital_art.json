@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "210",
+            "topic": "Digital Art",
+            "category": "Art",
+            "description": "A mindmap showing the fundamental concepts and structure of Digital Art.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Digital Art))\n    Forms\n      Digital Painting\n      3D Modeling\n      Animation\n      Interactive Art\n      Net Art\n      Virtual Reality\n    Tools\n      Graphics Software\n      3D Software\n      Game Engines\n      Coding\n    Concepts\n      Interactivity\n      Generative Art\n      AI Art\n      New Media\n    Platforms\n      Web\n      Mobile\n      Installation\n      NFTs",
+            "complexity": "high",
+            "tags": [
+                "digital_art",
+                "art"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

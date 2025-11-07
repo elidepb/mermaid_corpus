@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Knowledge Management",
+            "category": "Business",
+            "description": "A mindmap showing the fundamental concepts and structure of Knowledge Management.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Knowledge Management))\n    Types\n      Explicit\n      Tacit\n      Embedded\n    Processes\n      Creation\n      Storage\n      Sharing\n      Application\n    Systems\n      Databases\n      Intranets\n      Collaboration Tools\n      AI/ML\n    Culture\n      Learning Organization\n      Communities of Practice\n    Benefits\n      Innovation\n      Efficiency\n      Decision Making",
+            "complexity": "high",
+            "tags": [
+                "knowledge_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

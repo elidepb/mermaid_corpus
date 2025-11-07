@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "174",
+            "topic": "Literary Theory",
+            "category": "Literature",
+            "description": "A mindmap showing the fundamental concepts and structure of Literary Theory.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Literary Theory))\n    Formalism\n      Russian Formalism\n      New Criticism\n    Structuralism\n      Saussure\n      Lévi-Strauss\n      Barthes\n    Post-Structuralism\n      Deconstruction\n        Derrida\n      Psychoanalytic Theory\n        Lacan\n    Marxist Criticism\n      Lukács\n      Adorno\n    Feminist Theory\n      Cixous\n      Butler",
+            "complexity": "high",
+            "tags": [
+                "literary_theory",
+                "literature"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

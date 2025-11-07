@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "481",
+            "topic": "Science Journalism",
+            "category": "Communication/Science",
+            "description": "A mindmap showing the fundamental concepts and structure of Science Journalism.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Science<br/>Journalism))\n    Definition\n      Reporting on scientific topics\n      Making science accessible\n    Roles\n      Breaking News\n        Discoveries\n        Studies\n      Explanation\n        Complex concepts\n        Context\n      Investigation\n        Misconduct\n        Policy\n      Critique\n        Peer review of claims\n    Formats\n      Print Media\n        Newspapers\n        Magazines\n      Broadcast\n        TV\n        Radio\n        Podcasts\n      Digital\n        Blogs\n        Social media\n        Multimedia\n    Skills Required\n      Scientific Literacy\n        Understanding methods\n        Reading papers\n      Critical Thinking\n        Source evaluation\n        Bias detection\n      Storytelling\n        Narrative techniques\n        Engaging writing\n      Ethics\n        Accuracy\n        Balance\n        Transparency\n    Challenges\n      Complexity\n        Simplification vs accuracy\n      Hype\n        Sensationalism\n        Press releases\n      Misinformation\n        Fact-checking\n      Time Pressure\n      Access to Experts\n    Best Practices\n      Multiple sources\n      Avoid false balance\n      Disclose conflicts\n      Explain uncertainty",
+            "complexity": "high",
+            "tags": [
+                "science_journalism",
+                "communication",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+
