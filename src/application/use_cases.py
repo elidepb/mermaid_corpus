@@ -39,5 +39,5 @@ class GetDiagramUseCase:
     def __init__(self, diagram_service: DiagramService):
         self.diagram_service = diagram_service
 
-    def execute(self, diagram_id: str) -> Diagram:
-        return self.diagram_service.get_diagram_by_id(diagram_id)
+    def execute(self, diagram_id: str, diagram_type: str = None) -> Diagram:
+        return self.diagram_service.get_diagram_by_id(diagram_id, diagram_type)
