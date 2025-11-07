@@ -20,8 +20,8 @@ class DiagramService:
             diagram.has_errors = self.error_cache.get(diagram.id, False)
         return diagrams
 
-    def get_diagram_by_id(self, diagram_id: str) -> Diagram:
-        diagram = self.repository.get_by_id(diagram_id)
+    def get_diagram_by_id(self, diagram_id: str, diagram_type: str = None) -> Diagram:
+        diagram = self.repository.get_by_id(diagram_id, diagram_type)
         if diagram:
             diagram.has_errors = self.error_cache.get(diagram.id, False)
         return diagram

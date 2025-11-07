@@ -22,7 +22,7 @@ async def read_root(request: Request):
     diagrams = list_diagrams_use_case.execute()
     return templates.TemplateResponse(request, "index.html", {"diagrams": diagrams})
 
-@app.get("/diagrams/{diagram_id}", response_class=HTMLResponse)
-async def read_diagram(request: Request, diagram_id: str):
-    diagram = get_diagram_use_case.execute(diagram_id)
+@app.get("/diagrams/{diagram_type}/{diagram_id}", response_class=HTMLResponse)
+async def read_diagram(request: Request, diagram_type: str, diagram_id: str):
+    diagram = get_diagram_use_case.execute(diagram_id, diagram_type)
     return templates.TemplateResponse(request, "diagram.html", {"diagram": diagram})

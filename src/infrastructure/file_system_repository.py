@@ -49,39 +49,39 @@ class FileSystemDiagramRepository:
         
         return diagrams
 
-    def get_by_id(self, diagram_id: str) -> Diagram:
-        # Search in flowcharts
+    def get_by_id(self, diagram_id: str, diagram_type: str = None) -> Diagram:
+        # If diagram_type is specified, search only in that type
+        if diagram_type == "flowchart":
+            return self._get_by_id_from_path(diagram_id, self.flowchart_path)
+        elif diagram_type == "mindmap":
+            return self._get_by_id_from_path(diagram_id, self.mindmap_path)
+        
+        # If no type specified, search in flowcharts first (backward compatibility)
         if os.path.exists(self.flowchart_path):
-            for root, _, files in os.walk(self.flowchart_path):
-                if "jsons" in root:
-                    area = os.path.basename(os.path.dirname(root))
-                    for file in files:
-                        if file.endswith(".json") and not file.endswith(".bak"):
-                            filepath = os.path.join(root, file)
-                            number = int(file.split("_")[0])
-                            with open(filepath, "r", encoding="utf-8") as f:
-                                data = json.load(f)
-                                for diagram_data in data.get("diagrams", []):
-                                    if diagram_data["id"] == diagram_id:
-                                        diagram_data["area"] = area
-                                        diagram_data["number"] = number
-                                        return Diagram(**diagram_data)
+            result = self._get_by_id_from_path(diagram_id, self.flowchart_path)
+            if result:
+                return result
         
-        # Search in mindmaps (now with same structure as flowcharts)
+        # Then search in mindmaps
         if os.path.exists(self.mindmap_path):
-            for root, _, files in os.walk(self.mindmap_path):
-                if "jsons" in root:
-                    area = os.path.basename(os.path.dirname(root))
-                    for file in files:
-                        if file.endswith(".json") and not file.endswith(".bak"):
-                            filepath = os.path.join(root, file)
-                            number = int(file.split("_")[0])
-                            with open(filepath, "r", encoding="utf-8") as f:
-                                data = json.load(f)
-                                for diagram_data in data.get("diagrams", []):
-                                    if diagram_data["id"] == diagram_id:
-                                        diagram_data["area"] = area
-                                        diagram_data["number"] = number
-                                        return Diagram(**diagram_data)
+            return self._get_by_id_from_path(diagram_id, self.mindmap_path)
         
+        return None
+    
+    def _get_by_id_from_path(self, diagram_id: str, base_path: str) -> Diagram:
+        """Helper method to search for a diagram by ID in a specific path"""
+        for root, _, files in os.walk(base_path):
+            if "jsons" in root:
+                area = os.path.basename(os.path.dirname(root))
+                for file in files:
+                    if file.endswith(".json") and not file.endswith(".bak"):
+                        filepath = os.path.join(root, file)
+                        number = int(file.split("_")[0])
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            data = json.load(f)
+                            for diagram_data in data.get("diagrams", []):
+                                if diagram_data["id"] == diagram_id:
+                                    diagram_data["area"] = area
+                                    diagram_data["number"] = number
+                                    return Diagram(**diagram_data)
         return None

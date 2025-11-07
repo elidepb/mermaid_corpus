@@ -25,7 +25,7 @@
                             <h2>{{ area }}</h2>
                             <div class="grid">
                                 {% for diagram in area_diagrams %}
-                                    <a href="/diagrams/{{ diagram.id }}" class="card">
+                                    <a href="/diagrams/flowchart/{{ diagram.id }}" class="card">
                                         <div class="card-image-container">
                                             <div class="skeleton-loader"></div>
                                             <div class="mermaid-container" data-diagram-id="{{ diagram.id }}" data-mermaid-code="{{ diagram.mermaid_code|e }}"></div>
@@ -57,7 +57,7 @@
                             <h2>{{ area }}</h2>
                             <div class="grid">
                                 {% for diagram in area_diagrams %}
-                                    <a href="/diagrams/{{ diagram.id }}" class="card">
+                                    <a href="/diagrams/mindmap/{{ diagram.id }}" class="card">
                                         <div class="card-image-container">
                                             <div class="skeleton-loader"></div>
                                             <div class="mermaid-container" data-diagram-id="{{ diagram.id }}" data-mermaid-code="{{ diagram.mermaid_code|e }}"></div>
