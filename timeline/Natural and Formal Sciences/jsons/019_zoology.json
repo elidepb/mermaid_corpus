@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "019",
+            "topic": "Zoology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Zoology from early animal studies to modern evolutionary biology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Zoology\n    350 BCE : Aristotle's animal classification\n          : Historia Animalium\n          : Systematic zoology\n    1735 : Linnaeus' Systema Naturae\n          : Binomial nomenclature\n          : Taxonomy foundation\n    1859 : Darwin's Origin of Species\n          : Evolution by natural selection\n          : Modern zoology\n    1866 : Haeckel's phylogeny\n          : Evolutionary trees\n          : Comparative anatomy\n    1900s : Rediscovery of Mendel\n          : Genetics in zoology\n          : Population genetics\n    1930s : Modern synthesis\n          : Evolution and genetics\n          : Neo-Darwinism\n    1950s : Ethology development\n          : Animal behavior studies\n          : Nobel Prize 1973\n    1970s : Sociobiology\n          : Wilson's work\n          : Social behavior evolution\n    1980s : Molecular phylogenetics\n          : DNA-based classification\n          : Evolutionary relationships\n    1990s : Conservation biology\n          : Endangered species\n          : Biodiversity crisis\n    2000s : Genomics in zoology\n          : Comparative genomics\n          : Evolutionary genomics\n    2010s : Evo-devo advances\n          : Developmental evolution\n          : Hox genes",
+            "complexity": "high",
+            "tags": [
+                "zoology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

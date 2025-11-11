@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "212",
+            "topic": "Physiology",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Physiology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Physiology\n    section Ancient Understanding\n        400 BC : Hippocrates - Four humors theory\n        350 BC : Aristotle - Vital functions & life processes\n    section Classical Era\n        150 AD : Galen - Physiological experiments\n        1628 : William Harvey - Circulation of blood\n    section Modern Physiology\n        1838 : Cell theory - Schleiden & Schwann\n        1859 : Claude Bernard - Internal environment concept\n    section 20th Century\n        1926 : Walter Cannon - Homeostasis concept\n        1950s : Understanding of DNA & protein synthesis\n    section Molecular Era\n        1960s : Ion channels & membrane physiology\n        1980s : Molecular biology & physiology integration\n    section Current Era\n        2000s : Systems biology & physiology\n        2020s : Precision medicine & personalized physiology",
+            "complexity": "high",
+            "tags": [
+                "physiology",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

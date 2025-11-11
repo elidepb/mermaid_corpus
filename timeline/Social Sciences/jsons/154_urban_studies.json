@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Urban Studies",
+            "category": "Social Sciences",
+            "description": "A timeline showing the development of Urban Studies from early urban sociology to modern urban analysis.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Urban Studies\n    1903 : Simmel's \"Metropolis\"\n          : Urban psychology\n          : City life\n    1915 : Park's urban ecology\n          : Chicago School\n          : Urban sociology\n    1961 : Jacobs' \"Death and Life\"\n          : Urban planning critique\n          : Jane Jacobs\n    1970s : Harvey's urban political economy\n          : Capital and cities\n          : Urban development\n    1980s : Gentrification studies\n          : Urban renewal\n          : Displacement\n    1990s : Global cities\n          : Sassen's theory\n          : World cities\n    2000s : Sustainable urbanism\n          : Green cities\n          : Environmental planning\n    2010s : Smart cities\n          : Technology and urbanism\n          : Digital infrastructure\n    2020s : Post-pandemic cities\n          : Urban resilience\n          : Remote work impact",
+            "complexity": "high",
+            "tags": [
+                "urban_studies",
+                "social_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

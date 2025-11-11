@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "035",
+            "topic": "Mathematical Logic",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Mathematical Logic from Aristotle to modern computability theory.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Mathematical Logic\n    350 BCE : Aristotle's Organon\n          : Syllogistic logic\n          : Formal reasoning\n    1879 : Frege's Begriffsschrift\n          : Predicate logic\n          : Formal language\n    1900 : Hilbert's problems\n          : Foundations of mathematics\n          : Formal systems\n    1931 : Gödel's incompleteness\n          : Undecidability\n          : Limits of formal systems\n    1936 : Turing machines\n          : Computability theory\n          : Algorithm concept\n    1950s : Model theory\n          : Tarski's work\n          : Mathematical structures\n    1960s : Set theory advances\n          : Forcing method\n          : Independence results\n    1970s : Proof theory\n          : Gentzen's work\n          : Proof complexity\n    1980s : Complexity theory\n          : P vs NP problem\n          : Computational complexity\n    1990s : Automated theorem proving\n          : Computer proofs\n          : Formal verification\n    2000s : Type theory\n          : Dependent types\n          : Proof assistants\n    2020s : Homotopy type theory\n          : Univalent foundations\n          : Modern logic",
+            "complexity": "high",
+            "tags": [
+                "mathematical_logic",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

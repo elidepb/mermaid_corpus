@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Public Relations",
+            "category": "Communication",
+            "description": "A timeline showing the evolution of Public Relations from press agents to modern strategic communication.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Public Relations\n    1906 : First press release\n          : Ivy Lee\n          : Professional PR begins\n    1920s : Public relations profession\n          : Edward Bernays\n          : \"Crystallizing Public Opinion\"\n    1950s : Two-way communication\n          : Grunig's models\n          : Symmetrical PR\n    1960s : Corporate social responsibility\n          : Stakeholder relations\n          : Public interest\n    1980s : Crisis management\n          : Tylenol case\n          : Reputation management\n    1990s : Integrated marketing communication\n          : PR and marketing\n          : Coordinated messaging\n    2000s : Digital PR\n          : Online reputation\n          : Social media PR\n    2010s : Content marketing\n          : Brand journalism\n          : Owned media\n    2015 : Influencer relations\n          : Social media influencers\n          : Brand partnerships\n    2020 : COVID-19 communication\n          : Crisis communication\n          : Public health PR\n    2020s : ESG communication\n          : Sustainability\n          : Corporate responsibility",
+            "complexity": "high",
+            "tags": [
+                "public_relations",
+                "communication"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

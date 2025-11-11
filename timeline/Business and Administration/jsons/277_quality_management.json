@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Quality Management",
+            "category": "Business",
+            "description": "A timeline showing the history of Quality Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Quality Management\n    section Early 20th Century\n        1920s : Statistical Process Control (SPC) - Walter Shewhart\n        1930s : Acceptance Sampling\n    section Post-WWII\n        1950s : W. Edwards Deming & Joseph Juran introduce quality concepts in Japan\n        1960s : Philip Crosby - \"Quality is Free\"\n    section Late 20th Century\n        1970s : Total Quality Management (TQM)\n        1987 : ISO 9000 standards are published\n        1980s : Six Sigma developed at Motorola\n    section 21st Century\n        2000s : Lean Six Sigma\n        2010s : Quality 4.0 - Integrating quality with Industry 4.0",
+            "complexity": "high",
+            "tags": [
+                "quality_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

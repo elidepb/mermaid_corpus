@@ -1,0 +1,17 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociology",
+            "category": "Sociology",
+            "description": "A timeline showing the historical development of Sociology from its founding to modern approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Sociology\n    1838 : Comte coins term \"sociology\"\n          : Positivist approach\n          : Scientific study of society\n    1851 : Comte's \"Course of Positive Philosophy\"\n          : Three stages of society\n    1893 : Durkheim's \"Division of Labor\"\n          : Functionalist perspective\n    1895 : Durkheim establishes first sociology department\n          : University of Bordeaux\n    1897 : Durkheim's \"Suicide\"\n          : Social facts methodology\n    1904 : Weber's \"Protestant Ethic\"\n          : Verstehen approach\n    1922 : Weber's \"Economy and Society\"\n          : Ideal types and bureaucracy\n    1937 : Parsons' \"Structure of Social Action\"\n          : Structural functionalism\n    1959 : Mills' \"Sociological Imagination\"\n          : Critical perspective\n    1966 : Berger and Luckmann\n          : \"Social Construction of Reality\"\n    1970s : Feminist sociology emerges\n          : Gender as social construct\n    1980s : Postmodern sociology\n          : Deconstruction of grand theories\n    2000s : Global sociology\n          : Transnational perspectives",
+            "complexity": "high",
+            "tags": [
+                "sociology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

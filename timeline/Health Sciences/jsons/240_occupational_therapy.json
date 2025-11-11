@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "240",
+            "topic": "Occupational Therapy",
+            "category": "Therapy",
+            "description": "A timeline showing the evolution of Occupational Therapy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Occupational Therapy\n    section Early Concepts\n        1700s : Moral treatment movement\n        1917 : Founding of occupational therapy\n    section Foundation\n        1920s : Occupational therapy professionalization\n        1940s : Post-war rehabilitation programs\n    section Modern Era\n        1950s : Theoretical frameworks develop\n        1970s : Client-centered practice\n    section Advances\n        1980s : Evidence-based practice\n        1990s : Occupational science develops\n    section Modern Practice\n        2000s : Technology & assistive devices\n        2010s : Mental health & wellness focus\n    section Current Focus\n        2020s : Telehealth & virtual therapy\n        2020s : Occupational justice & equity",
+            "complexity": "high",
+            "tags": [
+                "occupational_therapy",
+                "therapy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

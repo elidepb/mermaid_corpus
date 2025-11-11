@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "169",
+            "topic": "Semantics",
+            "category": "Linguistics",
+            "description": "A timeline showing the evolution of Semantics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Semantics\n    section Early Semantics\n        1897 : Michel Bréal - Essai de sémantique (first use of term)\n        1923 : C.K. Ogden & I.A. Richards - The Meaning of Meaning\n    section Structural Semantics\n        1957 : Jost Trier - Field theory of semantics\n        1963 : John Lyons - Structural Semantics\n    section Formal Semantics\n        1970 : Richard Montague - Universal Grammar\n        1975 : Formal semantics becomes established\n    section Truth-Conditional Semantics\n        1980s : Donald Davidson - Truth-conditional semantics\n        1981 : Saul Kripke - Naming and Necessity\n    section Cognitive Semantics\n        1987 : George Lakoff - Women, Fire, and Dangerous Things\n        1987 : Ronald Langacker - Foundations of Cognitive Grammar\n    section Contemporary\n        1990s : Frame semantics - Charles Fillmore\n        2000s : Construction grammar & semantic change\n        2010s : Distributional semantics & word embeddings",
+            "complexity": "high",
+            "tags": [
+                "semantics",
+                "linguistics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

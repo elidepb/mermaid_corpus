@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "430",
+            "topic": "Human-Computer Interaction",
+            "category": "Computer Science",
+            "description": "A timeline showing the historical development of Human-Computer Interaction.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\\n    title Development of Human-Computer Interaction\\n    1945 : Vannevar Bush's Memex\\n          : Information retrieval concept\\n          : Human-machine interaction\\n    1960s : First computer interfaces\\n          : Command-line interfaces\\n          : Text-based interaction\\n    1968 : Engelbart's NLS demo\\n          : Mouse and windows\\n          : Modern UI concepts\\n    1970s : Xerox PARC innovations\\n          : Graphical user interface\\n          : Desktop metaphor\\n    1984 : Apple Macintosh\\n          : Commercial GUI\\n          : User-friendly design\\n    1990s : World Wide Web\\n          : Hypertext interfaces\\n          : Information architecture\\n    2000s : Mobile interfaces\\n          : Touch screens\\n          : Smartphone revolution\\n    2010s : Natural user interfaces\\n          : Voice assistants\\n          : Gesture recognition\\n    2020s : AI-powered interfaces\\n          : Machine learning UX\\n          : Personalized experiences\\n    2020s : Extended reality\\n          : VR and AR interfaces\\n          : Immersive computing",
+            "complexity": "high",
+            "tags": [
+                "human_computer_interaction",
+                "computer_science"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

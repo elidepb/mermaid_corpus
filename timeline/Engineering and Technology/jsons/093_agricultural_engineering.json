@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "093",
+            "topic": "Agricultural Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Agricultural Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Agricultural Engineering\n    section Early Innovations\n        c. 8000 BC : Domestication of plants and animals\n        c. 4000 BC : Irrigation is developed in Mesopotamia\n        c. 1700 : Jethro Tull's seed drill\n    section The Industrial Revolution\n        1793 : Eli Whitney's cotton gin\n        1834 : Cyrus McCormick's mechanical reaper\n        1837 : John Deere's steel plow\n    section The 20th Century: Mechanization and the Green Revolution\n        1900s : The first gasoline-powered tractors\n        1940s-60s : The Green Revolution\n        1950s : The development of modern irrigation systems\n    section The Late 20th & 21st Century: Precision Agriculture\n        1980s : The first use of GPS in agriculture\n        1990s : The development of precision agriculture\n        2000s : The use of drones and sensors in agriculture\n        2010s : The rise of autonomous tractors and other agricultural robots",
+            "complexity": "high",
+            "tags": [
+                "agricultural_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

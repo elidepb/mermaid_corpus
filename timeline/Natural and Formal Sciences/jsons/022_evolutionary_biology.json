@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "022",
+            "topic": "Evolutionary Biology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Evolutionary Biology from Darwin to modern evolutionary synthesis.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Evolutionary Biology\n    1859 : Darwin's Origin of Species\n          : Natural selection\n          : Evolution theory\n    1865 : Mendel's genetics\n          : Inheritance laws\n          : Genetic basis\n    1900 : Rediscovery of Mendel\n          : Genetics foundation\n          : Evolutionary genetics\n    1930s : Modern synthesis\n          : Fisher, Haldane, Wright\n          : Neo-Darwinism\n    1953 : DNA structure\n          : Molecular evolution\n          : Genetic variation\n    1960s : Neutral theory\n          : Kimura's work\n          : Molecular evolution\n    1970s : Punctuated equilibrium\n          : Eldredge and Gould\n          : Evolution patterns\n    1980s : Molecular phylogenetics\n          : DNA-based trees\n          : Evolutionary relationships\n    1990s : Evo-devo emergence\n          : Developmental evolution\n          : Hox genes\n    2000s : Comparative genomics\n          : Genome evolution\n          : Evolutionary genomics\n    2010s : Epigenetic evolution\n          : Non-genetic inheritance\n          : Extended synthesis\n    2020s : Evolutionary medicine\n          : Disease evolution\n          : Human evolution",
+            "complexity": "high",
+            "tags": [
+                "evolutionary_biology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

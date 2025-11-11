@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Biomedical Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Biomedical Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Biomedical Engineering\n    section Early Developments\n        1895 : Wilhelm Roentgen discovers X-rays\n        1903 : Willem Einthoven invents the electrocardiograph (ECG)\n        1927 : The iron lung is invented\n    section Mid-20th Century: The Rise of Medical Devices\n        1943 : Willem Kolff develops the first artificial kidney (dialysis machine)\n        1952 : The first successful implantation of an artificial heart valve\n        1958 : The first implantable pacemaker\n    section Late 20th Century: Imaging and Biotechnology\n        1971 : The first CT scanner is invented\n        1977 : The first MRI scan\n        1980s : Development of genetic engineering and tissue engineering\n    section 21st Century: The Digital and Genomic Eras\n        2003 : The Human Genome Project is completed\n        2010s : Rise of wearable technology and personalized medicine\n        2020s : Advancements in gene editing (e.g., CRISPR)",
+            "complexity": "high",
+            "tags": [
+                "biomedical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

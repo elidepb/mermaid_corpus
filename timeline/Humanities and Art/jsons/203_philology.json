@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "203",
+            "topic": "Philology",
+            "category": "Linguistics/Literature",
+            "description": "A timeline showing the evolution of Philology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Philology\n    section Ancient Philology\n        300 BC : Library of Alexandria - Textual scholarship\n        100 BC : Alexandrian philologists\n    section Medieval Period\n        800 : Carolingian Renaissance - Text preservation\n        1400s : Humanist philology\n    section Modern Period\n        1786 : William Jones - Comparative philology\n        1816 : Franz Bopp - Indo-European studies\n    section 19th Century\n        1870s : Textual criticism methodology\n        1890s : Historical linguistics & philology\n    section Contemporary\n        1900s : New Criticism & close reading\n        2000s : Digital philology & textual analysis\n        2010s : Computational philology",
+            "complexity": "high",
+            "tags": [
+                "philology",
+                "linguistics",
+                "literature"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

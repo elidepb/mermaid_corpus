@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "190",
+            "topic": "Film Theory",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Film Theory.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Film Theory\n    section Early Theory\n        1916 : Hugo Münsterberg - The Photoplay\n        1923 : Vsevolod Pudovkin - Film technique\n    section Soviet Montage\n        1925 : Sergei Eisenstein - Montage theory\n        1929 : Dziga Vertov - Kino-Eye theory\n    section Classical Theory\n        1948 : André Bazin - What is Cinema?\n        1954 : Siegfried Kracauer - Theory of Film\n    section Auteur Theory\n        1954 : François Truffaut - Auteur theory\n        1962 : Andrew Sarris - Notes on the Auteur Theory\n    section Structuralism & Semiotics\n        1964 : Christian Metz - Film language\n        1970s : Screen theory - Ideology & apparatus\n    section Contemporary Theory\n        1975 : Laura Mulvey - Visual Pleasure and Narrative Cinema\n        1980s : Postcolonial film theory\n        1990s : Cognitive film theory\n    section Recent Developments\n        2000s : Digital cinema theory\n        2010s : Transmedia & convergence studies",
+            "complexity": "high",
+            "tags": [
+                "film_theory",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

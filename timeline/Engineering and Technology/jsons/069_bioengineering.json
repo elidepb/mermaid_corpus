@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "069",
+            "topic": "Bioengineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Bioengineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Bioengineering\n    section Early Concepts\n        18th Century : Luigi Galvani - \"Animal electricity\"\n        1928 : Alexander Fleming - Discovery of penicillin\n    section Mid-20th Century: The Birth of a Field\n        1953 : Watson and Crick - Structure of DNA\n        1953 : First Ph.D. in Bioengineering (University of Pennsylvania)\n        1973 : Recombinant DNA technology\n    section Late 20th Century: Genetic Engineering\n        1982 : First genetically engineered drug (Humulin)\n        1990 : The Human Genome Project begins\n        1996 : Dolly the sheep is cloned\n    section 21st Century: Synthetic Biology and Beyond\n        2000s : Rise of tissue engineering and regenerative medicine\n        2010 : First synthetic cell created by the J. Craig Venter Institute\n        2012 : CRISPR-Cas9 gene editing technology is developed",
+            "complexity": "high",
+            "tags": [
+                "bioengineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

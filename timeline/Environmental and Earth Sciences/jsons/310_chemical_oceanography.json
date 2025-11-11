@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "310",
+            "topic": "Chemical Oceanography",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the evolution of Chemical Oceanography.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Chemical Oceanography\n    section Early Measurements\n        1872-1876 : HMS Challenger - First oceanographic expedition\n        1902 : Knudsen - Salinity determination methods\n    section Foundation\n        1920s : Ocean chemistry systematic studies\n        1930s : Nutrient cycles & biological productivity\n    section Modern Era\n        1950s : GEOSECS program - Global ocean chemistry\n        1970s : Carbon cycle & ocean-atmosphere exchange\n    section Climate Research\n        1980s : Ocean acidification research begins\n        1990s : Ocean carbon sink & climate change\n    section Technology Advances\n        2000s : Autonomous sensors & floats (Argo)\n        2010s : High-resolution ocean chemistry data\n    section Current Focus\n        2020s : Ocean acidification impacts\n        2020s : Marine carbon cycle & climate mitigation",
+            "complexity": "high",
+            "tags": [
+                "chemical_oceanography",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

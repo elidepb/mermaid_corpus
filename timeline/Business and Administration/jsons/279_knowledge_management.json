@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Knowledge Management",
+            "category": "Business",
+            "description": "A timeline showing the history of Knowledge Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Knowledge Management\n    section Pre-Digital Era\n        1960s : Peter Drucker coins the term \"knowledge worker\"\n        1970s : Early work on expert systems\n    section The 1980s: The Rise of Information\n        1980s : Focus on information management and data processing\n        1987 : Karl Wiig - \"Foundations of Knowledge Management\"\n    section The 1990s: KM Goes Mainstream\n        1991 : Ikujiro Nonaka - SECI model of knowledge creation\n        1995 : The term \"Knowledge Management\" is widely adopted\n        1998 : Thomas H. Davenport & Laurence Prusak - \"Working Knowledge\"\n    section The 2000s: Technology and Collaboration\n        2001 : Wikipedia is launched - a global KM system\n        2000s : Rise of wikis, blogs, and social bookmarking\n    section The 2010s: Social, Mobile, and Cloud\n        2010s : Enterprise social networks & collaborative tools\n        2010s : Cloud computing enables ubiquitous access to knowledge",
+            "complexity": "high",
+            "tags": [
+                "knowledge_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Clinical Psychology",
+            "category": "Psychology",
+            "description": "A timeline showing the evolution of Clinical Psychology from early psychological assessment to evidence-based treatments.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Clinical Psychology\n    1896 : Witmer establishes first clinic\n          : University of Pennsylvania\n          : Clinical psychology begins\n    1905 : Binet-Simon intelligence test\n          : Psychological assessment\n    1920s : Rorschach inkblot test\n          : Projective testing\n    1940s : Clinical psychology expands\n          : World War II assessments\n          : VA hospital training\n    1952 : First DSM published\n          : Diagnostic classification\n    1960s : Behavior therapy emerges\n          : Systematic desensitization\n          : Operant conditioning\n    1970s : Cognitive therapy develops\n          : Beck's cognitive therapy\n          : Rational emotive therapy\n    1980s : Cognitive-behavioral therapy\n          : CBT integration\n          : Evidence-based practice\n    1990s : Manualized treatments\n          : Treatment protocols\n          : Outcome research\n    2000s : Third-wave therapies\n          : Mindfulness-based\n          : Acceptance and commitment\n    2010s : Precision medicine\n          : Personalized treatment\n          : Digital interventions\n    2020s : Telepsychology expansion\n          : Online therapy\n          : Virtual reality treatments",
+            "complexity": "high",
+            "tags": [
+                "clinical_psychology",
+                "psychology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

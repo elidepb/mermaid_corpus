@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "213",
+            "topic": "Pharmacology",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Pharmacology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Pharmacology\n    section Ancient Pharmacology\n        3000 BC : Ancient Sumeria - First recorded medications\n        1500 BC : Ebers Papyrus - 800+ medicinal recipes\n    section Classical Era\n        50 AD : Dioscorides - De Materia Medica\n        980 : Avicenna - Canon of Medicine\n    section Modern Pharmacology\n        1804 : Friedrich Sertürner - Morphine isolated\n        1897 : Aspirin synthesized (Felix Hoffmann)\n    section Antibiotic Era\n        1928 : Alexander Fleming - Penicillin discovery\n        1940s : Mass production of antibiotics\n    section Modern Drugs\n        1950s : Development of psychotropic drugs\n        1980s : Biotechnology & recombinant drugs\n    section Current Era\n        2000s : Pharmacogenomics & personalized medicine\n        2020s : mRNA vaccines & biologic therapies",
+            "complexity": "high",
+            "tags": [
+                "pharmacology",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

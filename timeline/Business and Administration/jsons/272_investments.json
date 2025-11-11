@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "272",
+            "topic": "Investments",
+            "category": "Business",
+            "description": "A timeline showing the history of Investments.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Investments\n    section Early Forms\n        1602 : First stock market in Amsterdam\n        1773 : First regulated stock exchange in London\n    section 19th Century\n        1817 : New York Stock Exchange Board established\n        1868 : First investment trust (Foreign & Colonial Investment Trust)\n    section Early 20th Century\n        1924 : First mutual fund (Massachusetts Investors Trust)\n        1940 : Investment Company Act of 1940 (U.S.)\n    section Mid-20th Century\n        1952 : Modern Portfolio Theory (Harry Markowitz)\n        1973 : First options exchange (Chicago Board Options Exchange)\n        1975 : First index fund (Vanguard)\n    section Late 20th & 21st Century\n        1993 : First exchange-traded fund (ETF) - SPDR S&P 500\n        2000s : Rise of online brokerages and algorithmic trading\n        2010s : Robo-advisors & Socially Responsible Investing (SRI)",
+            "complexity": "high",
+            "tags": [
+                "investments",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

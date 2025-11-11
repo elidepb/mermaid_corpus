@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Taxation",
+            "category": "Business",
+            "description": "A timeline showing a history of Taxation in the U.S.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A History of Taxation in the U.S.\n    section Colonial Era\n        1765 : The Stamp Act\n        1773 : The Boston Tea Party (protest against taxation without representation)\n    section Early U.S. History\n        1791 : First federal excise tax (Whiskey Tax)\n        1861 : First income tax (to fund the Civil War)\n    section 20th Century\n        1913 : 16th Amendment - Federal income tax is permanently established\n        1935 : Social Security Act creates payroll taxes\n        1986 : Tax Reform Act of 1986\n    section 21st Century\n        2001 & 2003 : Bush tax cuts\n        2017 : Tax Cuts and Jobs Act of 2017",
+            "complexity": "high",
+            "tags": [
+                "taxation",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

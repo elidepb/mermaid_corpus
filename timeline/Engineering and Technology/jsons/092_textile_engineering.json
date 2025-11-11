@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "092",
+            "topic": "Textile Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Textile Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Textile Engineering\n    section Ancient Times\n        c. 6000 BC : Woolen textiles in Southern Turkey\n        c. 5000 BC : Cotton is grown and woven in India\n        c. 2700 BC : Silk is woven in China\n    section The Industrial Revolution\n        1733 : John Kay's flying shuttle\n        1764 : James Hargreaves' spinning jenny\n        1769 : Richard Arkwright's water frame\n        1785 : Edmund Cartwright's power loom\n    section The 19th Century: The Rise of the Factory\n        1804 : Joseph Marie Jacquard's Jacquard loom\n        1856 : William Henry Perkin's discovery of mauveine, the first synthetic dye\n    section The 20th Century: The Age of Synthetic Fibers\n        1938 : Nylon is invented\n        1941 : Polyester is invented\n        1953 : Spandex is invented\n    section The 21st Century: The Rise of Smart Textiles\n        2000s : The development of smart textiles and wearable technology",
+            "complexity": "high",
+            "tags": [
+                "textile_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

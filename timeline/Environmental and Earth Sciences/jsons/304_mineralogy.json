@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "304",
+            "topic": "Mineralogy",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the evolution of Mineralogy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Mineralogy\n    section Ancient Knowledge\n        315 BC : Theophrastus - First mineral classification\n        1546 : Georgius Agricola - De Natura Fossilium\n    section Crystallography\n        1669 : Nicolas Steno - Crystal symmetry laws\n        1783 : René Just Haüy - Crystal structure theory\n    section Modern Mineralogy\n        1812 : Friedrich Mohs - Hardness scale\n        1837 : James Dana - Systematic Mineralogy\n    section Analytical Revolution\n        1912 : X-ray diffraction (XRD) discovered\n        1930s : Electron microscopy for minerals\n    section Modern Techniques\n        1960s : Scanning electron microscopy (SEM)\n        1980s : Electron microprobe analysis\n    section Current Era\n        2000s : High-resolution transmission electron microscopy\n        2020s : Mineral genomics & crystal engineering",
+            "complexity": "high",
+            "tags": [
+                "mineralogy",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

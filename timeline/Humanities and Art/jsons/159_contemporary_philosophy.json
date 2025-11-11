@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "159",
+            "topic": "Contemporary Philosophy",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Contemporary Philosophy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Contemporary Philosophy\n    section Early 20th Century\n        1859 : Charles Peirce - Pragmatism founded\n        1900 : Edmund Husserl - Phenomenology\n        1921 : Ludwig Wittgenstein - Tractatus Logico-Philosophicus\n    section Mid-20th Century\n        1927 : Martin Heidegger - Being and Time\n        1930s : Logical Positivism - Vienna Circle\n        1943 : Jean-Paul Sartre - Being and Nothingness\n        1945 : Albert Camus - The Myth of Sisyphus\n    section Post-War Period\n        1953 : Wittgenstein - Philosophical Investigations\n        1966 : Jacques Derrida - Deconstruction\n        1975 : Michel Foucault - Discipline and Punish\n    section Late 20th Century\n        1970s : Philosophy of Mind - Cognitive revolution\n        1990s : Post-modernism & cultural studies\n    section 21st Century\n        2000s : Analytic-continental divide softens\n        2010s : Philosophy of technology & AI ethics",
+            "complexity": "high",
+            "tags": [
+                "contemporary_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

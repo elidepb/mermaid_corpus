@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Business Law",
+            "category": "Business",
+            "description": "A timeline showing a history of U.S. Business Law.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A History of U.S. Business Law\n    section Early Republic\n        1789 : U.S. Constitution's Commerce Clause\n        1819 : Dartmouth College v. Woodward - protects corporate charters\n    section Industrial Era\n        1890 : Sherman Antitrust Act\n        1914 : Federal Trade Commission (FTC) Act\n    section New Deal Era\n        1933 : Securities Act of 1933\n        1934 : Securities Exchange Act of 1934\n        1935 : National Labor Relations Act (Wagner Act)\n    section Post-War Era\n        1952 : Uniform Commercial Code (UCC) first published\n        1964 : Civil Rights Act (Title VII - Employment Discrimination)\n    section Late 20th & 21st Century\n        1970 : Occupational Safety and Health Act (OSHA)\n        2002 : Sarbanes-Oxley Act (SOX)\n        2010 : Dodd-Frank Wall Street Reform and Consumer Protection Act",
+            "complexity": "high",
+            "tags": [
+                "business_law",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

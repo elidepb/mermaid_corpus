@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "161",
+            "topic": "Aesthetics",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Aesthetics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Aesthetics\n    section Ancient Aesthetics\n        384 BC : Aristotle - Poetics & theory of tragedy\n        1750 : Alexander Baumgarten - Aesthetics as discipline\n    section 18th Century\n        1757 : David Hume - Of the Standard of Taste\n        1764 : Immanuel Kant - Observations on the Beautiful\n        1790 : Kant - Critique of Judgment\n    section 19th Century\n        1818 : Arthur Schopenhauer - The World as Will and Representation\n        1897 : Leo Tolstoy - What is Art?\n    section Early 20th Century\n        1913 : Clive Bell - Significant form theory\n        1928 : John Dewey - Art as Experience\n    section Mid-20th Century\n        1964 : Arthur Danto - The Artworld\n        1969 : George Dickie - Institutional theory of art\n    section Contemporary\n        1990s : Aesthetics of popular culture\n        2000s : Digital aesthetics & new media\n        2010s : Environmental aesthetics & everyday aesthetics",
+            "complexity": "high",
+            "tags": [
+                "aesthetics",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

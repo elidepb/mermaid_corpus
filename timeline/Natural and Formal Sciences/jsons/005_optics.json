@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "005",
+            "topic": "Optics",
+            "category": "Physics",
+            "description": "A timeline showing the historical development of Optics from ancient observations to modern quantum optics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Optics\n    300 BCE : Euclid's \"Optics\"\n          : Geometric optics\n          : Reflection laws\n    1000 CE : Ibn al-Haytham's \"Book of Optics\"\n          : Scientific method\n          : Camera obscura\n    1621 : Snell's law of refraction\n          : Refraction mathematics\n          : Light path prediction\n    1665 : Newton's prism experiments\n          : Light spectrum\n          : Color theory\n    1678 : Huygens' wave theory\n          : Light as waves\n          : Wavefront propagation\n    1801 : Young's double-slit experiment\n          : Wave interference\n          : Light wave nature\n    1818 : Fresnel's wave optics\n          : Diffraction theory\n          : Wave equation\n    1865 : Maxwell's electromagnetic theory\n          : Light as EM wave\n          : Unified optics\n    1905 : Einstein's photoelectric effect\n          : Light quanta\n          : Photon concept\n    1917 : Einstein's stimulated emission\n          : Laser principle\n          : Quantum optics foundation\n    1960 : First laser demonstration\n          : Maiman's ruby laser\n          : Coherent light\n    1970s : Fiber optic communication\n          : Optical fibers\n          : Telecommunications revolution\n    2000s : Quantum optics advances\n          : Quantum entanglement\n          : Quantum information",
+            "complexity": "high",
+            "tags": [
+                "optics",
+                "physics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

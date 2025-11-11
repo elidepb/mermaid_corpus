@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Brand Management",
+            "category": "Business",
+            "description": "A timeline showing the evolution of Brand Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Brand Management\n    section Early Branding\n        1850s : Trademarks - First registered brand marks\n        1880s : Coca-Cola - One of first global brands\n    section Golden Age of Advertising\n        1920s : Brand Personality - JWT's brand character concept\n        1930s : Radio Branding - Jingle & slogan development\n    section Television Era\n        1950s : TV Commercials - Visual brand storytelling\n        1960s : Brand Positioning - Rosser Reeves' USP theory\n    section Strategic Branding\n        1970s : Brand Equity Concept - David Aaker's framework\n        1980s : Brand Architecture - Brand portfolio management\n    section Brand Experience\n        1990s : Integrated Marketing - Consistent brand experience\n        2000s : Emotional Branding - Brand relationships & loyalty\n    section Digital Brands\n        2010s : Social Media Brands - Community-driven branding\n        2020s : Personal Branding - Influencer & employer branding",
+            "complexity": "high",
+            "tags": [
+                "brand_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

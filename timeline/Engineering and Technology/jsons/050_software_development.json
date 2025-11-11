@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "050",
+            "topic": "Software Development",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Software Development.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Software Development\n    section The 1950s-1960s: The Dawn of Programming\n        1957 : FORTRAN, the first high-level programming language\n        1959 : COBOL\n        1968 : NATO Software Engineering Conference\n    section The 1970s: Structured Programming\n        1970 : The Waterfall model\n        1972 : C programming language\n        1975 : \"The Mythical Man-Month\" by Fred Brooks\n    section The 1980s: Object-Oriented Programming\n        1983 : C++\n        1986 : Capability Maturity Model (CMM)\n    section The 1990s: The Rise of the Web\n        1991 : The World Wide Web\n        1995 : Java & JavaScript\n    section The 2000s: Agile & DevOps\n        2001 : The Agile Manifesto\n        2009 : The term \"DevOps\" is coined\n    section The 2010s: Cloud & Mobile\n        2010s : Rise of cloud computing (AWS, Azure, GCP)\n        2010s : Proliferation of mobile app development",
+            "complexity": "high",
+            "tags": [
+                "software_development",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

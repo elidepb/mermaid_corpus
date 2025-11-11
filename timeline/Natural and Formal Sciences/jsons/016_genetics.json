@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "016",
+            "topic": "Genetics",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Genetics from Mendel's laws to modern genomics and gene editing.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Genetics\n    1865 : Mendel's laws of inheritance\n          : Pea plant experiments\n          : Dominance and segregation\n    1900 : Rediscovery of Mendel's work\n          : de Vries, Correns, Tschermak\n          : Genetics foundation\n    1909 : Morgan's fruit fly genetics\n          : Chromosome theory\n          : Linkage and crossing over\n    1944 : DNA as genetic material\n          : Avery's experiments\n          : Transformation studies\n    1953 : DNA double helix structure\n          : Watson and Crick\n          : Nobel Prize 1962\n    1960s : Genetic code deciphered\n          : Codon assignments\n          : Protein synthesis\n    1970s : Recombinant DNA technology\n          : Genetic engineering\n          : Biotechnology era\n    1990s : Human Genome Project\n          : DNA sequencing\n          : Genomic revolution\n    2003 : Human genome completed\n          : Full sequence\n          : Genomic medicine\n    2010s : CRISPR-Cas9 gene editing\n          : Precision editing\n          : Nobel Prize 2020\n    2020s : Gene therapy advances\n          : Clinical applications\n          : Personalized medicine",
+            "complexity": "high",
+            "tags": [
+                "genetics",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

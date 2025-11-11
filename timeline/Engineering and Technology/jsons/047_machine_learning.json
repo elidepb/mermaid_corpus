@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Machine Learning",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Machine Learning.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Machine Learning\n    section The Early Years\n        1950 : Alan Turing - The Turing Test\n        1952 : Arthur Samuel - Checkers program\n        1957 : Frank Rosenblatt - The Perceptron\n    section The 1960s-1980s\n        1967 : Nearest Neighbor algorithm\n        1979 : The Stanford Cart\n        1986 : Backpropagation algorithm popularized by Rumelhart, Hinton & Williams\n    section The 1990s: Statistical Learning\n        1995 : Support Vector Machines (SVMs)\n        1997 : IBM's Deep Blue\n    section The 2000s: The Rise of Big Data\n        2006 : Geoffrey Hinton - Deep Belief Networks (start of the \"Deep Learning\" revolution)\n    section The 2010s: The Deep Learning Era\n        2012 : AlexNet wins ImageNet\n        2014 : Generative Adversarial Networks (GANs)\n        2017 : Transformers (Attention is All You Need)",
+            "complexity": "high",
+            "tags": [
+                "machine_learning",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

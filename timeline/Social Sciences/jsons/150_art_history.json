@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "150",
+            "topic": "Art History",
+            "category": "History/Art",
+            "description": "A timeline showing the evolution of art from ancient times to contemporary movements.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Art History Timeline\n    30000 BCE : Cave paintings\n          : Lascaux and Altamira\n          : Early human art\n    2500 BCE : Egyptian art\n          : Pyramid construction\n          : Hieroglyphic art\n    500 BCE : Classical Greek art\n          : Parthenon sculptures\n          : Idealized human form\n    1400s : Italian Renaissance\n          : Leonardo da Vinci\n          : Perspective and realism\n    1600s : Baroque art\n          : Caravaggio and Rembrandt\n          : Dramatic lighting\n    1780s : Neoclassicism\n          : Jacques-Louis David\n          : Classical revival\n    1860s : Impressionism\n          : Monet and Renoir\n          : Light and color\n    1907 : Cubism begins\n          : Picasso and Braque\n          : Abstract representation\n    1920s : Surrealism\n          : Dali and Magritte\n          : Unconscious imagery\n    1950s : Abstract Expressionism\n          : Pollock and Rothko\n          : Gestural abstraction\n    1960s : Pop Art\n          : Warhol and Lichtenstein\n          : Popular culture\n    2000s : Contemporary art\n          : Digital art\n          : Conceptual art",
+            "complexity": "high",
+            "tags": [
+                "art_history",
+                "history",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

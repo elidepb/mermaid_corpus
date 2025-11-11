@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "186",
+            "topic": "Musicology",
+            "category": "Music",
+            "description": "A timeline showing the evolution of Musicology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Musicology\n    section 19th Century\n        1885 : Guido Adler - Systematic musicology concept\n        1890s : Historical musicology emerges\n    section Early 20th Century\n        1904 : Carl Stumpf - Comparative musicology\n        1919 : Curt Sachs - Organology & ethnomusicology\n    section Mid-20th Century\n        1950 : Ethnomusicology becomes established discipline\n        1955 : International Musicological Society\n        1960s : Performance practice studies\n    section Late 20th Century\n        1970s : New musicology - Cultural studies approach\n        1980s : Feminist musicology\n        1990s : Popular music studies\n    section Contemporary\n        2000s : Digital musicology & computational methods\n        2010s : Sound studies & music and technology",
+            "complexity": "high",
+            "tags": [
+                "musicology",
+                "music"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

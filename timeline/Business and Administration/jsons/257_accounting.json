@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Accounting",
+            "category": "Business",
+            "description": "A timeline showing the history of Accounting.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Accounting\n    section Ancient Times\n        7000 BC : Mesopotamia - Early records on clay tablets\n        4000 BC : Ancient Egypt - Scribes track gold and grain\n    section Roman Empire\n        200 AD : Detailed records of public finances\n    section Middle Ages\n        1300 : Double-Entry Bookkeeping emerges in Italy\n        1494 : Luca Pacioli's \"Summa de Arithmetica\" published\n    section Industrial Revolution\n        1854 : First professional accounting body in Scotland\n        1887 : American Association of Public Accountants formed\n    section 20th Century\n        1934 : US SEC established - Standardized reporting\n        1973 : Financial Accounting Standards Board (FASB) created\n    section Digital Age\n        1980s : Spreadsheets (VisiCalc, Lotus 1-2-3)\n        2000s : Cloud Accounting & SaaS",
+            "complexity": "high",
+            "tags": [
+                "accounting",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

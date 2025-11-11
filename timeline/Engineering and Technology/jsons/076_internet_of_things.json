@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "076",
+            "topic": "Internet of Things",
+            "category": "Engineering",
+            "description": "A timeline showing the history of the Internet of Things (IoT).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of the Internet of Things (IoT)\n    section Early Concepts\n        1982 : A Coca-Cola vending machine at Carnegie Mellon University is connected to the internet\n        1990 : John Romkey creates a toaster that can be turned on and off over the internet\n        1999 : Kevin Ashton coins the term \"Internet of Things\"\n    section The 2000s: The Foundation\n        2000 : LG announces its first Internet-connected refrigerator\n        2008 : The number of devices connected to the internet exceeds the number of people\n    section The 2010s: The Rise of the Smart Home\n        2011 : Nest Labs releases the Nest Learning Thermostat\n        2014 : Amazon Echo and Alexa are released\n    section The 2020s: The Industrial IoT\n        2020s : Widespread adoption of IoT in manufacturing, healthcare, and smart cities",
+            "complexity": "high",
+            "tags": [
+                "internet_of_things",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Developmental Psychology",
+            "category": "Psychology",
+            "description": "A timeline showing the evolution of Developmental Psychology from early child studies to lifespan approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Developmental Psychology\n    1882 : Preyer's \"The Mind of the Child\"\n          : Scientific child psychology begins\n    1890s : Hall's child study movement\n          : Developmental norms\n    1936 : Piaget's cognitive development theory\n          : Stages of development\n          : Constructivist approach\n    1950 : Erikson's psychosocial theory\n          : Eight stages of life\n          : Identity development\n    1960s : Vygotsky's sociocultural theory\n          : Zone of proximal development\n          : Social learning\n    1969 : Bowlby's attachment theory\n          : Secure base concept\n          : Early relationships\n    1970s : Bronfenbrenner's ecological systems\n          : Environmental influences\n          : Nested systems\n    1980s : Lifespan development\n          : Baltes and lifespan psychology\n          : Adult development\n    1990s : Cultural psychology\n          : Cross-cultural development\n          : Cultural variations\n    2000s : Neurodevelopmental research\n          : Brain development\n          : Critical periods\n    2010s : Positive youth development\n          : Strengths-based approach\n          : Resilience research",
+            "complexity": "high",
+            "tags": [
+                "developmental_psychology",
+                "psychology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

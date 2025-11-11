@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditing",
+            "category": "Business",
+            "description": "A timeline showing the history of Auditing.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Auditing\n    section Ancient Origins\n        c. 3000 BC : Early forms of verification in Egypt and Babylon\n    section 19th Century\n        1853 : Society of Accountants in Edinburgh is founded\n        1896 : First CPA (Certified Public Accountant) license in the U.S.\n    section Early 20th Century\n        1913 : U.S. Federal Reserve Act creates a need for bank audits\n        1934 : Securities Exchange Act requires audits for public companies\n    section Mid-20th Century\n        1940s : Shift from detailed verification to sampling\n        1972 : Financial Accounting Standards Board (FASB) established\n    section Late 20th & 21st Century\n        1990s : Rise of internal and operational audits\n        2002 : Sarbanes-Oxley Act (SOX) enacted\n        2010s : Technology-driven auditing (Data Analytics, AI)",
+            "complexity": "high",
+            "tags": [
+                "auditing",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

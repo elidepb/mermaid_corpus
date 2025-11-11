@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "017",
+            "topic": "Molecular Biology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Molecular Biology from DNA structure to modern gene regulation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Molecular Biology\n    1953 : DNA double helix structure\n          : Watson and Crick\n          : Molecular biology birth\n    1958 : Central dogma proposed\n          : DNA to RNA to protein\n          : Information flow\n    1961 : mRNA discovery\n          : Jacob and Monod\n          : Gene expression\n    1965 : Genetic code completed\n          : All codons assigned\n          : Protein synthesis\n    1970s : Restriction enzymes\n          : DNA manipulation\n          : Recombinant DNA\n    1980s : PCR invention\n          : Mullis' polymerase chain reaction\n          : Nobel Prize 1993\n    1990s : DNA sequencing automation\n          : Sanger method\n          : Genomic projects\n    2000s : RNA interference\n          : Fire and Mello\n          : Nobel Prize 2006\n    2010s : Epigenetics advances\n          : DNA methylation\n          : Histone modifications\n    2020s : Single-cell genomics\n          : Cellular heterogeneity\n          : Precision biology",
+            "complexity": "high",
+            "tags": [
+                "molecular_biology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

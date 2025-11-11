@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Control Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Control Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Control Engineering\n    section Early Control Systems\n        c. 270 BC : Ctesibius's water clock\n        1788 : James Watt's centrifugal governor for steam engines\n    section Classical Control Theory\n        1868 : James Clerk Maxwell's paper \"On Governors\"\n        1932 : Harry Nyquist's stability criterion\n        1945 : Hendrik Bode's work on frequency-domain analysis\n    section Modern Control Theory\n        1950s : Development of state-space methods\n        1960 : Rudolf Kálmán - The Kalman filter\n        1960s : Richard Bellman - Dynamic programming\n    section Digital and Optimal Control\n        1970s : Development of digital control systems\n        1980s : Robust and optimal control theory\n    section 21st Century\n        1990s : Adaptive and nonlinear control\n        2000s : Networked control systems and hybrid systems\n        2010s : AI and machine learning in control systems",
+            "complexity": "high",
+            "tags": [
+                "control_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

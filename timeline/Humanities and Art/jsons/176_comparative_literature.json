@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "176",
+            "topic": "Comparative Literature",
+            "category": "Literature",
+            "description": "A timeline showing the evolution of Comparative Literature.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Comparative Literature\n    section 19th Century\n        1827 : Johann Wolfgang von Goethe - World literature concept\n        1886 : Comparative Literature as academic discipline\n    section Early 20th Century\n        1921 : René Wellek - Comparative literature methodology\n        1949 : Erich Auerbach - Mimesis\n    section Mid-20th Century\n        1958 : René Wellek & Austin Warren - Theory of Literature\n        1960s : Translation studies emerge\n    section Structuralist Period\n        1970s : Intertextuality - Julia Kristeva\n        1978 : Edward Said - Orientalism\n    section Postcolonial Era\n        1983 : Gayatri Spivak - Can the Subaltern Speak?\n        1993 : Homi Bhabha - The Location of Culture\n    section Contemporary\n        1999 : Franco Moretti - World literature & distant reading\n        2003 : David Damrosch - What is World Literature?\n        2010s : Digital comparative literature & computational methods",
+            "complexity": "high",
+            "tags": [
+                "comparative_literature",
+                "literature"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

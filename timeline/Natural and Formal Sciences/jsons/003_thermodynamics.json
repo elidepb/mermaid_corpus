@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "003",
+            "topic": "Thermodynamics",
+            "category": "Physics",
+            "description": "A timeline showing the historical development of Thermodynamics from early heat studies to modern statistical mechanics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Thermodynamics\n    1824 : Carnot's heat engine theory\n          : Carnot cycle\n          : Maximum efficiency\n    1840s : Joule's mechanical equivalent of heat\n          : Energy conservation experiments\n          : First law foundation\n    1850 : Clausius' second law statement\n          : Heat cannot flow spontaneously\n          : Entropy concept introduced\n    1851 : Kelvin's absolute temperature scale\n          : Second law formulation\n          : Heat engine efficiency\n    1865 : Clausius coins term \"entropy\"\n          : Entropy increase principle\n          : Thermodynamic arrow of time\n    1870s : Maxwell-Boltzmann distribution\n          : Kinetic theory of gases\n          : Statistical mechanics foundation\n    1906 : Nernst's heat theorem\n          : Third law of thermodynamics\n          : Absolute zero behavior\n    1930s : Onsager's reciprocal relations\n          : Irreversible thermodynamics\n          : Non-equilibrium processes\n    1950s : Prigogine's dissipative structures\n          : Far-from-equilibrium systems\n          : Self-organization theory\n    1960s : Landau's phase transition theory\n          : Critical phenomena\n          : Renormalization group\n    2000s : Quantum thermodynamics\n          : Quantum heat engines\n          : Information thermodynamics",
+            "complexity": "high",
+            "tags": [
+                "thermodynamics",
+                "physics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

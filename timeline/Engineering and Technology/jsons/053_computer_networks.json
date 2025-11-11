@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "053",
+            "topic": "Computer Networks",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Computer Networks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Computer Networks\n    section The 1960s: The Dawn of Networking\n        1965 : First wide-area network (WAN) experiment\n        1969 : ARPANET, the precursor to the Internet, goes online\n    section The 1970s: The Rise of Protocols\n        1972 : Email is invented\n        1973 : Ethernet is developed by Robert Metcalfe\n        1974 : TCP (Transmission Control Protocol) is developed\n    section The 1980s: The Internet Takes Shape\n        1983 : TCP/IP becomes the standard protocol for ARPANET\n        1983 : Domain Name System (DNS) is introduced\n        1989 : The World Wide Web is invented by Tim Berners-Lee\n    section The 1990s: The Web Goes Public\n        1991 : The first web page goes online\n        1993 : Mosaic, the first graphical web browser, is released\n        1995 : Commercialization of the Internet\n    section The 2000s: The Wireless Era\n        1999 : Wi-Fi (802.11b) standard is released\n        2000s : Rise of broadband and Voice over IP (VoIP)\n    section The 2010s: The Mobile and Cloud Era\n        2010s : Proliferation of mobile devices and 4G networks\n        2010s : Rise of cloud computing and software-defined networking (SDN)",
+            "complexity": "high",
+            "tags": [
+                "computer_networks",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "021",
+            "topic": "Ecology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Ecology from early natural history to modern ecosystem science.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Ecology\n    1866 : Haeckel coins term \"ecology\"\n          : Organism-environment relationships\n          : Ecological science\n    1920s : Lotka-Volterra equations\n          : Predator-prey dynamics\n          : Population ecology\n    1935 : Tansley's ecosystem concept\n          : Ecosystem ecology\n          : Energy flow\n    1942 : Lindeman's trophic dynamics\n          : Energy pyramids\n          : Food webs\n    1950s : Odum's ecosystem ecology\n          : Energy flow studies\n          : Ecological systems\n    1960s : Island biogeography\n          : MacArthur and Wilson\n          : Species diversity\n    1970s : Gaia hypothesis\n          : Lovelock's theory\n          : Earth as system\n    1980s : Biodiversity concept\n          : Species richness\n          : Conservation biology\n    1990s : Climate change ecology\n          : Global warming impacts\n          : Ecosystem responses\n    2000s : Metacommunity theory\n          : Spatial ecology\n          : Landscape ecology\n    2010s : Ecosystem services\n          : Human-nature relationships\n          : Sustainability\n    2020s : Restoration ecology\n          : Ecosystem recovery\n          : Climate adaptation",
+            "complexity": "high",
+            "tags": [
+                "ecology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

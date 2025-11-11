@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "187",
+            "topic": "Music Theory",
+            "category": "Music",
+            "description": "A timeline showing the evolution of Music Theory.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Music Theory\n    section Ancient Theory\n        500 BC : Pythagorean tuning & mathematical ratios\n        1000 : Guido of Arezzo - Solfège & staff notation\n    section Renaissance\n        1558 : Gioseffo Zarlino - Istitutioni harmoniche\n        1588 : Vincenzo Galilei - Just intonation\n    section Baroque Period\n        1722 : Johann Sebastian Bach - Well-Tempered Clavier\n        1725 : Jean-Philippe Rameau - Treatise on Harmony\n    section Classical Period\n        1776 : Johann Georg Albrechtsberger - Composition theory\n        1789 : Heinrich Koch - Musical form analysis\n    section 19th Century\n        1840 : Adolf Bernhard Marx - Sonata form theory\n        1893 : Hugo Riemann - Functional harmony\n    section 20th Century\n        1911 : Arnold Schoenberg - Harmonielehre\n        1923 : Schoenberg - Twelve-tone technique\n        1957 : Allen Forte - Set theory\n    section Contemporary\n        1980s : Neo-Riemannian theory\n        2000s : Computational music theory",
+            "complexity": "high",
+            "tags": [
+                "music_theory",
+                "music"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "231",
+            "topic": "Dentistry",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Dentistry.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Dentistry\n    section Ancient Dentistry\n        7000 BC : Ancient civilizations - Dental practices\n        2600 BC : Ancient Egypt - First recorded dentist\n    section Foundation\n        1728 : Pierre Fauchard - Father of modern dentistry\n        1844 : Horace Wells - Nitrous oxide anesthesia\n    section Modern Era\n        1895 : X-rays for dental diagnosis\n        1950s : Fluoride & preventive dentistry\n    section Advances\n        1970s : Dental implants develop\n        1980s : Cosmetic dentistry & aesthetics\n    section Modern Practice\n        2000s : Digital dentistry & CAD/CAM\n        2010s : Laser dentistry & minimally invasive\n    section Current Focus\n        2020s : Teledentistry & digital workflows\n        2020s : Regenerative dentistry & stem cells",
+            "complexity": "high",
+            "tags": [
+                "dentistry",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

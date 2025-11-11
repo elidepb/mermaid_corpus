@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Business Strategy",
+            "category": "Business",
+            "description": "A timeline showing the evolution of Business Strategy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The Evolution of Business Strategy\n    section Early Concepts\n        5th Century BC : Sun Tzu's \"The Art of War\"\n        1911 : Frederick Taylor - Scientific Management\n    section Mid-20th Century\n        1957 : SWOT Analysis (Albert Humphrey)\n        1962 : Alfred Chandler - \"Strategy and Structure\"\n        1965 : Igor Ansoff - Ansoff Matrix\n    section Late 20th Century\n        1979 : Michael Porter - Five Forces Analysis\n        1985 : Michael Porter - Competitive Advantage\n        1992 : Kaplan & Norton - Balanced Scorecard\n    section 21st Century\n        2004 : Blue Ocean Strategy (Kim & Mauborgne)\n        2010s : Agile & Lean Methodologies / Digital Strategy",
+            "complexity": "high",
+            "tags": [
+                "business_strategy",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

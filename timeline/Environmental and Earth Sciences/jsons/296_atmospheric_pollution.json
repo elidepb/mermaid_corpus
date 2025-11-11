@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "296",
+            "topic": "Atmospheric Pollution",
+            "category": "Environmental Sciences",
+            "description": "A timeline showing the evolution of Atmospheric Pollution awareness and regulation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Atmospheric Pollution Control\n    section Early Industrial Era\n        1306 : London - First air pollution complaint (coal smoke)\n        1952 : Great Smog of London - 12,000 deaths\n    section Scientific Discovery\n        1950s : Discovery of acid rain effects\n        1960s : Understanding of smog formation (photochemical)\n    section Regulatory Response\n        1970 : US Clean Air Act - Major air quality legislation\n        1979 : Geneva Convention - Long-range transboundary air pollution\n    section Modern Controls\n        1980s : Catalytic converters required in vehicles\n        1990s : Acid Rain Program (US) - Cap and trade\n    section Global Awareness\n        2000s : Particulate matter health impacts recognized\n        2010s : Air quality monitoring networks expand\n    section Current Era\n        2020s : PM2.5 & ultrafine particles focus\n        2020s : Global air quality standards & WHO guidelines",
+            "complexity": "high",
+            "tags": [
+                "atmospheric_pollution",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

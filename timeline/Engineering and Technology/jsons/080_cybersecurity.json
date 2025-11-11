@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Cybersecurity",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Cybersecurity.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Cybersecurity\n    section 1970s: The Dawn of Networking\n        1971 : Creeper program, the first computer worm\n        1970s : ARPANET security research\n    section 1980s: The Rise of Viruses and Hackers\n        1983 : Fred Cohen defines the term \"computer virus\"\n        1986 : The Morris Worm\n        1988 : First CERT (Computer Emergency Response Team) is formed\n    section 1990s: The Internet Goes Public\n        1990s : Rise of email viruses (e.g., Melissa)\n        1993 : First DEF CON hacking conference\n        1995 : First commercial firewalls\n    section 2000s: The Age of Cybercrime\n        2000s : Rise of botnets and DDoS attacks\n        2001 : Code Red worm\n        2007 : Estonia cyberattacks\n    section 2010s: State-Sponsored Attacks and Data Breaches\n        2010 : Stuxnet worm\n        2013 : Edward Snowden leaks NSA documents\n        2017 : WannaCry and NotPetya ransomware attacks\n    section 2020s: AI and Cloud Security\n        2020s : Rise of AI-powered attacks and defenses\n        2020s : Increased focus on cloud security",
+            "complexity": "high",
+            "tags": [
+                "cybersecurity",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

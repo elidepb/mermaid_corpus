@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Constitutional Law",
+            "category": "Law",
+            "description": "A timeline showing the development of Constitutional Law from ancient constitutions to modern constitutionalism.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Constitutional Law\n    509 BCE : Roman Republic constitution\n          : Separation of powers\n          : Republican government\n    1215 : Magna Carta\n          : Limits on royal power\n          : Rule of law\n    1787 : US Constitution\n          : Written constitution\n          : Federal system\n    1789 : French Declaration of Rights\n          : Human rights\n          : Popular sovereignty\n    1803 : Marbury v. Madison\n          : Judicial review\n          : Constitutional interpretation\n    1950 : Indian Constitution\n          : World's longest\n          : Fundamental rights\n    1958 : French Fifth Republic\n          : Modern constitution\n          : Semi-presidential system\n    1982 : Canadian Charter of Rights\n          : Constitutional rights\n          : Multiculturalism\n    1990s : Constitutional transitions\n          : Post-communist constitutions\n          : Democratic transitions\n    2000s : Constitutional courts\n          : Judicial activism\n          : Rights protection\n    2010s : Constitutional reform\n          : Modernization\n          : Digital rights\n    2020s : Constitutional challenges\n          : Emergency powers\n          : Democratic backsliding",
+            "complexity": "high",
+            "tags": [
+                "constitutional_law",
+                "law"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

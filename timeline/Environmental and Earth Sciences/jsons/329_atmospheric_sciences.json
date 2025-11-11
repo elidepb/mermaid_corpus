@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "329",
+            "topic": "Atmospheric Sciences",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the evolution of Atmospheric Sciences.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Atmospheric Sciences\n    section Early Meteorology\n        350 BC : Aristotle - Meteorologica\n        1643 : Evangelista Torricelli - Barometer invention\n    section Scientific Foundation\n        1735 : George Hadley - Atmospheric circulation\n        1850s : Weather observation networks\n    section Modern Meteorology\n        1920s : Norwegian school of meteorology\n        1950s : Numerical weather prediction begins\n    section Technology Revolution\n        1960 : First weather satellite (TIROS-1)\n        1970s : Computer models & global forecasting\n    section Climate Science\n        1980s : Understanding of ozone depletion\n        1990s : Climate models & IPCC assessments\n    section Current Era\n        2020s : High-resolution weather models\n        2020s : Climate change & extreme weather",
+            "complexity": "high",
+            "tags": [
+                "atmospheric_sciences",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "011",
+            "topic": "Inorganic Chemistry",
+            "category": "Chemistry",
+            "description": "A timeline showing the historical development of Inorganic Chemistry from early element studies to modern coordination chemistry.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Inorganic Chemistry\n    1869 : Mendeleev's periodic table\n          : Element organization\n          : Periodic law\n    1893 : Werner's coordination theory\n          : Coordination compounds\n          : Nobel Prize 1913\n    1920s : Crystal field theory\n          : Ligand field effects\n          : Transition metal complexes\n    1930s : Pauling's valence bond theory\n          : Chemical bonding\n          : Hybridization concept\n    1950s : Organometallic chemistry\n          : Metal-carbon bonds\n          : Catalysis applications\n    1960s : Ziegler-Natta catalysis\n          : Polymerization catalysts\n          : Nobel Prize 1963\n    1970s : Bioinorganic chemistry\n          : Metalloenzymes\n          : Biological metal ions\n    1980s : Supramolecular chemistry\n          : Lehn's work\n          : Nobel Prize 1987\n    1990s : Green chemistry principles\n          : Sustainable synthesis\n          : Environmental chemistry\n    2000s : Metal-organic frameworks\n          : Porous materials\n          : Gas storage\n    2010s : Single-atom catalysts\n          : Maximum efficiency\n          : Nanoscale chemistry",
+            "complexity": "high",
+            "tags": [
+                "inorganic_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

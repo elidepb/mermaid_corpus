@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "039",
+            "topic": "Meteorology",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the historical development of Meteorology from early weather observations to modern forecasting.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Meteorology\n    1643 : Torricelli's barometer\n          : Atmospheric pressure\n          : Weather measurement\n    1850s : Telegraph networks\n          : Weather data collection\n          : Synoptic meteorology\n    1920s : Norwegian school\n          : Front theory\n          : Weather systems\n    1950s : Numerical weather prediction\n          : Computer models\n          : Forecasting revolution\n    1960s : Weather satellites\n          : Global observations\n          : Remote sensing\n    1970s : Doppler radar\n          : Precipitation detection\n          : Severe weather\n    1980s : Global climate models\n          : Climate simulation\n          : Long-term forecasts\n    1990s : Ensemble forecasting\n          : Uncertainty quantification\n          : Probabilistic forecasts\n    2000s : High-resolution models\n          : Regional forecasting\n          : Mesoscale meteorology\n    2010s : Climate change research\n          : Global warming\n          : Extreme weather\n    2020s : Machine learning forecasting\n          : AI weather models\n          : Improved accuracy\n    2020s : Earth system models\n          : Coupled systems\n          : Climate projections",
+            "complexity": "high",
+            "tags": [
+                "meteorology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

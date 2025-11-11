@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Special Education",
+            "category": "Education",
+            "description": "A timeline showing the development of Special Education from exclusion to inclusive practices.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Special Education\n    1800s : Early institutions\n          : Separate schools\n          : Segregated education\n    1919 : First special education law\n          : Illinois mandate\n          : State-level provision\n    1954 : Brown v. Board of Education\n          : Desegregation\n          : Equal access\n    1975 : Education for All Handicapped Children Act\n          : PL 94-142\n          : Federal mandate\n    1990 : Americans with Disabilities Act\n          : ADA passed\n          : Accessibility rights\n    1997 : IDEA reauthorized\n          : Individualized Education Plans\n          : Least restrictive environment\n    2004 : IDEA reauthorized again\n          : Response to Intervention\n          : Early intervention\n    2000s : Inclusive education movement\n          : Mainstreaming\n          : Full inclusion\n    2010s : Universal Design for Learning\n          : UDL framework\n          : Accessible design\n    2020s : Technology integration\n          : Assistive technology\n          : Digital accessibility",
+            "complexity": "high",
+            "tags": [
+                "special_education",
+                "education"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

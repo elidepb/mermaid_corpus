@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Physical Anthropology",
+            "category": "Anthropology",
+            "description": "A timeline showing the development of Physical Anthropology from early human studies to modern biological anthropology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Physical Anthropology\n    1859 : Darwin's \"Origin of Species\"\n          : Evolution theory\n          : Human origins question\n    1860s : Early human fossil discoveries\n          : Neanderthal finds\n          : Human antiquity\n    1920s : Hrdlicka's physical anthropology\n          : American school\n          : Biological variation\n    1940s : Modern synthesis\n          : Genetics and evolution\n          : Population genetics\n    1950s : Leakey's Olduvai Gorge\n          : Hominin fossils\n          : Human evolution timeline\n    1960s : Molecular anthropology\n          : DNA studies\n          : Phylogenetic relationships\n    1970s : Sociobiology\n          : Wilson's synthesis\n          : Behavior and evolution\n    1980s : Primatology expansion\n          : Jane Goodall\n          : Chimpanzee studies\n    1990s : Ancient DNA analysis\n          : Neanderthal genome\n          : Molecular archaeology\n    2000s : Human genomics\n          : Human genome project\n          : Population genetics\n    2010s : Paleogenomics\n          : Ancient human DNA\n          : Migration patterns\n    2020s : Integrative anthropology\n          : Biocultural approaches\n          : Evolutionary medicine",
+            "complexity": "high",
+            "tags": [
+                "physical_anthropology",
+                "anthropology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

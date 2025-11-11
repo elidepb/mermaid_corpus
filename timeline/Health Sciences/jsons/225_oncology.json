@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "225",
+            "topic": "Oncology",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Oncology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Oncology\n    section Early Understanding\n        400 BC : Hippocrates - Coins term \"carcinoma\"\n        1775 : Percival Pott - First occupational cancer link\n    section Foundation\n        1846 : First anesthesia enables cancer surgery\n        1895 : X-rays for cancer diagnosis & treatment\n    section Modern Oncology\n        1940s : First chemotherapy agents\n        1950s : Radiation therapy advances\n    section Treatment Era\n        1970s : Combination chemotherapy\n        1990s : Targeted therapy & monoclonal antibodies\n    section Precision Medicine\n        2000s : Genomics & personalized cancer treatment\n        2010s : Immunotherapy & checkpoint inhibitors\n    section Current Focus\n        2020s : CAR-T cell therapy\n        2020s : Liquid biopsies & early detection",
+            "complexity": "high",
+            "tags": [
+                "oncology",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "095",
+            "topic": "Cartography",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Cartography.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Cartography\n    section Ancient World\n        c. 600 BC : Anaximander creates one of the first maps of the world\n        c. 150 AD : Ptolemy's \"Geographia\"\n    section The Age of Discovery\n        1507 : Martin Waldseemüller's map, the first to use the name \"America\"\n        1569 : Gerardus Mercator's Mercator projection\n    section The 18th & 19th Centuries: The Rise of National Surveys\n        1747 : The Cassini map of France, the first national survey\n        1801 : The first sheet of the Ordnance Survey map of Great Britain\n    section The 20th Century: The Age of Flight and Satellites\n        1920s : The use of aerial photography in mapping\n        1972 : The launch of Landsat 1, the first Earth-observing satellite\n        1978 : The launch of the Global Positioning System (GPS)\n    section The 21st Century: The Digital Age\n        1990s : The rise of Geographic Information Systems (GIS)\n        2005 : Google Maps is launched\n        2010s : The rise of open data and crowdsourced mapping (e.g., OpenStreetMap)",
+            "complexity": "high",
+            "tags": [
+                "cartography",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

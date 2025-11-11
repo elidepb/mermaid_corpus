@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "312",
+            "topic": "Marine Ecology",
+            "category": "Biology",
+            "description": "A timeline showing the evolution of Marine Ecology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Marine Ecology\n    section Early Oceanography\n        1872-1876 : HMS Challenger Expedition - Marine life discovery\n        1900s : Marine biological stations established\n    section Foundation\n        1930s : Marine ecology as scientific discipline\n        1950s : Trophic level concept (Raymond Lindeman)\n    section Modern Marine Ecology\n        1960s : Coral reef ecology studies expand\n        1970s : Deep-sea ecology & hydrothermal vent discovery\n    section Conservation Era\n        1980s : Marine Protected Areas (MPAs) concept\n        1990s : Overfishing & marine ecosystem degradation\n    section Climate Change Focus\n        2000s : Ocean acidification research\n        2010s : Marine heatwaves & ecosystem impacts\n    section Current Era\n        2020s : Marine restoration & conservation\n        2020s : Ocean biodiversity & climate resilience",
+            "complexity": "high",
+            "tags": [
+                "marine_ecology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

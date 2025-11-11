@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "306",
+            "topic": "Geophysics",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the evolution of Geophysics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Geophysics\n    section Early Measurements\n        132 AD : Zhang Heng - First seismoscope (China)\n        1600 : William Gilbert - Earth's magnetic field\n    section Foundation\n        1889 : First seismic wave recordings\n        1906 : Seismic waves reveal Earth's core\n    section Modern Geophysics\n        1930s : Gravitational measurements & geophysical surveys\n        1950s : Seismic reflection & refraction methods\n    section Plate Tectonics\n        1960s : Seafloor spreading & magnetic anomalies\n        1970s : Plate tectonics confirmed by geophysics\n    section Technology Advances\n        1980s : Seismic tomography & 3D imaging\n        2000s : Satellite gravity & magnetic field mapping\n    section Current Era\n        2020s : Earthquake early warning systems\n        2020s : Geophysical monitoring & hazard assessment",
+            "complexity": "high",
+            "tags": [
+                "geophysics",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogy",
+            "category": "Education",
+            "description": "A timeline showing the development of Pedagogy from ancient teaching methods to modern educational approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Pedagogy\n    400 BCE : Socratic method\n          : Question-based learning\n          : Critical thinking\n    1632 : Comenius' \"Great Didactic\"\n          : Systematic pedagogy\n          : Universal education\n    1762 : Rousseau's \"Emile\"\n          : Child-centered education\n          : Natural development\n    1806 : Herbart's pedagogy\n          : Scientific teaching\n          : Five-step method\n    1916 : Dewey's \"Democracy and Education\"\n          : Progressive education\n          : Experiential learning\n    1920s : Montessori method\n          : Child-directed learning\n          : Prepared environment\n    1950s : Bloom's taxonomy\n          : Learning objectives\n          : Cognitive levels\n    1960s : Constructivism\n          : Piaget and Vygotsky\n          : Active learning\n    1990s : Multiple intelligences\n          : Gardner's theory\n          : Diverse learning styles\n    2000s : Digital pedagogy\n          : E-learning\n          : Online education\n    2010s : Flipped classroom\n          : Blended learning\n          : Technology integration\n    2020s : Personalized learning\n          : Adaptive technology\n          : Individualized instruction",
+            "complexity": "high",
+            "tags": [
+                "pedagogy",
+                "education"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

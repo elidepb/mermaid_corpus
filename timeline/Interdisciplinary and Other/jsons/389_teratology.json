@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "389",
+            "topic": "Teratology",
+            "category": "Biology/Medicine",
+            "description": "A timeline showing the historical development of Teratology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\\n    title Development of Teratology\\n    1900s : Early foundations\\n          : Initial concepts\\n          : Field establishment\\n    1950s : Theoretical development\\n          : Core principles\\n          : Methodological advances\\n    1970s : Practical applications\\n          : Real-world implementation\\n          : Industry adoption\\n    1990s : Digital transformation\\n          : Technology integration\\n          : Modern approaches\\n    2000s : Interdisciplinary expansion\\n          : Cross-field collaboration\\n          : New perspectives\\n    2010s : Innovation period\\n          : Advanced techniques\\n          : Contemporary methods\\n    2020s : Current developments\\n          : Latest advances\\n          : Future directions",
+            "complexity": "high",
+            "tags": [
+                "teratology",
+                "biology",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

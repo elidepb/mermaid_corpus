@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "036",
+            "topic": "Graph Theory",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Graph Theory from Euler's bridges to modern network science.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Graph Theory\n    1736 : Euler's bridges problem\n          : Königsberg bridges\n          : Graph theory birth\n    1852 : Four color problem\n          : Map coloring\n          : Solved 1976\n    1857 : Cayley's tree counting\n          : Tree enumeration\n          : Combinatorics\n    1930s : Ramsey theory\n          : Graph coloring\n          : Combinatorial problems\n    1950s : Network flow theory\n          : Ford-Fulkerson algorithm\n          : Optimization\n    1960s : Graph algorithms\n          : Dijkstra's algorithm\n          : Shortest paths\n    1976 : Four color theorem proved\n          : Computer-assisted proof\n          : Appel and Haken\n    1990s : Random graph theory\n          : Erdős-Rényi model\n          : Network models\n    2000s : Small-world networks\n          : Watts-Strogatz model\n          : Social networks\n    2010s : Scale-free networks\n          : Barabási-Albert model\n          : Complex networks\n    2020s : Network science\n          : Graph neural networks\n          : Machine learning",
+            "complexity": "high",
+            "tags": [
+                "graph_theory",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

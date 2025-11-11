@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "International Business",
+            "category": "Business",
+            "description": "A timeline showing the evolution of International Business.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The Evolution of International Business\n    section Ancient & Pre-Modern Era\n        Ancient Times : Silk Road & Spice Routes\n        15th-17th Centuries : Age of Discovery & Mercantilism\n        1600s : Establishment of multinational corporations (e.g., East India Companies)\n    section Post-WWII Era\n        1944 : Bretton Woods Agreement - IMF & World Bank\n        1947 : General Agreement on Tariffs and Trade (GATT)\n        1950s-70s : Rise of Multinational Corporations (MNCs)\n    section Late 20th Century\n        1980s : Growth of Foreign Direct Investment (FDI)\n        1995 : World Trade Organization (WTO) replaces GATT\n    section 21st Century\n        2000s : Rise of Emerging Markets (BRICS)\n        2010s : Digital Globalization & E-commerce",
+            "complexity": "high",
+            "tags": [
+                "international_business",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

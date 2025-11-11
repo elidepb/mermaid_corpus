@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "228",
+            "topic": "Gynecology",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Gynecology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Gynecology\n    section Ancient Practices\n        400 BC : Hippocrates - Gynecological observations\n        980 : Avicenna - Women's health in Canon\n    section Foundation\n        1800s : Gynecology as medical specialty\n        1847 : J. Marion Sims - Modern gynecology\n    section Modern Era\n        1928 : Pap smear developed (George Papanicolaou)\n        1950s : Hormonal contraception developed\n    section Advances\n        1970s : Laparoscopic gynecology\n        1980s : Fertility treatments & IVF\n    section Modern Practice\n        2000s : Minimally invasive procedures\n        2010s : Robotic gynecologic surgery\n    section Current Focus\n        2020s : Women's health & preventive care\n        2020s : Telehealth & digital gynecology",
+            "complexity": "high",
+            "tags": [
+                "gynecology",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

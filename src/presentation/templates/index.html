@@ -7,25 +7,27 @@
     <link rel="stylesheet" href="/static/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 </head>
-<body>
+<body data-default-tab="{{ selected_tab }}">
     <div class="container">
         <header>
             <h1>Mermaid Diagram Viewer</h1>
         </header>
         <main>
             <div class="tabs">
-                <button class="tab-button active" data-tab="flowchart">Diagrama de Flujo</button>
-                <button class="tab-button" data-tab="mindmap">Mapa Mental</button>
+                {% for tab_key in tabs_order %}
+                    {% set label = tab_labels.get(tab_key, tab_key) %}
+                    <button class="tab-button {% if selected_tab == tab_key %}active{% endif %}" data-tab="{{ tab_key }}">{{ label }}</button>
+                {% endfor %}
             </div>
-            
-            <div id="flowchart-content" class="tab-content active">
-                {% if diagrams.flowchart %}
-                    {% for area, area_diagrams in diagrams.flowchart.items() %}
-                        <section class="area-section" data-diagram-type="flowchart">
+            {% for tab_key, areas in diagrams.items() %}
+                <div id="{{ tab_key }}-content" class="tab-content {% if selected_tab == tab_key %}active{% endif %}">
+                    {% if areas %}
+                        {% for area, area_diagrams in areas.items() %}
+                        <section class="area-section" data-diagram-type="{{ tab_key }}">
                             <h2>{{ area }}</h2>
                             <div class="grid">
                                 {% for diagram in area_diagrams %}
-                                    <a href="/diagrams/flowchart/{{ diagram.id }}" class="card">
+                                    <a href="/diagrams/{{ tab_key }}/{{ diagram.id }}?tab={{ tab_key }}" class="card">
                                         <div class="card-image-container">
                                             <div class="skeleton-loader"></div>
                                             <div class="mermaid-container" data-diagram-id="{{ diagram.id }}" data-mermaid-code="{{ diagram.mermaid_code|e }}"></div>
@@ -46,286 +48,16 @@
                         </section>
                     {% endfor %}
                 {% else %}
-                    <p style="text-align: center; padding: 2rem; color: var(--font-color);">No hay diagramas de flujo disponibles.</p>
+                    {% set empty_message = empty_messages.get(tab_key, "No hay diagramas disponibles.") %}
+                    <p style="text-align: center; padding: 2rem; color: var(--font-color);">{{ empty_message }}</p>
                 {% endif %}
-            </div>
-            
-            <div id="mindmap-content" class="tab-content">
-                {% if diagrams.mindmap %}
-                    {% for area, area_diagrams in diagrams.mindmap.items() %}
-                        <section class="area-section" data-diagram-type="mindmap">
-                            <h2>{{ area }}</h2>
-                            <div class="grid">
-                                {% for diagram in area_diagrams %}
-                                    <a href="/diagrams/mindmap/{{ diagram.id }}" class="card">
-                                        <div class="card-image-container">
-                                            <div class="skeleton-loader"></div>
-                                            <div class="mermaid-container" data-diagram-id="{{ diagram.id }}" data-mermaid-code="{{ diagram.mermaid_code|e }}"></div>
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">
-                                                <span class="diagram-number">{{ diagram.number }}</span> - {{ diagram.topic }}
-                                            </h5>
-                                            {% if diagram.has_errors %}
-                                                <p class="card-text error">
-                                                    <small>Syntax Error</small>
-                                                </p>
-                                            {% endif %}
-                                        </div>
-                                    </a>
-                                {% endfor %}
-                            </div>
-                        </section>
-                    {% endfor %}
-                {% else %}
-                    <p style="text-align: center; padding: 2rem; color: var(--font-color);">No hay mapas mentales disponibles.</p>
-                {% endif %}
-            </div>
+                </div>
+            {% endfor %}
         </main>
         <footer>
             <p>A simple web app to view Mermaid diagrams.</p>
         </footer>
     </div>
-    <script>
-        (function() {
-            mermaid.initialize({ 
-                startOnLoad: false,
-                theme: 'default',
-                securityLevel: 'loose',
-                flowchart: {
-                    useMaxWidth: true,
-                    htmlLabels: true,
-                    curve: 'basis'
-                },
-                mindmap: {
-                    useMaxWidth: true
-                }
-            });
-
-            const renderQueue = [];
-            let isRendering = false;
-            const RENDER_BATCH_SIZE = 2;
-            const RENDER_DELAY = 150;
-
-            function renderDiagram(container, mermaidCode, diagramId) {
-                return new Promise((resolve, reject) => {
-                    try {
-                        const mermaidId = 'mermaid-' + diagramId + '-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
-                        
-                        if (typeof mermaid.render === 'function') {
-                            mermaid.render(mermaidId, mermaidCode).then((result) => {
-                                if (result && result.svg) {
-                                    const tempDiv = document.createElement('div');
-                                    tempDiv.innerHTML = result.svg;
-                                    const hasError = tempDiv.querySelector('.error-text, .error-icon');
-                                    if (hasError) {
-                                        reject(new Error('Syntax error in diagram'));
-                                    } else {
-                                        container.innerHTML = result.svg;
-                                        container.className = 'mermaid-rendered';
-                                        container.style.display = 'block';
-                                        resolve();
-                                    }
-                                } else {
-                                    reject(new Error('Invalid render result'));
-                                }
-                            }).catch((error) => {
-                                reject(error);
-                            });
-                        } else {
-                            container.style.display = 'block';
-                            container.id = mermaidId;
-                            container.className = 'mermaid';
-                            container.textContent = mermaidCode;
-                            
-                            if (typeof mermaid.run === 'function') {
-                                mermaid.run({
-                                    nodes: [container],
-                                    suppressErrors: true
-                                }).then(() => {
-                                    const svg = container.querySelector('svg');
-                                    const errorDiv = container.querySelector('.error-text');
-                                    if (svg && !errorDiv) {
-                                        resolve();
-                                    } else {
-                                        reject(new Error('No SVG generated or has errors'));
-                                    }
-                                }).catch((error) => {
-                                    reject(error);
-                                });
-                            } else if (typeof mermaid.init === 'function') {
-                                mermaid.init(undefined, [container]);
-                                setTimeout(() => {
-                                    const svg = container.querySelector('svg');
-                                    const errorDiv = container.querySelector('.error-text');
-                                    if (svg && !errorDiv) {
-                                        resolve();
-                                    } else {
-                                        reject(new Error('No SVG generated or has errors'));
-                                    }
-                                }, 500);
-                            } else {
-                                mermaid.contentLoaded();
-                                setTimeout(() => {
-                                    const svg = container.querySelector('svg');
-                                    const errorDiv = container.querySelector('.error-text');
-                                    if (svg && !errorDiv) {
-                                        resolve();
-                                    } else {
-                                        reject(new Error('No SVG generated or has errors'));
-                                    }
-                                }, 500);
-                            }
-                        }
-                    } catch (error) {
-                        reject(error);
-                    }
-                });
-            }
-
-            function processRenderQueue() {
-                if (isRendering || renderQueue.length === 0) return;
-                
-                isRendering = true;
-                const batch = renderQueue.splice(0, RENDER_BATCH_SIZE);
-                let completed = 0;
-                
-                batch.forEach((item, index) => {
-                    setTimeout(() => {
-                        const container = item.container;
-                        const mermaidCode = item.code;
-                        const diagramId = item.id;
-                        
-                        renderDiagram(container, mermaidCode, diagramId).then(() => {
-                            const skeleton = container.parentElement.querySelector('.skeleton-loader');
-                            if (skeleton) {
-                                skeleton.style.display = 'none';
-                            }
-                            
-                            const errorElements = container.querySelectorAll('.error-text, .error-icon');
-                            errorElements.forEach(el => el.remove());
-                            
-                            completed++;
-                            if (completed === batch.length) {
-                                scheduleNextBatch();
-                            }
-                        }).catch((error) => {
-                            const skeleton = container.parentElement.querySelector('.skeleton-loader');
-                            if (skeleton) {
-                                skeleton.style.display = 'none';
-                            }
-                            
-                            const errorElements = container.querySelectorAll('.error-text, .error-icon, svg');
-                            errorElements.forEach(el => el.remove());
-                            
-                            container.innerHTML = '';
-                            container.className = 'mermaid-error-container';
-                            container.style.display = 'block';
-                            
-                            completed++;
-                            if (completed === batch.length) {
-                                scheduleNextBatch();
-                            }
-                        });
-                    }, index * 100);
-                });
-            }
-
-            function scheduleNextBatch() {
-                if (renderQueue.length > 0) {
-                    setTimeout(() => {
-                        isRendering = false;
-                        processRenderQueue();
-                    }, RENDER_DELAY);
-                } else {
-                    isRendering = false;
-                }
-            }
-
-            const observerOptions = {
-                root: null,
-                rootMargin: '300px',
-                threshold: 0.01
-            };
-
-            function decodeHtmlEntities(text) {
-                const textarea = document.createElement('textarea');
-                textarea.innerHTML = text;
-                return textarea.value;
-            }
-
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        const container = entry.target;
-                        const diagramId = container.getAttribute('data-diagram-id');
-                        let mermaidCode = container.getAttribute('data-mermaid-code');
-                        
-                        if (mermaidCode && !container.classList.contains('queued')) {
-                            mermaidCode = decodeHtmlEntities(mermaidCode);
-                            container.classList.add('queued');
-                            renderQueue.push({
-                                container: container,
-                                code: mermaidCode,
-                                id: diagramId
-                            });
-                            processRenderQueue();
-                        }
-                        
-                        observer.unobserve(container);
-                    }
-                });
-            }, observerOptions);
-
-            function initObserver() {
-                const containers = document.querySelectorAll('.tab-content.active .mermaid-container');
-                if (containers.length === 0) {
-                    return;
-                }
-                containers.forEach(container => {
-                    observer.observe(container);
-                });
-            }
-
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', function() {
-                    setTimeout(initObserver, 100);
-                    initTabs();
-                });
-            } else {
-                setTimeout(initObserver, 100);
-                initTabs();
-            }
-
-            function initTabs() {
-                const tabButtons = document.querySelectorAll('.tab-button');
-                const tabContents = document.querySelectorAll('.tab-content');
-
-                tabButtons.forEach(button => {
-                    button.addEventListener('click', function() {
-                        const targetTab = this.getAttribute('data-tab');
-                        
-                        tabButtons.forEach(btn => btn.classList.remove('active'));
-                        tabContents.forEach(content => content.classList.remove('active'));
-                        
-                        this.classList.add('active');
-                        const targetContent = document.getElementById(targetTab + '-content');
-                        if (targetContent) {
-                            targetContent.classList.add('active');
-                        }
-                        
-                        setTimeout(() => {
-                            const containers = document.querySelectorAll('.tab-content.active .mermaid-container');
-                            containers.forEach(container => {
-                                if (!container.classList.contains('queued') && !container.classList.contains('mermaid-rendered')) {
-                                    observer.observe(container);
-                                }
-                            });
-                        }, 100);
-                    });
-                });
-            }
-        })();
-    </script>
+    <script src="/static/index.js" defer></script>
 </body>
 </html>

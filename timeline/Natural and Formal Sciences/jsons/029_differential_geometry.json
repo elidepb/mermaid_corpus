@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "029",
+            "topic": "Differential Geometry",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Differential Geometry from curves to modern manifolds.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Differential Geometry\n    1696 : Bernoulli's brachistochrone\n          : Curves and optimization\n          : Variational calculus\n    1827 : Gauss' Theorema Egregium\n          : Intrinsic curvature\n          : Surface geometry\n    1854 : Riemann's habilitation\n          : Riemannian geometry\n          : Manifold concept\n    1915 : Einstein's general relativity\n          : Spacetime curvature\n          : Geometric physics\n    1920s : Cartan's connection theory\n          : Fiber bundles\n          : Modern differential geometry\n    1950s : Chern's characteristic classes\n          : Topological invariants\n          : Global geometry\n    1960s : Atiyah-Singer index theorem\n          : Topology and analysis\n          : Nobel-level mathematics\n    1970s : Gauge theory geometry\n          : Yang-Mills theory\n          : Physics applications\n    1980s : String theory geometry\n          : Calabi-Yau manifolds\n          : Extra dimensions\n    2000s : Computational geometry\n          : Computer graphics\n          : Geometric algorithms\n    2010s : Geometric deep learning\n          : Manifold learning\n          : Data geometry",
+            "complexity": "high",
+            "tags": [
+                "differential_geometry",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Behavioral Finance",
+            "category": "Business",
+            "description": "A timeline showing the history of Behavioral Finance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Behavioral Finance\n    section Early Concepts\n        1841 : Charles Mackay - \"Extraordinary Popular Delusions and the Madness of Crowds\"\n        1936 : John Maynard Keynes - \"Animal Spirits\"\n    section The Foundations\n        1972 : Paul Slovic - \"Psychology of Risk Taking\"\n        1979 : Kahneman & Tversky - Prospect Theory\n    section The Rise of Behavioral Finance\n        1985 : De Bondt & Thaler - The Overreaction Hypothesis\n        1991 : Robert Shiller - \"Market Volatility\"\n        1994 : Shefrin & Statman - Myopic Loss Aversion\n    section 21st Century\n        2002 : Daniel Kahneman wins Nobel Prize in Economics\n        2013 : Robert Shiller wins Nobel Prize in Economics\n        2017 : Richard Thaler wins Nobel Prize in Economics",
+            "complexity": "high",
+            "tags": [
+                "behavioral_finance",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

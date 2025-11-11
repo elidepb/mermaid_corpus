@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "027",
+            "topic": "Linear Algebra",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Linear Algebra from early systems of equations to modern applications.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Linear Algebra\n    200 BCE : Chinese elimination method\n          : Systems of equations\n          : Ancient algebra\n    1750 : Cramer's rule\n          : Determinants\n          : Matrix solutions\n    1840s : Cayley's matrix theory\n          : Matrix algebra\n          : Matrix operations\n    1850s : Hamilton's quaternions\n          : Vector spaces\n          : Non-commutative algebra\n    1880s : Grassmann's vector spaces\n          : Linear independence\n          : Basis concept\n    1900s : Hilbert spaces\n          : Infinite dimensions\n          : Functional analysis\n    1930s : Abstract vector spaces\n          : Axiomatic approach\n          : Modern linear algebra\n    1950s : Numerical linear algebra\n          : Computer algorithms\n          : Matrix computations\n    1970s : Singular value decomposition\n          : Data analysis\n          : Principal components\n    1990s : Linear algebra in computing\n          : Graphics processing\n          : Machine learning\n    2000s : Quantum linear algebra\n          : Quantum computing\n          : Quantum algorithms\n    2020s : Big data linear algebra\n          : Distributed computing\n          : Large-scale systems",
+            "complexity": "high",
+            "tags": [
+                "linear_algebra",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometrics",
+            "category": "Economics",
+            "description": "A timeline showing the historical development of Econometrics from early statistical methods to modern quantitative analysis.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Econometrics\n    1801 : Gauss develops least squares method\n          : Foundation of regression analysis\n    1926 : Fisher's statistical inference\n          : Hypothesis testing framework\n    1933 : Frisch coins term \"econometrics\"\n          : Econometric Society founded\n    1944 : Haavelmo's probability approach\n          : Stochastic models in economics\n    1950s : Klein's econometric models\n          : Large-scale macro models\n    1960s : Time series analysis advances\n          : ARIMA models developed\n    1970s : Panel data methods\n          : Fixed and random effects models\n    1980s : Cointegration and error correction\n          : Engle and Granger's contributions\n    1990s : Vector autoregression (VAR)\n          : Structural VAR models\n    2000s : Microeconometrics expansion\n          : Causal inference methods\n    2010s : Machine learning integration\n          : Big data econometrics",
+            "complexity": "high",
+            "tags": [
+                "econometrics",
+                "economics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

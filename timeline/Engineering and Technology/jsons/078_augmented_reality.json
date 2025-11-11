@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Augmented Reality (AR).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Augmented Reality (AR)\n    section Early Concepts\n        1968 : Ivan Sutherland's \"Sword of Damocles\"\n        1990 : Tom Caudell coins the term \"augmented reality\"\n    section The 1990s: The First AR Systems\n        1992 : Virtual Fixtures, the first functional AR system\n        1998 : The first use of AR in a live NFL broadcast\n    section The 2000s: The Rise of Mobile AR\n        2000 : ARToolKit is released\n        2009 : AR browsers for smartphones (e.g., Wikitude)\n    section The 2010s: The AR Boom\n        2013 : Google Glass is released\n        2016 : Pokémon Go brings AR to the mainstream\n        2017 : Apple's ARKit and Google's ARCore are released\n    section The 2020s: The Future of AR\n        2020s : The rise of AR headsets and smart glasses\n        2020s : The convergence of AR, AI, and IoT",
+            "complexity": "high",
+            "tags": [
+                "augmented_reality",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

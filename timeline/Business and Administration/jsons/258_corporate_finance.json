@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Corporate Finance",
+            "category": "Business",
+            "description": "A timeline showing the evolution of Corporate Finance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Corporate Finance\n    section Early Forms\n        1600s : Joint-Stock Companies (e.g., Dutch East India Co.)\n        1700s : Rise of Stock Exchanges (London, New York)\n    section Industrial Revolution\n        1800s : Railroad Bonds & Large-Scale Financing\n        1890s : Mergers & Acquisitions Wave\n    section 20th Century\n        1930s : Regulation & Transparency (Post-Depression)\n        1950s : Modern Portfolio Theory (Markowitz)\n        1970s : Black-Scholes Model & Options Pricing\n        1980s : Leveraged Buyouts (LBOs) & Junk Bonds\n    section 21st Century\n        2000s : Sarbanes-Oxley Act (SOX)\n        2010s : FinTech & Algorithmic Trading",
+            "complexity": "high",
+            "tags": [
+                "corporate_finance",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}
