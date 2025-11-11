@@ -1,25 +1,25 @@
+
 ```mermaid
 timeline
-    title Development of Protozoology
-    1900s : Early foundations
-          : Initial concepts
-          : Field establishment
-    1950s : Theoretical development
-          : Core principles
-          : Methodological advances
-    1970s : Practical applications
-          : Real-world implementation
-          : Industry adoption
-    1990s : Digital transformation
-          : Technology integration
-          : Modern approaches
-    2000s : Interdisciplinary expansion
-          : Cross-field collaboration
-          : New perspectives
-    2010s : Innovation period
-          : Advanced techniques
-          : Contemporary methods
-    2020s : Current developments
-          : Latest advances
-          : Future directions
+    title Key Milestones in Protozoology
+    1674 : Microscopic discovery
+          : Leeuwenhoek observes protozoa in pond water
+    1838 : Protoplasm theory
+          : Félix Dujardin recognizes single-celled nature of Rhizopoda
+    1892 : Protozoological Society
+          : German group formalizes study of microscopic animals
+    1902 : Malaria parasite lifecycle
+          : Ronald Ross elucidates mosquito transmission
+    1917 : Trypanosome chemotherapy
+          : Ehrlich's arsenical drugs target sleeping sickness
+    1931 : Electron microscopy
+          : Protozoan ultrastructure revealed with new imaging
+    1959 : Classification revisions
+          : Honigberg establishes standardized protozoan taxonomy
+    1987 : Immunodiagnostics
+          : Monoclonal antibodies improve detection of protozoan pathogens
+    2005 : Comparative genomics
+          : Plasmodium and Trypanosoma genomes illuminate evolution
+    2021 : CRISPR-based surveillance
+          : Gene editing tools enable rapid protozoan functional studies
 ```

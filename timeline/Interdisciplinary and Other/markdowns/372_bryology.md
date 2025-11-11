@@ -1,25 +1,25 @@
+
 ```mermaid
 timeline
-    title Development of Bryology
-    1900s : Early foundations
-          : Initial concepts
-          : Field establishment
-    1950s : Theoretical development
-          : Core principles
-          : Methodological advances
-    1970s : Practical applications
-          : Real-world implementation
-          : Industry adoption
-    1990s : Digital transformation
-          : Technology integration
-          : Modern approaches
-    2000s : Interdisciplinary expansion
-          : Cross-field collaboration
-          : New perspectives
-    2010s : Innovation period
-          : Advanced techniques
-          : Contemporary methods
-    2020s : Current developments
-          : Latest advances
-          : Future directions
+    title Key Milestones in Bryology
+    1801 : Foundational taxonomy
+          : Hedwig's "Species Muscorum" standardizes moss classification
+    1864 : Microscopical advances
+          : Hooker and Wilson publish anatomical studies of bryophytes
+    1898 : Bryological Society
+          : UK association promotes field surveys and collections
+    1938 : Life cycle elucidation
+          : K. S. Shanker's work clarifies alternation of generations
+    1955 : Electron microscopy
+          : Ultrastructure of moss spores reveals developmental cues
+    1974 : Environmental monitoring
+          : Bryophytes adopted as bioindicators for air pollution
+    1992 : Molecular phylogenetics
+          : rbcL sequencing reshapes moss evolutionary relationships
+    2004 : Bryophyte conservation plans
+          : European directives protect threatened moss habitats
+    2013 : Desiccation tolerance studies
+          : Physcomitrella patens model informs resilience research
+    2022 : Climate change assessments
+          : Bryology informs carbon sequestration and peatland restoration
 ```

@@ -1,25 +1,25 @@
+
 ```mermaid
 timeline
-    title Development of Sociology of Science
-    1900s : Early foundations
-          : Initial concepts
-          : Field establishment
-    1950s : Theoretical development
-          : Core principles
-          : Methodological advances
-    1970s : Practical applications
-          : Real-world implementation
-          : Industry adoption
-    1990s : Digital transformation
-          : Technology integration
-          : Modern approaches
-    2000s : Interdisciplinary expansion
-          : Cross-field collaboration
-          : New perspectives
-    2010s : Innovation period
-          : Advanced techniques
-          : Contemporary methods
-    2020s : Current developments
-          : Latest advances
-          : Future directions
+    title Evolution of the Sociology of Science
+    1938 : Institutional beginnings
+          : Merton's dissertation analyzes science as a social institution
+    1942 : Normative structure
+          : Merton articulates CUDOS ethos for scientific communities
+    1962 : Paradigm shifts
+          : Kuhn's "Structure" reframes scientific revolutions sociologically
+    1973 : Laboratory studies emerge
+          : Latour and Woolgar begin ethnographies of scientific practice
+    1976 : Strong programme
+          : Bloor and Barnes at Edinburgh highlight symmetry in knowledge claims
+    1987 : Actor-network theory
+          : Latour and Callon formalize heterogeneous networks of science
+    1995 : Mode 2 knowledge
+          : Gibbons describes context-driven, transdisciplinary research production
+    2004 : Comparative metrics
+          : Leydesdorff advances scientometrics for global science systems
+    2013 : Altmetrics adoption
+          : Online traces diversify impact assessment methodologies
+    2021 : Open science sociology
+          : Studies scrutinize equity, reproducibility, and platform governance
 ```
