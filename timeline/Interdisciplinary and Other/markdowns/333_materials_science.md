@@ -1,25 +1,24 @@
 ```mermaid
 timeline
-    title Development of Materials Science
-    1900s : Early foundations
-          : Initial concepts
-          : Field establishment
-    1950s : Theoretical development
-          : Core principles
-          : Methodological advances
-    1970s : Practical applications
-          : Real-world implementation
-          : Industry adoption
-    1990s : Digital transformation
-          : Technology integration
-          : Modern approaches
-    2000s : Interdisciplinary expansion
-          : Cross-field collaboration
-          : New perspectives
-    2010s : Innovation period
-          : Advanced techniques
-          : Contemporary methods
-    2020s : Current developments
-          : Latest advances
-          : Future directions
+    title Key Advances in Materials Science
+    1913 : Atomic structure revealed
+          : Bragg diffraction shows crystal lattices
+    1947 : Semiconductor era begins
+          : Bardeen and Brattain invent the point-contact transistor
+    1955 : Materials science departments
+          : Northwestern and MIT formalize the interdisciplinary field
+    1960 : Electron microscopy breakthroughs
+          : TEM resolves dislocations and defects at nanoscale
+    1971 : Amorphous metals discovered
+          : Liquid metal alloys exhibit amorphous structures
+    1987 : High-Tc superconductivity
+          : Bednorz and Müller report cuprate superconductors above 90K
+    1991 : Carbon nanomaterials
+          : Iijima observes multi-walled carbon nanotubes
+    2004 : Two-dimensional materials
+          : Novoselov and Geim isolate graphene via exfoliation
+    2013 : Materials Genome Initiative
+          : Data-driven design accelerates discovery pipelines
+    2021 : AI-guided synthesis
+          : Autonomous labs optimize quantum materials and battery chemistries
 ```

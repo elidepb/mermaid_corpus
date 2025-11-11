@@ -1,25 +1,25 @@
+
 ```mermaid
 timeline
-    title Development of Educational Psychology
-    1900s : Early foundations
-          : Initial concepts
-          : Field establishment
-    1950s : Theoretical development
-          : Core principles
-          : Methodological advances
-    1970s : Practical applications
-          : Real-world implementation
-          : Industry adoption
-    1990s : Digital transformation
-          : Technology integration
-          : Modern approaches
-    2000s : Interdisciplinary expansion
-          : Cross-field collaboration
-          : New perspectives
-    2010s : Innovation period
-          : Advanced techniques
-          : Contemporary methods
-    2020s : Current developments
-          : Latest advances
-          : Future directions
+    title Evolution of Educational Psychology
+    1894 : Measurement roots
+          : Thorndike begins experiments on learning in educational settings
+    1904 : APA Division founded
+          : Educational psychology gains formal recognition within psychology
+    1916 : Intelligence testing
+          : Terman revises the Stanford-Binet scale for school placement
+    1936 : Developmental insights
+          : Piaget's stages influence curricula worldwide
+    1956 : Bloom's taxonomy
+          : Hierarchical learning objectives shape instructional design
+    1968 : Mastery learning
+          : Bloom and Carroll emphasize individualized pacing
+    1978 : Zone of proximal development
+          : Vygotsky's work translated, highlighting social learning
+    1997 : Formative assessment focus
+          : Black and Wiliam publish "Inside the Black Box"
+    2005 : Universal Design for Learning
+          : CAST principles expand inclusive pedagogy
+    2021 : Learning analytics
+          : Real-time adaptive platforms personalize instruction at scale
 ```
