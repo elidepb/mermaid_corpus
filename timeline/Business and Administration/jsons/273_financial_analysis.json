@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "273",
+            "topic": "Financial Analysis",
+            "category": "Business",
+            "description": "A timeline showing the history of Financial Analysis.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Financial Analysis\n    section Early Days\n        Late 1800s : Railroad companies begin publishing financial statements\n        Early 1900s : Banks use analysis for credit assessment\n    section Post-Depression Era\n        1934 : Creation of the SEC standardizes financial reporting\n        1939 : Benjamin Graham & David Dodd's \"Security Analysis\" is published\n    section Mid-20th Century\n        1950s : Development of Ratio Analysis\n        1960s : Capital Asset Pricing Model (CAPM)\n        1970s : Efficient Market Hypothesis\n    section Late 20th & 21st Century\n        1980s : Discounted Cash Flow (DCF) models gain popularity\n        1990s : Rise of computers & spreadsheet software (e.g., Excel)\n        2000s : International Financial Reporting Standards (IFRS)\n        2010s : Big Data & AI-driven financial analysis",
+            "complexity": "high",
+            "tags": [
+                "financial_analysis",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

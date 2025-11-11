@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "163",
+            "topic": "Political Philosophy",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Political Philosophy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Political Philosophy\n    section Ancient Period\n        380 BC : Plato - The Republic\n        350 BC : Aristotle - Politics\n    section Early Modern\n        1651 : Thomas Hobbes - Leviathan\n        1689 : John Locke - Two Treatises of Government\n        1762 : Jean-Jacques Rousseau - The Social Contract\n    section 19th Century\n        1848 : Karl Marx - The Communist Manifesto\n        1859 : John Stuart Mill - On Liberty\n    section 20th Century\n        1971 : John Rawls - A Theory of Justice\n        1974 : Robert Nozick - Anarchy, State, and Utopia\n        1980s : Communitarianism - Sandel, MacIntyre\n    section Contemporary\n        1990s : Multiculturalism debates\n        2000s : Global justice & cosmopolitanism\n        2010s : Populism & democratic theory",
+            "complexity": "high",
+            "tags": [
+                "political_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

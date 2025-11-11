@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "204",
+            "topic": "German Literature",
+            "category": "Literature",
+            "description": "A timeline showing the evolution of German Literature.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of German Literature\n    section Medieval Period\n        1200 : Nibelungenlied - Epic poem\n        1300s : Minnesang - Courtly love poetry\n    section Enlightenment\n        1779 : Gotthold Lessing - Nathan the Wise\n    section Sturm und Drang\n        1774 : Johann Wolfgang von Goethe - The Sorrows of Young Werther\n    section Weimar Classicism\n        1808 : Goethe - Faust Part I\n        1805 : Friedrich Schiller - William Tell\n    section Romanticism\n        1802 : Novalis - Hymns to the Night\n        1816 : E.T.A. Hoffmann - The Nutcracker\n    section Modern Period\n        1915 : Franz Kafka - The Metamorphosis\n        1924 : Thomas Mann - The Magic Mountain\n    section Contemporary\n        1959 : Günter Grass - The Tin Drum\n        2000s : Contemporary German literature",
+            "complexity": "high",
+            "tags": [
+                "german_literature",
+                "literature"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

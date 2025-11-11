@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Modern History",
+            "category": "History",
+            "description": "A timeline showing major events and developments in Modern History from the Renaissance to World War I.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Modern History Timeline\n    1453 : Fall of Constantinople\n          : End of Middle Ages\n          : Renaissance begins\n    1517 : Protestant Reformation\n          : Luther's 95 Theses\n          : Religious revolution\n    1492 : Columbus reaches Americas\n          : European expansion\n          : Age of Exploration\n    1642 : English Civil War begins\n          : Parliamentary victory\n          : Execution of Charles I\n    1687 : Newton's \"Principia\"\n          : Scientific Revolution\n          : Laws of motion\n    1776 : American Revolution\n          : Declaration of Independence\n          : Birth of USA\n    1789 : French Revolution begins\n          : Storming of Bastille\n          : End of monarchy\n    1760s : Industrial Revolution begins\n          : Steam power\n          : Factory system\n    1848 : Revolutions of 1848\n          : Liberal uprisings\n          : Nationalist movements\n    1871 : German unification\n          : Bismarck's achievement\n          : European balance shifts\n    1914 : World War I begins\n          : End of long 19th century\n          : Modern era ends",
+            "complexity": "high",
+            "tags": [
+                "modern_history",
+                "history"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

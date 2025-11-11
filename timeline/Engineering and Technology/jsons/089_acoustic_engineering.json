@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "089",
+            "topic": "Acoustic Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Acoustic Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Acoustic Engineering\n    section Ancient Times\n        c. 500 BC : Pythagoras studies the properties of vibrating strings\n        c. 20 BC : Vitruvius writes about the acoustics of Roman theaters\n    section 19th Century: The Science of Sound\n        1877 : Lord Rayleigh's \"The Theory of Sound\"\n        1877 : Thomas Edison invents the phonograph\n    section Early 20th Century: The Birth of Architectural Acoustics\n        1900 : Wallace Clement Sabine's work on reverberation\n        1920s : The first sound-absorbing materials are developed\n    section Mid-20th Century: The Rise of Electroacoustics\n        1930s : The first dynamic microphones and loudspeakers\n        1940s : The development of magnetic tape recording\n        1950s : The first electronic synthesizers\n    section Late 20th & 21st Century: The Digital Era\n        1982 : The Compact Disc (CD) is introduced\n        1990s : The development of digital audio workstations (DAWs)\n        2000s : The rise of active noise control and psychoacoustics",
+            "complexity": "high",
+            "tags": [
+                "acoustic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

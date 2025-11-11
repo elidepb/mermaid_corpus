@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "290",
+            "topic": "Revenue Management",
+            "category": "Business",
+            "description": "A timeline showing the evolution of Revenue Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Revenue Management\n    section Airline Industry Origins\n        1978 : Airline Deregulation Act - US market liberalization\n        1985 : American Airlines SABRE - First computerized RM system\n    section Yield Management\n        1980s : Robert Crandall - Father of yield management\n        1990s : Mathematical Models - Forecasting & optimization algorithms\n    section Hotel Industry Adoption\n        1990s : Hotels adopt RM - Marriott, Hilton implement systems\n        2000s : CRS Integration - Central reservation systems\n    section Retail & E-commerce\n        2000s : Dynamic Pricing - Amazon & online retailers\n        2010s : Real-time Pricing - Algorithm-driven price adjustments\n    section Technology Revolution\n        2010s : Cloud-based RMS - Scalable revenue management platforms\n        2015 : Machine Learning - Predictive analytics for pricing\n    section Modern Applications\n        2020s : AI-Powered RM - Advanced demand forecasting\n        2020s : Multi-channel RM - Unified revenue optimization",
+            "complexity": "high",
+            "tags": [
+                "revenue_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

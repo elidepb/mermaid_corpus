@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "436",
+            "topic": "Mathematical Economics",
+            "category": "Economics/Mathematics",
+            "description": "A timeline showing the historical development of Mathematical Economics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\\n    title Development of Mathematical Economics\\n    1838 : Cournot's market theory\\n          : Mathematical models\\n          : Economic equilibrium\\n    1870s : Marginal revolution\\n          : Mathematical utility\\n          : Jevons and Walras\\n    1944 : Von Neumann-Morgenstern\\n          : Game theory\\n          : Strategic behavior\\n    1950s : Arrow-Debreu model\\n          : General equilibrium\\n          : Nobel Prize 1972\\n    1960s : Optimal control theory\\n          : Dynamic optimization\\n          : Economic growth\\n    1970s : Rational expectations\\n          : Lucas critique\\n          : Nobel Prize 1995\\n    1980s : Real business cycle theory\\n          : DSGE models\\n          : Macroeconomic modeling\\n    1990s : Mechanism design\\n          : Auction theory\\n          : Nobel Prize 2007\\n    2000s : Behavioral economics\\n          : Bounded rationality\\n          : Nobel Prize 2017\\n    2010s : Computational economics\\n          : Agent-based models\\n          : Complex systems\\n    2020s : Machine learning economics\\n          : Big data analysis\\n          : Predictive models",
+            "complexity": "high",
+            "tags": [
+                "mathematical_economics",
+                "economics",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

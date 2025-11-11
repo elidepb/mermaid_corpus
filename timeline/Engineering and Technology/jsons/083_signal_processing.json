@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "083",
+            "topic": "Signal Processing",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Signal Processing.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Signal Processing\n    section Early Foundations\n        1822 : Joseph Fourier - Fourier analysis\n        1948 : Claude Shannon's \"A Mathematical Theory of Communication\"\n        1949 : Nyquist-Shannon sampling theorem\n    section The Analog Era\n        1950s : Development of analog filters and amplifiers\n        1960s : The first analog speech synthesizers\n    section The Digital Revolution\n        1965 : The Fast Fourier Transform (FFT) algorithm\n        1970s : Development of the first digital signal processors (DSPs)\n        1982 : The Compact Disc (CD) is introduced\n    section The Modern Era\n        1990s : The JPEG and MPEG standards for image and video compression\n        2000s : The rise of wireless communication and software-defined radio\n        2010s : Deep learning for signal processing",
+            "complexity": "high",
+            "tags": [
+                "signal_processing",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "072",
+            "topic": "Transportation Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Transportation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Transportation\n    section Ancient Times\n        c. 3500 BC : Invention of the wheel\n        Roman Empire : Extensive road network (e.g., Appian Way)\n    section 18th & 19th Centuries: The Industrial Revolution\n        1787 : First steamboat (John Fitch)\n        1804 : First steam locomotive (Richard Trevithick)\n        1886 : First gasoline-powered automobile (Karl Benz)\n    section Early 20th Century: The Age of Flight and Mass Production\n        1903 : Wright Brothers' first flight\n        1908 : Ford Model T, the first mass-produced car\n        1956 : U.S. Interstate Highway System is authorized\n    section Mid-to-Late 20th Century: The Jet Age and Space Race\n        1952 : First commercial jet airliner\n        1957 : Sputnik 1 launches the Space Race\n        1964 : Shinkansen (bullet train) in Japan\n    section 21st Century: The Digital and Sustainable Eras\n        2000s : Development of GPS and intelligent transportation systems (ITS)\n        2010s : Rise of electric vehicles (EVs) and autonomous driving\n        2020s : Focus on sustainable transportation and micromobility",
+            "complexity": "high",
+            "tags": [
+                "transportation_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

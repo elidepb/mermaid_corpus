@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Digital Marketing",
+            "category": "Business",
+            "description": "A timeline showing the history of Digital Marketing.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Digital Marketing\n    section The Precursors\n        1970s : Early email systems\n        1980s : Database marketing\n    section The 1990s: The Dawn of Digital\n        1990 : First search engine (Archie)\n        1994 : First clickable banner ad\n        1998 : Google is founded\n    section The 2000s: Growth and Social Media\n        2000 : Dot-com bubble bursts\n        2003 : MySpace & LinkedIn launch\n        2004 : Facebook launches\n        2006 : Twitter launches\n        2007 : The first iPhone is released\n    section The 2010s: Mobile, Video, and AI\n        2010 : Instagram launches\n        2012 : Mobile internet usage overtakes desktop\n        2016 : Rise of influencer marketing\n        2018 : GDPR and other privacy regulations",
+            "complexity": "high",
+            "tags": [
+                "digital_marketing",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

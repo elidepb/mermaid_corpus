@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "006",
+            "topic": "Particle Physics",
+            "category": "Physics",
+            "description": "A timeline showing the historical development of Particle Physics from early atomic studies to the Standard Model and beyond.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Particle Physics\n    1897 : Thomson discovers electron\n          : First subatomic particle\n          : Atomic structure\n    1911 : Rutherford's atomic nucleus\n          : Nuclear model\n          : Proton discovery\n    1932 : Chadwick discovers neutron\n          : Nuclear structure\n          : Strong force concept\n    1930s : Discovery of muon and pion\n          : Cosmic ray particles\n          : Particle zoo begins\n    1950s : Particle accelerators\n          : Synchrotrons\n          : High-energy physics\n    1964 : Quark model proposed\n          : Gell-Mann and Zweig\n          : Fundamental constituents\n    1967 : Electroweak unification\n          : Weinberg-Salam theory\n          : W and Z bosons predicted\n    1974 : J/psi particle discovery\n          : Charm quark\n          : November Revolution\n    1983 : W and Z bosons discovered\n          : Weak force carriers\n          : Electroweak theory confirmed\n    1995 : Top quark discovered\n          : Fermilab Tevatron\n          : Standard Model completion\n    2012 : Higgs boson discovery\n          : LHC at CERN\n          : Mass mechanism confirmed\n    2020s : Beyond Standard Model searches\n          : Dark matter particles\n          : Supersymmetry tests",
+            "complexity": "high",
+            "tags": [
+                "particle_physics",
+                "physics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

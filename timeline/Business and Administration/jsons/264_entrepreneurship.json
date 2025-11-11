@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Entrepreneurship",
+            "category": "Business",
+            "description": "A timeline showing a brief history of Entrepreneurship.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A Brief History of Entrepreneurship\n    section Early Commerce\n        17,000 BC : First known instances of trade (New Guinea)\n        Middle Ages : Guilds & Merchant Entrepreneurs\n    section 18th & 19th Centuries\n        1776 : Adam Smith's \"The Wealth of Nations\" - concept of the entrepreneur\n        Industrial Revolution : Rise of industrialists & innovators (e.g., Carnegie, Ford)\n    section 20th Century\n        1930s : Schumpeter's theory of \"creative destruction\"\n        1947 : First MBA entrepreneurship course (Harvard)\n        1970s : Rise of Silicon Valley & Venture Capital\n    section Late 20th & Early 21st Century\n        1990s : The Dot-Com Boom\n        2000s : Social Entrepreneurship & The Lean Startup movement\n        2010s : Gig Economy & Rise of the Solopreneur",
+            "complexity": "high",
+            "tags": [
+                "entrepreneurship",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

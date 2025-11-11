@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "209",
+            "topic": "Curatorship",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Curatorship.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Curatorship\n    section Early Collections\n        1500s : Renaissance cabinets of curiosities\n        1700s : First public museums\n    section 19th Century\n        1759 : British Museum opens\n        1793 : Louvre Museum opens\n    section Modern Period\n        1929 : Museum of Modern Art (MoMA) - Modern curatorship\n        1960s : Independent curatorship\n    section Contemporary\n        1980s : Curatorial studies programs\n        1990s : Biennales & large-scale exhibitions\n        2000s : Digital curatorship & online exhibitions\n        2010s : Socially engaged curatorial practice",
+            "complexity": "high",
+            "tags": [
+                "curatorship",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

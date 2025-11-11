@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "031",
+            "topic": "Complex Analysis",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Complex Analysis from complex numbers to modern applications.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Complex Analysis\n    1545 : Cardano's complex numbers\n          : Imaginary numbers\n          : Cubic equations\n    1777 : Euler's formula\n          : e^(iπ) + 1 = 0\n          : Complex exponentials\n    1814 : Cauchy's integral theorem\n          : Complex integration\n          : Analytic functions\n    1825 : Cauchy's integral formula\n          : Function values\n          : Residue theory foundation\n    1851 : Riemann's mapping theorem\n          : Conformal mappings\n          : Complex geometry\n    1870s : Weierstrass' function theory\n          : Analytic continuation\n          : Complex analysis rigor\n    1900s : Picard's theorems\n          : Entire functions\n          : Value distribution\n    1930s : Nevanlinna theory\n          : Meromorphic functions\n          : Value distribution\n    1950s : Function spaces\n          : Hardy spaces\n          : Complex analysis applications\n    1970s : Complex dynamics\n          : Julia sets\n          : Fractal geometry\n    2000s : Computational complex analysis\n          : Numerical methods\n          : Computer algebra\n    2020s : Complex analysis in physics\n          : Quantum mechanics\n          : String theory",
+            "complexity": "high",
+            "tags": [
+                "complex_analysis",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

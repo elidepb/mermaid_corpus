@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "193",
+            "topic": "Industrial Design",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Industrial Design.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Industrial Design\n    section Industrial Revolution\n        1760 : Industrial Revolution begins\n        1851 : Great Exhibition - Design showcase\n    section Early 20th Century\n        1907 : Deutscher Werkbund - German design association\n        1919 : Bauhaus - Functional design philosophy\n    section Mid-20th Century\n        1950s : Dieter Rams - Braun design principles\n        1956 : Charles & Ray Eames - Modern furniture\n    section Late 20th Century\n        1970s : Design thinking methodology\n        1980s : User-centered design approach\n    section Contemporary\n        2000s : Sustainable design & eco-design\n        2010s : Digital product design\n        2020s : Design for circular economy",
+            "complexity": "high",
+            "tags": [
+                "industrial_design",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

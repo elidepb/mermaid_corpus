@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Computer Vision",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Computer Vision.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Computer Vision\n    section The 1960s: The Birth of a Field\n        1966 : The Summer Vision Project at MIT\n        1960s : Early work on edge detection and object recognition\n    section The 1970s: The Rise of 3D Vision\n        1970s : David Marr's work on the computational theory of vision\n        1970s : Development of algorithms for stereo vision and motion analysis\n    section The 1980s: The Influence of AI\n        1980s : The rise of expert systems and knowledge-based vision\n        1982 : The first Conference on Computer Vision and Pattern Recognition (CVPR)\n    section The 1990s: The Rise of Statistical Methods\n        1990s : The use of statistical methods and machine learning\n        1999 : The Viola-Jones algorithm for real-time face detection\n    section The 2000s: The Rise of Big Data\n        2000s : The development of large-scale image datasets (e.g., ImageNet)\n    section The 2010s: The Deep Learning Revolution\n        2012 : AlexNet wins the ImageNet competition\n        2010s : The rise of convolutional neural networks (CNNs) for image recognition\n        2010s : The development of generative adversarial networks (GANs)",
+            "complexity": "high",
+            "tags": [
+                "computer_vision",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

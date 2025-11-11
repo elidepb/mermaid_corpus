@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "012",
+            "topic": "Physical Chemistry",
+            "category": "Chemistry",
+            "description": "A timeline showing the historical development of Physical Chemistry from thermodynamics to quantum chemistry.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Physical Chemistry\n    1887 : Arrhenius equation\n          : Reaction rate theory\n          : Activation energy\n    1889 : Nernst equation\n          : Electrochemistry\n          : Cell potential\n    1901 : van't Hoff's osmotic pressure\n          : Solutions theory\n          : Nobel Prize\n    1923 : Brønsted-Lowry acid-base theory\n          : Proton transfer\n          : Acid-base concepts\n    1927 : Heitler-London quantum chemistry\n          : Chemical bond quantum theory\n          : Molecular orbital foundation\n    1930s : Eyring's transition state theory\n          : Reaction mechanisms\n          : Activated complex\n    1950s : Marcus theory of electron transfer\n          : Redox reactions\n          : Nobel Prize 1992\n    1960s : Computational chemistry\n          : Quantum calculations\n          : Molecular modeling\n    1970s : Laser spectroscopy\n          : High-resolution methods\n          : Molecular dynamics\n    1980s : Femtochemistry\n          : Zewail's work\n          : Nobel Prize 1999\n    1990s : Density functional theory\n          : Kohn's work\n          : Nobel Prize 1998\n    2000s : Single-molecule chemistry\n          : Nanoscale studies\n          : Molecular machines",
+            "complexity": "high",
+            "tags": [
+                "physical_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

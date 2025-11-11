@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "A timeline showing the historical development of Macroeconomics from its origins to modern times.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Macroeconomics\n    1936 : John Maynard Keynes publishes\n          : \"The General Theory\"\n          : Foundation of modern macroeconomics\n    1937 : Hicks develops IS-LM model\n          : Integration of money and goods markets\n    1946 : Samuelson's multiplier-accelerator model\n          : Business cycle theory advances\n    1958 : Phillips Curve discovered\n          : Inflation-unemployment relationship\n    1960s : Monetarism emerges\n          : Milton Friedman challenges Keynesianism\n    1970s : Stagflation crisis\n          : Breakdown of Phillips Curve\n    1980s : New Classical Economics\n          : Rational expectations revolution\n    1990s : New Keynesian synthesis\n          : Microfoundations of macroeconomics\n    2008 : Global Financial Crisis\n          : Renewed focus on macro stability\n    2020s : Modern macro modeling\n          : DSGE models and policy analysis",
+            "complexity": "high",
+            "tags": [
+                "macroeconomics",
+                "economics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

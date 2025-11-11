@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Education Policy",
+            "category": "Education",
+            "description": "A timeline showing major developments in Education Policy from early mandates to modern reforms.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Education Policy Timeline\n    1647 : Massachusetts Education Law\n          : First compulsory education\n          : Public schools\n    1852 : First compulsory education law\n          : Massachusetts\n          : Universal schooling\n    1954 : Brown v. Board of Education\n          : School desegregation\n          : Equal access\n    1965 : Elementary and Secondary Education Act\n          : ESEA\n          : Federal funding\n    1975 : Education for All Handicapped Children Act\n          : Special education mandate\n          : Individualized plans\n    1983 : \"A Nation at Risk\" report\n          : Education reform\n          : Standards movement\n    2001 : No Child Left Behind Act\n          : Accountability\n          : Standardized testing\n    2009 : Race to the Top\n          : Competitive grants\n          : Education reform\n    2015 : Every Student Succeeds Act\n          : ESSA\n          : State flexibility\n    2020 : COVID-19 impact\n          : Remote learning\n          : Digital divide\n    2020s : Equity and access\n          : Educational justice\n          : Inclusive policies",
+            "complexity": "high",
+            "tags": [
+                "education_policy",
+                "education"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

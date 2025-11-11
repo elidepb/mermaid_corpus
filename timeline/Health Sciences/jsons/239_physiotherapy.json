@@ -1,0 +1,17 @@
+{
+    "diagrams": [
+        {
+            "id": "239",
+            "topic": "Physiotherapy",
+            "category": "Physiotherapy",
+            "description": "A timeline showing the evolution of Physiotherapy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Physiotherapy\n    section Early Practices\n        400 BC : Ancient Greece - Exercise therapy\n        1800s : Early physical therapy concepts\n    section Foundation\n        1894 : Chartered Society of Physiotherapy (UK)\n        1920s : Physiotherapy as profession\n    section Modern Era\n        1950s : Post-war rehabilitation programs\n        1960s : Evidence-based physiotherapy\n    section Advances\n        1970s : Manual therapy techniques\n        1980s : Exercise physiology & training\n    section Modern Practice\n        2000s : Specialization & advanced practice\n        2010s : Technology & telehealth\n    section Current Focus\n        2020s : Precision physiotherapy\n        2020s : Digital health & mobile apps",
+            "complexity": "high",
+            "tags": [
+                "physiotherapy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

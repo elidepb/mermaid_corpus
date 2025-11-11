@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "086",
+            "topic": "Computer Simulation",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Computer Simulation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Computer Simulation\n    section The 1940s-1950s: The Dawn of Simulation\n        1940s : Monte Carlo methods are developed during the Manhattan Project\n        1950s : Early analog computers are used for simulations\n        1955 : The first digital computer simulation (of a chemical plant)\n    section The 1960s: The Rise of Discrete-Event Simulation\n        1961 : GPSS (General Purpose Simulation System) is released by IBM\n        1967 : Simula, the first object-oriented programming language, is developed\n    section The 1970s: The Growth of Simulation\n        1970s : Development of finite element analysis (FEA) and computational fluid dynamics (CFD)\n    section The 1980s: The PC Revolution\n        1980s : Simulation software becomes available for personal computers\n    section The 1990s: The Rise of Agent-Based Modeling\n        1990s : Agent-based modeling and simulation emerge\n    section The 2000s: The High-Performance Computing Era\n        2000s : High-performance computing enables large-scale simulations\n    section The 2010s: The Age of Digital Twins\n        2010s : The concept of the digital twin gains popularity",
+            "complexity": "high",
+            "tags": [
+                "computer_simulation",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

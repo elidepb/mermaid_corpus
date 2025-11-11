@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Human Resource Management",
+            "category": "Business",
+            "description": "A timeline showing the history of Human Resource Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Human Resource Management\n    section Late 19th Century\n        1890s : Welfare Officers - Focus on worker well-being\n    section Early 20th Century\n        1910s : Scientific Management - Efficiency & Task Optimization\n        1920s : Human Relations Movement - Social factors at work\n    section Mid-20th Century\n        1940s : WWII - Personnel administration for war effort\n        1960s : Civil Rights Act - Equal employment opportunity\n        1970s : Rise of Collective Bargaining & Union Relations\n    section Late 20th Century\n        1980s : Strategic HRM - Aligning HR with business goals\n        1990s : Globalization & Diversity Management\n    section 21st Century\n        2000s : Talent Management & War for Talent\n        2010s : HR Tech, Data Analytics & Employee Experience",
+            "complexity": "high",
+            "tags": [
+                "human_resource_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

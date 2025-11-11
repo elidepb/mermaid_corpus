@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Climate Change",
+            "category": "Environmental Sciences",
+            "description": "A timeline showing the evolution of Climate Change awareness and action.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Climate Change Awareness\n    section Early Discoveries\n        1824 : Joseph Fourier - Greenhouse effect concept\n        1896 : Svante Arrhenius - First calculation of CO2 warming effect\n    section Mid-20th Century\n        1958 : Charles Keeling - Continuous CO2 measurements begin\n        1970s : Climate models predict warming\n    section Scientific Consensus\n        1988 : IPCC (Intergovernmental Panel on Climate Change) established\n        1992 : UN Framework Convention on Climate Change (UNFCCC)\n    section International Action\n        1997 : Kyoto Protocol - First binding emissions targets\n        2005 : Kyoto Protocol enters into force\n    section Modern Era\n        2015 : Paris Agreement - Global climate accord\n        2018 : IPCC Special Report on 1.5°C warming\n    section Current Challenges\n        2020s : Net-zero commitments by countries\n        2020s : Climate adaptation & resilience focus",
+            "complexity": "high",
+            "tags": [
+                "climate_change",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

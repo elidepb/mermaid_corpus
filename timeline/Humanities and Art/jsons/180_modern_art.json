@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "180",
+            "topic": "Modern Art",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Modern Art.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Modern Art\n    section Impressionism\n        1872 : Claude Monet - Impression, Sunrise\n        1874 : First Impressionist Exhibition\n        1881 : Pierre-Auguste Renoir - Luncheon of the Boating Party\n    section Post-Impressionism\n        1888 : Vincent van Gogh - The Starry Night\n        1886 : Paul Cézanne - Modern art foundation\n        1891 : Paul Gauguin - Tahiti paintings\n    section Early 20th Century\n        1905 : Fauvism - Matisse & Derain\n        1907 : Pablo Picasso - Les Demoiselles d'Avignon\n    section Cubism\n        1908 : Cubism begins - Picasso & Braque\n        1912 : Analytical Cubism phase\n    section Expressionism\n        1893 : Edvard Munch - The Scream\n        1905 : Die Brücke (German Expressionism)\n    section Surrealism\n        1924 : André Breton - Surrealist Manifesto\n        1931 : Salvador Dalí - The Persistence of Memory\n        1928 : René Magritte - The Treachery of Images\n    section Abstract Expressionism\n        1947 : Jackson Pollock - Drip painting technique\n        1950s : Mark Rothko - Color field paintings",
+            "complexity": "high",
+            "tags": [
+                "modern_art",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

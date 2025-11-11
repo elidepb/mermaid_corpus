@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "157",
+            "topic": "Medieval Philosophy",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Medieval Philosophy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Medieval Philosophy\n    section Early Medieval Period\n        354 : Augustine of Hippo - Faith & reason synthesis\n        480 : Boethius - Consolation of Philosophy\n        800 : Carolingian Renaissance - Revival of learning\n    section Islamic Golden Age\n        980 : Avicenna (Ibn Sina) - Islamic philosophy\n        1126 : Averroes (Ibn Rushd) - Aristotelian commentary\n    section High Scholasticism\n        1033 : Anselm of Canterbury - Ontological argument\n        1225 : Thomas Aquinas - Summa Theologica\n        1265 : Duns Scotus - Scotist philosophy\n    section Late Medieval\n        1285 : William of Ockham - Ockham's razor\n        1135 : Maimonides - Jewish philosophy\n    section Transition\n        1453 : Fall of Constantinople - End of medieval period",
+            "complexity": "high",
+            "tags": [
+                "medieval_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

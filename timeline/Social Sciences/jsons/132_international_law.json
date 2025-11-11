@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "International Law",
+            "category": "Law",
+            "description": "A timeline showing the development of International Law from early treaties to modern global governance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of International Law\n    1648 : Peace of Westphalia\n          : State sovereignty\n          : Modern international law\n    1864 : First Geneva Convention\n          : Humanitarian law\n          : War rules\n    1899 : Hague Conventions\n          : Peace conference\n          : Dispute resolution\n    1920 : League of Nations\n          : International organization\n          : Collective security\n    1945 : United Nations Charter\n          : UN established\n          : International order\n    1948 : Universal Declaration of Human Rights\n          : Human rights law\n          : Universal standards\n    1949 : Geneva Conventions\n          : Humanitarian law\n          : War crimes\n    1993 : International Criminal Tribunal\n          : Yugoslavia tribunal\n          : International justice\n    1998 : Rome Statute\n          : International Criminal Court\n          : Global justice\n    2000s : International environmental law\n          : Climate agreements\n          : Environmental protection\n    2010s : International trade law\n          : WTO\n          : Trade disputes\n    2020s : Cyber international law\n          : Digital sovereignty\n          : Cyber warfare",
+            "complexity": "high",
+            "tags": [
+                "international_law",
+                "law"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

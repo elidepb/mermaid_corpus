@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "184",
+            "topic": "Architecture",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Architecture.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Architecture\n    section Ancient Architecture\n        2560 BC : Great Pyramid of Giza\n        447 BC : Parthenon - Classical Greek architecture\n    section Roman Architecture\n        125 AD : Pantheon - Dome construction\n        80 AD : Colosseum - Roman engineering\n    section Medieval Period\n        1144 : Gothic architecture - Saint-Denis\n        1248 : Cologne Cathedral construction begins\n    section Renaissance\n        1420 : Brunelleschi - Dome of Florence Cathedral\n        1506 : St. Peter's Basilica construction\n    section Baroque & Neoclassical\n        1656 : Bernini - St. Peter's Square\n        1792 : White House construction begins\n    section Modern Architecture\n        1889 : Eiffel Tower - Iron construction\n        1931 : Empire State Building\n    section Contemporary\n        1959 : Frank Lloyd Wright - Guggenheim Museum\n        2005 : Zaha Hadid - Contemporary architecture\n        2010s : Sustainable & green architecture\n        2020s : Parametric design & 3D printing",
+            "complexity": "high",
+            "tags": [
+                "architecture",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

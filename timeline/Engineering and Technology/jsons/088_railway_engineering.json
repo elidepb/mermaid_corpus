@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "088",
+            "topic": "Railway Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Railway Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Railway Engineering\n    section Early Railways\n        c. 600 BC : The Diolkos, a paved trackway in ancient Greece\n        16th Century : Wagonways in Germany\n    section The Steam Age\n        1804 : Richard Trevithick's first steam locomotive\n        1825 : The Stockton and Darlington Railway, the first public railway to use steam locomotives\n        1830 : The Liverpool and Manchester Railway, the first inter-city railway\n    section The 19th Century: The Railway Boom\n        1863 : The first underground railway (the Metropolitan Railway in London)\n        1869 : The first transcontinental railroad in the U.S.\n    section The 20th Century: Electrification and High-Speed Rail\n        1890s : The first electric railways\n        1964 : The first high-speed rail line (the Shinkansen in Japan)\n        1994 : The Channel Tunnel opens\n    section The 21st Century: The Digital Railway\n        2000s : The development of advanced signaling and control systems\n        2010s : The use of GPS and other digital technologies for train control",
+            "complexity": "high",
+            "tags": [
+                "railway_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

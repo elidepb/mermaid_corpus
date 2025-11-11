@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "249",
+            "topic": "Parasitology",
+            "category": "Veterinary Science/Biology",
+            "description": "A timeline showing the evolution of Parasitology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Parasitology\n    section Early Observations\n        400 BC : Hippocrates - Parasite observations\n        1681 : Antonie van Leeuwenhoek - First protozoa observation\n    section Foundation\n        1800s : Understanding of parasite life cycles\n        1897 : Ronald Ross - Malaria transmission\n    section Modern Era\n        1950s : Antiparasitic drugs develop\n        1960s : Understanding of parasite biology\n    section Advances\n        1970s : Molecular parasitology begins\n        1980s : Vaccine development for parasites\n    section Modern Practice\n        2000s : Genomics & parasite research\n        2010s : Drug resistance & new treatments\n    section Current Focus\n        2020s : One Health & zoonotic parasites\n        2020s : Climate change & parasite distribution",
+            "complexity": "high",
+            "tags": [
+                "parasitology",
+                "veterinary_science",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "305",
+            "topic": "Petrology",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the evolution of Petrology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Petrology\n    section Early Rock Classification\n        1815 : William Smith - Geologic map & rock layers\n        1830s : Charles Lyell - Uniformitarianism principles\n    section Igneous Petrology\n        1850s : Classification of igneous rocks\n        1902 : Norman Bowen - Experimental petrology begins\n    section Modern Petrology\n        1915 : Bowen's reaction series - Magma crystallization\n        1930s : Phase diagrams & experimental petrology\n    section Analytical Advances\n        1960s : Electron microprobe for rock analysis\n        1970s : Geochemical modeling of rock formation\n    section Modern Techniques\n        2000s : In-situ analysis & laser ablation\n        2010s : High-pressure experimental petrology\n    section Current Focus\n        2020s : Planetary petrology & Mars rocks\n        2020s : Petrogenesis & tectonic settings",
+            "complexity": "high",
+            "tags": [
+                "petrology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

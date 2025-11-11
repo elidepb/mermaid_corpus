@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Business Administration",
+            "category": "Business",
+            "description": "A timeline showing the evolution of Business Administration.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Business Administration Evolution\n    section 19th Century\n        1880s : Scientific Management (Taylor)\n        1900s : Administrative Theory (Fayol)\n    section 20th Century\n        1920s : Human Relations Movement (Mayo)\n        1940s : Operations Research\n        1950s : Systems Theory\n        1960s : Contingency Theory\n        1980s : Total Quality Management\n    section 21st Century\n        2000s : Agile & Lean Methodologies\n        2010s : Digital Transformation & Big Data",
+            "complexity": "high",
+            "tags": [
+                "business_administration",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

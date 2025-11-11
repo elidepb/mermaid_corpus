@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociology of Work",
+            "category": "Sociology",
+            "description": "A timeline showing the evolution of work and labor from industrial revolution to digital age.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Work and Labor\n    1760s : Industrial Revolution begins\n          : Factory system emerges\n          : Division of labor\n    1880s : Rise of trade unions\n          : Collective bargaining\n          : Labor rights movement\n    1911 : Taylor's \"Scientific Management\"\n          : Time and motion studies\n          : Fordism and assembly lines\n    1930s : Great Depression\n          : Mass unemployment\n          : New Deal labor policies\n    1940s : Post-war labor agreements\n          : Welfare capitalism\n          : Stable employment contracts\n    1970s : Crisis of Fordism\n          : Deindustrialization begins\n          : Flexible specialization\n    1980s : Post-Fordism emerges\n          : Just-in-time production\n          : Outsourcing and offshoring\n    1990s : Knowledge economy\n          : Information work\n          : Service sector expansion\n    2000s : Precarious work increases\n          : Temporary and contract work\n          : Work intensification\n    2010s : Gig economy expands\n          : Platform work\n          : On-demand labor\n    2020s : Remote work revolution\n          : Digital nomadism\n          : Automation and AI impact",
+            "complexity": "high",
+            "tags": [
+                "sociology_of_work",
+                "sociology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

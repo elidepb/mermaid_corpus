@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "468",
+            "topic": "Systems Biology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Systems Biology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\\n    title Development of Systems Biology\\n    1950s : Cybernetics\\n          : Systems thinking\\n          : Feedback loops\\n    1960s : Metabolic pathways\\n          : Biochemical networks\\n          : Enzyme kinetics\\n    1990s : Systems biology term\\n          : Holistic approach\\n          : Network analysis\\n    2000s : Omics technologies\\n          : Genomics and proteomics\\n          : High-throughput data\\n    2010s : Network biology\\n          : Protein interactions\\n          : Regulatory networks\\n    2020s : Computational models\\n          : Simulation\\n          : Predictive biology\\n    2020s : Synthetic biology\\n          : Engineered systems\\n          : Biological circuits",
+            "complexity": "high",
+            "tags": [
+                "systems_biology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

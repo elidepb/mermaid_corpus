@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "270",
+            "topic": "Foreign Trade",
+            "category": "Business",
+            "description": "A timeline showing a history of Foreign Trade.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A History of Foreign Trade\n    section Ancient Trade\n        c. 3000 BC : Indus Valley-Mesopotamia Trade\n        c. 130 BC : The Silk Road is established\n    section Age of Discovery\n        15th Century : Maritime Exploration (Columbus, da Gama)\n        17th Century : Mercantilism & Colonial Trade\n    section 19th Century & Industrialization\n        1846 : Repeal of the Corn Laws (UK) - Rise of Free Trade\n        1860 : Cobden-Chevalier Treaty (UK-France)\n    section 20th Century\n        1930 : Smoot-Hawley Tariff Act (Protectionism)\n        1947 : General Agreement on Tariffs and Trade (GATT)\n        1994 : North American Free Trade Agreement (NAFTA)\n    section 21st Century\n        2001 : China joins the World Trade Organization (WTO)\n        2018 : Start of US-China Trade War",
+            "complexity": "high",
+            "tags": [
+                "foreign_trade",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

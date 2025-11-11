@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "International Economics",
+            "category": "Economics",
+            "description": "A timeline showing the historical development of International Economics from mercantilism to modern globalization.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of International Economics\n    1776 : Adam Smith on free trade\n          : Absolute advantage theory\n    1817 : Ricardo's comparative advantage\n          : Foundation of trade theory\n    1840s : Mill's reciprocal demand\n          : Terms of trade analysis\n    1933 : Ohlin's factor proportions\n          : Heckscher-Ohlin model\n    1944 : Bretton Woods Conference\n          : IMF and World Bank created\n    1947 : GATT established\n          : Multilateral trade system\n    1950s : Mundell-Fleming model\n          : Open economy macroeconomics\n    1960s : Product cycle theory\n          : Vernon's trade model\n    1980s : New trade theory\n          : Krugman's imperfect competition\n    1995 : WTO founded\n          : Trade liberalization\n    2000s : Global value chains\n          : Fragmented production\n    2010s : Trade wars emerge\n          : Protectionism concerns\n    2020s : Supply chain resilience\n          : Post-pandemic trade patterns",
+            "complexity": "high",
+            "tags": [
+                "international_economics",
+                "economics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

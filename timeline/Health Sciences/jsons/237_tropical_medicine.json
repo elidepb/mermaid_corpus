@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "237",
+            "topic": "Tropical Medicine",
+            "category": "Medicine",
+            "description": "A timeline showing the evolution of Tropical Medicine.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Tropical Medicine\n    section Early Observations\n        400 BC : Hippocrates - Climate & disease\n        1700s : Colonial medicine & tropical diseases\n    section Foundation\n        1899 : London School of Tropical Medicine\n        1900s : Understanding of vector-borne diseases\n    section Modern Era\n        1950s : Global malaria eradication program\n        1960s : Understanding of parasitic diseases\n    section Advances\n        1970s : Development of antimalarial drugs\n        1980s : Travel medicine & prevention\n    section Modern Practice\n        2000s : Global health & tropical medicine\n        2010s : Drug resistance & new treatments\n    section Current Focus\n        2020s : Climate change & tropical diseases\n        2020s : Vaccine development & prevention",
+            "complexity": "high",
+            "tags": [
+                "tropical_medicine",
+                "medicine"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

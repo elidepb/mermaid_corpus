@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Social Communication",
+            "category": "Communication",
+            "description": "A timeline showing the development of Social Communication from early models to modern digital communication.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Social Communication\n    1948 : Shannon-Weaver model\n          : Linear communication\n          : Information theory\n    1950s : Two-step flow theory\n          : Lazarsfeld and Katz\n          : Opinion leaders\n    1960 : Lasswell's communication model\n          : Who says what to whom\n          : Mass communication\n    1967 : Diffusion of innovations\n          : Rogers' theory\n          : Adoption process\n    1970s : Uses and gratifications\n          : Audience-centered approach\n          : Media effects\n    1980s : Cultural studies\n          : Hall's encoding/decoding\n          : Active audiences\n    1990s : Network society\n          : Castells' theory\n          : Digital networks\n    2000s : Social network analysis\n          : Online communities\n          : Digital sociality\n    2010s : Social media revolution\n          : Facebook, Twitter\n          : Participatory culture\n    2020s : Algorithmic communication\n          : AI and social media\n          : Platform society",
+            "complexity": "high",
+            "tags": [
+                "social_communication",
+                "communication"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

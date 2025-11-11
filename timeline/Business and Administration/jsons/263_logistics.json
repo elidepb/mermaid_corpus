@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logistics",
+            "category": "Business",
+            "description": "A timeline showing the history of Logistics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Logistics\n    section Ancient World\n        2700 BC : Egyptians build pyramids, requiring massive material transport\n        Roman Empire : Sophisticated road networks for military & trade logistics\n    section 19th Century\n        1800s : Industrial Revolution - Canals & Railways\n        1869 : First Transcontinental Railroad (USA)\n    section Early 20th Century\n        1914-1918 : WWI drives large-scale military logistics\n        1956 : Interstate Highway System (USA)\n    section Mid-Late 20th Century\n        1960s : Containerization standardizes global shipping\n        1970s : Federal Express (FedEx) founded - modern air freight\n        1980s : Barcode technology becomes widespread\n    section 21st Century\n        2000s : Rise of Third-Party Logistics (3PL)\n        2010s : GPS, RFID, and real-time tracking\n        2020s : Drone delivery, AI-optimized routing, and Last-Mile Logistics",
+            "complexity": "high",
+            "tags": [
+                "logistics",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

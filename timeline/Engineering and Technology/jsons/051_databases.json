@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "051",
+            "topic": "Databases",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Databases.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Databases\n    section The 1960s: Early Models\n        1960s : Hierarchical and Network models\n        1964 : IBM's Information Management System (IMS)\n    section The 1970s: The Relational Model\n        1970 : Edgar F. Codd's paper \"A Relational Model of Data for Large Shared Data Banks\"\n        1974 : SEQUEL (later SQL) is developed at IBM\n        1979 : Oracle introduces the first commercial relational database\n    section The 1980s: The Rise of SQL\n        1980s : SQL becomes the standard query language\n        1983 : IBM's DB2 is released\n    section The 1990s: Object-Oriented and Data Warehousing\n        1990s : Object-Oriented Databases\n        1990s : Data warehousing and OLAP (Online Analytical Processing)\n    section The 2000s: The NoSQL Movement\n        Late 2000s : NoSQL databases emerge (e.g., MongoDB, Cassandra)\n    section The 2010s: Cloud and Distributed Databases\n        2010s : Cloud databases (e.g., Amazon RDS, Google Cloud SQL)\n        2010s : NewSQL and Distributed SQL databases (e.g., CockroachDB)",
+            "complexity": "high",
+            "tags": [
+                "databases",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

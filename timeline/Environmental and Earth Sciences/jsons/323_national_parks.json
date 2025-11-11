@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "323",
+            "topic": "National Parks",
+            "category": "Environmental Sciences",
+            "description": "A timeline showing the evolution of National Parks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of National Parks\n    section First National Park\n        1872 : Yellowstone National Park - First national park (US)\n        1885 : Banff National Park - First in Canada\n    section Global Expansion\n        1890 : Yosemite & Sequoia National Parks (US)\n        1916 : US National Park Service established\n    section International Movement\n        1948 : IUCN (International Union for Conservation) founded\n        1962 : First World Congress on National Parks\n    section Modern Era\n        1972 : World Heritage Convention - Protected areas\n        1990s : Marine protected areas expand\n    section Conservation Focus\n        2000s : Protected area networks & connectivity\n        2010 : Aichi Target 11 - 17% terrestrial protection\n    section Current Era\n        2020s : 30x30 initiative - 30% protection by 2030\n        2020s : Indigenous-led conservation & co-management",
+            "complexity": "high",
+            "tags": [
+                "national_parks",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

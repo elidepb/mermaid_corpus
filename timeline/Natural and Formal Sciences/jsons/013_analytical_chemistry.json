@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "013",
+            "topic": "Analytical Chemistry",
+            "category": "Chemistry",
+            "description": "A timeline showing the historical development of Analytical Chemistry from early qualitative tests to modern instrumentation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Analytical Chemistry\n    1850s : Bunsen and Kirchhoff spectroscopy\n          : Flame tests\n          : Element identification\n    1900s : Chromatography invention\n          : Tswett's plant pigments\n          : Separation technique\n    1920s : Mass spectrometry development\n          : Aston's mass spectrograph\n          : Isotope analysis\n    1940s : Paper chromatography\n          : Martin and Synge\n          : Nobel Prize 1952\n    1950s : Gas chromatography\n          : High-resolution separation\n          : Volatile compounds\n    1960s : Atomic absorption spectroscopy\n          : Element quantification\n          : Trace analysis\n    1970s : High-performance liquid chromatography\n          : HPLC development\n          : Non-volatile compounds\n    1980s : Nuclear magnetic resonance\n          : NMR spectroscopy\n          : Structure determination\n    1990s : Mass spectrometry advances\n          : ESI and MALDI\n          : Biomolecule analysis\n    2000s : Microfluidics and lab-on-chip\n          : Miniaturized analysis\n          : Point-of-care devices\n    2010s : High-resolution mass spectrometry\n          : Orbitrap technology\n          : Metabolomics\n    2020s : AI in analytical chemistry\n          : Machine learning\n          : Automated analysis",
+            "complexity": "high",
+            "tags": [
+                "analytical_chemistry",
+                "chemistry"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

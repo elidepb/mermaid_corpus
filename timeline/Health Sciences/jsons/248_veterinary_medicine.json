@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "248",
+            "topic": "Veterinary Medicine",
+            "category": "Veterinary Science",
+            "description": "A timeline showing the evolution of Veterinary Medicine.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Veterinary Medicine\n    section Ancient Practices\n        400 BC : Ancient civilizations - Animal care\n        1761 : First veterinary school (Lyon, France)\n    section Foundation\n        1800s : Veterinary medicine professionalization\n        1884 : American Veterinary Medical Association (AVMA)\n    section Modern Era\n        1950s : Companion animal medicine develops\n        1960s : Veterinary specialization begins\n    section Advances\n        1970s : Small animal surgery advances\n        1980s : Veterinary oncology & specialty care\n    section Modern Practice\n        2000s : One Health concept & zoonoses\n        2010s : Advanced diagnostics & imaging\n    section Current Focus\n        2020s : Telehealth & virtual veterinary care\n        2020s : Animal welfare & ethics",
+            "complexity": "high",
+            "tags": [
+                "veterinary_medicine",
+                "veterinary_science"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Criminal Law",
+            "category": "Law",
+            "description": "A timeline showing the evolution of Criminal Law from ancient codes to modern criminal justice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Criminal Law\n    1750 BCE : Code of Hammurabi\n          : First written criminal code\n          : Retributive justice\n    450 BCE : Twelve Tables (Rome)\n          : Roman criminal law\n          : Public and private crimes\n    1215 : Magna Carta\n          : Due process\n          : Trial by jury\n    1764 : Beccaria's \"On Crimes and Punishments\"\n          : Classical criminology\n          : Deterrence theory\n    1804 : French Penal Code\n          : Napoleonic Code\n          : Modern criminal law\n    1960s : Criminal procedure revolution\n          : Miranda rights\n          : Due process expansion\n    1970s : Victim rights movement\n          : Victim impact statements\n          : Victim compensation\n    1980s : War on drugs\n          : Mandatory sentencing\n          : Criminalization\n    1990s : Three strikes laws\n          : Habitual offender laws\n          : Incarceration increase\n    2000s : Alternative sentencing\n          : Restorative justice\n          : Rehabilitation focus\n    2010s : Criminal justice reform\n          : Sentencing reform\n          : Decriminalization\n    2020s : Police reform\n          : Accountability\n          : Criminal justice transformation",
+            "complexity": "high",
+            "tags": [
+                "criminal_law",
+                "law"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

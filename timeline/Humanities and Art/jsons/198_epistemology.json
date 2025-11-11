@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "198",
+            "topic": "Epistemology",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Epistemology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Epistemology\n    section Ancient Epistemology\n        380 BC : Plato - Theory of knowledge\n        350 BC : Aristotle - Posterior Analytics\n    section Modern Epistemology\n        1637 : René Descartes - Discourse on Method\n        1689 : John Locke - Essay Concerning Human Understanding\n    section 20th Century\n        1963 : Edmund Gettier - Gettier problem\n        1973 : Robert Nozick - Tracking theory of knowledge\n    section Contemporary\n        1980s : Virtue epistemology\n        1990s : Social epistemology\n        2000s : Naturalized epistemology & cognitive science",
+            "complexity": "high",
+            "tags": [
+                "epistemology",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

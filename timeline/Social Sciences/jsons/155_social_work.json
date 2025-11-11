@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Social Work",
+            "category": "Social Sciences",
+            "description": "A timeline showing the development of Social Work from charity organizations to professional practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Social Work\n    1869 : Charity Organization Society\n          : Organized charity\n          : Casework begins\n    1898 : First social work school\n          : Columbia University\n          : Professional education\n    1917 : Richmond's \"Social Diagnosis\"\n          : Casework method\n          : Professional practice\n    1930s : New Deal social work\n          : Public welfare\n          : Government programs\n    1950s : Clinical social work\n          : Psychotherapy\n          : Mental health\n    1960s : Community organizing\n          : Saul Alinsky\n          : Social action\n    1970s : Systems theory\n          : Ecological perspective\n          : Person-in-environment\n    1980s : Strengths-based practice\n          : Asset-based approach\n          : Empowerment\n    1990s : Evidence-based practice\n          : Research-informed\n          : Outcomes\n    2000s : International social work\n          : Global practice\n          : Human rights\n    2010s : Trauma-informed care\n          : Adverse experiences\n          : Healing-centered\n    2020s : Technology in social work\n          : Telehealth\n          : Digital practice",
+            "complexity": "high",
+            "tags": [
+                "social_work",
+                "social_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

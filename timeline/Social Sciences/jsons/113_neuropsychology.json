@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsychology",
+            "category": "Psychology",
+            "description": "A timeline showing the development of Neuropsychology from early brain localization to modern imaging techniques.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Neuropsychology\n    1861 : Broca's area discovery\n          : Language localization\n          : Left frontal lobe\n    1874 : Wernicke's area identified\n          : Language comprehension\n          : Temporal lobe function\n    1920s : Lashley's equipotentiality\n          : Mass action principle\n          : Distributed functions\n    1940s : Penfield's brain mapping\n          : Electrical stimulation\n          : Cortical homunculus\n    1960s : Split-brain studies\n          : Sperry and Gazzaniga\n          : Hemispheric specialization\n    1970s : Cognitive neuropsychology\n          : Modularity of mind\n          : Double dissociation\n    1980s : PET scanning developed\n          : Functional brain imaging\n          : Metabolic activity\n    1990s : fMRI revolution\n          : High-resolution imaging\n          : Brain activation patterns\n    2000s : Diffusion tensor imaging\n          : White matter tracts\n          : Connectivity analysis\n    2010s : Brain-computer interfaces\n          : Neural prosthetics\n          : Rehabilitation technology\n    2020s : Precision neuropsychology\n          : Personalized assessment\n          : AI-assisted diagnosis",
+            "complexity": "high",
+            "tags": [
+                "neuropsychology",
+                "psychology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

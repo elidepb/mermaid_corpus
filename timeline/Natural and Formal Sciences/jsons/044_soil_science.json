@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "044",
+            "topic": "Soil Science",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the historical development of Soil Science from early agriculture to modern soil management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Soil Science\n    300 BCE : Ancient soil knowledge\n          : Agricultural practices\n          : Fertility management\n    1840 : Liebig's mineral theory\n          : Plant nutrition\n          : Chemical agriculture\n    1883 : Dokuchaev's soil science\n          : Soil formation\n          : Russian school\n    1900s : Soil classification\n          : Soil taxonomy\n          : Systematic study\n    1930s : Soil conservation\n          : Dust Bowl\n          : Erosion control\n    1950s : Soil microbiology\n          : Nitrogen fixation\n          : Soil organisms\n    1970s : Soil pollution research\n          : Contamination\n          : Environmental protection\n    1990s : Soil carbon research\n          : Climate change\n          : Carbon sequestration\n    2000s : Precision agriculture\n          : Soil mapping\n          : Technology integration\n    2010s : Soil health movement\n          : Organic matter\n          : Sustainable practices\n    2020s : Soil biodiversity\n          : Microbial communities\n          : Ecosystem services\n    2020s : Digital soil mapping\n          : Remote sensing\n          : Soil monitoring",
+            "complexity": "high",
+            "tags": [
+                "soil_science",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

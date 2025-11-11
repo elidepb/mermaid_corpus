@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Supply Chain",
+            "category": "Business",
+            "description": "A timeline showing the history of Supply Chain Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Supply Chain Management\n    section Pre-1900s\n        Ancient Times : Early logistics in military campaigns (e.g., Roman legions)\n    section Early 20th Century\n        1910s : Rise of trucking & modern transportation\n        1950s : Palletization & containerization standardize shipping\n    section Mid-20th Century\n        1960s : Material Requirements Planning (MRP) systems\n        1970s : Barcodes & scanning revolutionize inventory tracking\n    section Late 20th Century\n        1980s : Just-In-Time (JIT) and Lean principles\n        1990s : Enterprise Resource Planning (ERP) systems integrate functions\n    section 21st Century\n        2000s : Globalization & outsourcing / E-commerce boom\n        2010s : Big Data, AI & Real-time visibility\n        2020s : Focus on Resilience, Sustainability & Circular Supply Chains",
+            "complexity": "high",
+            "tags": [
+                "supply_chain",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

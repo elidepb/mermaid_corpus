@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Economics/Mathematics",
+            "description": "A timeline showing the historical development of Game Theory from its mathematical origins to widespread applications.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Game Theory\n    1928 : von Neumann's minimax theorem\n          : Two-person zero-sum games\n    1944 : Theory of Games and Economic Behavior\n          : von Neumann and Morgenstern\n          : Foundation of game theory\n    1950 : Prisoner's Dilemma formulated\n          : Tucker's famous example\n    1950 : Nash equilibrium concept\n          : John Nash's PhD thesis\n    1953 : Shapley value for cooperative games\n          : Fair division solutions\n    1965 : Evolutionary game theory\n          : Maynard Smith and Price\n    1994 : Nash wins Nobel Prize\n          : Game theory recognition\n    1994 : Harsanyi, Nash, Selten\n          : Nobel Prize for game theory\n    2005 : Aumann and Schelling\n          : Nobel Prize for conflict analysis\n    2007 : Mechanism design theory\n          : Hurwicz, Maskin, Myerson\n    2010s : Algorithmic game theory\n          : Computer science applications\n    2020s : Game theory in AI\n          : Multi-agent systems",
+            "complexity": "high",
+            "tags": [
+                "game_theory",
+                "economics",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

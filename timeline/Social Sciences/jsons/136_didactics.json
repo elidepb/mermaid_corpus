@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didactics",
+            "category": "Education",
+            "description": "A timeline showing the evolution of Didactics from traditional instruction to modern instructional design.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Didactics\n    1632 : Comenius' \"Great Didactic\"\n          : Systematic instruction\n          : Visual aids\n    1806 : Herbart's didactics\n          : Five-step method\n          : Structured teaching\n    1950s : Programmed instruction\n          : Skinner's teaching machines\n          : Step-by-step learning\n    1960s : Instructional design\n          : Gagné's conditions of learning\n          : Systematic design\n    1970s : ADDIE model\n          : Analysis, Design, Development\n          : Implementation, Evaluation\n    1980s : Constructivist didactics\n          : Active learning\n          : Knowledge construction\n    1990s : Problem-based learning\n          : Real-world problems\n          : Collaborative learning\n    2000s : Blended learning\n          : Technology integration\n          : Mixed methods\n    2010s : Flipped classroom\n          : Inverted instruction\n          : Student-centered\n    2020s : Adaptive instruction\n          : AI-powered learning\n          : Personalized didactics",
+            "complexity": "high",
+            "tags": [
+                "didactics",
+                "education"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

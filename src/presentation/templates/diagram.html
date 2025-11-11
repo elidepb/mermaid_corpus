@@ -12,7 +12,7 @@
             <h1>{{ diagram.topic }}</h1>
         </header>
         <main>
-            <a href="/" class="button">Back to List</a>
+            <a href="/?tab={{ selected_tab }}" class="button">Back to List</a>
             <div class="diagram-container">
                 <div class="skeleton-loader-large"></div>
                 <div class="mermaid-detail" data-mermaid-code="{{ diagram.mermaid_code|e }}" style="display: none;"></div>
@@ -36,10 +36,21 @@
                 },
                 mindmap: {
                     useMaxWidth: true
-                }
+                },
+                timeline: {}
             });
 
             document.addEventListener('DOMContentLoaded', function() {
+                const selectedTab = "{{ selected_tab or '' }}";
+                if (selectedTab) {
+                    sessionStorage.setItem('selectedTab', selectedTab);
+                    const params = new URLSearchParams(window.location.search);
+                    if (!params.get('tab')) {
+                        params.set('tab', selectedTab);
+                        const newUrl = `${window.location.pathname}?${params.toString()}`;
+                        history.replaceState({}, '', newUrl);
+                    }
+                }
                 const container = document.querySelector('.mermaid-detail');
                 const skeleton = document.querySelector('.skeleton-loader-large');
                 const mermaidCode = container.getAttribute('data-mermaid-code');

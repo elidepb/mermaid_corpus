@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "002",
+            "topic": "General Relativity",
+            "category": "Physics",
+            "description": "A timeline showing the historical development of General Relativity from Einstein's work to modern gravitational wave detection.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of General Relativity\n    1907 : Einstein's equivalence principle\n          : Gravitational acceleration\n          : Thought experiments\n    1915 : Einstein's field equations\n          : General theory of relativity\n          : Spacetime curvature\n    1916 : Schwarzschild solution\n          : Black hole metric\n          : Event horizon concept\n    1919 : Eddington's eclipse expedition\n          : Light bending confirmed\n          : Theory validation\n    1922 : Friedmann's expanding universe\n          : Cosmological solutions\n          : Big Bang precursor\n    1927 : Lemaitre's primeval atom\n          : Expanding universe theory\n          : Hubble's law foundation\n    1960s : Kerr solution for rotating black holes\n          : Penrose diagrams\n          : Singularity theorems\n    1974 : Hulse-Taylor binary pulsar\n          : Indirect gravitational wave evidence\n          : General relativity precision tests\n    2015 : LIGO gravitational wave detection\n          : Direct observation\n          : Black hole mergers\n    2019 : Event Horizon Telescope\n          : First black hole image\n          : M87* observation\n    2020s : Multi-messenger astronomy\n          : Gravitational wave catalog\n          : Neutron star mergers",
+            "complexity": "high",
+            "tags": [
+                "general_relativity",
+                "physics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

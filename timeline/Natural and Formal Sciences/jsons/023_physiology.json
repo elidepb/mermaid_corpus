@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "023",
+            "topic": "Physiology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Physiology from early anatomical studies to modern systems biology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Physiology\n    1628 : Harvey's blood circulation\n          : Heart as pump\n          : Circulatory system\n    1830s : Müller's physiology\n          : Experimental physiology\n          : Nerve function\n    1850s : Bernard's homeostasis\n          : Internal environment\n          : Physiological regulation\n    1900s : Pavlov's conditioning\n          : Nervous system function\n          : Nobel Prize 1904\n    1920s : Cannon's homeostasis\n          : Fight or flight\n          : Stress response\n    1950s : Hodgkin-Huxley model\n          : Action potential\n          : Nobel Prize 1963\n    1960s : Endocrine discoveries\n          : Hormone mechanisms\n          : Signal transduction\n    1970s : Molecular physiology\n          : Ion channels\n          : Membrane transport\n    1980s : Nitric oxide signaling\n          : Gasotransmitters\n          : Nobel Prize 1998\n    1990s : Systems physiology\n          : Integrative biology\n          : Network analysis\n    2000s : Genomic physiology\n          : Gene function\n          : Functional genomics\n    2010s : Precision physiology\n          : Personalized medicine\n          : Individual variation",
+            "complexity": "high",
+            "tags": [
+                "physiology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "314",
+            "topic": "Environmental Toxicology",
+            "category": "Environmental Sciences",
+            "description": "A timeline showing the evolution of Environmental Toxicology.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Environmental Toxicology\n    section Early Toxicology\n        1500s : Paracelsus - \"The dose makes the poison\"\n        1850s : Occupational toxicology begins\n    section Industrial Era\n        1950s : Minamata disease - Mercury poisoning\n        1962 : Rachel Carson - Silent Spring (pesticides)\n    section Regulatory Response\n        1970 : US EPA established\n        1976 : Toxic Substances Control Act (TSCA)\n    section Modern Toxicology\n        1980s : Risk assessment framework\n        1990s : Endocrine disruptors identified\n    section Emerging Concerns\n        2000s : Pharmaceuticals in environment\n        2010s : Microplastics & nanomaterials\n    section Current Focus\n        2020s : PFAS & forever chemicals\n        2020s : Cumulative risk assessment",
+            "complexity": "high",
+            "tags": [
+                "environmental_toxicology",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

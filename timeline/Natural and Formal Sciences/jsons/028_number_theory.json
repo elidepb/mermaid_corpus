@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "028",
+            "topic": "Number Theory",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Number Theory from ancient problems to modern cryptography.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Number Theory\n    300 BCE : Euclid's Elements\n          : Prime numbers\n          : Euclidean algorithm\n    250 : Diophantus' Arithmetica\n          : Diophantine equations\n          : Algebraic number theory\n    1200s : Fibonacci sequence\n          : Number patterns\n          : Recurrence relations\n    1637 : Fermat's Last Theorem\n          : Number theory problem\n          : Solved 1995\n    1801 : Gauss' Disquisitiones\n          : Modular arithmetic\n          : Number theory foundation\n    1859 : Riemann hypothesis\n          : Zeta function\n          : Unsolved problem\n    1896 : Prime number theorem\n          : Distribution of primes\n          : Analytic number theory\n    1970s : RSA cryptography\n          : Public key encryption\n          : Number theory applications\n    1994 : Fermat's Last Theorem proved\n          : Wiles' proof\n          : Modular forms\n    2000s : Primality testing\n          : AKS algorithm\n          : Polynomial time\n    2010s : Cryptography advances\n          : Elliptic curves\n          : Post-quantum crypto\n    2020s : Computational number theory\n          : Large number factorization\n          : Quantum algorithms",
+            "complexity": "high",
+            "tags": [
+                "number_theory",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

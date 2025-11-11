@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "316",
+            "topic": "Environmental Law",
+            "category": "Law/Environmental",
+            "description": "A timeline showing the evolution of Environmental Law.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Environmental Law\n    section Early Laws\n        1388 : England - First air pollution law\n        1899 : US Rivers and Harbors Act\n    section Modern Foundation\n        1970 : US National Environmental Policy Act (NEPA)\n        1972 : US Clean Water Act & Clean Air Act\n    section International Law\n        1972 : Stockholm Declaration - UN environment conference\n        1992 : Rio Declaration - Principle of sustainable development\n    section Global Agreements\n        1987 : Montreal Protocol - Ozone protection\n        1997 : Kyoto Protocol - Climate change\n    section Modern Era\n        2015 : Paris Agreement - Climate action\n        2020s : Climate litigation & environmental rights\n    section Current Focus\n        2020s : Corporate environmental responsibility\n        2020s : Environmental justice & rights",
+            "complexity": "high",
+            "tags": [
+                "environmental_law",
+                "law",
+                "environmental"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

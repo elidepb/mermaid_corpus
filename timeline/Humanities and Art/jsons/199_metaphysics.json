@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "199",
+            "topic": "Metaphysics",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Metaphysics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Metaphysics\n    section Ancient Metaphysics\n        350 BC : Aristotle - Metaphysics\n        200 AD : Plotinus - Neoplatonism\n    section Medieval Period\n        1225 : Thomas Aquinas - Metaphysical synthesis\n    section Early Modern\n        1641 : René Descartes - Meditations on First Philosophy\n        1686 : Gottfried Leibniz - Discourse on Metaphysics\n    section 20th Century\n        1927 : Martin Heidegger - Being and Time\n        1960 : W.V.O. Quine - Word and Object\n    section Contemporary\n        1980s : Analytic metaphysics revival\n        1990s : Modal metaphysics\n        2000s : Metaphysics of science & time",
+            "complexity": "high",
+            "tags": [
+                "metaphysics",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "158",
+            "topic": "Modern Philosophy",
+            "category": "Philosophy",
+            "description": "A timeline showing the evolution of Modern Philosophy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Modern Philosophy\n    section Rationalism\n        1596 : René Descartes - Cogito ergo sum\n        1632 : Baruch Spinoza - Ethical monism\n        1646 : Gottfried Leibniz - Monads & pre-established harmony\n    section Empiricism\n        1632 : John Locke - Tabula rasa & empiricism\n        1685 : George Berkeley - Idealism & immaterialism\n        1711 : David Hume - Skepticism & empiricism\n    section German Idealism\n        1724 : Immanuel Kant - Critique of Pure Reason\n        1770 : G.W.F. Hegel - Dialectical philosophy\n    section Enlightenment\n        1689 : Locke - Two Treatises of Government\n        1748 : Montesquieu - Spirit of the Laws\n        1762 : Rousseau - Social Contract",
+            "complexity": "high",
+            "tags": [
+                "modern_philosophy",
+                "philosophy"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banking and Finance",
+            "category": "Business",
+            "description": "A timeline showing a history of Banking and Finance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A History of Banking and Finance\n    section Ancient & Medieval Times\n        c. 2000 BC : Grain loans in Mesopotamia\n        4th Century BC : Greek temples act as lenders & depositories\n        1472 : Monte dei Paschi di Siena, world's oldest bank, is founded\n    section 17th-19th Centuries\n        1602 : First publicly traded company (Dutch East India Company)\n        1694 : Bank of England is established\n        1792 : New York Stock Exchange is founded\n    section 20th Century\n        1933 : Glass-Steagall Act (separates commercial & investment banking)\n        1971 : Nixon Shock - End of Bretton Woods system\n        1980s : Deregulation & the Savings & Loan crisis\n    section Late 20th & 21st Century\n        1990s : Electronic trading & rise of hedge funds\n        2008 : Global Financial Crisis\n        2010s : Rise of FinTech, Cryptocurrencies & Mobile Banking",
+            "complexity": "high",
+            "tags": [
+                "banking",
+                "finance",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

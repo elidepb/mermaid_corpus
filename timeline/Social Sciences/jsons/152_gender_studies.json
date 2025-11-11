@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Gender Studies",
+            "category": "Social Sciences",
+            "description": "A timeline showing the development of Gender Studies from early feminism to modern intersectional approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Gender Studies\n    1792 : Wollstonecraft's \"Vindication\"\n          : Early feminism\n          : Women's rights\n    1848 : Seneca Falls Convention\n          : Women's suffrage movement\n          : First wave feminism\n    1920s : Women's suffrage achieved\n          : Voting rights\n          : Political participation\n    1949 : Beauvoir's \"The Second Sex\"\n          : Existential feminism\n          : \"One is not born a woman\"\n    1963 : Friedan's \"The Feminine Mystique\"\n          : Second wave feminism\n          : Women's liberation\n    1970s : Women's studies programs\n          : Academic discipline\n          : Gender studies\n    1980s : Third wave feminism\n          : Diversity and inclusion\n          : Postmodern feminism\n    1989 : Crenshaw's intersectionality\n          : Multiple identities\n          : Interlocking oppressions\n    1990s : Queer theory\n          : Butler's gender performativity\n          : LGBTQ+ studies\n    2000s : Transgender studies\n          : Gender identity\n          : Trans rights\n    2010s : #MeToo movement\n          : Sexual harassment\n          : Gender-based violence\n    2020s : Global feminism\n          : Transnational movements\n          : Digital activism",
+            "complexity": "high",
+            "tags": [
+                "gender_studies",
+                "social_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

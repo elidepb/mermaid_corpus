@@ -9,31 +9,26 @@ class ListDiagramsUseCase:
     def execute(self) -> Dict[str, Dict[str, List[Diagram]]]:
         diagrams = self.diagram_service.get_all_diagrams()
         diagrams_sorted = sorted(diagrams, key=lambda d: d.number)
-        
-        flowcharts_by_area = {}
-        mindmaps_by_area = {}
-        
+        grouped: Dict[str, Dict[str, List[Diagram]]] = {}
         for diagram in diagrams_sorted:
-            if diagram.diagram_type == "flowchart":
-                if diagram.area not in flowcharts_by_area:
-                    flowcharts_by_area[diagram.area] = []
-                flowcharts_by_area[diagram.area].append(diagram)
-            elif diagram.diagram_type == "mindmap":
-                # Group mindmaps by area, same as flowcharts
-                if diagram.area not in mindmaps_by_area:
-                    mindmaps_by_area[diagram.area] = []
-                mindmaps_by_area[diagram.area].append(diagram)
-        
-        # Ensure diagrams within each area are sorted by number
-        for area in flowcharts_by_area:
-            flowcharts_by_area[area].sort(key=lambda d: d.number)
-        for area in mindmaps_by_area:
-            mindmaps_by_area[area].sort(key=lambda d: d.number)
-
-        return {
-            "flowchart": flowcharts_by_area,
-            "mindmap": mindmaps_by_area
-        }
+            diagram_type = diagram.diagram_type
+            if diagram_type not in grouped:
+                grouped[diagram_type] = {}
+            if diagram.area not in grouped[diagram_type]:
+                grouped[diagram_type][diagram.area] = []
+            grouped[diagram_type][diagram.area].append(diagram)
+        for diagram_type in grouped:
+            for area in grouped[diagram_type]:
+                grouped[diagram_type][area].sort(key=lambda d: d.number)
+        ordered_types = ["flowchart", "mindmap", "timeline"]
+        result = {}
+        for diagram_type in ordered_types:
+            if diagram_type in grouped:
+                result[diagram_type] = grouped[diagram_type]
+        for diagram_type in grouped:
+            if diagram_type not in result:
+                result[diagram_type] = grouped[diagram_type]
+        return result
 
 class GetDiagramUseCase:
     def __init__(self, diagram_service: DiagramService):

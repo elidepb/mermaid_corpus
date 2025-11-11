@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "042",
+            "topic": "Seismology",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the historical development of Seismology from early earthquake studies to modern monitoring.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Seismology\n    132 : Zhang Heng's seismoscope\n          : First earthquake detector\n          : Ancient China\n    1880s : First modern seismographs\n          : Earthquake recording\n          : Wave detection\n    1906 : San Francisco earthquake\n          : Elastic rebound theory\n          : Fault mechanics\n    1935 : Richter magnitude scale\n          : Earthquake size\n          : Standard measurement\n    1960s : Plate tectonics\n          : Earthquake causes\n          : Global distribution\n    1970s : Seismic tomography\n          : Earth's interior\n          : Mantle structure\n    1980s : Moment magnitude scale\n          : Improved measurement\n          : Large earthquakes\n    1990s : GPS measurements\n          : Crustal deformation\n          : Earthquake cycle\n    2000s : Early warning systems\n          : Real-time alerts\n          : Japan system\n    2010s : Induced seismology\n          : Human-caused earthquakes\n          : Fracking impacts\n    2020s : Machine learning\n          : Earthquake prediction\n          : Pattern recognition\n    2020s : Global seismic networks\n          : Real-time monitoring\n          : Tsunami warnings",
+            "complexity": "high",
+            "tags": [
+                "seismology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

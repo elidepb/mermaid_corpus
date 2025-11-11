@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "189",
+            "topic": "Film",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Film.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Film\n    section Early Cinema\n        1895 : Lumière Brothers - First public film screening\n        1902 : Georges Méliès - A Trip to the Moon\n        1915 : D.W. Griffith - The Birth of a Nation\n    section Silent Era\n        1925 : Sergei Eisenstein - Battleship Potemkin\n        1927 : The Jazz Singer - First sound film\n    section Golden Age of Hollywood\n        1939 : Gone with the Wind\n        1941 : Orson Welles - Citizen Kane\n        1954 : Alfred Hitchcock - Rear Window\n    section International Cinema\n        1950 : Akira Kurosawa - Rashomon\n        1957 : Ingmar Bergman - The Seventh Seal\n        1963 : Federico Fellini - 8½\n    section New Hollywood\n        1967 : Bonnie and Clyde\n        1972 : Francis Ford Coppola - The Godfather\n    section Contemporary Cinema\n        1994 : Quentin Tarantino - Pulp Fiction\n        2000s : Digital filmmaking revolution\n        2010s : Streaming services & independent films",
+            "complexity": "high",
+            "tags": [
+                "film",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "183",
+            "topic": "Sculpture",
+            "category": "Art",
+            "description": "A timeline showing the evolution of Sculpture.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Sculpture\n    section Prehistoric\n        30000 BC : Venus of Willendorf - Oldest known sculpture\n        25000 BC : Cave art relief sculptures\n    section Ancient Civilizations\n        2500 BC : Egyptian sculpture - Great Sphinx\n        450 BC : Greek Classical sculpture - Phidias\n    section Classical Period\n        100 BC : Roman portrait sculpture\n        200 AD : Roman equestrian statues\n    section Medieval Period\n        1200s : Gothic cathedral sculpture\n        1400s : Donatello - Renaissance sculpture revival\n    section Renaissance & Baroque\n        1504 : Michelangelo - David\n        1623 : Bernini - Baroque sculpture\n    section Modern Period\n        1907 : Constantin Brancusi - Modern sculpture\n        1912 : Pablo Picasso - Constructed sculpture\n    section Contemporary\n        1960s : Minimalist sculpture\n        1970s : Land art & environmental sculpture\n        2000s : Digital sculpture & 3D printing",
+            "complexity": "high",
+            "tags": [
+                "sculpture",
+                "art"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

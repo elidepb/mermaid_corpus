@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "267",
+            "topic": "Organizational Behavior",
+            "category": "Business",
+            "description": "A timeline showing the history of Organizational Behavior.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Organizational Behavior\n    section Late 19th & Early 20th Century\n        1890s : Psychology emerges as a discipline\n        1911 : Frederick Taylor - Scientific Management\n        1920s : Max Weber - Bureaucracy & Authority\n    section The Human Relations Movement\n        1930s : Hawthorne Studies (Elton Mayo)\n        1940s : Abraham Maslow - Hierarchy of Needs\n        1950s : Douglas McGregor - Theory X and Theory Y\n    section Modern Organizational Behavior\n        1960s : Herzberg's Two-Factor Theory\n        1970s : Contingency Theory & Situational Leadership\n        1980s : Organizational Culture becomes a key focus\n    section 21st Century\n        2000s : Positive Organizational Scholarship\n        2010s : Focus on Employee Engagement & Well-being",
+            "complexity": "high",
+            "tags": [
+                "organizational_behavior",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

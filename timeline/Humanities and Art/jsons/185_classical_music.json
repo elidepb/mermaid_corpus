@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "185",
+            "topic": "Classical Music",
+            "category": "Music",
+            "description": "A timeline showing the evolution of Classical Music.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Classical Music\n    section Baroque Period\n        1685 : Johann Sebastian Bach born\n        1700 : Antonio Vivaldi - The Four Seasons\n        1717 : George Frideric Handel - Water Music\n        1722 : Bach - Well-Tempered Clavier\n    section Classical Period\n        1756 : Wolfgang Amadeus Mozart born\n        1788 : Joseph Haydn - London Symphonies\n        1808 : Ludwig van Beethoven - Symphony No. 5\n    section Romantic Period\n        1810 : Frédéric Chopin born\n        1842 : Richard Wagner - Der Ring des Nibelungen begins\n        1876 : Johannes Brahms - Symphony No. 1\n    section Late Romantic\n        1888 : Gustav Mahler - Symphony No. 1\n        1896 : Giacomo Puccini - La Bohème\n    section Modern Period\n        1913 : Igor Stravinsky - The Rite of Spring\n        1923 : Arnold Schoenberg - Twelve-tone technique\n    section Contemporary\n        1950s : Avant-garde & experimental music\n        1960s : Minimalism - Philip Glass, Steve Reich",
+            "complexity": "high",
+            "tags": [
+                "classical_music",
+                "music"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

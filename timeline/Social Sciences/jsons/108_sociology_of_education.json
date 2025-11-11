@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociology of Education",
+            "category": "Sociology",
+            "description": "A timeline showing the development of Sociology of Education from functionalist to critical perspectives.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Sociology of Education\n    1800s : Mass education expansion\n          : Public school systems\n          : Literacy campaigns\n    1951 : Parsons on education\n          : Functionalism in education\n          : Socialization role\n    1966 : Coleman Report\n          : Educational inequality findings\n          : School effects debate\n    1970 : Bowles and Gintis\n          : \"Schooling in Capitalist America\"\n          : Reproduction theory\n    1977 : Bourdieu's cultural capital\n          : \"Reproduction in Education\"\n          : Social class reproduction\n    1979 : Willis' \"Learning to Labor\"\n          : Resistance theory\n          : Working-class culture\n    1980s : Credentialism theory\n          : Collins on credential inflation\n    1990s : School choice debates\n          : Marketization of education\n    2000s : No Child Left Behind\n          : Accountability movement\n          : Standardized testing\n    2010s : Charter school expansion\n          : Educational privatization\n    2020s : Digital learning\n          : Online education\n          : Educational technology",
+            "complexity": "high",
+            "tags": [
+                "sociology_of_education",
+                "sociology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

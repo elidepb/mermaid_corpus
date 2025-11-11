@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Materials Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Materials Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Materials Engineering\n    section Prehistoric Eras\n        Stone Age : Stone tools\n        Bronze Age : Bronze tools and weapons\n        Iron Age : Iron tools and weapons\n    section 19th Century: Industrial Revolution\n        1855 : Bessemer process for steel production\n        1886 : Hall-Héroult process for aluminum production\n    section Early 20th Century: The Age of Polymers\n        1907 : Bakelite, the first synthetic plastic\n        1930s : Nylon is invented\n    section Mid-20th Century: The Silicon Age\n        1947 : The transistor is invented\n        1950s : Development of silicon-based semiconductors\n    section Late 20th & 21st Century: Advanced Materials\n        1960s : Development of composite materials\n        1980s : High-temperature superconductors\n        1991 : Carbon nanotubes are discovered\n        2004 : Graphene is isolated\n        2010s : Rise of metamaterials and 3D printing",
+            "complexity": "high",
+            "tags": [
+                "materials_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

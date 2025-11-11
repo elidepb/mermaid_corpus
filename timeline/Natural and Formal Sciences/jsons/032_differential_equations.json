@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "032",
+            "topic": "Differential Equations",
+            "category": "Mathematics",
+            "description": "A timeline showing the historical development of Differential Equations from Newton to modern applications.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Differential Equations\n    1687 : Newton's laws of motion\n          : Second-order ODEs\n          : Physical applications\n    1740s : Euler's method\n          : Numerical solutions\n          : Approximation techniques\n    1750s : Bernoulli's equations\n          : First-order ODEs\n          : Solution methods\n    1820s : Fourier's heat equation\n          : Partial differential equations\n          : Fourier series\n    1830s : Green's functions\n          : Boundary value problems\n          : Fundamental solutions\n    1850s : Sturm-Liouville theory\n          : Eigenvalue problems\n          : Orthogonal functions\n    1880s : Poincaré's qualitative theory\n          : Phase portraits\n          : Dynamical systems\n    1920s : Picard-Lindelöf theorem\n          : Existence and uniqueness\n          : Initial value problems\n    1950s : Numerical methods\n          : Runge-Kutta methods\n          : Computer solutions\n    1970s : Chaos theory\n          : Nonlinear dynamics\n          : Strange attractors\n    2000s : Computational PDEs\n          : Finite element methods\n          : Scientific computing\n    2020s : Machine learning for DEs\n          : Neural ODEs\n          : Data-driven solutions",
+            "complexity": "high",
+            "tags": [
+                "differential_equations",
+                "mathematics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

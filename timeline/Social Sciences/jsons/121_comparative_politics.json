@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Comparative Politics",
+            "category": "Political Science",
+            "description": "A timeline showing the development of Comparative Politics from early comparisons to modern analytical frameworks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Comparative Politics\n    350 BCE : Aristotle's \"Politics\"\n          : Comparative constitutions\n          : First comparative analysis\n    1748 : Montesquieu's \"Spirit of Laws\"\n          : Comparative government\n          : Separation of powers\n    1900s : Early comparative studies\n          : Institutional comparisons\n          : Legal-formal approach\n    1960s : Behavioral revolution\n          : Almond and Verba\n          : Civic culture studies\n    1970s : Dependency theory\n          : World systems analysis\n          : Development studies\n    1980s : New institutionalism\n          : March and Olsen\n          : Institutional effects\n    1990s : Transition studies\n          : Democratization research\n          : Third wave analysis\n    2000s : Varieties of Capitalism\n          : Hall and Soskice\n          : Institutional complementarities\n    2010s : Authoritarian resilience\n          : Hybrid regimes\n          : Competitive authoritarianism\n    2020s : Comparative authoritarianism\n          : Autocratization trends\n          : Democratic backsliding",
+            "complexity": "high",
+            "tags": [
+                "comparative_politics",
+                "political_science"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

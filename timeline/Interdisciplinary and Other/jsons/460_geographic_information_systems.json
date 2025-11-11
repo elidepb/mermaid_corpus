@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "460",
+            "topic": "Geographic Information Systems",
+            "category": "Geography/Technology",
+            "description": "A timeline showing the historical development of Geographic Information Systems.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\\n    title Development of Geographic Information Systems\\n    1960s : First GIS systems\\n          : Canada Geographic System\\n          : Computer cartography\\n    1970s : Commercial GIS\\n          : ESRI founded\\n          : ArcInfo development\\n    1980s : Desktop GIS\\n          : Personal computers\\n          : Widespread adoption\\n    1990s : GPS integration\\n          : Satellite positioning\\n          : Precision mapping\\n    2000s : Web GIS\\n          : Online mapping\\n          : Google Maps\\n    2010s : Mobile GIS\\n          : Smartphone apps\\n          : Field data collection\\n    2020s : Cloud GIS\\n          : Big data\\n          : Real-time mapping\\n    2020s : AI and GIS\\n          : Machine learning\\n          : Automated analysis",
+            "complexity": "high",
+            "tags": [
+                "geographic_information_systems",
+                "geography",
+                "technology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

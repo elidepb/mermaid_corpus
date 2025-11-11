@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "261",
+            "topic": "Operations Management",
+            "category": "Business",
+            "description": "A timeline showing the milestones in Operations Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Milestones in Operations Management\n    section Early 20th Century\n        1910s : Scientific Management (Frederick W. Taylor)\n        1913 : Moving Assembly Line (Henry Ford)\n    section Mid-20th Century\n        1930s : Statistical Quality Control (Walter Shewhart)\n        1940s : Operations Research (WWII Military Operations)\n        1960s : Material Requirements Planning (MRP)\n    section Late 20th Century\n        1970s : Just-In-Time (JIT) Production (Toyota)\n        1980s : Total Quality Management (TQM)\n        1990s : Lean Manufacturing & Six Sigma\n    section 21st Century\n        2000s : Supply Chain Management & E-Commerce\n        2010s : Industry 4.0 & Smart Factories",
+            "complexity": "high",
+            "tags": [
+                "operations_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "165",
+            "topic": "Historical Linguistics",
+            "category": "Linguistics",
+            "description": "A timeline showing the evolution of Historical Linguistics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Historical Linguistics\n    section Early Beginnings\n        1786 : William Jones - Indo-European language family discovered\n        1816 : Franz Bopp - Comparative Grammar of Indo-European\n    section 19th Century\n        1878 : Hermann Paul - Principles of Language History\n        1880s : Neogrammarians - Regular sound change laws\n        1892 : Karl Brugmann - Comparative linguistics methodology\n    section Early 20th Century\n        1921 : Edward Sapir - Language: An Introduction to the Study of Speech\n        1930s : Internal reconstruction methods developed\n    section Mid-20th Century\n        1957 : André Martinet - Économie des changements phonétiques\n        1960s : Generative historical linguistics\n    section Late 20th Century\n        1970s : Grammaticalization theory - Meillet & Hopper\n        1990s : Language contact & creole studies\n    section Contemporary\n        2000s : Computational historical linguistics\n        2010s : Phylogenetic methods in language classification",
+            "complexity": "high",
+            "tags": [
+                "historical_linguistics",
+                "linguistics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

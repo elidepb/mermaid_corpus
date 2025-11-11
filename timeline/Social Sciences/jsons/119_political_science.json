@@ -1,0 +1,17 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Political Science",
+            "category": "Political Science",
+            "description": "A timeline showing the development of Political Science from ancient philosophy to modern scientific approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Political Science\n    380 BCE : Plato's \"Republic\"\n          : Ideal state theory\n          : Philosopher-kings\n    350 BCE : Aristotle's \"Politics\"\n          : Comparative government\n          : Constitutional analysis\n    1513 : Machiavelli's \"The Prince\"\n          : Realist politics\n          : Power and statecraft\n    1651 : Hobbes' \"Leviathan\"\n          : Social contract theory\n          : Absolute sovereignty\n    1880 : First political science department\n          : Columbia University\n          : Academic discipline\n    1903 : American Political Science Association\n          : Professional organization\n          : Field institutionalized\n    1950s : Behavioral revolution\n          : Scientific methods\n          : Quantitative analysis\n    1960s : Systems theory\n          : Easton's framework\n          : Input-output models\n    1970s : Rational choice theory\n          : Game theory applications\n          : Formal modeling\n    1980s : New institutionalism\n          : Institutions matter\n          : Historical analysis\n    1990s : Democratization studies\n          : Third wave democracy\n          : Transition research\n    2000s : Experimental methods\n          : Field experiments\n          : Causal inference\n    2010s : Big data in politics\n          : Computational methods\n          : Digital research\n    2020s : Interdisciplinary approaches\n          : Behavioral economics\n          : Neuroscience and politics",
+            "complexity": "high",
+            "tags": [
+                "political_science"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

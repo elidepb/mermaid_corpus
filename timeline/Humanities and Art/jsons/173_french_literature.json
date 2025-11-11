@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "173",
+            "topic": "French Literature",
+            "category": "Literature",
+            "description": "A timeline showing the evolution of French Literature.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of French Literature\n    section Medieval Period\n        1100 : Chanson de Roland - Epic poem\n        1180 : Chrétien de Troyes - Arthurian romances\n    section Renaissance\n        1532 : François Rabelais - Pantagruel\n        1580 : Michel de Montaigne - Essais\n    section Classical Period\n        1664 : Molière - Tartuffe\n        1677 : Jean Racine - Phèdre\n        1637 : Pierre Corneille - Le Cid\n    section Enlightenment\n        1759 : Voltaire - Candide\n        1762 : Jean-Jacques Rousseau - Émile\n        1751 : Denis Diderot - Encyclopédie begins\n    section 19th Century\n        1831 : Victor Hugo - Notre-Dame de Paris\n        1842 : Honoré de Balzac - La Comédie humaine\n        1857 : Gustave Flaubert - Madame Bovary\n        1857 : Charles Baudelaire - Les Fleurs du mal\n    section 20th Century\n        1913 : Marcel Proust - À la recherche du temps perdu\n        1942 : Albert Camus - L'Étranger\n        1943 : Jean-Paul Sartre - L'Être et le Néant\n    section Contemporary\n        1957 : Camus - Nobel Prize in Literature\n        1964 : Sartre - Nobel Prize in Literature (declined)",
+            "complexity": "high",
+            "tags": [
+                "french_literature",
+                "literature"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

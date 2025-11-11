@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Project Management",
+            "category": "Business",
+            "description": "A timeline showing the history of Project Management.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Project Management\n    section Late 19th Century\n        1860s : Transcontinental Railroad - Early large-scale project\n        1896 : Karol Adamiecki - Harmony of Work (early network diagram)\n    section Early 20th Century\n        1910s : Henry Gantt - The Gantt Chart\n    section Mid-20th Century\n        1950s : Critical Path Method (CPM) & PERT developed\n        1965 : International Project Management Association (IPMA) founded\n        1969 : Project Management Institute (PMI) founded\n    section Late 20th Century\n        1984 : The Goal by Eliyahu Goldratt - Theory of Constraints\n        1996 : PRINCE2 methodology is published\n    section 21st Century\n        2001 : The Agile Manifesto is published\n        2010s : Rise of Hybrid methodologies & Digital PM tools",
+            "complexity": "high",
+            "tags": [
+                "project_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

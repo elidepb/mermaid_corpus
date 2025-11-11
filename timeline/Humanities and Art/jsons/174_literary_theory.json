@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "174",
+            "topic": "Literary Theory",
+            "category": "Literature",
+            "description": "A timeline showing the evolution of Literary Theory.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Literary Theory\n    section Early 20th Century\n        1915 : Russian Formalism - Viktor Shklovsky\n        1929 : I.A. Richards - Practical Criticism\n    section New Criticism\n        1938 : Cleanth Brooks & Robert Penn Warren - Understanding Poetry\n        1947 : W.K. Wimsatt & Monroe Beardsley - The Intentional Fallacy\n    section Structuralism\n        1916 : Ferdinand de Saussure - Course in General Linguistics\n        1958 : Claude Lévi-Strauss - Structural Anthropology\n        1967 : Roland Barthes - The Death of the Author\n    section Post-Structuralism\n        1966 : Jacques Derrida - Deconstruction begins\n        1966 : Jacques Lacan - Écrits (psychoanalytic theory)\n    section Marxist Criticism\n        1923 : Georg Lukács - History and Class Consciousness\n        1947 : Theodor Adorno & Max Horkheimer - Dialectic of Enlightenment\n    section Feminist Theory\n        1975 : Hélène Cixous - The Laugh of the Medusa\n        1990 : Judith Butler - Gender Trouble\n    section Contemporary\n        1990s : Postcolonial theory & cultural studies\n        2000s : Ecocriticism & animal studies",
+            "complexity": "high",
+            "tags": [
+                "literary_theory",
+                "literature"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

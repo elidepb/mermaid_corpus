@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Electronic Engineering",
+            "category": "Engineering",
+            "description": "A timeline showing the history of Electronic Engineering.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Electronic Engineering\n    section Early 20th Century: The Vacuum Tube Era\n        1904 : John Ambrose Fleming - The vacuum tube diode\n        1906 : Lee de Forest - The Audion (triode)\n        1920s : The first radio and television systems\n    section Mid-20th Century: The Solid-State Revolution\n        1947 : The transistor is invented at Bell Labs\n        1958 : The integrated circuit (IC) is invented by Jack Kilby and Robert Noyce\n        1968 : The first commercially available ICs\n    section The 1970s: The Microprocessor Era\n        1971 : The first microprocessor (Intel 4004)\n        1970s : Development of microcontrollers\n    section The 1980s-1990s: The Digital and Wireless Eras\n        1980s : Rise of personal computers and digital electronics\n        1990s : Proliferation of wireless communication (e.g., cell phones, Wi-Fi)\n    section The 21st Century: Miniaturization and Integration\n        2000s : System on a Chip (SoC)\n        2010s : Internet of Things (IoT) and wearable electronics",
+            "complexity": "high",
+            "tags": [
+                "electronic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

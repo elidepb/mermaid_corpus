@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "268",
+            "topic": "Leadership",
+            "category": "Business",
+            "description": "A timeline showing a history of Leadership Theories.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title A History of Leadership Theories\n    section Early 20th Century\n        1900s : Great Man Theory\n        1930s-40s : Trait Theory\n    section Mid-20th Century\n        1950s : Behavioral Theories (e.g., Ohio State & Michigan Studies)\n        1960s : Contingency Theories (e.g., Fiedler's Model)\n    section Late 20th Century\n        1970s : Transactional & Transformational Leadership\n        1980s : Servant Leadership (Robert Greenleaf)\n    section 21st Century\n        2000s : Authentic Leadership\n        2010s : Adaptive Leadership & System Leadership",
+            "complexity": "high",
+            "tags": [
+                "leadership",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

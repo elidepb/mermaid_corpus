@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Cognitive Psychology",
+            "category": "Psychology",
+            "description": "A timeline showing the development of Cognitive Psychology from the cognitive revolution to modern neuroscience.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Cognitive Psychology\n    1956 : Cognitive revolution begins\n          : Miller's \"Magical Number Seven\"\n          : Information processing approach\n    1960s : Neisser's \"Cognitive Psychology\"\n          : Field formally established\n          : Computer metaphor of mind\n    1970s : Working memory model\n          : Baddeley and Hitch\n          : Multi-component system\n    1980s : Connectionist models\n          : Parallel distributed processing\n          : Neural network approaches\n    1990s : Cognitive neuroscience emerges\n          : Brain imaging technologies\n          : fMRI and PET scans\n    2000s : Embodied cognition\n          : Situated cognition\n          : Extended mind hypothesis\n    2010s : Predictive processing\n          : Bayesian brain models\n          : Active inference\n    2020s : AI and cognitive science\n          : Deep learning insights\n          : Computational cognitive modeling",
+            "complexity": "high",
+            "tags": [
+                "cognitive_psychology",
+                "psychology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

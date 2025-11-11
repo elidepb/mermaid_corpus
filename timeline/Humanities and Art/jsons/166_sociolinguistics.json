@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "166",
+            "topic": "Sociolinguistics",
+            "category": "Linguistics",
+            "description": "A timeline showing the evolution of Sociolinguistics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Sociolinguistics\n    section Early Development\n        1960s : William Labov - Social stratification of language\n        1964 : Labov - Martha's Vineyard study\n    section Foundation Period\n        1966 : Joshua Fishman - Language Loyalty in the United States\n        1972 : Peter Trudgill - Sociolinguistics: An Introduction\n    section Expansion\n        1970s : Variationist sociolinguistics - Labov methodology\n        1972 : Dell Hymes - Ethnography of communication\n    section Gender Studies\n        1975 : Robin Lakoff - Language and Woman's Place\n        1990s : Deborah Tannen - Gender and discourse\n    section Contemporary Developments\n        1980s : Critical sociolinguistics\n        1990s : Language policy & planning studies\n        2000s : Global English & language contact\n        2010s : Digital sociolinguistics & social media",
+            "complexity": "high",
+            "tags": [
+                "sociolinguistics",
+                "linguistics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

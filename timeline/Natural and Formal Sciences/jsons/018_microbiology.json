@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "018",
+            "topic": "Microbiology",
+            "category": "Biology",
+            "description": "A timeline showing the historical development of Microbiology from the discovery of microorganisms to modern applications.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Microbiology\n    1676 : Leeuwenhoek discovers bacteria\n          : First microscope observations\n          : Microbe discovery\n    1861 : Pasteur's germ theory\n          : Microbes cause disease\n          : Fermentation studies\n    1876 : Koch's postulates\n          : Disease causation\n          : Bacteriology foundation\n    1881 : Pasteur's anthrax vaccine\n          : First bacterial vaccine\n          : Immunization\n    1928 : Fleming discovers penicillin\n          : First antibiotic\n          : Nobel Prize 1945\n    1953 : DNA structure in bacteria\n          : Bacterial genetics\n          : Molecular microbiology\n    1970s : Recombinant DNA in bacteria\n          : Genetic engineering\n          : Biotechnology\n    1980s : PCR for microbial detection\n          : Rapid identification\n          : Diagnostic microbiology\n    1990s : Microbial genomics\n          : Whole genome sequencing\n          : Comparative genomics\n    2000s : Human microbiome project\n          : Microbial communities\n          : Symbiotic relationships\n    2010s : CRISPR from bacteria\n          : Bacterial immune system\n          : Gene editing tool\n    2020s : Antimicrobial resistance\n          : Global health challenge\n          : Novel antibiotics",
+            "complexity": "high",
+            "tags": [
+                "microbiology",
+                "biology"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

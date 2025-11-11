@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "041",
+            "topic": "Volcanology",
+            "category": "Earth Sciences",
+            "description": "A timeline showing the historical development of Volcanology from ancient observations to modern monitoring.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Development of Volcanology\n    79 CE : Vesuvius eruption\n          : Pliny's observations\n          : Ancient volcanology\n    1783 : Laki eruption\n          : Climate impacts\n          : Global effects\n    1912 : Katmai eruption\n          : Modern study\n          : Pyroclastic flows\n    1960s : Plate tectonics\n          : Volcanic zones\n          : Subduction and rifting\n    1980 : Mount St. Helens\n          : Modern monitoring\n          : Eruption prediction\n    1991 : Pinatubo eruption\n          : Climate cooling\n          : Sulfur aerosols\n    2000s : Satellite monitoring\n          : Remote sensing\n          : Global volcano watch\n    2010s : Eyjafjallajökull eruption\n          : Aviation impacts\n          : Ash cloud modeling\n    2020s : Volcanic gas monitoring\n          : CO2 emissions\n          : Climate research\n    2020s : Early warning systems\n          : Real-time monitoring\n          : Hazard mitigation\n    2020s : Supervolcano research\n          : Yellowstone\n          : Large eruptions",
+            "complexity": "high",
+            "tags": [
+                "volcanology",
+                "earth_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}
