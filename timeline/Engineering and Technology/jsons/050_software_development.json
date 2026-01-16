@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "050",
+            "topic": "Software Development",
+            "category": "Engineering",
+            "description": "Software Development evolved from machine code programming to sophisticated engineering discipline. Early programming used machine code and assembly language (1940s-1950s) requiring intimate hardware knowledge. FORTRAN (1957) introduced the first high-level programming language for scientific computing. Structured programming emerged in the 1960s promoting goto-less code and modularity. The Waterfall model formalized by Royce (1970) established sequential development phases. Object-oriented programming gained prominence with Smalltalk (1970s) and C++ (1980s). The personal computer revolution (1980s) expanded software development accessibility. The Agile Manifesto (2001) revolutionized development methodology emphasizing collaboration and adaptability. Open source movement accelerated with Linux and Apache projects. Web 2.0 (mid-2000s) drove interactive application development. Mobile app development exploded with iPhone (2007) and Android platforms. Cloud computing transformed deployment and scaling in the 2010s. Containerization with Docker (2013) standardized application packaging. Microservices architecture gained adoption for scalable systems. Today's software development integrates AI-assisted coding, low-code/no-code platforms, cloud-native development, and DevSecOps security integration.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Software Development\n    section: The 1950s-1960s - The Dawn of Programming\n        1957: FORTRAN, the first high-level programming language\n        1959: COBOL\n        1968: NATO Software Engineering Conference\n    section: The 1970s - Structured Programming\n        1970: The Waterfall model\n        1972: C programming language\n        1975: \"The Mythical Man-Month\" by Fred Brooks\n    section: The 1980s - Object-Oriented Programming\n        1983: C++\n        1986: Capability Maturity Model (CMM)\n    section: The 1990s - The Rise of the Web\n        1991: The World Wide Web\n        1995: Java & JavaScript\n    section: The 2000s - Agile & DevOps\n        2001: The Agile Manifesto\n        2009: The term \"DevOps\" is coined\n    section: The 2010s - Cloud & Mobile\n        2010s: Rise of cloud computing (AWS, Azure, GCP)\n        2010s: Proliferation of mobile app development",
+            "complexity": "high",
+            "tags": [
+                "software_development",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

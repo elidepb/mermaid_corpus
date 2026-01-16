@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Data Science",
+            "category": "Computer Science",
+            "description": "Data Science encompasses methodologies, tools, and applications for comprehensive data analysis and insight generation. Core competencies include statistics providing hypothesis testing, probability distributions, and inferential methods, programming using Python and R for data manipulation and analysis, machine learning applying supervised and unsupervised algorithms, data visualization creating compelling graphics with Tableau and matplotlib, and domain expertise understanding business context. Data types span structured data in relational databases, semi-structured data like JSON and XML, unstructured data including text and images, time series with temporal patterns, and streaming data requiring real-time processing. Analytical techniques employ descriptive analytics summarizing historical data, diagnostic analytics explaining why events occurred, predictive analytics forecasting future outcomes, prescriptive analytics recommending optimal actions, and causal inference establishing cause-effect relationships. Tools and technologies utilize Python with pandas and scikit-learn, R for statistical computing, SQL for database queries, big data frameworks like Spark and Hadoop, and cloud platforms including AWS and Azure. Applications include customer analytics for segmentation and churn prediction, financial analytics for fraud detection and risk modeling, healthcare analytics for patient outcomes and drug discovery, and operations analytics optimizing supply chains and processes.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Data Science))\n    Data Collection\n      Data Sources\n      Web Scraping\n      APIs\n      Sensors\n      Surveys\n    Data Cleaning\n      Missing Data\n      Outliers\n      Duplicates\n      Data Quality\n    Exploratory Analysis\n      Statistical Analysis\n      Visualization\n      Pattern Recognition\n      Hypothesis Testing\n    Machine Learning\n      Predictive Modeling\n      Classification\n      Clustering\n      Feature Engineering\n    Big Data Technologies\n      Hadoop\n      Spark\n      NoSQL Databases\n      Distributed Computing\n    Data Visualization\n      Charts and Graphs\n      Dashboards\n      Interactive Visualizations\n      Storytelling\n    Tools and Languages\n      Python\n      R\n      SQL\n      Jupyter Notebooks\n      Tableau",
+            "complexity": "high",
+            "tags": [
+                "data_science",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

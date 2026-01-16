@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "058",
+            "topic": "Electrical Engineering",
+            "category": "engineering",
+            "description": "Electrical Engineering is the discipline that studies and applies the principles of electricity, electromagnetism, and electronics to design and develop electrical systems and equipment. Its primary objective is to generate, transmit, distribute, and utilize electrical energy efficiently and safely. Core domains include: power systems (generation, transmission, distribution networks), control systems (automation, feedback loops, PLCs), electromagnetics (motors, transformers, antennas), and signal processing (communication systems, filtering, modulation). Design approaches involve circuit analysis, system modeling, simulation, and testing. These elements integrate through engineering principles including Maxwell's equations, circuit theory, and power electronics to create reliable electrical infrastructure for industries, buildings, transportation, and communication networks.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EE[Electrical Engineering] --> Circuits[Circuit Theory]\n    EE --> EM[Electromagnetism]\n    EE --> Electronics[Electronics]\n    EE --> Power[Power Engineering]\n    EE --> Control[Control Systems]\n    EE --> Signals[Signals & Systems]\n\n    Circuits --> KVL[Kirchhoff's Voltage Law]\n    Circuits --> KCL[Kirchhoff's Current Law]\n    Circuits --> Ohms[Ohm's Law]\n    Circuits --> AC[AC Circuits]\n    Circuits --> DC[DC Circuits]\n\n    EM --> Maxwells[Maxwell's Equations]\n\n    Electronics --> Analog[Analog Electronics]\n    Electronics --> Digital[Digital Electronics]\n\n    Power --> Generation[Generation]\n    Power --> Transmission[Transmission]\n    Power --> Distribution[Distribution]\n\n    Control --> Feedback[Feedback Control]\n    Control --> Stability[System Stability]\n\n    Signals --> Fourier[Fourier Analysis]\n    Signals --> Laplace[Laplace Transforms]",
+            "complexity": "medium",
+            "tags": ["electrical_engineering", "engineering", "circuits", "electromagnetism", "power_engineering"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

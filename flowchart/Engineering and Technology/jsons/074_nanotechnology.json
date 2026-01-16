@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "074",
+            "topic": "Nanotechnology",
+            "category": "engineering_science",
+            "description": "Nanotechnology is the interdisciplinary field that manipulates matter at the nanoscale (1-100 nanometers) to create materials, devices, and systems with novel properties and functions. Its primary objective is to engineer structures at the atomic and molecular level to achieve enhanced performance, new functionalities, and breakthrough applications across multiple industries. Core domains include: nanomaterials synthesis (nanoparticles, nanotubes, quantum dots, graphene, nanowires), nanofabrication techniques (top-down approaches like lithography, bottom-up approaches like self-assembly), characterization methods (electron microscopy, scanning probe microscopy, spectroscopy), nanoelectronics (transistors, sensors, quantum devices), and nanomedicine (drug delivery, diagnostic tools, therapeutic applications). The development process involves design and simulation, synthesis or fabrication, characterization and analysis, application development, and safety assessment. These elements integrate through quantum mechanics, surface chemistry, and materials science to create advanced materials, medical treatments, electronics, energy solutions, and environmental technologies with unprecedented precision and efficiency.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Nano[Nanotechnology] --> Nanomaterials[Nanomaterials]\n    Nano --> Fabrication[Nanofabrication]\n    Nano --> Characterization[Characterization]\n    Nano --> Applications[Applications]\n\n    Nanomaterials --> Carbon[Carbon-Based]\n    Nanomaterials --> Nanoparticles[Nanoparticles]\n    Nanomaterials --> QuantumDots[Quantum Dots]\n    Nanomaterials --> Nanocomposites[Nanocomposites]\n\n    Carbon --> CNTs[Carbon Nanotubes]\n    Carbon --> Graphene[Graphene]\n    Carbon --> Fullerenes[Fullerenes]\n\n    Fabrication --> TopDown[Top-Down]\n    Fabrication --> BottomUp[Bottom-Up]\n\n    TopDown --> Lithography[Lithography]\n    TopDown --> Etching[Etching]\n\n    BottomUp --> CVD[Chemical Vapor Deposition]\n    BottomUp --> SelfAssembly[Molecular Self-Assembly]\n\n    Characterization --> Microscopy[Microscopy]\n    Characterization --> Spectroscopy[Spectroscopy]\n\n    Microscopy --> SEM[Scanning Electron Microscopy]\n    Microscopy --> TEM[Transmission Electron Microscopy]\n    Microscopy --> AFM[Atomic Force Microscopy]\n    Microscopy --> STM[Scanning Tunneling Microscopy]\n\n    Applications --> Medicine[Medicine]\n    Applications --> Electronics[Electronics]\n    Applications --> Energy[Energy]\n    Applications --> Materials[Materials Science]",
+            "complexity": "medium",
+            "tags": ["nanotechnology", "engineering", "science", "nanomaterials", "nanofabrication"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

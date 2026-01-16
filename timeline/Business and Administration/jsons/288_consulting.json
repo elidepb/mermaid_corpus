@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consulting",
+            "category": "Business",
+            "description": "Consulting evolved from individual advisory to global professional services industry. Early management consulting emerged with Frederick Taylor's scientific management (1911), applying systematic analysis to industrial operations. Arthur D. Little founded the first management consulting firm (1886), initially focused on technical and research services. McKinsey & Company (1926) pioneered general management consulting for top executives. Post-WWII expansion saw Boston Consulting Group (1963) and Bain & Company (1973) establish strategy consulting prominence. The Big Eight accounting firms (later Big Four) expanded into management consulting in the 1970s-1980s. IT consulting boomed with enterprise software implementations in the 1990s. The dot-com era brought digital strategy consulting. Sarbanes-Oxley (2002) forced accounting firms to separate consulting and audit practices. The 2008 financial crisis emphasized operational efficiency and cost reduction consulting. Digital transformation and cloud migration dominated the 2010s. Today's consulting integrates AI implementation, sustainability strategy, remote delivery models, and outcome-based pricing.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolution of Management Consulting\n    section Early Beginnings\n        1886 : Arthur D. Little - First management consulting firm\n        1914 : Booz Allen Hamilton - Strategy consulting pioneer\n    section Interwar Period\n        1926 : McKinsey & Company - Founded by James O. McKinsey\n        1930s : Management Engineering - Scientific approach to business\n    section Post-War Expansion\n        1940s : BCG (Boston Consulting Group) - Strategic consulting\n        1963 : Bruce Henderson - BCG Matrix & Growth-Share Matrix\n    section Strategy Era\n        1970s : Porter's Five Forces - Competitive strategy framework\n        1980s : MBB Dominance - McKinsey, BCG, Bain & Company\n    section Specialization\n        1990s : IT Consulting Boom - Accenture, IBM Global Services\n        2000s : Big Four Expansion - Deloitte, PwC, EY, KPMG\n    section Digital Transformation\n        2010s : Digital Consulting - Cloud, analytics, transformation\n        2020s : AI & Automation Consulting - Future of work advisory",
+            "complexity": "high",
+            "tags": [
+                "consulting",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

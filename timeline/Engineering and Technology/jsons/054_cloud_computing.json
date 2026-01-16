@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "054",
+            "topic": "Cloud Computing",
+            "category": "Engineering",
+            "description": "Cloud computing's evolution began in the 1960s with time-sharing concepts enabling multiple users to access mainframes. The 1990s saw telecommunications companies offering VPN services and early virtualization. 1999 introduced Salesforce.com as pioneering SaaS. 2002 brought AWS's early web services. 2006 marked AWS EC2 launch, establishing modern IaaS. 2008 saw Google App Engine (PaaS) and Microsoft Azure announcements. The 2010s witnessed explosive growth with mobile cloud services, hybrid cloud adoption, and container technologies (Docker 2013, Kubernetes 2014). 2014 introduced serverless computing (AWS Lambda). The 2020s continue with edge computing integration, AI/ML cloud services, multi-cloud strategies, and enhanced security frameworks becoming standard.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Cloud Computing\n    section: The 1960s - The Dawn of Time-Sharing\n        1960s: J.C.R. Licklider's \"Intergalactic Computer Network\"\n        1963: Project MAC at MIT\n    section: The 1990s - The Web and Virtualization\n        1990s: Telecommunication companies begin offering VPN services\n        1999: Salesforce.com launches, pioneering SaaS\n        1999: VMware is founded\n    section: The 2000s - The Birth of the Modern Cloud\n        2002: Amazon Web Services (AWS) is launched\n        2006: AWS launches Elastic Compute Cloud (EC2)\n        2008: Google App Engine is released\n        2010: Microsoft Azure is launched\n    section: The 2010s - The Rise of Containers and Serverless\n        2013: Docker is released\n        2014: AWS Lambda is launched\n        2015: Kubernetes is released\n    section: The 2020s - AI, Edge, and Hybrid Cloud\n        2020s: Rise of AI/ML services in the cloud\n        2020s: Growth of edge computing and hybrid cloud",
+            "complexity": "high",
+            "tags": [
+                "cloud_computing",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

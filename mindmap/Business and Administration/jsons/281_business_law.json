@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Business Law",
+            "category": "Business/Law",
+            "description": "Business Law encompasses diverse legal domains essential for commercial operations. Contract law governs agreement formation, performance obligations, breach remedies, and specific performance through principles of offer, acceptance, consideration, and capacity. Corporate law addresses formation procedures, governance structures, fiduciary duties, shareholder rights, and dissolution processes. Employment law regulates hiring practices, wage and hour requirements, workplace safety under OSHA, anti-discrimination protections, and termination procedures. Intellectual property law protects innovations through patent law for inventions, trademark law for brand identity, copyright law for creative works, and trade secret protection for confidential information. Securities law governs stock issuance, disclosure requirements, insider trading prohibitions, and regulatory compliance with SEC. Commercial transactions involve sales of goods under UCC, negotiable instruments, secured transactions, and bankruptcy proceedings. Antitrust law prevents monopolies, price fixing, and anti-competitive practices. International business law addresses cross-border contracts, trade agreements, dispute resolution, and jurisdictional issues.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Business Law))\n    Areas\n      Contracts\n      Employment\n      Intellectual Property\n      Corporate\n      Antitrust\n    Entities\n      Sole Proprietorship\n      Partnership\n      Corporation\n      LLC\n    Compliance\n      Regulations\n      Licenses\n      Permits\n    Litigation\n      Dispute Resolution\n      Arbitration\n      Mediation\n    Ethics\n      Professional Conduct\n      Fiduciary Duty",
+            "complexity": "high",
+            "tags": [
+                "business_law",
+                "business",
+                "law"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

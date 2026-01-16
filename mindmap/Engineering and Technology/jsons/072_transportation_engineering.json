@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "072",
+            "topic": "Transportation Engineering",
+            "category": "Engineering",
+            "description": "Transportation Engineering encompasses multiple modes and technical specializations. Highway design includes alignment (horizontal and vertical curves), cross-section design, sight distance, superelevation, and access management. Pavement engineering covers flexible pavements (asphalt), rigid pavements (concrete), pavement analysis (AASHTO method), rehabilitation, and maintenance strategies. Traffic operations involve traffic flow theory (speed-density relationships), capacity analysis (Highway Capacity Manual), level of service assessment, queue analysis, and microsimulation modeling. Traffic control systems feature traffic signals (actuated, coordinated, adaptive), signs and markings, roundabouts, and intelligent transportation systems (ITS) including traffic management centers, variable message signs, and connected vehicles. Public transportation includes bus systems (conventional, BRT), rail systems (light rail, metro, commuter rail), paratransit, and intermodal facilities. Planning tools encompass travel demand models (four-step model), origin-destination surveys, GIS applications, and cost-benefit analysis. Safety analysis uses crash data analysis, road safety audits, crash modification factors, and Vision Zero principles. Emerging technologies feature autonomous vehicles, mobility as a service (MaaS), electric vehicle infrastructure, micromobility solutions, and smart city integration.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Transportation Engineering))\n    Highway Engineering\n      Geometric Design\n      Pavement Design\n      Highway Capacity\n      Safety Analysis\n    Traffic Engineering\n      Traffic Flow Theory\n      Signal Design\n      Intersection Design\n      Traffic Management\n    Public Transportation\n      Bus Systems\n      Rail Transit\n      Metro Systems\n      Planning\n    Transportation Planning\n      Travel Demand\n      Mode Choice\n      Land Use\n      Forecasting\n    Pavement Engineering\n      Pavement Materials\n      Pavement Design\n      Maintenance\n      Rehabilitation\n    Intelligent Transportation\n      ITS Systems\n      Traffic Sensors\n      Real-time Information\n      Autonomous Vehicles\n    Airport Engineering\n      Runway Design\n      Terminal Design\n      Air Traffic Control\n      Airport Planning\n    Port Engineering\n      Harbor Design\n      Maritime Facilities\n      Cargo Handling\n      Coastal Engineering",
+            "complexity": "high",
+            "tags": [
+                "transportation_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

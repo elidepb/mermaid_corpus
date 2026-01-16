@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "071",
+            "topic": "Telecommunications Engineering",
+            "category": "engineering",
+            "description": "Telecommunications Engineering is the discipline that designs, develops, and maintains systems for transmitting information over distances through electronic means. Its primary objective is to enable reliable, high-speed communication across local and global networks through wired and wireless technologies. Core domains include: transmission systems (optical fiber, coaxial cable, wireless propagation, modulation techniques), network architecture (switching systems, routing protocols, network topology, OSI model layers), signal processing (digital signal processing, coding, compression, error correction), wireless communications (cellular networks, satellite systems, microwave links, antenna design), and telecommunication protocols (TCP/IP, LTE, 5G standards, network security). The engineering process involves system design, link budget analysis, network planning, performance optimization, and standards compliance. These elements integrate through information theory, electromagnetic theory, and networking principles to create telephone networks, internet infrastructure, mobile communication systems, satellite communications, and data transmission networks that enable global connectivity.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    TE[Telecommunications Engineering] --> Signals[Signals & Systems]\n    TE --> Transmission[Transmission Media]\n    TE --> Networks[Communication Networks]\n    TE --> Wireless[Wireless Communication]\n    TE --> Optical[Optical Communication]\n\n    Signals --> Analog[Analog Signals]\n    Signals --> Digital[Digital Signals]\n    Signals --> Modulation[Modulation Techniques]\n\n    Transmission --> Copper[Copper Wires]\n    Transmission --> Coaxial[Coaxial Cable]\n    Transmission --> Fiber[Fiber Optics]\n    Transmission --> Wireless[Wireless]\n\n    Networks --> Circuit[Circuit Switching]\n    Networks --> Packet[Packet Switching]\n    Networks --> Protocols[Network Protocols]\n\n    Wireless --> Cellular[Cellular Networks]\n    Wireless --> WiFi[Wi-Fi]\n    Wireless --> Bluetooth[Bluetooth]\n    Wireless --> Satellite[Satellite Communication]\n\n    Optical --> Lasers[Lasers]\n    Optical --> Photodetectors[Photodetectors]\n    Optical --> WDM[Wavelength-Division Multiplexing]",
+            "complexity": "medium",
+            "tags": ["telecommunications_engineering", "engineering", "communication_networks", "wireless_communication", "optical_communication"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

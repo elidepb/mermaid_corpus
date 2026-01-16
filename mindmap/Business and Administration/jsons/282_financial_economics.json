@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Financial Economics",
+            "category": "Economics/Business",
+            "description": "Financial Economics encompasses theoretical frameworks, models, and empirical methods for understanding financial systems. Asset pricing models include Capital Asset Pricing Model linking risk to expected returns through market beta, Arbitrage Pricing Theory using multiple risk factors, Fama-French three-factor model adding size and value factors, and multifactor models incorporating momentum, profitability, and investment patterns. Market efficiency theory examines weak-form efficiency reflecting historical prices, semi-strong efficiency incorporating public information, and strong-form efficiency including insider information. Portfolio theory applies Markowitz mean-variance optimization, Sharpe ratio maximization, Black-Litterman model incorporating views, and risk parity approaches. Derivative pricing employs Black-Scholes-Merton framework for options, binomial and trinomial models for discrete time, real options for investment decisions, and exotic option valuation. Financial econometrics uses time series analysis, ARCH/GARCH volatility modeling, cointegration for relationships, and panel data methods. Behavioral finance examines overconfidence, loss aversion, herding behavior, and mental accounting biases affecting decisions.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Financial Economics))\n    Markets\n      Efficiency\n      Anomalies\n      Bubbles\n    Asset Pricing\n      CAPM\n      APT\n      Factor Models\n    Corporate Finance\n      Capital Structure\n      Dividend Policy\n      M&A\n    Behavioral\n      Biases\n      Heuristics\n      Market Psychology\n    Econometrics\n      Time Series\n      Regression\n      Forecasting",
+            "complexity": "high",
+            "tags": [
+                "financial_economics",
+                "economics",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

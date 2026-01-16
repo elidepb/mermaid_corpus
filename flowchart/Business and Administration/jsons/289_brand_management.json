@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Brand Management",
+            "category": "Business",
+            "description": "Brand Management is the strategic process of building, maintaining, and enhancing brand equity through consistent positioning, messaging, and customer experiences that create differentiation and loyalty. It begins with brand strategy development, defining brand purpose, values, personality, and positioning that differentiate from competitors and resonate with target audiences. Brand identity design creates visual and verbal elements including logos, color palettes, typography, tone of voice, and messaging frameworks. Brand architecture establishes relationships between parent brands, sub-brands, and product lines through branded house, house of brands, or hybrid structures. Brand launch execution introduces brands through integrated campaigns coordinating advertising, PR, digital, and experiential touchpoints. Brand experience management ensures consistent delivery across all customer interactions including products, services, environments, and communications. Brand performance measurement tracks awareness, perception, preference, loyalty, and financial value through brand tracking studies and equity metrics. Brand evolution adapts positioning, refreshes identity, and extends into new categories while protecting core equity. The goal is creating strong brand associations that command premium pricing, generate customer loyalty, and build sustainable competitive advantage.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Brand Management Process] --> B[Brand Identity]\n    B --> C[Brand Prism]\n    B --> D[Brand Values]\n\n    A --> E[Brand Positioning]\n    E --> F[Target Audience]\n    E --> G[Competitive Landscape]\n    E --> H[Unique Selling Proposition]\n\n    A --> I[Brand Marketing]\n    I --> J[Marketing Communications]\n    I --> K[Advertising]\n    I --> L[Content Marketing]\n    I --> M[Social Media]\n\n    A --> N[Brand Equity]\n    N --> O[Brand Awareness]\n    N --> P[Brand Loyalty]\n    N --> Q[Perceived Quality]\n\n    A --> R[Brand Monitoring]\n    R --> S[Brand Tracking]\n    R --> T[Sentiment Analysis]",
+            "complexity": "high",
+            "tags": ["brand_management", "marketing", "branding", "brand_equity", "brand_positioning"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

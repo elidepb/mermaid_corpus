@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Hydraulic Engineering",
+            "category": "engineering",
+            "description": "Hydraulic Engineering is the specialized branch of civil engineering that deals with the flow, transport, and control of water and other fluids in natural and artificial systems. Its primary objective is to design and manage water-related infrastructure for flood protection, water supply, irrigation, and power generation. Core domains include: fluid mechanics (flow behavior, pressure dynamics, velocity profiles), open channel hydraulics (rivers, canals, drainage systems), closed conduit systems (pipelines, water distribution networks), hydraulic structures (dams, weirs, spillways, gates), and water resources management (reservoir operation, flood control, hydropower). The design process involves hydrological analysis, hydraulic modeling, structure design, system optimization, and environmental impact assessment. These elements integrate through continuity equations, energy principles, and momentum laws to create efficient water management systems for urban water supply, agricultural irrigation, flood mitigation, and renewable energy generation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    HE[Hydraulic Engineering] --> FluidMechanics[Fluid Mechanics]\n    HE --> OpenChannel[Open Channel Flow]\n    HE --> PipeFlow[Pipe Flow]\n    HE --> Hydrology[Hydrology]\n    HE --> Structures[Hydraulic Structures]\n\n    FluidMechanics --> Properties[Fluid Properties]\n    FluidMechanics --> Statics[Fluid Statics]\n    FluidMechanics --> Dynamics[Fluid Dynamics]\n\n    OpenChannel --> Uniform[Uniform Flow]\n    OpenChannel --> Varied[Gradually & Rapidly Varied Flow]\n\n    PipeFlow --> Laminar[Laminar Flow]\n    PipeFlow --> Turbulent[Turbulent Flow]\n    PipeFlow --> Friction[Friction Losses]\n\n    Hydrology --> Rainfall[Rainfall-Runoff Analysis]\n    Hydrology --> Floods[Flood Routing]\n\n    Structures --> Dams[Dams]\n    Structures --> Weirs[Weirs]\n    Structures --> Spillways[Spillways]\n    Structures --> Culverts[Culverts]\n    Structures --> Canals[Canals]",
+            "complexity": "medium",
+            "tags": ["hydraulic_engineering", "engineering", "civil_engineering", "fluid_mechanics", "hydrology"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

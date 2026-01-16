@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Aerospace Engineering",
+            "category": "engineering",
+            "description": "Aerospace Engineering is the discipline dedicated to the design, development, testing, and production of aircraft, spacecraft, satellites, and missiles. Its primary objective is to create safe, efficient, and high-performance vehicles for atmospheric and space flight. Core domains include: aerodynamics (lift, drag, airflow analysis, wind tunnel testing), propulsion systems (jet engines, rocket motors, thrust generation), structures & materials (lightweight composites, stress analysis, fatigue resistance), flight dynamics & control (stability, navigation, autopilot systems), and avionics (flight instruments, communication, guidance systems). The engineering process involves conceptual design, computational analysis (CFD), prototype development, testing (ground and flight), and certification. These elements integrate through principles of fluid mechanics, thermodynamics, and structural mechanics to produce aircraft, spacecraft, satellites, and defense systems that operate reliably in extreme conditions.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AE[Aerospace Engineering] --> Aeronautical[Aeronautical Engineering]\n    AE --> Astronautical[Astronautical Engineering]\n\n    Aeronautical --> Aerodynamics[Aerodynamics]\n    Aeronautical --> Propulsion[Propulsion]\n    Aeronautical --> Structures[Structures & Materials]\n    Aeronautical --> Stability[Stability & Control]\n\n    Aerodynamics --> Subsonic[Subsonic]\n    Aerodynamics --> Transonic[Transonic]\n    Aerodynamics --> Supersonic[Supersonic]\n    Aerodynamics --> Hypersonic[Hypersonic]\n\n    Propulsion --> Airbreathing[Airbreathing Engines]\n    Airbreathing --> Turbojet[Turbojet]\n    Airbreathing --> Turbofan[Turbofan]\n    Airbreathing --> Ramjet[Ramjet]\n\n    Astronautical --> Orbital[Orbital Mechanics]\n    Astronautical --> Spacecraft[Spacecraft Design]\n    Astronautical --> Rocket[Rocket Propulsion]\n\n    Orbital --> Kepler[Kepler's Laws]\n    Orbital --> Maneuvers[Orbital Maneuvers]\n\n    Rocket --> Solid[Solid Rockets]\n    Rocket --> Liquid[Liquid Rockets]\n    Rocket --> Electric[Electric Propulsion]",
+            "complexity": "medium",
+            "tags": ["aerospace_engineering", "engineering", "aeronautical", "astronautical", "aerodynamics"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

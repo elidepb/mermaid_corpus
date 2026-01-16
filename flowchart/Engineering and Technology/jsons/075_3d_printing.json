@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "075",
+            "topic": "3D Printing",
+            "category": "technology",
+            "description": "3D Printing, also known as Additive Manufacturing, is the process of creating three-dimensional objects by depositing material layer-by-layer based on digital models. Its primary objective is to enable rapid prototyping, customized manufacturing, and complex geometry production with reduced waste and tooling costs. Core domains include: printing technologies (FDM/FFF, SLA/DLP, SLS, binder jetting, material extrusion), materials (thermoplastics, photopolymers, metals, ceramics, bioinks), design for additive manufacturing (topology optimization, lattice structures, support generation), post-processing (surface finishing, heat treatment, infiltration, painting), and quality control (dimensional accuracy, material properties, defect detection). The manufacturing process involves CAD design, file preparation (STL conversion, slicing), printing setup, layer-by-layer fabrication, post-processing, and quality inspection. These elements converge through materials science, mechanical engineering, and computer-aided design to produce prototypes, custom parts, medical implants, aerospace components, and consumer products with unprecedented design freedom and production flexibility.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    3DP[3D Printing] --> Processes[Printing Processes]\n    3DP --> Workflow[Workflow]\n    3DP --> Materials[Materials]\n    3DP --> Applications[Applications]\n\n    Processes --> FDM[Fused Deposition Modeling]\n    Processes --> SLA[Stereolithography]\n    Processes --> SLS[Selective Laser Sintering]\n    Processes --> DLP[Digital Light Processing]\n    Processes --> SLM[Selective Laser Melting]\n\n    Workflow --> Modeling[1. 3D Modeling]\n    Workflow --> Slicing[2. Slicing]\n    Workflow --> Printing[3. Printing]\n    Workflow --> PostProcessing[4. Post-Processing]\n\n    Modeling --> CAD[CAD Software]\n    Modeling --> Scanning[3D Scanning]\n\n    Materials --> Plastics[Plastics]\n    Materials --> Resins[Resins]\n    Materials --> Metals[Metals]\n    Materials --> Ceramics[Ceramics]\n\n    Plastics --> PLA[PLA]\n    Plastics --> ABS[ABS]\n    Plastics --> PETG[PETG]\n\n    Applications --> Prototyping[Rapid Prototyping]\n    Applications --> Manufacturing[Manufacturing]\n    Applications --> Medical[Medical]\n    Applications --> Aerospace[Aerospace]\n    Applications --> Hobbyist[Hobbyist]",
+            "complexity": "medium",
+            "tags": ["3d_printing", "technology", "additive_manufacturing", "prototyping"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

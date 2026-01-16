@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "051",
+            "topic": "Databases",
+            "category": "Computer Science",
+            "description": "Databases encompass models, management systems, and optimization techniques for efficient data organization. Database models include relational using tables and SQL, NoSQL offering flexible schemas with document, key-value, column-family, and graph databases, object-oriented storing objects directly, and hierarchical organizing tree structures. RDBMS systems feature Oracle for enterprise applications, MySQL for web applications, PostgreSQL for advanced features, SQL Server for Microsoft ecosystems, and SQLite for embedded databases. NoSQL databases employ MongoDB for document storage, Cassandra for distributed wide-column, Redis for in-memory key-value, Neo4j for graph relationships, and Elasticsearch for full-text search. Database operations utilize SQL for querying with SELECT statements, data manipulation via INSERT/UPDATE/DELETE, data definition through CREATE/ALTER/DROP, and data control managing permissions. Normalization forms include first normal form eliminating repeating groups, second normal form removing partial dependencies, third normal form eliminating transitive dependencies, and Boyce-Codd normal form addressing anomalies. Performance optimization employs indexing for fast lookups, query optimization improving execution plans, partitioning dividing large tables, caching reducing database hits, and connection pooling managing database connections efficiently.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Databases))\n    Relational Databases\n      SQL\n      Tables and Schemas\n      Normalization\n      ACID Properties\n      Joins\n    NoSQL Databases\n      Document Stores\n      Key-value Stores\n      Column-family\n      Graph Databases\n    Database Design\n      Entity-Relationship Model\n      Data Modeling\n      Indexing\n      Query Optimization\n    Transactions\n      Concurrency Control\n      Locking\n      Isolation Levels\n      Deadlocks\n    Distributed Databases\n      Replication\n      Sharding\n      CAP Theorem\n      Consistency Models\n    Data Warehousing\n      ETL Processes\n      OLAP\n      Data Mining\n      Business Intelligence\n    Database Administration\n      Backup and Recovery\n      Performance Tuning\n      Security\n      Monitoring",
+            "complexity": "high",
+            "tags": [
+                "databases",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Aerospace Engineering",
+            "category": "Engineering",
+            "description": "Aerospace Engineering encompasses two main branches and multiple specializations. Aeronautical engineering focuses on atmospheric flight including commercial aircraft (Boeing, Airbus), military aircraft (fighters, bombers), helicopters, and UAVs (drones). Astronautical engineering covers spacecraft design, satellites, launch vehicles, orbital mechanics, and space exploration missions. Key technical areas include aerodynamics (subsonic, transonic, supersonic, hypersonic flow), propulsion (turbojets, turbofans, ramjets, rockets - solid and liquid fuel), materials (aluminum alloys, titanium, carbon fiber composites, ceramics), and structural analysis (finite element methods, fatigue, buckling). Flight systems encompass flight control (fly-by-wire), navigation (GPS, INS), and communication systems. Analysis tools include CFD software (ANSYS Fluent, STAR-CCM+), CAD systems (CATIA, SolidWorks), and MATLAB/Simulink. Applications span commercial aviation, space exploration, military defense, and satellite communications. Design considerations involve weight optimization, fuel efficiency, safety, reliability, and regulatory compliance.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Aerospace Engineering))\n    Aerodynamics\n      Lift and Drag\n      Flow Analysis\n      Wind Tunnels\n      Computational Fluid Dynamics\n    Flight Mechanics\n      Aircraft Performance\n      Stability and Control\n      Flight Dynamics\n      Navigation\n    Propulsion\n      Jet Engines\n      Rockets\n      Propellants\n      Thrust Generation\n    Aircraft Structures\n      Airframe Design\n      Composite Materials\n      Stress Analysis\n      Fatigue\n    Avionics\n      Flight Control Systems\n      Navigation Systems\n      Communication Systems\n      Instrumentation\n    Orbital Mechanics\n      Orbital Dynamics\n      Satellite Design\n      Launch Systems\n      Mission Planning\n    Space Systems\n      Spacecraft Design\n      Life Support\n      Re-entry\n      Space Exploration\n    Manufacturing\n      Aircraft Production\n      Quality Control\n      Materials Processing\n      Assembly",
+            "complexity": "high",
+            "tags": [
+                "aerospace_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

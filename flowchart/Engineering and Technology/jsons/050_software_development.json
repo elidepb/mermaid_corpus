@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "050",
+            "topic": "Software Development",
+            "category": "computer_science",
+            "description": "Software Development is the systematic process of designing, creating, testing, and maintaining software applications through structured methodologies that transform requirements into functional programs. It begins with requirements gathering, eliciting stakeholder needs, documenting functional and non-functional requirements, and establishing acceptance criteria. System design translates requirements into architecture defining components, interfaces, data structures, and technology stack decisions. Implementation involves writing code following coding standards, design patterns, and best practices using chosen programming languages and frameworks. Unit testing verifies individual components function correctly through automated test cases covering edge cases and error conditions. Integration testing ensures components work together properly, identifying interface issues and data flow problems. System testing validates the complete application meets requirements through functional, performance, security, and usability testing. Deployment releases software to production environments using continuous integration/continuous deployment pipelines with rollback capabilities. Maintenance and evolution addresses bug fixes, performance optimization, feature enhancements, and technical debt management. The goal is delivering high-quality, maintainable software that solves user problems efficiently while adapting to changing requirements and technologies.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SD[Software Development] --> SDLC[Software Development Life Cycle]\n    SD --> Methodologies[Development Methodologies]\n    SD --> Tools[Common Tools]\n\n    SDLC --> Planning[Planning]\n    SDLC --> Requirements[Requirements Analysis]\n    SDLC --> Design[Design]\n    SDLC --> Implementation[Implementation]\n    SDLC --> Testing[Testing]\n    SDLC --> Deployment[Deployment]\n    SDLC --> Maintenance[Maintenance]\n\n    Methodologies --> Waterfall[Waterfall]\n    Methodologies --> Agile[Agile]\n    Methodologies --> Scrum[Scrum]\n    Methodologies --> Kanban[Kanban]\n    Methodologies --> DevOps[DevOps]\n\n    Tools --> VCS[Version Control Systems]\n    Tools --> IDEs[Integrated Development Environments]\n    Tools --> CI-CD[CI/CD Tools]\n    Tools --> PM[Project Management Tools]",
+            "complexity": "medium",
+            "tags": ["software_development", "computer_science", "sdlc", "agile", "devops"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

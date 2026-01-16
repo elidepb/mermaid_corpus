@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Behavioral Finance",
+            "category": "Business",
+            "description": "Behavioral Finance is the interdisciplinary study of psychological influences and cognitive biases affecting financial decision-making and market outcomes, challenging traditional rational actor assumptions. It begins with cognitive bias identification, recognizing systematic patterns of deviation from rationality including overconfidence, anchoring, availability heuristic, and confirmation bias. Emotional influence analysis examines how fear, greed, regret, and pride drive investment decisions and risk-taking behaviors. Market anomaly investigation studies phenomena inconsistent with efficient markets such as momentum effects, value premiums, calendar anomalies, and post-earnings drift. Investor behavior patterns reveal herding tendencies, disposition effects selling winners too early and holding losers too long, and mental accounting treating money differently based on origin or purpose. Psychological framework application employs prospect theory explaining asymmetric risk preferences, bounded rationality acknowledging cognitive limitations, and heuristics describing mental shortcuts. Intervention design develops nudges, choice architecture, and decision aids to improve financial outcomes. Empirical validation tests behavioral predictions using experimental methods and market data. The goal is to understand actual financial behavior, explain market inefficiencies, and design better investment processes and policies.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Behavioral Finance] --> B[Cognitive Biases]\n    B --> C[Anchoring]\n    B --> D[Confirmation Bias]\n    B --> E[Hindsight Bias]\n    B --> F[Overconfidence]\n\n    A --> G[Emotional Biases]\n    G --> H[Loss Aversion]\n    G --> I[Self-Control Bias]\n    G --> J[Status Quo Bias]\n    G --> K[Endowment Effect]\n\n    A --> L[Market Anomalies]\n    L --> M[Bubbles]\n    L --> N[Crashes]",
+            "complexity": "high",
+            "tags": ["behavioral_finance", "finance", "economics", "cognitive_biases", "emotional_biases"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

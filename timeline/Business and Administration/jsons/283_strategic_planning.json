@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Strategic Planning",
+            "category": "Business",
+            "description": "Strategic Planning evolved from military strategy to sophisticated business discipline. Sun Tzu's Art of War (500 BCE) and Clausewitz's military strategy (1830s) provided early strategic thinking frameworks. Alfred Chandler's Strategy and Structure (1962) established that organizational structure should follow strategy. Igor Ansoff's Corporate Strategy (1965) introduced systematic strategic planning and the growth matrix. The Boston Consulting Group developed the growth-share matrix (1970) for portfolio management. Michael Porter's competitive strategy framework (1980) revolutionized industry and competitive analysis with Five Forces and generic strategies. The balanced scorecard emerged from Kaplan and Norton (1992) to translate strategy into operational metrics. Blue Ocean Strategy by Kim and Mauborgne (2005) proposed creating uncontested market spaces. Agile strategic planning gained prominence in the 2010s emphasizing iterative approaches over rigid long-term plans. Today's strategic planning integrates digital transformation, ecosystem thinking, sustainability imperatives, and dynamic capabilities for rapid adaptation.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Strategic Planning\n    section Early Influences\n        5th Century BC : Sun Tzu's \"The Art of War\"\n        1911 : Frederick Taylor - Scientific Management\n    section Corporate Planning\n        1950s : Rise of corporate planning departments (e.g., General Electric)\n        1957 : SWOT Analysis\n        1965 : Igor Ansoff's \"Corporate Strategy\"\n    section Strategic Management\n        1970s : Boston Consulting Group's Growth-Share Matrix\n        1980s : Porter's Five Forces & Generic Strategies\n        1992 : Balanced Scorecard (Kaplan & Norton)\n    section Modern Approaches\n        2000s : Blue Ocean Strategy\n        2010s : Lean Startup & Agile Methodologies",
+            "complexity": "high",
+            "tags": [
+                "strategic_planning",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

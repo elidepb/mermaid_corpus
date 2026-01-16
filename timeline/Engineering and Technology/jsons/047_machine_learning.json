@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Machine Learning",
+            "category": "Engineering",
+            "description": "Machine Learning evolved from statistical theory to the foundation of modern AI systems. Early pattern recognition and statistical learning theory developed in the 1950s-1960s. The perceptron algorithm (1957) by Frank Rosenbaum introduced neural learning. Arthur Samuel coined machine learning (1959) while developing checkers-playing programs. The perceptron limitations paper (1969) by Minsky and Papert caused neural network decline. Expert systems dominated the 1970s-1980s using rule-based approaches. Backpropagation algorithm rediscovered (1986) enabled multi-layer neural network training. Support vector machines emerged (1990s) providing strong theoretical foundations. Random forests (2001) advanced ensemble methods. Deep learning renaissance began with unsupervised pretraining (2006) and GPU acceleration. ImageNet competition (2012) with AlexNet demonstrated deep learning's image recognition superiority. Word embeddings like Word2Vec (2013) revolutionized NLP. Generative adversarial networks (2014) enabled realistic data generation. Attention mechanisms and transformers (2017) transformed sequence modeling. Today's machine learning integrates foundation models, few-shot learning, federated learning, and automated machine learning (AutoML).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Machine Learning\n    section The Early Years\n        1950 : Alan Turing - The Turing Test\n        1952 : Arthur Samuel - Checkers program\n        1957 : Frank Rosenblatt - The Perceptron\n    section The 1960s-1980s\n        1967 : Nearest Neighbor algorithm\n        1979 : The Stanford Cart\n        1986 : Backpropagation algorithm popularized by Rumelhart, Hinton & Williams\n    section The 1990s: Statistical Learning\n        1995 : Support Vector Machines (SVMs)\n        1997 : IBM's Deep Blue\n    section The 2000s: The Rise of Big Data\n        2006 : Geoffrey Hinton - Deep Belief Networks (start of the \"Deep Learning\" revolution)\n    section The 2010s: The Deep Learning Era\n        2012 : AlexNet wins ImageNet\n        2014 : Generative Adversarial Networks (GANs)\n        2017 : Transformers (Attention is All You Need)",
+            "complexity": "high",
+            "tags": [
+                "machine_learning",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

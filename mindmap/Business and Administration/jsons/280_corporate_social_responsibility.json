@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "280",
+            "topic": "Corporate Social Responsibility",
+            "category": "Business",
+            "description": "Corporate Social Responsibility encompasses multidimensional commitments and practices for responsible business conduct. Environmental responsibility addresses climate change mitigation through carbon reduction, renewable energy adoption, and circular economy principles including waste minimization and recycling. Social responsibility promotes labor rights, workplace safety, diversity and inclusion, fair wages, and community development through education, health, and infrastructure support. Ethical governance establishes board oversight, anti-corruption policies, transparent decision-making, and stakeholder accountability mechanisms. Sustainable supply chains ensure responsible sourcing, supplier standards, conflict mineral avoidance, and fair trade practices. Employee engagement builds purpose-driven culture through volunteer programs, skills-based giving, and sustainability integration. CSR frameworks apply Global Reporting Initiative standards, UN Sustainable Development Goals alignment, ISO 26000 guidance, and B Corporation certification. Impact investing directs capital toward ventures generating measurable social and environmental benefits alongside financial returns.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Corporate Social Responsibility))\n    Pillars\n      Economic\n      Social\n      Environmental\n      Governance\n    Initiatives\n      Sustainability\n      Community Investment\n      Ethical Practices\n      Philanthropy\n    Reporting\n      GRI Standards\n      ESG Metrics\n      Transparency\n    Stakeholders\n      Employees\n      Customers\n      Communities\n      Investors\n    Impact\n      Reputation\n      Risk Management\n      Long-term Value",
+            "complexity": "high",
+            "tags": [
+                "corporate_social_responsibility",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "290",
+      "topic": "Revenue Management",
+      "category": "Business",
+      "description": "Revenue Management is the strategic optimization of pricing and inventory allocation to maximize revenue by selling the right product to the right customer at the right time for the right price. It begins with demand forecasting, predicting customer demand patterns using historical data, market trends, booking curves, and external factors. Market segmentation divides customers into groups with distinct willingness-to-pay, price sensitivity, and booking behaviors. Price optimization determines optimal pricing strategies across segments, channels, and time periods using dynamic pricing algorithms. Inventory allocation controls availability by segment and channel, protecting capacity for high-value customers while filling remaining inventory. Distribution channel management balances direct and indirect channels considering costs, reach, and customer preferences. Performance monitoring tracks key metrics including revenue per available unit, occupancy/load factors, and average daily rate. Competitive intelligence analyzes competitor pricing, availability, and market positioning to inform strategic adjustments. The goal is maximizing total revenue through sophisticated demand-based pricing that captures consumer surplus while optimizing capacity utilization across perishable inventory.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    RevenueManagement[Revenue Management] --> DataCollection[Data Collection]\n    RevenueManagement --> Segmentation[Segmentation]\n    RevenueManagement --> Forecasting[Forecasting]\n    RevenueManagement --> Optimization[Optimization]\n    DataCollection --> Historical[Historical Data]\n    DataCollection --> Market[Market Data]\n    Segmentation --> CustomerBehavior[Customer Behavior]\n    Forecasting --> Demand[Demand Forecasting]\n    Optimization --> Pricing[Pricing]\n    Optimization --> Inventory[Inventory Control]",
+      "complexity": "high",
+      "tags": [
+        "revenue_management",
+        "business",
+        "marketing",
+        "pricing",
+        "forecasting"
+      ],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

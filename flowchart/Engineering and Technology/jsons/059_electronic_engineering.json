@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Electronic Engineering",
+            "category": "engineering",
+            "description": "Electronic Engineering is the discipline focused on designing, developing, and testing electronic circuits, devices, and systems that process and control electrical signals. Its primary purpose is to create intelligent electronic solutions for communication, computation, and control applications. Core domains include: analog electronics (amplifiers, oscillators, filters, analog signal conditioning), digital electronics (logic gates, microprocessors, memory systems, digital signal processing), microelectronics (integrated circuits, semiconductor devices, chip design), and embedded systems (microcontrollers, firmware, IoT devices). Design methodology involves circuit design, PCB layout, simulation (SPICE), prototyping, and testing. These elements converge through solid-state physics, circuit theory, and programming to produce compact, efficient, and sophisticated electronic products for consumer devices, telecommunications, computing, and automation systems.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ElecE[Electronic Engineering] --> Devices[Semiconductor Devices]\n    ElecE --> Analog[Analog Circuits]\n    ElecE --> Digital[Digital Circuits]\n    ElecE --> Micro[Microelectronics]\n    ElecE --> Comm[Communications]\n\n    Devices --> Diodes[Diodes]\n    Devices --> Transistors[Transistors]\n    Devices --> OpAmps[Operational Amplifiers]\n\n    Transistors --> BJT[Bipolar Junction Transistor]\n    Transistors --> FET[Field-Effect Transistor]\n\n    Analog --> Amplifiers[Amplifiers]\n    Analog --> Filters[Filters]\n    Analog --> Oscillators[Oscillators]\n\n    Digital --> Logic[Logic Gates]\n    Digital --> FlipFlops[Flip-Flops]\n    Digital --> Microprocessors[Microprocessors]\n    Digital --> FPGAs[FPGAs]\n\n    Micro --> VLSI[VLSI Design]\n    Micro --> Fabrication[Semiconductor Fabrication]\n\n    Comm --> Modulation[Modulation]\n    Comm --> Antennas[Antennas]",
+            "complexity": "medium",
+            "tags": ["electronic_engineering", "engineering", "semiconductors", "analog_circuits", "digital_circuits"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

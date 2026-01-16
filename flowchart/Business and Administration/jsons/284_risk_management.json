@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Risk Management",
+            "category": "Business",
+            "description": "Risk Management is the systematic identification, assessment, and mitigation of uncertainties that could adversely affect organizational objectives, assets, or operations. It begins with risk identification, discovering potential threats across strategic, operational, financial, and compliance domains through workshops, checklists, and historical analysis. Risk assessment evaluates likelihood and impact of identified risks using qualitative scales or quantitative probability distributions. Risk prioritization ranks threats based on severity, urgency, and organizational risk appetite to focus resources effectively. Risk response planning develops strategies including avoidance, reduction, transfer through insurance or contracts, and acceptance with contingency plans. Control implementation deploys preventive and detective measures including policies, procedures, technology controls, and monitoring systems. Risk monitoring tracks indicators, reviews control effectiveness, and identifies emerging threats through continuous surveillance. Communication and reporting inform stakeholders about risk exposures, mitigation efforts, and residual risks. The goal is to minimize losses, protect assets, ensure business continuity, and enable informed risk-taking that supports strategic objectives.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Risk Management Process] --> B[1. Identify Risks]\n    B --> C[Market Risks]\n    B --> D[Credit Risks]\n    B --> E[Operational Risks]\n\n    A --> F[2. Analyze Risks]\n    F --> G[Qualitative Analysis]\n    F --> H[Quantitative Analysis]\n\n    A --> I[3. Evaluate Risks]\n    I --> J[Risk Appetite]\n    I --> K[Risk Tolerance]\n\n    A --> L[4. Treat Risks]\n    L --> M[Avoidance]\n    L --> N[Mitigation]\n    L --> O[Transfer]\n    L --> P[Acceptance]\n\n    A --> Q[5. Monitor & Review Risks]",
+            "complexity": "high",
+            "tags": ["risk_management", "business", "finance", "risk_analysis", "risk_treatment"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

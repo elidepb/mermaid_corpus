@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "071",
+            "topic": "Telecommunications Engineering",
+            "category": "Engineering",
+            "description": "Telecommunications Engineering encompasses diverse transmission technologies and network architectures. Transmission media include optical fiber (single-mode, multi-mode), copper cables (twisted pair, coaxial), and wireless channels (radio waves, microwaves, millimeter waves). Modulation techniques span amplitude modulation (AM), frequency modulation (FM), phase modulation (PM), and digital modulations (QAM, PSK, FSK, OFDM). Network technologies feature circuit switching, packet switching, ATM, MPLS, and software-defined networking (SDN). Wireless systems include cellular generations (2G GSM, 3G UMTS, 4G LTE, 5G NR), Wi-Fi standards (802.11a/b/g/n/ac/ax), Bluetooth, satellite communications (GEO, LEO, MEO), and microwave links. Signal processing involves source coding, channel coding (FEC, turbo codes, LDPC), multiplexing (TDM, FDM, WDM, CDMA), and encryption. Network protocols encompass physical layer, data link layer (Ethernet, PPP), network layer (IP, ICMP), transport layer (TCP, UDP), and application layer (HTTP, FTP, DNS). Equipment includes routers, switches, base stations, antennas, optical transceivers, and network analyzers. Applications cover voice communication, internet services, video streaming, mobile broadband, IoT connectivity, and enterprise networks.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Telecommunications Engineering))\n    Signal Theory\n      Analog Signals\n      Digital Signals\n      Modulation\n      Multiplexing\n    Transmission Systems\n      Wired Transmission\n      Wireless Transmission\n      Fiber Optics\n      Satellite Communications\n    Network Architecture\n      Network Topology\n      Protocols\n      Switching\n      Routing\n    Mobile Communications\n      Cellular Networks\n      5G Technology\n      Mobile Devices\n      Handoff\n    Data Communications\n      Error Detection\n      Error Correction\n      Compression\n      Encryption\n    Broadcasting\n      Radio Broadcasting\n      Television\n      Digital Broadcasting\n      Streaming\n    Antenna Systems\n      Antenna Design\n      Propagation\n      Antenna Arrays\n      Microwave Antennas\n    Network Management\n      Performance Monitoring\n      Quality of Service\n      Traffic Management\n      Network Security",
+            "complexity": "high",
+            "tags": [
+                "telecommunications_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

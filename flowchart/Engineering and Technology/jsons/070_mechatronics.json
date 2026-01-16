@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "070",
+            "topic": "Mechatronics",
+            "category": "engineering",
+            "description": "Mechatronics is the synergistic integration of mechanical engineering, electronics, computer science, and control engineering to design intelligent systems and products. Its primary objective is to create smart, automated systems that combine mechanical precision with electronic control and computational intelligence. Core domains include: mechanical systems (mechanisms, actuators, structural design, kinematics), electronics & sensors (circuits, microcontrollers, sensor integration, signal conditioning), control systems (feedback control, PID controllers, motion control, automation), embedded systems (microprocessor programming, real-time systems, firmware development), and system integration (interdisciplinary design, interface development, optimization). The design methodology involves conceptual design, modeling and simulation, prototyping, testing, and system optimization. These elements converge through systems thinking, dynamic modeling, and integrated design to produce robots, automated manufacturing systems, smart consumer products, automotive systems, and precision instruments that enhance efficiency, accuracy, and functionality.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    Mechatronics --> Mechanical[Mechanical Systems]\n    Mechatronics --> Electrical[Electrical Systems]\n    Mechatronics --> CS[Computer Science]\n    Mechatronics --> Control[Control Engineering]\n\n    Mechanical --> Mechanisms[Mechanisms]\n    Mechanical --> CAD[CAD/CAM]\n\n    Electrical --> Electronics[Electronics]\n    Electrical --> Actuators[Actuators]\n    Electrical --> Sensors[Sensors]\n\n    CS --> Programming[Programming]\n    CS --> Microcontrollers[Microcontrollers]\n    CS --> RealTime[Real-Time Systems]\n\n    Control --> Modeling[System Modeling]\n    Control --> Controllers[Controllers]\n    Control --> SignalProcessing[Signal Processing]\n\n    Mechatronics --> Applications[Applications]\n    Applications --> Robotics[Robotics]\n    Applications --> Automation[Automation]\n    Applications --> Automotive[Automotive Systems]\n    Applications --> Aerospace[Aerospace Systems]",
+            "complexity": "medium",
+            "tags": ["mechatronics", "engineering", "robotics", "automation", "control_systems"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

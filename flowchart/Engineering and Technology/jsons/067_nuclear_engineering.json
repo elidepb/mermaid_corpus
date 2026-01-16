@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "067",
+            "topic": "Nuclear Engineering",
+            "category": "engineering",
+            "description": "Nuclear Engineering is the discipline that applies principles of nuclear physics and radiation science to develop technologies for energy production, medical applications, and industrial processes. Its primary objective is to harness nuclear reactions safely and efficiently for power generation, medical treatments, research, and national security applications. Core domains include: nuclear reactor design (fission reactors, reactor physics, core design, thermal-hydraulics), radiation protection (shielding, dosimetry, health physics, safety protocols), nuclear fuel cycle (enrichment, fabrication, reprocessing, waste management), nuclear materials (uranium, plutonium, control materials, structural materials), and radiation applications (medical imaging, cancer therapy, industrial radiography, materials analysis). The engineering process involves reactor physics calculations, safety analysis, materials testing, regulatory compliance, and operational management. These elements converge through neutron physics, thermodynamics, and materials science to produce nuclear power plants, medical isotopes, research reactors, and radiation-based technologies that provide clean energy and advanced medical treatments.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    NE[Nuclear Engineering] --> Physics[Nuclear Physics]\n    NE --> Reactors[Nuclear Reactors]\n    NE --> Safety[Nuclear Safety]\n    NE --> Waste[Radioactive Waste Management]\n    NE --> Applications[Applications]\n\n    Physics --> Radioactivity[Radioactivity]\n    Physics --> Fission[Nuclear Fission]\n    Physics --> Fusion[Nuclear Fusion]\n\n    Reactors --> Types[Reactor Types]\n    Reactors --> Fuel[Nuclear Fuel Cycle]\n    Reactors --> Operation[Reactor Operation]\n\n    Types --> PWR[Pressurized Water Reactor]\n    Types --> BWR[Boiling Water Reactor]\n    Types --> CANDU[CANDU Reactor]\n    Types --> GenIV[Generation IV Reactors]\n\n    Safety --> Shielding[Radiation Shielding]\n    Safety --> Redundancy[Redundancy & Diversity]\n    Safety --> Proliferation[Non-Proliferation]\n\n    Waste --> Storage[Storage]\n    Waste --> Disposal[Disposal]\n\n    Applications --> Power[Power Generation]\n    Applications --> Medicine[Medical Applications]\n    Applications --> Industry[Industrial Applications]",
+            "complexity": "medium",
+            "tags": ["nuclear_engineering", "engineering", "nuclear_reactors", "nuclear_fission", "nuclear_safety"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

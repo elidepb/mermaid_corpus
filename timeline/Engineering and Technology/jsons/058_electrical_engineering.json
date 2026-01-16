@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "058",
+            "topic": "Electrical Engineering",
+            "category": "Engineering",
+            "description": "Electrical engineering's foundations began in the 1600s with William Gilbert's studies of electricity and magnetism. The 1800s marked rapid advancement: Alessandro Volta invented the battery (1800), Michael Faraday discovered electromagnetic induction (1831), and James Clerk Maxwell formulated electromagnetic theory (1865). 1879 brought Edison's practical incandescent light bulb. The 1880s saw the War of Currents between Edison's DC and Tesla's AC systems, with AC ultimately prevailing. 1888 introduced Nikola Tesla's induction motor and transformer innovations. The early 1900s established power grids and long-distance transmission. 1947 witnessed the transistor invention, bridging electrical and electronics. The 1960s-70s brought integrated circuits and digital systems. The 1980s-90s saw power electronics advancement and renewable energy integration. The 2000s-2020s continue with smart grids, energy storage systems, electric vehicles, and sustainable power solutions becoming mainstream.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Electrical Engineering\n    section: 19th Century - The Age of Discovery\n        1800: Alessandro Volta - Electric battery\n        1831: Michael Faraday - Electromagnetic induction\n        1879: Thomas Edison - Incandescent light bulb\n        1882: The \"War of the Currents\" (AC vs. DC)\n        1888: Nikola Tesla - AC motor\n    section: Early 20th Century - The Rise of Electronics\n        1901: Guglielmo Marconi - First transatlantic radio transmission\n        1904: John Ambrose Fleming - Vacuum tube diode\n        1920s: The first television systems\n    section: Mid-20th Century - The Digital Revolution\n        1947: The transistor is invented at Bell Labs\n        1958: The integrated circuit (IC) is invented\n        1971: The microprocessor is invented\n    section: Late 20th & 21st Century\n        1980s: Rise of personal computers and digital signal processing (DSP)\n        1990s: The Internet and wireless communication\n        2000s: Proliferation of mobile devices\n        2010s: Renewable energy and smart grids",
+            "complexity": "high",
+            "tags": [
+                "electrical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

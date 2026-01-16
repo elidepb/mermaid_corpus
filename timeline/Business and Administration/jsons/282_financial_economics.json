@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Financial Economics",
+            "category": "Business",
+            "description": "Financial Economics evolved from descriptive finance to rigorous mathematical discipline. Irving Fisher's The Theory of Interest (1930) established intertemporal choice foundations. Portfolio theory revolutionized investing when Harry Markowitz introduced mean-variance optimization (1952), earning a Nobel Prize. The Modigliani-Miller theorems (1958) proved capital structure irrelevance under perfect markets. The Capital Asset Pricing Model emerged simultaneously from Sharpe (1964), Lintner, and Mossin, quantifying systematic risk. The Efficient Market Hypothesis formalized by Fama (1970) sparked decades of debate about market predictability. Black-Scholes option pricing model (1973) transformed derivatives markets and earned Nobel recognition. Arbitrage Pricing Theory developed by Ross (1976) provided multifactor alternative to CAPM. Behavioral finance gained prominence in the 1980s-1990s through Kahneman and Tversky's prospect theory. The 2008 financial crisis highlighted systemic risk and model limitations. Today's financial economics integrates machine learning, high-frequency data analysis, and climate finance considerations.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Financial Economics\n    section Early Foundations\n        1900 : Louis Bachelier's \"The Theory of Speculation\"\n        1936 : John Maynard Keynes - \"The General Theory of Employment, Interest and Money\"\n    section Mid-20th Century: Modern Portfolio Theory\n        1952 : Harry Markowitz - Portfolio Selection\n        1964 : William F. Sharpe - Capital Asset Pricing Model (CAPM)\n        1970 : Eugene Fama - Efficient Market Hypothesis (EMH)\n    section Late 20th Century: Derivatives and Behavioral Finance\n        1973 : Black-Scholes-Merton model for option pricing\n        1979 : Daniel Kahneman & Amos Tversky - Prospect Theory\n        1990s : Rise of hedge funds and complex derivatives\n    section 21st Century\n        2008 : Global Financial Crisis challenges existing models\n        2010s : Focus on systemic risk, regulation, and FinTech",
+            "complexity": "high",
+            "tags": [
+                "financial_economics",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

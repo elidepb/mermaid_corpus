@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Risk Management",
+            "category": "Business",
+            "description": "Risk Management evolved from insurance-based protection to comprehensive enterprise-wide discipline. Early risk management focused on property and casualty insurance in the industrial era (1800s-early 1900s). Risk management emerged as corporate function in the 1950s-1960s, initially focused on insurable risks. Financial risk management advanced with derivatives markets growth in the 1970s-1980s, using futures and options for hedging. The concept of Value at Risk gained prominence in the 1990s for quantifying market risk exposure. Enterprise Risk Management frameworks emerged in the late 1990s-early 2000s, integrating risk oversight across organizations. The COSO ERM framework (2004) and ISO 31000 standard (2009) provided structured methodologies. The 2008 financial crisis highlighted systemic risk interconnections and model limitations. Sarbanes-Oxley (2002) and Basel accords strengthened risk governance requirements. Operational resilience and cyber risk became priorities in the 2010s. Today's risk management integrates AI-powered analytics, climate risk assessment, and third-party risk monitoring.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Risk Management\n    section Pre-20th Century\n        Ancient Times : Early forms of insurance & risk pooling (e.g., Babylonian bottomry contracts)\n        17th Century : Probability theory (Pascal, Fermat)\n    section Early-to-Mid 20th Century\n        1950s : Modern Portfolio Theory (Markowitz)\n        1960s : Development of decision theory & risk analysis\n    section Late 20th Century\n        1970s : Rise of financial derivatives for hedging\n        1980s : Value at Risk (VaR) models\n        1992 : COSO framework for internal controls\n    section 21st Century\n        2000s : Enterprise Risk Management (ERM)\n        2009 : ISO 31000 - Risk management standard\n        2010s : Focus on operational risk, cybersecurity, and systemic risk",
+            "complexity": "high",
+            "tags": [
+                "risk_management",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

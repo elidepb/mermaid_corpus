@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "074",
+            "topic": "Nanotechnology",
+            "category": "Engineering/Science",
+            "description": "Nanotechnology encompasses diverse material types and applications. Nanomaterials include carbon-based structures (fullerenes, carbon nanotubes, graphene, nanodiamonds), metal nanoparticles (gold, silver, platinum, iron oxide), semiconductor quantum dots (CdSe, CdTe, perovskites), polymeric nanoparticles, dendrimers, and nanocomposites. Fabrication methods span top-down techniques (photolithography, electron beam lithography, focused ion beam, nanoimprint lithography) and bottom-up approaches (chemical vapor deposition, sol-gel synthesis, molecular self-assembly, atomic layer deposition). Characterization tools include transmission electron microscopy (TEM), scanning electron microscopy (SEM), atomic force microscopy (AFM), scanning tunneling microscopy (STM), X-ray diffraction, and dynamic light scattering. Applications cover electronics (flexible displays, quantum computing, memory devices), energy (solar cells, batteries, fuel cells, supercapacitors), medicine (targeted drug delivery, cancer therapy, biosensors, tissue engineering), environmental (water purification, air filtration, catalysis), and materials (coatings, textiles, composites). Safety considerations involve toxicity assessment, environmental impact, occupational exposure limits, and regulatory frameworks. Emerging areas include nanobots, DNA nanotechnology, quantum dots for displays, and nanorobotics for medicine.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Nanotechnology))\n    Nanomaterials\n      Nanoparticles\n      Nanotubes\n      Nanowires\n      Quantum Dots\n      Graphene\n    Synthesis Methods\n      Top-down Approach\n      Bottom-up Approach\n      Self-assembly\n      Chemical Vapor Deposition\n    Characterization\n      Electron Microscopy\n      Scanning Probe Microscopy\n      Spectroscopy\n      X-ray Diffraction\n    Properties\n      Size Effects\n      Surface Area\n      Quantum Effects\n      Optical Properties\n    Applications\n      Electronics\n      Medicine\n      Energy\n      Environmental\n      Materials\n    Nanofabrication\n      Lithography\n      Etching\n      Deposition\n      Patterning\n    Nanoelectronics\n      Transistors\n      Memory Devices\n      Sensors\n      Quantum Computing\n    Safety and Ethics\n      Toxicity\n      Environmental Impact\n      Regulations\n      Risk Assessment",
+            "complexity": "high",
+            "tags": [
+                "nanotechnology",
+                "engineering",
+                "science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

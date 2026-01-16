@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Biomedical Engineering",
+            "category": "Engineering",
+            "description": "Biomedical Engineering encompasses diverse specializations and technologies. Medical devices include diagnostic tools (ECG, EEG, blood glucose monitors), therapeutic equipment (pacemakers, defibrillators, insulin pumps, ventilators), and surgical instruments (robotic surgery systems, laparoscopic tools). Imaging modalities span X-ray, CT, MRI, ultrasound, PET scans, and optical imaging. Biomaterials include metals (titanium, stainless steel), polymers (PEEK, silicone), ceramics (hydroxyapatite), and natural materials. Tissue engineering involves cell culture, scaffolds, bioreactors, and regenerative medicine approaches. Biomechanics covers gait analysis, prosthetic limbs, orthopedic implants, and cardiac mechanics. Neural engineering encompasses brain-computer interfaces, neural prosthetics, and neurostimulation devices. Bioinformatics includes genomics, proteomics, medical data mining, and clinical decision support systems. Regulatory aspects involve FDA approval processes, ISO standards, clinical trials, and quality management. Emerging technologies feature nanomedicine, 3D bioprinting, wearable sensors, telemedicine platforms, and personalized medicine approaches.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Biomedical Engineering))\n    Medical Imaging\n      X-ray and CT\n      MRI\n      Ultrasound\n      PET and SPECT\n    Biomechanics\n      Tissue Mechanics\n      Joint Mechanics\n      Gait Analysis\n      Prosthetics and Orthotics\n    Biomaterials\n      Biocompatibility\n      Implant Materials\n      Tissue Engineering Scaffolds\n      Drug Delivery Systems\n    Medical Devices\n      Diagnostic Devices\n      Therapeutic Devices\n      Surgical Instruments\n      Monitoring Systems\n    Tissue Engineering\n      Cell Culture\n      Scaffolds\n      Regenerative Medicine\n      Organ Engineering\n    Bioinstrumentation\n      Biosensors\n      Signal Processing\n      Data Acquisition\n      Wearable Devices\n    Rehabilitation Engineering\n      Assistive Technology\n      Prosthetics\n      Wheelchairs\n      Accessibility\n    Regulatory Affairs\n      FDA Approval\n      Clinical Trials\n      Quality Standards\n      Safety Testing",
+            "complexity": "high",
+            "tags": [
+                "biomedical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

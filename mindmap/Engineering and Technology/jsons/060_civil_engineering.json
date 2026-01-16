@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Civil Engineering",
+            "category": "Engineering",
+            "description": "Civil Engineering encompasses diverse specializations and technical areas. Structural engineering covers steel structures, concrete design, timber construction, and load analysis. Transportation engineering includes highway design, traffic engineering, pavement design, and transit systems. Water resources involve hydraulics, hydrology, drainage systems, irrigation, and coastal engineering. Geotechnical engineering addresses soil investigation, foundation design (shallow and deep), retaining walls, and slope stability. Environmental engineering focuses on water treatment, wastewater systems, solid waste management, and air quality. Construction management encompasses project planning, scheduling (CPM, PERT), cost estimation, and quality control. Key tools include CAD software (AutoCAD Civil 3D), structural analysis programs (SAP2000, ETABS), and BIM (Building Information Modeling). Materials used span concrete, steel, asphalt, timber, and geosynthetics. Professional responsibilities include safety compliance, building codes, sustainability practices, and public welfare considerations.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Civil Engineering))\n    Structural Engineering\n      Building Design\n      Bridge Design\n      Structural Analysis\n      Load Calculations\n    Geotechnical Engineering\n      Soil Mechanics\n      Foundations\n      Slope Stability\n      Retaining Walls\n    Transportation Engineering\n      Highway Design\n      Traffic Engineering\n      Pavement Design\n      Transportation Planning\n    Water Resources\n      Hydrology\n      Hydraulics\n      Drainage Systems\n      Water Supply\n    Construction Management\n      Project Planning\n      Scheduling\n      Cost Estimation\n      Quality Control\n    Materials\n      Concrete\n      Steel\n      Asphalt\n      Composite Materials\n    Surveying\n      Land Surveying\n      GPS\n      Leveling\n      Mapping\n    Environmental Engineering\n      Waste Management\n      Water Treatment\n      Air Quality\n      Sustainability",
+            "complexity": "high",
+            "tags": [
+                "civil_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

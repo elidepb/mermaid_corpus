@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "068",
+            "topic": "Environmental Engineering",
+            "category": "Engineering",
+            "description": "Environmental Engineering encompasses multiple technical specializations and approaches. Water treatment processes include coagulation-flocculation, sedimentation, filtration, disinfection (chlorination, UV, ozonation), membrane technologies (reverse osmosis, ultrafiltration), and advanced oxidation processes. Wastewater treatment involves primary treatment (screening, grit removal), secondary treatment (activated sludge, trickling filters, biofilms), tertiary treatment (nutrient removal, advanced filtration), and sludge management. Air pollution control technologies span particulate removal (cyclones, electrostatic precipitators, baghouses), gas treatment (scrubbers, catalytic converters, adsorption), and emission monitoring systems. Solid waste management includes waste characterization, collection systems, landfill design, incineration, composting, and recycling programs. Remediation technologies feature soil vapor extraction, bioremediation, phytoremediation, pump-and-treat systems, and chemical oxidation. Environmental monitoring uses sensors, GIS mapping, remote sensing, and laboratory analysis. Regulatory frameworks involve EPA standards, Clean Water Act, Clean Air Act, RCRA, and international environmental protocols. Emerging areas include green infrastructure, climate change adaptation, carbon sequestration, and nature-based solutions.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Environmental Engineering))\n    Water Treatment\n      Physical Treatment\n      Chemical Treatment\n      Biological Treatment\n      Advanced Oxidation\n    Wastewater Treatment\n      Primary Treatment\n      Secondary Treatment\n      Tertiary Treatment\n      Sludge Management\n    Air Quality\n      Air Pollution\n      Emission Control\n      Air Monitoring\n      Clean Air Standards\n    Solid Waste Management\n      Collection\n      Recycling\n      Composting\n      Landfills\n      Waste-to-energy\n    Environmental Remediation\n      Soil Remediation\n      Groundwater Treatment\n      Site Assessment\n      Bioremediation\n    Sustainability\n      Green Engineering\n      Life Cycle Assessment\n      Carbon Footprint\n      Renewable Energy\n    Environmental Impact\n      EIA Studies\n      Risk Assessment\n      Regulatory Compliance\n      Pollution Prevention\n    Climate Change\n      Mitigation Strategies\n      Adaptation\n      Carbon Capture\n      Climate Modeling",
+            "complexity": "high",
+            "tags": [
+                "environmental_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

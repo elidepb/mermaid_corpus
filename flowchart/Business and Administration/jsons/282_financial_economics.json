@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Financial Economics",
+            "category": "Economics/Business",
+            "description": "Financial Economics is the rigorous application of economic theory and quantitative methods to analyze financial markets, asset pricing, and investment decisions under uncertainty. It begins with market analysis, examining supply and demand dynamics, price formation mechanisms, and market efficiency characteristics. Asset pricing theory establishes valuation frameworks through Capital Asset Pricing Model, Arbitrage Pricing Theory, and factor models that explain expected returns. Portfolio optimization applies mean-variance analysis, efficient frontier construction, and risk-return tradeoff evaluation to build optimal asset allocations. Risk assessment quantifies market risk, credit risk, and liquidity risk using statistical measures like volatility, Value at Risk, and conditional value at risk. Derivative pricing values options, futures, and complex securities through Black-Scholes models, binomial trees, and Monte Carlo simulation. Behavioral analysis examines market anomalies, investor psychology, and deviations from rationality. Empirical testing validates theories using econometric methods and historical data. The goal is to understand financial phenomena, make informed investment decisions, and design efficient financial systems.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Financial Economics] --> B[Time Value of Money]\n    B --> C[Present Value]\n    B --> D[Future Value]\n\n    A --> E[Risk & Return]\n    E --> F[Expected Return]\n    E --> G[Standard Deviation]\n    E --> H[Beta]\n\n    A --> I[Asset Pricing]\n    I --> J[CAPM]\n    I --> K[APT]\n\n    A --> L[Market Efficiency]\n    L --> M[Weak Form]\n    L --> N[Semi-Strong Form]\n    L --> O[Strong Form]",
+            "complexity": "high",
+            "tags": ["financial_economics", "economics", "finance", "asset_pricing", "market_efficiency"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

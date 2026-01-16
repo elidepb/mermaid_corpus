@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "056",
+            "topic": "Robotics Engineering",
+            "category": "Engineering",
+            "description": "Robotics engineering history began in the 1920s with Karel Čapek introducing the term robot in his play R.U.R. The 1950s saw the first programmable robot (Unimate) and Isaac Asimov's Three Laws of Robotics. 1961 marked Unimate's deployment in a GM factory, starting industrial robotics. The 1970s brought Stanford Cart and early mobile robots with computer vision. 1980s witnessed SCARA robots and enhanced manufacturing automation. 1997 introduced Mars Pathfinder's Sojourner rover and Honda's ASIMO humanoid development. The 2000s saw autonomous vehicles (DARPA Grand Challenge 2004), commercial drones, and surgical robots (da Vinci). The 2010s advanced collaborative robots (cobots), AI integration, and Boston Dynamics' dynamic robots. The 2020s continue with autonomous delivery systems, soft robotics, and human-robot collaboration becoming mainstream.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Robotics\n    section Early Concepts & Automata\n        1495 : Leonardo da Vinci's mechanical knight\n        1921 : The term \"robot\" is coined in Karel Čapek's play \"R.U.R.\"\n        1942 : Isaac Asimov's \"Three Laws of Robotics\"\n    section The First Industrial Robots\n        1954 : George Devol patents the first programmable robot, \"Unimate\"\n        1961 : Unimate is installed on a General Motors assembly line\n        1978 : The PUMA (Programmable Universal Machine for Assembly) arm is developed\n    section The 1980s-1990s: Mobile and Autonomous Robots\n        1980s : Growth in research on mobile robots\n        1997 : The Sojourner rover lands on Mars\n    section The 2000s: The Robotic Revolution\n        2000 : Honda's ASIMO humanoid robot\n        2002 : iRobot's Roomba vacuum cleaner\n        2005 : Stanley, a self-driving car, wins the DARPA Grand Challenge\n    section The 2010s: AI and Collaboration\n        2010s : Rise of collaborative robots (cobots)\n        2010s : Deep learning revolutionizes robot vision and control",
+            "complexity": "high",
+            "tags": [
+                "robotics_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

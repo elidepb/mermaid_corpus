@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Materials Engineering",
+            "category": "Engineering",
+            "description": "Materials Engineering encompasses diverse material types and applications. Metals include ferrous alloys (steel, cast iron, stainless steel), non-ferrous alloys (aluminum, titanium, copper, magnesium), and superalloys for high-temperature applications. Ceramics span traditional ceramics (clay, porcelain), advanced ceramics (alumina, silicon carbide, zirconia), and glass materials. Polymers include thermoplastics (polyethylene, polypropylene, PVC, nylon), thermosets (epoxy, polyester), and elastomers (rubber). Composite materials feature fiber-reinforced composites (carbon fiber, glass fiber), metal matrix composites, and ceramic matrix composites. Processing techniques involve casting, forging, rolling, extrusion, powder metallurgy, additive manufacturing, and thin film deposition. Characterization tools include SEM, TEM, XRD, XPS, AFM, and various mechanical testing methods (tensile, hardness, fatigue, fracture toughness). Properties of interest span mechanical (strength, ductility, toughness), thermal (conductivity, expansion), electrical (conductivity, resistivity), and chemical (corrosion resistance). Applications cover aerospace structures, automotive components, electronic devices, energy systems, biomedical implants, and construction materials.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Materials Engineering))\n    Material Classes\n      Metals\n      Ceramics\n      Polymers\n      Composites\n    Material Properties\n      Mechanical Properties\n      Thermal Properties\n      Electrical Properties\n      Optical Properties\n    Material Structure\n      Crystal Structure\n      Microstructure\n      Phase Diagrams\n      Defects\n    Processing\n      Casting\n      Forming\n      Heat Treatment\n      Surface Treatment\n    Characterization\n      Microscopy\n      Spectroscopy\n      Mechanical Testing\n      Thermal Analysis\n    Material Selection\n      Design Requirements\n      Performance Criteria\n      Cost Analysis\n      Sustainability\n    Advanced Materials\n      Nanomaterials\n      Smart Materials\n      Biomaterials\n      Electronic Materials\n    Failure Analysis\n      Fracture Mechanics\n      Fatigue\n      Corrosion\n      Wear",
+            "complexity": "high",
+            "tags": [
+                "materials_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

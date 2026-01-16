@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Risk Management",
+            "category": "Business",
+            "description": "Risk Management encompasses diverse risk categories, assessment methodologies, and mitigation strategies. Risk categories include strategic risks from competitive dynamics and market changes, operational risks from process failures and human errors, financial risks including market, credit, and liquidity exposures, compliance risks from regulatory violations, and reputational risks threatening brand value. Risk assessment methods apply qualitative techniques using risk matrices and expert judgment, quantitative approaches employing statistical models and Monte Carlo simulation, scenario analysis exploring multiple futures, and stress testing examining extreme conditions. Risk response strategies include avoidance eliminating risk exposure entirely, reduction implementing controls to lower probability or impact, transfer shifting risk through insurance or hedging, and acceptance retaining risk with contingency reserves. Enterprise Risk Management integrates risk oversight across organization through risk appetite frameworks, risk committees, and chief risk officer leadership. Business continuity planning ensures operational resilience through disaster recovery, crisis management, and backup systems. Risk metrics measure Value at Risk, expected shortfall, key risk indicators, and loss distributions to quantify exposures.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Risk Management))\n    Types\n      Financial\n      Operational\n      Strategic\n      Compliance\n      Reputational\n    Process\n      Identification\n      Assessment\n      Mitigation\n      Monitoring\n    Frameworks\n      COSO\n      ISO 31000\n      ERM\n    Strategies\n      Avoidance\n      Reduction\n      Transfer\n      Acceptance\n    Tools\n      Risk Register\n      Heat Maps\n      Scenario Analysis",
+            "complexity": "high",
+            "tags": [
+                "risk_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

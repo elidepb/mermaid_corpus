@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "290",
+            "topic": "Revenue Management",
+            "category": "Business",
+            "description": "Revenue Management encompasses analytical techniques, pricing strategies, and technology systems for yield optimization. Core concepts include perishable inventory with time-sensitive value, capacity constraints limiting available units, variable demand fluctuating by time and season, customer heterogeneity with diverse price sensitivities, and overbooking strategies accounting for cancellations and no-shows. Pricing strategies employ dynamic pricing adjusting by demand, yield management maximizing revenue per unit, price discrimination charging different segments differently, bundling combining products for value, and markdown optimization for clearance. Forecasting methods utilize time series analysis, regression models, machine learning algorithms, pickup analysis, and booking curve modeling. Revenue metrics measure RevPAR (revenue per available room), yield percentage, average daily rate, occupancy rates, and total revenue performance. Applications span airlines with seat inventory management, hotels optimizing room pricing, rental cars managing fleet utilization, events with ticketing strategies, and e-commerce with dynamic pricing. Technology systems deploy revenue management software, pricing engines, business intelligence platforms, and integration with reservation systems.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Revenue Management))\n    Principles\n      Pricing Optimization\n      Demand Forecasting\n      Capacity Management\n      Segmentation\n    Strategies\n      Dynamic Pricing\n      Yield Management\n      Overbooking\n    Industries\n      Airlines\n      Hotels\n      E-commerce\n      Events\n    Analytics\n      Historical Data\n      Market Trends\n      Price Elasticity\n    Tools\n      RMS Software\n      Algorithms\n      AI/ML",
+            "complexity": "high",
+            "tags": [
+                "revenue_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "045",
+            "topic": "Systems Engineering",
+            "category": "Engineering",
+            "description": "Systems Engineering encompasses processes, modeling techniques, and management approaches for complex system development. Systems thinking principles include holism viewing systems as integrated wholes, emergence where system properties arise from component interactions, hierarchy organizing systems into nested levels, boundaries defining system scope, and feedback loops enabling self-regulation. Requirements management employs requirements elicitation through interviews and workshops, requirements analysis for consistency and feasibility, requirements specification using structured documentation, requirements verification ensuring correctness, and requirements traceability linking to design elements. Modeling and simulation utilize Systems Modeling Language for architecture representation, functional flow diagrams showing processes, state machines capturing behavior, interface control documents defining connections, and digital twins for virtual testing. Integration strategies apply incremental integration building gradually, top-down starting from high-level, bottom-up from components, and continuous integration with automated testing. Lifecycle models include waterfall with sequential phases, V-model emphasizing verification, spiral for iterative development, and agile for adaptive approaches. Risk management identifies technical, schedule, and cost risks, assesses likelihood and impact, develops mitigation strategies, and monitors throughout lifecycle.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Systems Engineering))\n    Systems Thinking\n      Holistic Approach\n      Emergent Properties\n      Interconnections\n      Feedback Loops\n    Requirements Engineering\n      Stakeholder Analysis\n      Functional Requirements\n      Non-functional Requirements\n      Verification\n    System Architecture\n      Design Patterns\n      Modularity\n      Interfaces\n      Integration\n    Lifecycle Management\n      Concept Development\n      Design\n      Implementation\n      Operations\n      Retirement\n    Modeling and Simulation\n      System Models\n      UML/SysML\n      Simulation Tools\n      Digital Twins\n    Risk Management\n      Risk Identification\n      Risk Assessment\n      Mitigation Strategies\n      Contingency Planning\n    Optimization\n      Trade-off Analysis\n      Performance Metrics\n      Cost-benefit Analysis",
+            "complexity": "high",
+            "tags": [
+                "systems_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

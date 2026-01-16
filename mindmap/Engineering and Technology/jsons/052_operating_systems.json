@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "052",
+            "topic": "Operating Systems",
+            "category": "Computer Science",
+            "description": "Operating Systems encompass multiple interconnected components and concepts. At the hardware level, they manage CPU, memory, storage, and I/O devices. Key OS types include Windows, Linux, macOS, and Unix. Critical services involve process scheduling (multitasking), memory allocation (virtual memory, paging), file systems (NTFS, ext4, FAT), device drivers, and security mechanisms (authentication, access control). The user interface can be GUI-based or CLI-based, while kernel architectures vary between monolithic and microkernel designs.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Operating Systems))\n    Process Management\n      Process Scheduling\n      Context Switching\n      Inter-process Communication\n      Threads\n    Memory Management\n      Virtual Memory\n      Paging\n      Segmentation\n      Memory Allocation\n    File Systems\n      File Organization\n      Directory Structure\n      Access Control\n      Journaling\n    I/O Management\n      Device Drivers\n      Buffering\n      Spooling\n      Disk Scheduling\n    Concurrency\n      Synchronization\n      Deadlocks\n      Mutual Exclusion\n      Semaphores\n    Security\n      Authentication\n      Access Control\n      Encryption\n      Security Policies\n    Types of OS\n      Windows\n      Linux\n      macOS\n      Real-time OS\n      Mobile OS",
+            "complexity": "high",
+            "tags": [
+                "operating_systems",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

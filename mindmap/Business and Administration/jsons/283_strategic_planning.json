@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Strategic Planning",
+            "category": "Business",
+            "description": "Strategic Planning encompasses analytical frameworks, strategic tools, and implementation approaches for organizational direction. Strategic analysis tools include SWOT analysis identifying strengths-weaknesses-opportunities-threats, Porter's Five Forces assessing industry attractiveness, PESTEL framework examining macro-environment factors, value chain analysis evaluating activity contributions, and core competency identification. Strategy frameworks apply Ansoff's growth matrix for expansion options, BCG matrix for portfolio management, McKinsey 7-S for organizational alignment, Blue Ocean Strategy for market creation, and resource-based view emphasizing unique capabilities. Competitive strategies pursue cost leadership through efficiency and scale, differentiation via unique value propositions, focus on niche market segments, or hybrid approaches combining elements. Strategic objectives utilize balanced scorecard perspectives of financial, customer, internal process, and learning-growth dimensions. Scenario planning develops multiple future scenarios, identifies critical uncertainties, and builds adaptive strategies. Strategic implementation requires cascading goals, resource allocation, organizational alignment, change management, and leadership commitment. Performance measurement tracks leading and lagging indicators, establishes accountability, and enables course correction.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Strategic Planning))\n    Process\n      Vision\n      Mission\n      Goals\n      Objectives\n      Action Plans\n    Analysis\n      Internal\n      External\n      Competitive\n    Tools\n      Balanced Scorecard\n      Strategy Map\n      OKRs\n    Implementation\n      Resource Allocation\n      Timeline\n      Accountability\n    Review\n      Monitoring\n      Evaluation\n      Adaptation",
+            "complexity": "high",
+            "tags": [
+                "strategic_planning",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

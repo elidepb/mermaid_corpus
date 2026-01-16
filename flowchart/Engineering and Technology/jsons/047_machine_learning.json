@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Machine Learning",
+            "category": "computer_science",
+            "description": "Machine Learning is the scientific study and development of algorithms that enable computers to learn patterns from data and make predictions or decisions without explicit programming for each task. It begins with data collection, gathering relevant datasets from various sources ensuring quality, completeness, and representativeness. Data preprocessing cleans data by handling missing values, outliers, and inconsistencies, then transforms features through normalization, encoding, and engineering. Exploratory data analysis examines distributions, relationships, and patterns using statistical methods and visualization. Model selection chooses appropriate algorithms based on problem type (classification, regression, clustering), data characteristics, and performance requirements. Training process optimizes model parameters using training data, applying techniques like gradient descent, cross-validation, and hyperparameter tuning. Model evaluation assesses performance using held-out test data, measuring accuracy, precision, recall, F1-score, or other relevant metrics. Model deployment integrates trained models into production systems with monitoring infrastructure. Performance monitoring tracks predictions, detects data drift, and triggers retraining when performance degrades. The goal is creating accurate, generalizable models that extract actionable insights from data and adapt to changing patterns.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    ML[Machine Learning] --> Paradigms[Learning Paradigms]\n    ML --> Models[Common Models]\n    ML --> Workflow[ML Workflow]\n\n    Paradigms --> Supervised[Supervised Learning]\n    Paradigms --> Unsupervised[Unsupervised Learning]\n    Paradigms --> Reinforcement[Reinforcement Learning]\n\n    Supervised --> Classification[Classification]\n    Supervised --> Regression[Regression]\n\n    Unsupervised --> Clustering[Clustering]\n    Unsupervised --> DimensionalityReduction[Dimensionality Reduction]\n\n    Models --> Linear[Linear Regression]\n    Models --> Logistic[Logistic Regression]\n    Models --> SVM[Support Vector Machines]\n    Models --> Trees[Decision Trees]\n    Models --> NN[Neural Networks]\n\n    Workflow --> DataCollection[Data Collection]\n    Workflow --> DataPreprocessing[Data Preprocessing]\n    Workflow --> ModelTraining[Model Training]\n    Workflow --> ModelEvaluation[Model Evaluation]\n    Workflow --> Deployment[Deployment]",
+            "complexity": "medium",
+            "tags": ["machine_learning", "computer_science", "supervised_learning", "unsupervised_learning", "neural_networks"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

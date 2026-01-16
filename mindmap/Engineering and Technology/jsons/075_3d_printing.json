@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "075",
+            "topic": "3D Printing",
+            "category": "Technology",
+            "description": "3D Printing encompasses diverse technologies and applications. Polymer printing technologies include Fused Deposition Modeling (FDM/FFF) using PLA, ABS, PETG, and flexible filaments; Stereolithography (SLA) and Digital Light Processing (DLP) using UV-curable resins; and PolyJet for multi-material printing. Metal printing includes Selective Laser Melting (SLM), Direct Metal Laser Sintering (DMLS), Electron Beam Melting (EBM), and binder jetting with metals like titanium, aluminum, stainless steel, and Inconel. Other technologies feature Selective Laser Sintering (SLS) for nylon and polymers, binder jetting for sand and ceramics, and bioprinting for tissue engineering. Materials span thermoplastics (PLA, ABS, nylon), photopolymers (standard, tough, flexible resins), metals, ceramics, composites (carbon fiber reinforced), and biological materials. Software tools include CAD programs (Fusion 360, SolidWorks, Tinkercad), slicing software (Cura, PrusaSlicer, Simplify3D), and topology optimization tools. Applications cover rapid prototyping, aerospace components, medical implants and prosthetics, automotive parts, architectural models, consumer products, jewelry, dental applications, and construction (3D-printed buildings). Design considerations involve overhangs and supports, layer adhesion, dimensional accuracy, material properties, build orientation, and cost optimization.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((3D Printing))\n    Printing Technologies\n      FDM/FFF\n      SLA/DLP\n      SLS\n      Metal Printing\n      Bioprinting\n    Materials\n      Polymers\n      Metals\n      Ceramics\n      Composites\n      Biomaterials\n    Design for Additive Manufacturing\n      Topology Optimization\n      Support Structures\n      Layer Orientation\n      Design Guidelines\n    Process Parameters\n      Resolution\n      Speed\n      Temperature\n      Layer Height\n    Post-processing\n      Surface Finishing\n      Heat Treatment\n      Support Removal\n      Assembly\n    Applications\n      Prototyping\n      Manufacturing\n      Medical Devices\n      Aerospace\n      Architecture\n      Consumer Products\n    Software\n      CAD Design\n      Slicing Software\n      Simulation\n      File Formats\n    Quality Control\n      Dimensional Accuracy\n      Material Properties\n      Testing\n      Standards",
+            "complexity": "high",
+            "tags": [
+                "3d_printing",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

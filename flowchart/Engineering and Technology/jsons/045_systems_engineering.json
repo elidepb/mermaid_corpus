@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "045",
+            "topic": "Systems Engineering",
+            "category": "engineering",
+            "description": "Systems Engineering is the interdisciplinary approach to designing, integrating, and managing complex systems throughout their lifecycles, ensuring all components work together to meet stakeholder requirements. It begins with stakeholder analysis, identifying all parties affected by the system and eliciting their needs, expectations, and constraints. Requirements engineering captures, analyzes, and documents functional and non-functional requirements with traceability to stakeholder needs. System architecture design develops high-level structure defining subsystems, interfaces, and allocation of requirements to components. Detailed design specifies individual subsystem implementations, interfaces protocols, and integration strategies. System integration assembles components incrementally, verifying interfaces and subsystem interactions through systematic testing. Verification and validation ensure the system is built correctly and meets intended purpose through testing, simulation, and analysis. Deployment and operations transition systems to users, provide training, and support operational use. Maintenance and evolution address defects, implement enhancements, and adapt to changing requirements over lifecycle. The goal is delivering complex systems that satisfy stakeholder needs while managing technical, schedule, and cost constraints through systematic processes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SE[Systems Engineering] --> Lifecycle[Systems Engineering Lifecycle]\n    SE --> P[Key Processes]\n\n    Lifecycle --> Concept[Concept Development]\n    Lifecycle --> Engineering[Engineering Development]\n    Lifecycle --> PostDevelopment[Post-Development]\n\n    Concept --> Needs[Needs Analysis]\n    Concept --> ConceptExploration[Concept Exploration]\n    Concept --> ConceptDefinition[Concept Definition]\n\n    Engineering --> AdvancedDevelopment[Advanced Development]\n    Engineering --> EngineeringDesign[Engineering Design]\n    Engineering --> IntegrationAndEvaluation[Integration & Evaluation]\n\n    PostDevelopment --> Production[Production]\n    PostDevelopment --> OperationsAndSupport[Operations & Support]\n    PostDevelopment --> Disposal[Disposal]\n\n    P --> RM[Requirements Management]\n    P --> RA[Risk Management]\n    P --> CM[Configuration Management]\n    P --> VV[Verification & Validation]",
+            "complexity": "medium",
+            "tags": ["systems_engineering", "engineering", "lifecycle", "requirements", "risk_management"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

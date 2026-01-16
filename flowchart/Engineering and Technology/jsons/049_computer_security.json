@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "049",
+            "topic": "Computer Security",
+            "category": "computer_science",
+            "description": "Computer Security is the protection of computing systems, networks, and data from unauthorized access, theft, damage, or disruption through technical controls, policies, and practices. It begins with risk assessment, identifying assets, threats, vulnerabilities, and potential impacts to prioritize security investments. Security architecture design establishes defense-in-depth strategies with multiple protective layers including network segmentation, access controls, and encryption. Access control implementation manages authentication verifying user identities, authorization granting appropriate permissions, and accounting tracking system usage. Security monitoring deploys intrusion detection systems, security information and event management platforms, and log analysis to identify suspicious activities. Vulnerability management conducts regular scanning, penetration testing, and patch management to address security weaknesses. Incident response handles security breaches through detection, containment, eradication, recovery, and post-incident analysis. Security awareness training educates users about phishing, social engineering, password hygiene, and security best practices. Compliance and audit ensure adherence to regulations, standards, and policies through periodic assessments. The goal is maintaining confidentiality, integrity, and availability of information systems while enabling business operations and innovation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CS[Computer Security] --> CIA[CIA Triad]\n    CS --> Domains[Security Domains]\n    CS --> Threats[Common Threats]\n\n    CIA --> Confidentiality[Confidentiality]\n    CIA --> Integrity[Integrity]\n    CIA --> Availability[Availability]\n\n    Domains --> Network[Network Security]\n    Domains --> Application[Application Security]\n    Domains --> Data[Data Security]\n    Domains --> OS[Operating System Security]\n    Domains --> Physical[Physical Security]\n\n    Threats --> Malware[Malware]\n    Threats --> Phishing[Phishing]\n    Threats --> DoS[Denial of Service]\n    Threats --> MITM[Man-in-the-Middle]\n    Threats --> SQLi[SQL Injection]",
+            "complexity": "medium",
+            "tags": ["computer_security", "computer_science", "cybersecurity", "cia_triad", "malware"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

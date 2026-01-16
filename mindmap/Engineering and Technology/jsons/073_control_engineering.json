@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Control Engineering",
+            "category": "Engineering",
+            "description": "Control Engineering encompasses diverse control methodologies and applications. Classical control includes PID control (proportional-integral-derivative with tuning methods like Ziegler-Nichols), lead-lag compensation, root locus analysis, frequency response methods (Bode plots, Nyquist diagrams), and gain margin/phase margin analysis. Modern control theory features state-space representation, controllability and observability analysis, pole placement, state feedback, linear quadratic regulator (LQR), and Kalman filtering. Advanced control strategies include model predictive control (MPC), adaptive control, robust control (H-infinity), fuzzy logic control, neural network control, and sliding mode control. System components encompass sensors (position, velocity, temperature, pressure), actuators (motors, valves, heaters), controllers (microcontrollers, PLCs, DCS), and human-machine interfaces. Analysis tools include MATLAB/Simulink, LabVIEW, Python Control Systems Library, and Scilab. Applications span process industries (chemical plants, refineries), manufacturing automation, robotics, automotive systems (cruise control, stability control), aerospace (autopilot, guidance), HVAC systems, and power systems. Performance specifications involve steady-state error, settling time, rise time, overshoot, stability margins, and disturbance rejection.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Control Engineering))\n    Classical Control\n      Transfer Functions\n      Block Diagrams\n      Root Locus\n      Frequency Response\n    Modern Control\n      State Space\n      Controllability\n      Observability\n      Optimal Control\n    PID Control\n      Proportional Control\n      Integral Control\n      Derivative Control\n      Tuning Methods\n    Digital Control\n      Sampling\n      Z-transforms\n      Discrete Systems\n      Digital Controllers\n    Nonlinear Control\n      Phase Plane\n      Describing Functions\n      Lyapunov Stability\n      Sliding Mode Control\n    Adaptive Control\n      Model Reference\n      Self-tuning\n      Gain Scheduling\n    Robust Control\n      H-infinity Control\n      Uncertainty\n      Disturbance Rejection\n    Applications\n      Process Control\n      Robotics\n      Aerospace\n      Automotive Systems",
+            "complexity": "high",
+            "tags": [
+                "control_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

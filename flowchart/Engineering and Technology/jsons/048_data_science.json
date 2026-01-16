@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Data Science",
+            "category": "computer_science",
+            "description": "Data Science is the interdisciplinary field combining statistical methods, computational algorithms, and domain expertise to extract meaningful insights and knowledge from structured and unstructured data. It begins with problem formulation, defining business questions, success criteria, and analytical approach aligned with organizational objectives. Data acquisition gathers data from databases, APIs, web scraping, sensors, and external sources ensuring sufficient volume and variety. Data cleaning addresses missing values, duplicates, outliers, and inconsistencies transforming raw data into analysis-ready format. Exploratory data analysis investigates patterns, distributions, correlations, and anomalies using statistical summaries and visualizations. Feature engineering creates new variables, transforms existing features, and selects relevant predictors enhancing model performance. Model building applies machine learning algorithms, statistical models, or deep learning techniques to uncover relationships and make predictions. Model interpretation explains results, validates assumptions, and communicates findings through visualizations and narratives. Deployment and operationalization integrates insights into decision-making processes, builds dashboards, and automates analytical workflows. The goal is transforming data into actionable intelligence that drives informed business decisions and competitive advantage.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    DS[Data Science] --> Lifecycle[Data Science Lifecycle]\n    DS --> Core[Core Competencies]\n\n    Lifecycle --> BusinessUnderstanding[Business Understanding]\n    Lifecycle --> DataMining[Data Mining]\n    Lifecycle --> DataCleaning[Data Cleaning]\n    Lifecycle --> DataExploration[Data Exploration]\n    Lifecycle --> FeatureEngineering[Feature Engineering]\n    Lifecycle --> PredictiveModeling[Predictive Modeling]\n    Lifecycle --> DataVisualization[Data Visualization]\n\n    Core --> MathStats[Math & Statistics]\n    Core --> CS[Computer Science]\n    Core --> Domain[Domain Expertise]\n\n    CS --> Programming[Programming]\n    CS --> Databases[Databases]\n    CS --> ML[Machine Learning]\n    CS --> BigData[Big Data Technologies]",
+            "complexity": "medium",
+            "tags": ["data_science", "computer_science", "machine_learning", "data_analysis", "big_data"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

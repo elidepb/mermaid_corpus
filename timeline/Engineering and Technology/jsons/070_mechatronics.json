@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "070",
+            "topic": "Mechatronics",
+            "category": "Engineering",
+            "description": "Mechatronics emerged as a concept in 1969 when Japanese engineer Tetsuro Mori coined the term at Yaskawa Electric Corporation, combining mecha (mechanics) and tronics (electronics). The 1970s saw early integration of mechanical systems with microprocessors and the development of computer numerical control (CNC) machines. The 1980s brought industrial robot proliferation, programmable logic controllers (PLCs) advancement, and servo motor technology improvements. 1983 introduced the Arduino precursor concepts with embedded systems becoming more accessible. The 1990s witnessed rapid mechatronics education program establishment worldwide, anti-lock braking systems (ABS) in automobiles, and precision motion control systems. The 2000s advanced with MEMS (Micro-Electro-Mechanical Systems) technology, smart sensors, wireless communication integration, and Arduino launch (2005) democratizing embedded systems. The 2010s brought Industry 4.0 concepts, collaborative robots (cobots), IoT integration, and autonomous vehicle development. The 2020s continue with AI-enhanced mechatronic systems, digital twins, edge computing integration, soft robotics, human-robot collaboration, and sustainable mechatronic design becoming standard practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Mechatronics\n    section: 1960s-1970s - The Birth of Mechatronics\n        1969: The term \"mechatronics\" is coined by Tetsuro Mori\n        1970s: Early applications in industrial robots and CNC machines\n    section: The 1980s - The Microprocessor Revolution\n        1980s: Microprocessors enable more intelligent and integrated systems\n        1980s: Development of anti-lock braking systems (ABS)\n    section: The 1990s - The Rise of Smart Products\n        1990s: Widespread use of mechatronics in consumer products (e.g., autofocus cameras, VCRs)\n    section: The 2000s - The Era of Automation\n        2000s: Advancements in robotics, automation, and autonomous systems\n        2000s: Segway is launched\n    section: The 2010s - The Age of IoT and AI\n        2010s: The Internet of Things (IoT) connects mechatronic systems\n        2010s: AI and machine learning are integrated into mechatronic systems",
+            "complexity": "high",
+            "tags": [
+                "mechatronics",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

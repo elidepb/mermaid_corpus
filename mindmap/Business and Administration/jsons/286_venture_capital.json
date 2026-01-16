@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "286",
+            "topic": "Venture Capital",
+            "category": "Business",
+            "description": "Venture Capital encompasses investment strategies, value-add services, and portfolio management practices for high-risk, high-return equity financing. Investment stages include pre-seed funding for idea validation, seed capital for product development and market testing, Series A for scaling proven business models, Series B-C for market expansion and growth acceleration, and late-stage financing preparing for exits. Investment criteria evaluate founder quality assessing vision, execution ability, and adaptability, market size requiring large total addressable markets with growth potential, competitive advantage through technology, network effects, or unique positioning, business model clarity with path to profitability, and traction evidence showing product-market fit. Due diligence areas cover technology assessment, market analysis, competitive landscape, financial modeling, legal review, and reference checks. Value-added services provide strategic planning, operational expertise, talent recruitment, customer introductions, follow-on fundraising support, and exit preparation. Fund structures include limited partnership agreements, management fees typically 2%, carried interest around 20%, fund lifecycle of 10 years, and capital calls for deployment. Portfolio construction balances risk through diversification, stage focus, sector specialization, and geographic concentration.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Venture Capital))\n    Process\n      Sourcing\n      Due Diligence\n      Term Sheet\n      Investment\n      Exit\n    Stages\n      Seed\n      Series A/B/C\n      Growth\n      Late Stage\n    Valuation\n      Pre-money\n      Post-money\n      Cap Table\n    Returns\n      IRR\n      Multiple\n      Portfolio Strategy\n    Ecosystem\n      Limited Partners\n      General Partners\n      Startups",
+            "complexity": "high",
+            "tags": [
+                "venture_capital",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

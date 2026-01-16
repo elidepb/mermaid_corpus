@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "287",
+            "topic": "Franchising",
+            "category": "Business",
+            "description": "Franchising encompasses business models, legal structures, and operational systems for brand expansion through independent operators. Franchise types include product distribution franchises licensing brand and products, business format franchises providing complete operating systems, master franchises granting regional development rights, and conversion franchises incorporating existing independent businesses. Franchise fees structure includes initial franchise fees for entry rights, ongoing royalties typically 4-8% of gross sales, advertising fund contributions for national marketing, and technology fees for systems access. Franchisor responsibilities provide brand development and protection, operations manual updates, training programs, marketing support, quality control systems, and innovation implementation. Franchisee obligations include upfront investment for setup costs, adherence to operating standards, territory exclusivity respect, quality maintenance, timely reporting, and fee payments. Legal requirements mandate franchise disclosure documents under FTC regulations, state registration in certain jurisdictions, relationship laws governing termination, and intellectual property protection. Support systems offer field support representatives, online learning platforms, vendor networks with negotiated pricing, technology infrastructure, and franchisee advisory councils. Quality assurance employs mystery shopping, regular inspections, customer feedback systems, and brand standard audits.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Franchising))\n    Model\n      Franchisor\n      Franchisee\n      Royalties\n      Territory\n    Agreement\n      Terms\n      Rights\n      Obligations\n      Duration\n    Support\n      Training\n      Marketing\n      Operations\n      Supply Chain\n    Benefits\n      Brand Recognition\n      Proven Model\n      Lower Risk\n    Challenges\n      Control\n      Fees\n      Dependence",
+            "complexity": "high",
+            "tags": [
+                "franchising",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

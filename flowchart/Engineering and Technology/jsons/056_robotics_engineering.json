@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "056",
+      "topic": "Robotics Engineering",
+      "category": "engineering",
+      "description": "Robotics Engineering is the interdisciplinary field that designs, constructs, and operates robots to perform tasks autonomously or semi-autonomously. Its primary goal is to create intelligent machines that enhance human capabilities and automate complex processes. Core disciplines include: mechanical design (structural components, actuators, mobility systems), electronics & control systems (sensors, microcontrollers, power management), programming & AI (algorithms, machine learning, path planning), and human-robot interaction (interfaces, safety protocols). These elements integrate through systems engineering principles, utilizing feedback loops and real-time processing to achieve precise, adaptive, and efficient robotic operations across industrial, medical, service, and exploration applications.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    RoboticsEngineering[Robotics Engineering] --> Components[Robot Components]\n    RoboticsEngineering --> Kinematics[Kinematics and Dynamics]\n    RoboticsEngineering --> Control[Control Systems]\n    RoboticsEngineering --> Perception[Perception]\n    Components --> Manipulators[Manipulators]\n    Components --> Sensors[Sensors]\n    Components --> Actuators[Actuators]\n    Kinematics --> Forward[Forward Kinematics]\n    Kinematics --> Inverse[Inverse Kinematics]\n    Control --> PID[PID Control]\n    Perception --> Vision[Computer Vision]\n    Perception --> SLAM[SLAM]",
+      "complexity": "medium",
+      "tags": [
+        "robotics_engineering",
+        "engineering",
+        "robotics",
+        "kinematics",
+        "slam"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

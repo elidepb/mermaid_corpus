@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Brand Management",
+            "category": "Business",
+            "description": "Brand Management encompasses strategic frameworks, identity elements, and measurement systems for building enduring brand value. Brand strategy frameworks include brand positioning defining unique value proposition and competitive differentiation, brand personality expressing human characteristics like sincerity or excitement, brand purpose articulating social mission beyond profit, and brand promise establishing expectations to customers. Brand equity components comprise brand awareness measuring recognition and recall, brand associations linking attributes and benefits, perceived quality evaluating product superiority, brand loyalty indicating repeat purchase behavior, and brand assets including proprietary elements. Brand identity systems define visual identity through logos, colors, and typography, verbal identity via taglines and messaging, sensory branding using sound, scent, and touch, and brand guidelines ensuring consistency. Brand architecture models employ branded house using master brand across products, house of brands with independent sub-brands, endorsed brands combining parent and product names, and sub-brands extending core brand. Brand touchpoints span product experience, retail environments, digital platforms, advertising campaigns, customer service, and employee interactions. Brand measurement tracks brand health scores, Net Promoter Score, brand valuation methods, and competitive positioning studies.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Brand Management))\n    Elements\n      Identity\n      Positioning\n      Equity\n      Architecture\n    Strategy\n      Target Audience\n      Value Proposition\n      Differentiation\n    Building\n      Awareness\n      Perception\n      Loyalty\n      Advocacy\n    Protection\n      Trademark\n      Consistency\n      Quality\n    Measurement\n      Brand Value\n      NPS\n      Recognition",
+            "complexity": "high",
+            "tags": [
+                "brand_management",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

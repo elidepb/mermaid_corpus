@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "280",
+            "topic": "Corporate Social Responsibility",
+            "category": "Business",
+            "description": "Corporate Social Responsibility evolved from philanthropic charity to strategic business integration. Early corporate philanthropy (late 1800s) focused on charitable donations from wealthy industrialists like Carnegie and Rockefeller. Howard Bowen's Social Responsibilities of the Businessman (1953) established CSR's modern conceptual foundation. The environmental movement of the 1970s prompted ecological awareness and the first Earth Day (1970). Milton Friedman's critique (1970) argued businesses' sole responsibility was profit maximization, sparking ongoing debate. The Brundtland Report (1987) defined sustainable development, influencing corporate approaches. The Global Reporting Initiative (1997) created standardized sustainability reporting frameworks. The UN Global Compact launched in 2000, establishing universal principles for responsible business. ESG investing gained momentum in the 2000s-2010s. The UN Sustainable Development Goals (2015) provided common framework for corporate contribution. Today's CSR integrates climate commitments, social justice advocacy, and stakeholder capitalism principles.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Corporate Social Responsibility (CSR)\n    section Industrial Revolution\n        Late 1800s : Philanthropy by industrialists (e.g., Carnegie, Rockefeller)\n    section Mid-20th Century\n        1953 : Howard Bowen's \"Social Responsibilities of the Businessman\"\n        1960s : Environmental & consumer rights movements\n    section Late 20th Century\n        1970s : Committee for Economic Development's \"Social Contract\"\n        1984 : R. Edward Freeman - Stakeholder Theory\n        1991 : Carroll's Pyramid of CSR\n    section 21st Century\n        2000 : UN Global Compact launched\n        2010 : ISO 26000 guidance on social responsibility\n        2015 : Sustainable Development Goals (SDGs)\n        2020s : Rise of ESG (Environmental, Social, and Governance)",
+            "complexity": "high",
+            "tags": [
+                "corporate_social_responsibility",
+                "business"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

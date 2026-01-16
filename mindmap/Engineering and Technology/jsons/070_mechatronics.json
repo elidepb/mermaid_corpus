@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "070",
+            "topic": "Mechatronics",
+            "category": "Engineering",
+            "description": "Mechatronics encompasses multiple integrated technologies and components. Mechanical components include actuators (DC motors, stepper motors, servo motors, pneumatic cylinders, hydraulic actuators), mechanisms (gears, linkages, cams, belts), and structural elements. Sensors span position sensors (encoders, potentiometers, LVDTs), force/torque sensors, proximity sensors (ultrasonic, infrared, capacitive), vision systems (cameras, image processing), and environmental sensors (temperature, pressure, humidity). Control strategies include open-loop control, closed-loop feedback, PID control, adaptive control, fuzzy logic, and model predictive control. Microcontrollers and processors feature Arduino, Raspberry Pi, PIC, ARM Cortex, and industrial PLCs. Communication protocols involve I2C, SPI, UART, CAN bus, Ethernet, and wireless standards. Software tools include MATLAB/Simulink, LabVIEW, CAD systems (SolidWorks, AutoCAD), and embedded programming (C/C++, Python). Applications cover industrial automation, robotics, automotive systems (ABS, electronic stability control), consumer electronics, aerospace systems, and medical devices. Design considerations involve real-time performance, reliability, cost optimization, power efficiency, and human-machine interfaces.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Mechatronics))\n    Mechanical Systems\n      Kinematics\n      Dynamics\n      Actuators\n      Mechanisms\n    Electronics\n      Microcontrollers\n      Sensors\n      Power Electronics\n      Signal Conditioning\n    Control Systems\n      Feedback Control\n      PID Controllers\n      State Space Control\n      Adaptive Control\n    Computer Engineering\n      Embedded Systems\n      Real-time Programming\n      Interfacing\n      Communication Protocols\n    Robotics\n      Robot Design\n      Motion Control\n      Vision Systems\n      Automation\n    System Integration\n      Hardware-Software Integration\n      System Architecture\n      Testing and Validation\n      Prototyping\n    Applications\n      Manufacturing Automation\n      Automotive Systems\n      Consumer Electronics\n      Medical Devices\n    Design Tools\n      CAD/CAE\n      Simulation\n      Modeling\n      Rapid Prototyping",
+            "complexity": "high",
+            "tags": [
+                "mechatronics",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

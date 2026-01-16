@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Strategic Planning",
+            "category": "Business",
+            "description": "Strategic Planning is the systematic process of defining organizational direction, allocating resources, and establishing actions to achieve long-term objectives in dynamic environments. It begins with environmental scanning, analyzing external opportunities and threats through PESTEL factors (Political, Economic, Social, Technological, Environmental, Legal) and industry trends. Internal assessment evaluates organizational strengths, weaknesses, capabilities, and resources through value chain analysis and competency mapping. Vision and mission formulation articulates aspirational future state and core purpose guiding all decisions. Strategic objectives establishment defines specific, measurable, achievable, relevant, and time-bound goals aligned with mission. Strategy formulation develops competitive approaches including cost leadership, differentiation, focus strategies, or blue ocean innovation. Action planning translates strategy into initiatives, projects, and resource allocations with clear ownership. Implementation execution mobilizes organization through communication, alignment, and change management. Performance monitoring tracks progress using balanced scorecards and key performance indicators. The goal is sustainable competitive advantage through deliberate direction-setting and adaptive execution.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Strategic Planning Process] --> B[Environmental Scanning]\n    B --> C[Internal Analysis]\n    C --> D[Strengths]\n    C --> E[Weaknesses]\n    B --> F[External Analysis]\n    F --> G[Opportunities]\n    F --> H[Threats]\n\n    A --> I[Strategy Formulation]\n    I --> J[Mission]\n    I --> K[Vision]\n    I --> L[Goals]\n    I --> M[Objectives]\n\n    A --> N[Strategy Implementation]\n    N --> O[Action Plans]\n    N --> P[Resource Allocation]\n\n    A --> Q[Evaluation & Control]\n    Q --> R[Performance Measurement]\n    Q --> S[Corrective Action]",
+            "complexity": "high",
+            "tags": ["strategic_planning", "business_strategy", "swot_analysis", "mission_vision", "goals_objectives"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

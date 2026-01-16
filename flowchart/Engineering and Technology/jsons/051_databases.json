@@ -1,0 +1,21 @@
+{
+  "diagrams": [
+    {
+      "id": "051",
+      "topic": "Databases",
+      "category": "computer_science",
+      "description": "Databases are organized collections of structured data with systematic mechanisms for storage, retrieval, modification, and management ensuring data integrity, security, and efficient access. It begins with requirements analysis, understanding data needs, access patterns, transaction volumes, and performance requirements. Data modeling creates conceptual models identifying entities and relationships, logical models defining schemas and constraints, and physical models optimizing storage structures. Database design implements normalization reducing redundancy, defines primary and foreign keys establishing relationships, and creates indexes improving query performance. Schema implementation creates tables, views, stored procedures, and triggers using data definition language. Data population loads initial data through ETL processes, bulk imports, or migration from legacy systems. Query optimization develops efficient SQL queries, analyzes execution plans, and creates appropriate indexes for common access patterns. Transaction management ensures ACID properties of atomicity, consistency, isolation, and durability through concurrency control and logging. Backup and recovery implements regular backups, point-in-time recovery, and disaster recovery procedures. The goal is maintaining reliable, performant data repositories supporting business operations with data integrity and availability.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    Databases[Databases] --> Types[Database Types]\n    Databases --> Concepts[Core Concepts]\n    Databases --> Languages[Database Languages]\n    Types --> Relational[Relational SQL]\n    Types --> NoSQL[NoSQL]\n    Relational --> Tables[Tables Rows Columns]\n    Relational --> Keys[Primary and Foreign Keys]\n    NoSQL --> Document[Document Databases]\n    NoSQL --> KeyValue[Key Value Stores]\n    Concepts --> ACID[ACID Properties]\n    Concepts --> Indexing[Indexing]\n    Languages --> DDL[Data Definition Language]\n    Languages --> DML[Data Manipulation Language]",
+      "complexity": "medium",
+      "tags": [
+        "databases",
+        "computer_science",
+        "sql",
+        "nosql",
+        "acid"
+      ],
+      "creation_date": "2024-01-16"
+    }
+  ]
+}

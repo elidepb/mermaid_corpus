@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "054",
+            "topic": "Cloud Computing",
+            "category": "computer_science",
+            "description": "Cloud Computing is the delivery of computing services over the internet, enabling on-demand access to shared resources without direct management. Its primary goal is to provide scalable, flexible, and cost-effective IT solutions. Core service models include: IaaS (Infrastructure as a Service - virtualized computing resources), PaaS (Platform as a Service - development and deployment platforms), and SaaS (Software as a Service - ready-to-use applications). Deployment models vary between public, private, hybrid, and community clouds. Key characteristics include on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service, ultimately delivering agility, reduced costs, and global accessibility.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CC[Cloud Computing] --> Models[Service Models]\n    CC --> Deployments[Deployment Models]\n    CC --> Concepts[Key Concepts]\n\n    Models --> IaaS[Infrastructure as a Service]\n    Models --> PaaS[Platform as a Service]\n    Models --> SaaS[Software as a Service]\n    Models --> FaaS[Function as a Service]\n\n    Deployments --> Public[Public Cloud]\n    Deployments --> Private[Private Cloud]\n    Deployments --> Hybrid[Hybrid Cloud]\n    Deployments --> Multi[Multi-Cloud]\n\n    Concepts --> Virtualization[Virtualization]\n    Concepts --> Scalability[Scalability]\n    Concepts --> Elasticity[Elasticity]\n    Concepts --> Automation[Automation]\n    Concepts --> Security[Shared Responsibility Model]",
+            "complexity": "medium",
+            "tags": ["cloud_computing", "computer_science", "iaas", "paas", "saas"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

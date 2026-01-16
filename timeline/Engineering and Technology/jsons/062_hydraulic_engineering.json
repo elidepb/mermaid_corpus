@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Hydraulic Engineering",
+            "category": "Engineering",
+            "description": "Hydraulic engineering has ancient roots with early civilizations (3000 BCE onwards) developing irrigation systems in Mesopotamia, Egypt, and the Indus Valley, alongside Roman aqueducts demonstrating advanced water transport. The Middle Ages saw canal systems and watermills proliferate across Europe and Asia. The 18th century brought scientific foundations with Daniel Bernoulli's fluid dynamics principles (1738) and Antoine Chézy's open channel flow equation (1768). The 19th century witnessed major canal projects, the development of turbines, and Manning's formula (1889) for channel flow. The early 1900s introduced major dam construction (Hoover Dam 1936) and hydroelectric power expansion. The 1950s-60s saw large-scale water projects worldwide and computer modeling emergence. The 1970s-80s advanced with numerical methods, pump technology improvements, and environmental considerations. The 1990s-2000s brought sophisticated hydraulic modeling software (HEC-RAS, CFD) and integrated water resources management. The 2010s-2020s continue with smart water systems, real-time monitoring, climate adaptation strategies, and sustainable hydraulic design becoming standard practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Hydraulic Engineering\n    section Ancient World\n        6th Millennium BC : Irrigation in Mesopotamia and Egypt\n        c. 300 BC : Archimedes - Screw pump and principles of hydrostatics\n        Roman Empire : Aqueducts, dams, and public water supply systems\n    section 17th-18th Centuries: Scientific Foundations\n        1648 : Blaise Pascal - Pascal's Law (hydrostatics)\n        1738 : Daniel Bernoulli - Bernoulli's principle (hydrodynamics)\n        1795 : Joseph Bramah - The hydraulic press\n    section 19th Century: Industrial Revolution\n        1849 : James B. Francis - The Francis turbine\n        1880s : Development of hydroelectric power\n    section 20th Century: Large-Scale Projects\n        1936 : Hoover Dam is completed\n        1953 : The Delta Works in the Netherlands begins\n        1960s : Development of computational fluid dynamics (CFD)\n    section 21st Century\n        2000s : Advancements in water resource management and environmental hydraulics\n        2012 : Three Gorges Dam is completed",
+            "complexity": "high",
+            "tags": [
+                "hydraulic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

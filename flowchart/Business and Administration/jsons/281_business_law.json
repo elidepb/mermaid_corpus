@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Business Law",
+            "category": "Business/Law",
+            "description": "Business Law is the comprehensive body of legal rules and regulations governing commercial activities, business formation, transactions, and disputes. It begins with business entity selection, choosing appropriate legal structures like sole proprietorship, partnership, corporation, or LLC based on liability, taxation, and operational needs. Contract formation establishes legally binding agreements through offer, acceptance, consideration, and mutual consent. Regulatory compliance ensures adherence to industry-specific laws, employment regulations, consumer protection, and environmental standards. Intellectual property protection secures trademarks, patents, copyrights, and trade secrets through registration and enforcement. Transaction execution implements mergers, acquisitions, financing, and commercial agreements with proper documentation. Dispute resolution addresses conflicts through negotiation, mediation, arbitration, or litigation. Risk management identifies legal exposures and implements mitigation strategies including insurance and compliance programs. The goal is to operate within legal boundaries while protecting assets, minimizing liabilities, and facilitating commercial objectives.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[Business Law] --> B[Contract Law]\n    B --> C[Formation]\n    B --> D[Performance]\n    B --> E[Breach]\n\n    A --> F[Tort Law]\n    F --> G[Negligence]\n    F --> H[Strict Liability]\n\n    A --> I[Property Law]\n    I --> J[Real Property]\n    I --> K[Personal Property]\n    I --> L[Intellectual Property]\n\n    A --> M[Corporate Law]\n    M --> N[Business Structures]\n    M --> O[Corporate Governance]\n\n    A --> P[Employment Law]\n    P --> Q[Hiring]\n    P --> R[Discrimination]\n    P --> S[Termination]",
+            "complexity": "high",
+            "tags": ["business_law", "law", "contracts", "torts", "corporate_law"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

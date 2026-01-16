@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "052",
+            "topic": "Operating Systems",
+            "category": "computer_science",
+            "description": "An Operating System (OS) is system software that manages computer hardware and software resources while providing common services for computer programs. It acts as an intermediary between users and hardware, handling core functions: process management (scheduling and executing programs), memory management (allocating RAM efficiently), file system management (organizing and storing data), and I/O management (controlling peripheral devices). The OS ensures resource optimization, security, and user-friendly interaction through interfaces.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    OS[Operating Systems] --> Core[Core Components]\n    OS --> Functions[Major Functions]\n    OS --> Types[Types of OS]\n\n    Core --> Kernel[Kernel]\n    Core --> Shell[Shell]\n    Core --> FS[File System]\n\n    Functions --> PM[Process Management]\n    Functions --> MM[Memory Management]\n    Functions --> DM[Device Management]\n    Functions --> FM[File Management]\n    Functions --> Security[Security]\n\n    PM --> Scheduling[Scheduling]\n    PM --> IPC[Inter-Process Communication]\n\n    MM --> Paging[Paging]\n    MM --> Segmentation[Segmentation]\n    MM --> VM[Virtual Memory]\n\n    Types --> Batch[Batch OS]\n    Types --> TimeSharing[Time-Sharing OS]\n    Types --> Distributed[Distributed OS]\n    Types --> Network[Network OS]\n    Types --> RealTime[Real-Time OS]",
+            "complexity": "medium",
+            "tags": ["operating_systems", "computer_science", "kernel", "memory_management", "process_management"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

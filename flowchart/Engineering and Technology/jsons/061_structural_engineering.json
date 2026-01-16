@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Structural Engineering",
+            "category": "engineering",
+            "description": "Structural Engineering is the specialized discipline within civil engineering that analyzes and designs structures to withstand loads and forces while ensuring safety, stability, and serviceability. Its primary goal is to create structurally sound frameworks that safely support intended loads throughout their design life. Core responsibilities include: load analysis (dead loads, live loads, wind, seismic, snow forces), structural design (selecting appropriate materials, sizing members, connection details), structural systems (frames, trusses, shells, cables), and safety verification (stress analysis, deflection checks, stability assessment). The design methodology involves load determination, structural modeling, analysis (static and dynamic), member design, detailing, and verification against building codes. These elements converge through mechanics of materials, structural dynamics, and engineering judgment to produce safe, efficient, and economical structures for buildings, bridges, towers, and special facilities.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    SE[Structural Engineering] --> Analysis[Structural Analysis]\n    SE --> Design[Structural Design]\n    SE --> Materials[Structural Materials]\n    SE --> Loads[Types of Loads]\n\n    Analysis --> Statics[Statics]\n    Analysis --> Dynamics[Dynamics]\n    Analysis --> Mechanics[Mechanics of Materials]\n\n    Design --> Beams[Beams]\n    Design --> Columns[Columns]\n    Design --> Trusses[Trusses]\n    Design --> Frames[Frames]\n    Design --> Shells[Shells]\n\n    Materials --> Steel[Steel]\n    Materials --> Concrete[Reinforced Concrete]\n    Materials --> Timber[Timber]\n    Materials --> Masonry[Masonry]\n\n    Loads --> Dead[Dead Loads]\n    Loads --> Live[Live Loads]\n    Loads --> Environmental[Environmental Loads]\n\n    Environmental --> Wind[Wind Loads]\n    Environmental --> Snow[Snow Loads]\n    Environmental --> Seismic[Seismic Loads]",
+            "complexity": "medium",
+            "tags": ["structural_engineering", "engineering", "civil_engineering", "structural_analysis", "structural_design"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

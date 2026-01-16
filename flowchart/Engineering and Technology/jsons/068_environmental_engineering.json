@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "068",
+            "topic": "Environmental Engineering",
+            "category": "engineering",
+            "description": "Environmental Engineering is the discipline that applies scientific and engineering principles to protect and improve the natural environment, focusing on air, water, and land quality. Its primary objective is to develop sustainable solutions for pollution control, waste management, and environmental protection while promoting public health and ecological balance. Core domains include: water and wastewater treatment (purification processes, biological treatment, advanced oxidation), air quality management (emission control, air pollution monitoring, atmospheric modeling), solid and hazardous waste management (collection, recycling, disposal, remediation), environmental impact assessment (sustainability analysis, ecological risk evaluation), and resource recovery (waste-to-energy, material recycling, circular economy). The engineering approach involves environmental monitoring, system design, process optimization, regulatory compliance, and sustainability assessment. These elements integrate through chemistry, biology, and hydraulics to create treatment facilities, pollution control systems, remediation technologies, and sustainable infrastructure that protect ecosystems and human health.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    EnvE[Environmental Engineering] --> Water[Water Quality & Treatment]\n    EnvE --> Air[Air Pollution Control]\n    EnvE --> Waste[Solid & Hazardous Waste Management]\n    EnvE --> Site[Site Remediation]\n    EnvE --> Sustainability[Sustainability]\n\n    Water --> DrinkingWater[Drinking Water Treatment]\n    Water --> Wastewater[Wastewater Treatment]\n    Water --> WaterQuality[Water Quality Modeling]\n\n    Air --> Pollutants[Air Pollutants]\n    Air --> ControlTech[Control Technologies]\n    Air --> Modeling[Air Dispersion Modeling]\n\n    Waste --> Landfills[Landfills]\n    Waste --> Recycling[Recycling]\n    Waste --> Composting[Composting]\n    Waste --> Incineration[Incineration]\n\n    Site --> Assessment[Site Assessment]\n    Site --> RemediationTech[Remediation Technologies]\n\n    Sustainability --> LCA[Life Cycle Assessment]\n    Sustainability --> Green[Green Engineering]\n    Sustainability --> Renewable[Renewable Energy]",
+            "complexity": "medium",
+            "tags": ["environmental_engineering", "engineering", "water_treatment", "air_pollution", "sustainability"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

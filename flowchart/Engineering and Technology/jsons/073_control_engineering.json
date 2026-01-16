@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Control Engineering",
+            "category": "engineering",
+            "description": "Control Engineering is the discipline that applies control theory and engineering principles to design systems that maintain desired outputs through feedback and regulation mechanisms. Its primary objective is to create stable, accurate, and responsive control systems that automatically regulate processes, machinery, and dynamic systems. Core domains include: feedback control systems (closed-loop control, error detection, corrective action), control algorithms (PID control, state-space methods, optimal control, adaptive control), system modeling (transfer functions, state equations, linearization, identification), stability analysis (Routh-Hurwitz criterion, Nyquist stability, Lyapunov methods), and control implementation (digital controllers, sensors and actuators, real-time systems). The engineering process involves system identification, mathematical modeling, controller design, simulation and analysis, implementation, and performance tuning. These elements converge through differential equations, Laplace transforms, and frequency domain analysis to create industrial automation systems, process control, robotics control, aerospace guidance systems, and automotive control that maintain precision and stability under varying conditions.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CE[Control Engineering] --> Modeling[System Modeling]\n    CE --> Analysis[System Analysis]\n    CE --> Design[Controller Design]\n    CE --> Implementation[Implementation]\n\n    Modeling --> Mechanical[Mechanical Systems]\n    Modeling --> Electrical[Electrical Systems]\n    Modeling --> TransferFunctions[Transfer Functions]\n    Modeling --> StateSpace[State-Space Representation]\n\n    Analysis --> Time[Time-Domain Analysis]\n    Analysis --> Frequency[Frequency-Domain Analysis]\n    Analysis --> Stability[Stability Analysis]\n\n    Time --> Transient[Transient Response]\n    Time --> SteadyState[Steady-State Response]\n\n    Frequency --> Bode[Bode Plots]\n    Frequency --> Nyquist[Nyquist Plots]\n\n    Stability --> RouthHurwitz[Routh-Hurwitz Criterion]\n    Stability --> RootLocus[Root Locus]\n\n    Design --> PID[PID Controllers]\n    Design --> LeadLag[Lead-Lag Compensators]\n    Design --> StateFeedback[State-Feedback Control]\n\n    Implementation --> Analog[Analog Controllers]\n    Implementation --> Digital[Digital Controllers]",
+            "complexity": "medium",
+            "tags": ["control_engineering", "engineering", "control_systems", "feedback", "pid_controller"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

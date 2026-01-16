@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Computer Architecture",
+            "category": "computer_science",
+            "description": "Computer Architecture is the conceptual design and fundamental operational structure of a computer system, defining how hardware components interact to execute instructions. Its primary purpose is to optimize performance, efficiency, and functionality. Core components include: CPU (Central Processing Unit - executing instructions with ALU and control unit), memory hierarchy (registers, cache, RAM, storage), I/O systems (interfacing with external devices), and bus architecture (data pathways connecting components). Design principles involve instruction set architecture (ISA), pipelining, parallelism, and data flow models. This structure collectively enables computation, data processing, and program execution with optimal speed and resource utilization.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CA[Computer Architecture] --> ISA[Instruction Set Architecture]\n    CA --> Microarchitecture[Microarchitecture]\n    CA --> SystemDesign[System Design]\n\n    ISA --> CISC[Complex Instruction Set Computer]\n    ISA --> RISC[Reduced Instruction Set Computer]\n\n    Microarchitecture --> CPU[Central Processing Unit]\n    Microarchitecture --> Memory[Memory Hierarchy]\n    Microarchitecture --> Pipelining[Pipelining]\n    Microarchitecture --> Parallelism[Parallelism]\n\n    CPU --> ALU[Arithmetic Logic Unit]\n    CPU --> CU[Control Unit]\n    CPU --> Registers[Registers]\n\n    Memory --> Cache[Cache]\n    Memory --> RAM[Main Memory]\n    Memory --> Storage[Storage]\n\n    SystemDesign --> Buses[Buses]\n    SystemDesign --> IO[Input/Output]\n    SystemDesign --> Multiprocessors[Multiprocessors]",
+            "complexity": "medium",
+            "tags": ["computer_architecture", "computer_science", "cpu", "isa", "memory"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

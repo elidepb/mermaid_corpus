@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "046",
+            "topic": "Artificial Intelligence",
+            "category": "computer_science",
+            "description": "Artificial Intelligence is the creation of computational systems capable of performing tasks that typically require human intelligence, including learning, reasoning, problem-solving, perception, and natural language understanding. It begins with problem definition, identifying the task, success metrics, constraints, and available data or knowledge. Knowledge representation structures information using symbolic systems, semantic networks, ontologies, or neural embeddings. Algorithm selection chooses appropriate techniques including search algorithms, logic-based reasoning, probabilistic methods, or learning approaches. Model development implements and trains AI systems using training data, domain knowledge, or reinforcement through environmental interaction. Testing and validation evaluates performance on benchmark datasets, edge cases, and real-world scenarios assessing accuracy, robustness, and fairness. Deployment and integration embeds AI systems into applications, ensuring scalability, reliability, and user interface design. Monitoring and maintenance tracks performance degradation, data drift, and emerging biases while updating models with new data. The goal is creating intelligent systems that augment human capabilities, automate complex tasks, and generate insights from data while ensuring ethical, safe, and beneficial outcomes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    AI[Artificial Intelligence] --> Subfields[Major Subfields]\n    AI --> Approaches[Approaches]\n    AI --> Applications[Applications]\n\n    Subfields --> ML[Machine Learning]\n    Subfields --> NLP[Natural Language Processing]\n    Subfields --> CV[Computer Vision]\n    Subfields --> Robotics[Robotics]\n    Subfields --> ES[Expert Systems]\n\n    Approaches --> Symbolic[Symbolic AI]\n    Approaches --> Connectionist[Connectionist AI]\n\n    Symbolic --> Logic[Logic-Based]\n    Symbolic --> Knowledge[Knowledge-Based]\n\n    Connectionist --> NN[Neural Networks]\n    Connectionist --> DL[Deep Learning]\n\n    Applications --> Healthcare[Healthcare]\n    Applications --> Finance[Finance]\n    Applications --> Transportation[Transportation]\n    Applications --> Entertainment[Entertainment]",
+            "complexity": "medium",
+            "tags": ["artificial_intelligence", "computer_science", "machine_learning", "deep_learning", "nlp"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Control Engineering",
+            "category": "Engineering",
+            "description": "Control engineering foundations emerged in the 18th century with James Watt's centrifugal governor (1788) for steam engines, representing early automatic feedback control. The 19th century brought mathematical analysis of governor behavior and stability concepts. The early 1900s witnessed control theory development for industrial processes and ship steering systems. The 1920s-30s introduced frequency response methods (Nyquist, Bode) and feedback amplifier theory (Black, Nyquist). World War II (1940s) accelerated control system development for guidance, fire control, and autopilot systems. The 1950s formalized classical control theory and introduced servomechanism analysis. The 1960s revolutionized the field with state-space methods (Kalman filtering, optimal control theory) and the transition to modern control theory. The 1970s-80s brought digital control implementation, microprocessor-based controllers, and adaptive control development. The 1990s introduced model predictive control (MPC) for process industries and robust control methods. The 2000s advanced with networked control systems, wireless sensors, and distributed control. The 2010s-2020s continue with machine learning integration, AI-based control, cloud-based control platforms, digital twins, autonomous systems control, and cyber-physical systems becoming standard practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Control Engineering\n    section Early Control Systems\n        c. 270 BC : Ctesibius's water clock\n        1788 : James Watt's centrifugal governor for steam engines\n    section Classical Control Theory\n        1868 : James Clerk Maxwell's paper \"On Governors\"\n        1932 : Harry Nyquist's stability criterion\n        1945 : Hendrik Bode's work on frequency-domain analysis\n    section Modern Control Theory\n        1950s : Development of state-space methods\n        1960 : Rudolf Kálmán - The Kalman filter\n        1960s : Richard Bellman - Dynamic programming\n    section Digital and Optimal Control\n        1970s : Development of digital control systems\n        1980s : Robust and optimal control theory\n    section 21st Century\n        1990s : Adaptive and nonlinear control\n        2000s : Networked control systems and hybrid systems\n        2010s : AI and machine learning in control systems",
+            "complexity": "high",
+            "tags": [
+                "control_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

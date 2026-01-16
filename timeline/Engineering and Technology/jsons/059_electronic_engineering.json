@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Electronic Engineering",
+            "category": "Engineering",
+            "description": "Electronic engineering emerged in the early 1900s with vacuum tube development (Lee De Forest's triode, 1906) enabling amplification and radio communication. The 1920s-30s saw radio broadcasting expansion and early television development. 1947 revolutionized the field with the transistor invention at Bell Labs (Bardeen, Brattain, Shockley), replacing vacuum tubes. The 1950s brought transistor radios and early computers. 1958 marked the integrated circuit invention (Jack Kilby at Texas Instruments, Robert Noyce at Fairchild), launching the microelectronics era. The 1960s-70s witnessed Moore's Law in action, microprocessor development (Intel 4004 in 1971), and digital electronics proliferation. The 1980s-90s advanced with personal computers, mobile phones, and surface-mount technology. The 2000s brought smartphones, IoT devices, and nanotechnology. The 2010s-2020s continue with wearable electronics, 5G technology, quantum computing components, and AI-optimized chip architectures becoming standard.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Electronic Engineering\n    section: Early 20th Century - The Vacuum Tube Era\n        1904: John Ambrose Fleming - The vacuum tube diode\n        1906: Lee de Forest - The Audion (triode)\n        1920s: The first radio and television systems\n    section: Mid-20th Century - The Solid-State Revolution\n        1947: The transistor is invented at Bell Labs\n        1958: The integrated circuit (IC) is invented by Jack Kilby and Robert Noyce\n        1968: The first commercially available ICs\n    section: The 1970s - The Microprocessor Era\n        1971: The first microprocessor (Intel 4004)\n        1970s: Development of microcontrollers\n    section: The 1980s-1990s - The Digital and Wireless Eras\n        1980s: Rise of personal computers and digital electronics\n        1990s: Proliferation of wireless communication (e.g., cell phones, Wi-Fi)\n    section: The 21st Century - Miniaturization and Integration\n        2000s: System on a Chip (SoC)\n        2010s: Internet of Things (IoT) and wearable electronics",
+            "complexity": "high",
+            "tags": [
+                "electronic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

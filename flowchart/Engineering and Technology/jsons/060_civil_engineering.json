@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Civil Engineering",
+            "category": "engineering",
+            "description": "Civil Engineering is the professional discipline that plans, designs, constructs, and maintains infrastructure and facilities essential for modern society. Its primary objective is to develop safe, sustainable, and functional infrastructure that serves public needs. Core domains include: structural engineering (buildings, bridges, frameworks), transportation engineering (roads, highways, railways, airports), water resources (dams, canals, flood control, water supply), geotechnical engineering (foundations, soil mechanics, earthworks), and environmental engineering (waste management, pollution control). The design process involves site analysis, conceptual design, detailed engineering, construction management, and maintenance planning. These elements integrate through engineering principles, codes, and standards to create durable infrastructure for transportation, water systems, buildings, and urban development that supports economic growth and quality of life.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CE[Civil Engineering] --> Structural[Structural Engineering]\n    CE --> Geotechnical[Geotechnical Engineering]\n    CE --> Transportation[Transportation Engineering]\n    CE --> Environmental[Environmental Engineering]\n    CE --> Water[Water Resources Engineering]\n    CE --> Construction[Construction Engineering]\n\n    Structural --> Buildings[Buildings]\n    Structural --> Bridges[Bridges]\n    Structural --> Dams[Dams]\n\n    Geotechnical --> Soil[Soil Mechanics]\n    Geotechnical --> Foundations[Foundations]\n\n    Transportation --> Highways[Highways]\n    Transportation --> Airports[Airports]\n    Transportation --> Railways[Railways]\n\n    Environmental --> WaterTreatment[Water Treatment]\n    Environmental --> WasteManagement[Waste Management]\n    Environmental --> Pollution[Pollution Control]\n\n    Water --> Hydraulics[Hydraulics]\n    Water --> Hydrology[Hydrology]",
+            "complexity": "medium",
+            "tags": ["civil_engineering", "engineering", "structural", "geotechnical", "transportation"],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

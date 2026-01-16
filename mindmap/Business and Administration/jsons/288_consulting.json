@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consulting",
+            "category": "Business",
+            "description": "Consulting encompasses diverse specializations, methodologies, and service models for organizational problem-solving. Consulting types include strategy consulting focusing on corporate strategy, competitive positioning, and growth plans, management consulting addressing operational efficiency and organizational effectiveness, IT consulting implementing technology solutions and digital transformation, human resources consulting covering talent management and organizational design, and specialized consulting in areas like supply chain, marketing, and financial advisory. Consulting methodologies employ problem-solving frameworks like issue trees and hypothesis-driven approaches, analytical tools including benchmarking and data analytics, project management techniques following structured phases, and change management models ensuring adoption. Engagement models offer project-based work with defined scope and timeline, retainer arrangements providing ongoing advisory, staff augmentation supplementing client teams, and value-based pricing linking fees to outcomes. Consultant skills require analytical thinking for problem decomposition, communication excellence for stakeholder management, industry expertise providing context, and facilitation abilities guiding collaborative sessions. Deliverables produce strategic reports, implementation plans, training materials, and performance dashboards.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Consulting))\n    Types\n      Strategy\n      Management\n      IT\n      HR\n      Financial\n    Process\n      Engagement\n      Diagnosis\n      Analysis\n      Recommendations\n      Implementation\n    Skills\n      Problem Solving\n      Communication\n      Analysis\n      Client Management\n    Firms\n      MBB\n      Big Four\n      Boutique\n    Deliverables\n      Reports\n      Presentations\n      Workshops",
+            "complexity": "high",
+            "tags": [
+                "consulting",
+                "business"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

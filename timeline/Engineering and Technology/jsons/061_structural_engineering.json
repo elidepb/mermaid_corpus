@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Structural Engineering",
+            "category": "Engineering",
+            "description": "Structural engineering's early principles emerged in ancient times with empirical methods used for pyramids, Parthenon, and Roman structures like the Pantheon dome. The Renaissance (15th-17th centuries) brought scientific analysis with Galileo studying beam strength. The 1800s marked the mathematical foundation era with Claude-Louis Navier developing elasticity theory and modern structural analysis. 1779 saw the first cast iron bridge (Iron Bridge in England). The late 1800s introduced steel frame construction enabling skyscrapers and the Eiffel Tower (1889). 1903 brought reinforced concrete design codes. The 1930s witnessed major suspension bridges like the Golden Gate Bridge (1937). The 1950s introduced prestressed concrete and limit state design. The 1960s-70s saw computer-aided structural analysis and finite element methods revolutionize design. The 1980s-90s advanced with performance-based seismic design and high-strength materials. The 2000s-2020s continue with sustainable design, parametric modeling, advanced composite materials, and resilience engineering for extreme events becoming standard practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title The History of Structural Engineering\n    section Ancient Structures\n        c. 2700 BC : Imhotep builds the step pyramid for Pharaoh Djoser\n        c. 2560 BC : The Great Pyramid of Giza\n        Roman Empire : Development of arches, vaults, and concrete\n    section The Renaissance and Enlightenment\n        15th Century : Leonardo da Vinci's studies of structures\n        1638 : Galileo Galilei - \"Two New Sciences\" (beam theory)\n    section The 19th Century: The Industrial Revolution\n        1850s : Development of modern truss systems\n        1889 : The Eiffel Tower is completed\n    section The 20th Century: Modern Materials and Methods\n        1920s : Reinforced concrete becomes a common building material\n        1950s : Development of plastic analysis for steel structures\n        1960s : Finite Element Method (FEM) is developed\n        1970s : Rise of computer-aided structural analysis\n    section The 21st Century\n        2000s : Performance-based design for seismic engineering\n        2010s : Advancements in composite materials and sustainable design",
+            "complexity": "high",
+            "tags": [
+                "structural_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

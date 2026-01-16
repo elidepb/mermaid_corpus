@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "063",
+            "topic": "Chemical Engineering",
+            "category": "Engineering",
+            "description": "Chemical engineering emerged in the late 1800s as industries required systematic approaches to chemical production. The profession formally began with George E. Davis's Handbook of Chemical Engineering (1901) and the first chemical engineering degree programs. The early 1900s saw the development of unit operations concept (Arthur D. Little, 1915), establishing systematic approaches to process design. The 1920s-30s brought petroleum refining advances, catalytic cracking, and polymer chemistry development. The 1940s-50s witnessed petrochemical industry expansion, synthetic materials production, and the introduction of process control systems. The 1960s-70s advanced with computer-aided process design, reaction engineering theory, and environmental regulations driving cleaner processes. The 1980s-90s introduced process simulation software (Aspen Plus), biotechnology applications, and green chemistry principles. The 2000s brought process intensification, nanotechnology integration, and pharmaceutical manufacturing innovations. The 2010s-2020s continue with sustainable chemistry, carbon capture technologies, biorefining, advanced materials synthesis, and AI-optimized process control becoming standard practice.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title: The History of Chemical Engineering\n    section: 19th Century - The Birth of a Discipline\n        1888: George E. Davis teaches the first chemical engineering course at the University of Manchester\n        1888: The term \"chemical engineering\" is coined\n    section: Early 20th Century - Unit Operations\n        1915: Arthur D. Little introduces the concept of \"unit operations\"\n        1922: The American Institute of Chemical Engineers (AIChE) is founded\n    section: Mid-20th Century - The Second Paradigm\n        1950s: Development of transport phenomena\n        1960s: \"Bird, Stewart, and Lightfoot\" textbook is published\n    section: Late 20th Century - The Third Paradigm\n        1970s: Rise of process control and systems engineering\n        1980s: Development of process simulation software (e.g., Aspen)\n    section: The 21st Century - The Fourth Paradigm\n        1990s: Rise of biochemical and biomedical engineering\n        2000s: Focus on sustainability, green chemistry, and nanotechnology",
+            "complexity": "high",
+            "tags": [
+                "chemical_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}
