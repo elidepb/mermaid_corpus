@@ -1,17 +1,24 @@
 ```mermaid
 timeline
-    title The History of Quality Management
-    section Early 20th Century
-        1920s : Statistical Process Control (SPC) - Walter Shewhart
-        1930s : Acceptance Sampling
-    section Post-WWII
-        1950s : W. Edwards Deming & Joseph Juran introduce quality concepts in Japan
-        1960s : Philip Crosby - "Quality is Free"
-    section Late 20th Century
-        1970s : Total Quality Management (TQM)
-        1987 : ISO 9000 standards are published
-        1980s : Six Sigma developed at Motorola
-    section 21st Century
-        2000s : Lean Six Sigma
-        2010s : Quality 4.0 - Integrating quality with Industry 4.0
+    title Quality Management Evolution
+    1911 : Scientific Management
+         : Taylor's work standards
+    1920s : Statistical Process Control
+          : Shewhart's control charts
+    WWII : Quality Control Adoption
+         : Manufacturing acceleration
+    1950s : Deming in Japan
+          : Statistical quality teaching
+    1951 : Juran's Handbook
+         : Quality planning frameworks
+    1980s : Total Quality Management
+          : Organization-wide commitment
+    1986 : Six Sigma Development
+         : Motorola's defect reduction
+    1987 : ISO 9000 & Baldrige Award
+         : Global standards & excellence
+    1990s : Lean Manufacturing
+          : TPS global spread
+    2020s : Digital Quality Systems
+          : AI-powered analytics
 ```

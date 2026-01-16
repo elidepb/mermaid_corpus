@@ -4,9 +4,9 @@
             "id": "270",
             "topic": "Foreign Trade",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Foreign Trade.",
+            "description": "Foreign Trade encompasses specialized knowledge areas essential for international commerce. Trade policy frameworks include protectionism versus free trade philosophies, quota systems, import restrictions, and export promotion schemes. Customs procedures involve harmonized system classification, certificate of origin documentation, valuation methods, and inspection protocols. Incoterms define delivery responsibilities through FOB, CIF, EXW, and DDP terms that allocate costs and risks between parties. Trade finance instruments utilize letters of credit, documentary collections, open account terms, and export credit insurance. Free trade zones offer tax incentives, duty exemptions, and streamlined customs in special economic areas. Trade remedies apply anti-dumping measures, countervailing duties, and safeguard actions to protect domestic industries. E-commerce trade navigates digital customs, cross-border data flows, and online marketplace regulations.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Foreign Trade))\n    Export/Import\n      Documentation\n      Regulations\n      Customs\n    Payment Methods\n      Letter of Credit\n      Open Account\n      Wire Transfer\n    Incoterms\n      FOB\n      CIF\n      DDP\n    Trade Finance\n      Export Credit\n      Factoring\n    Logistics\n      Shipping\n      Insurance\n      Freight",
+            "mermaid_code": "mindmap\n  root((<b>Foreign<br>Trade</b>))\n    <b>Trade Policy</b>\n      Protectionism vs free trade\n      Quota systems\n      Import restrictions\n      Export promotion\n      Trade agreements\n    <b>Customs Procedures</b>\n      HS classification\n      Certificate of origin\n      Valuation methods\n      Inspection protocols\n      Clearance process\n    <b>Incoterms</b>\n      FOB terms\n      CIF terms\n      EXW delivery\n      DDP obligations\n      Risk allocation\n    <b>Trade Finance</b>\n      Letters of credit\n      Documentary collections\n      Open account\n      Export credit insurance\n      Forfaiting\n    <b>Free Trade Zones</b>\n      Tax incentives\n      Duty exemptions\n      Special economic areas\n      Streamlined customs\n      Investment benefits\n    <b>Trade Remedies</b>\n      Anti-dumping measures\n      Countervailing duties\n      Safeguard actions\n      Industry protection\n    <b>E-Commerce Trade</b>\n      Digital customs\n      Cross-border data\n      Online marketplaces\n      De minimis thresholds\n    <b>Export Documentation</b>\n      Commercial invoice\n      Packing list\n      Bill of lading\n      Insurance certificate",
             "complexity": "high",
             "tags": [
                 "foreign_trade",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

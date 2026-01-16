@@ -4,9 +4,9 @@
             "id": "257",
             "topic": "Accounting",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Accounting.",
+            "description": "Accounting encompasses multiple specialized branches serving different organizational needs. Financial accounting produces external reports following standardized principles, while managerial accounting provides internal data for planning and control. Cost accounting tracks production expenses, tax accounting ensures regulatory compliance, and auditing verifies financial statement accuracy. Each branch applies core accounting principles—matching revenue with expenses, conservatism in estimates, consistency in methods, and materiality in reporting—to fulfill its specific purpose within the broader financial information system.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Accounting))\n    Types\n      Financial\n      Managerial\n      Tax\n      Forensic\n    Principles\n      GAAP\n      IFRS\n      Accrual Basis\n    Processes\n      Recording\n      Classifying\n      Summarizing\n      Reporting\n    Statements\n      Balance Sheet\n      Income Statement\n      Cash Flow\n      Equity Statement",
+            "mermaid_code": "mindmap\n  root((<b>Accounting</b>))\n    <b>Financial Accounting</b>\n      External reporting\n      GAAP/IFRS standards\n      Balance sheet\n      Income statement\n      Cash flow statement\n    <b>Managerial Accounting</b>\n      Internal reporting\n      Budget preparation\n      Performance analysis\n      Decision support\n    <b>Cost Accounting</b>\n      Product costing\n      Variance analysis\n      Cost control\n      Profitability analysis\n    <b>Tax Accounting</b>\n      Tax compliance\n      Tax planning\n      Deductions & credits\n      Regulatory filings\n    <b>Auditing</b>\n      Financial verification\n      Internal controls\n      Compliance review\n      Risk assessment\n    <b>Core Principles</b>\n      Matching principle\n      Conservatism\n      Consistency\n      Materiality",
             "complexity": "high",
             "tags": [
                 "accounting",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

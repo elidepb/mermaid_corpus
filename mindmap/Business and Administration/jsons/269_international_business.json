@@ -4,9 +4,9 @@
             "id": "269",
             "topic": "International Business",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of International Business.",
+            "description": "International Business encompasses specialized domains that enable global commerce. Global market entry strategies include exporting through direct or indirect channels, licensing intellectual property, franchising business models, joint ventures with local partners, and wholly-owned subsidiaries via greenfield or acquisition. International trade theory explains comparative advantage, factor endowments, product life cycles, and new trade perspectives. Cross-cultural dimensions apply Hofstede's cultural dimensions, Hall's context frameworks, and GLOBE study insights to understand workplace variations. Global supply chain management optimizes international logistics, offshore sourcing, global procurement, and risk mitigation strategies. Foreign exchange management hedges currency exposure, forecasts exchange rates, and manages transaction risks. International marketing adapts the 4Ps for local markets through glocalization strategies. Political risk assessment evaluates government stability, regulatory changes, and geopolitical tensions.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((International Business))\n    Entry Modes\n      Export\n      Licensing\n      FDI\n      Joint Venture\n    Environment\n      Political\n      Economic\n      Cultural\n      Legal\n    Strategy\n      Globalization\n      Localization\n      Glocalization\n    Trade\n      Barriers\n      Agreements\n      WTO\n    Operations\n      Global Supply Chain\n      Offshoring\n      Outsourcing",
+            "mermaid_code": "mindmap\n  root((<b>International<br>Business</b>))\n    <b>Entry Strategies</b>\n      Exporting modes\n      Licensing IP\n      Franchising\n      Joint ventures\n      Foreign subsidiaries\n    <b>Trade Theory</b>\n      Comparative advantage\n      Factor endowments\n      Product life cycle\n      New trade theory\n      Competitive advantage\n    <b>Cultural Dimensions</b>\n      Hofstede's framework\n      Hall's context\n      GLOBE study\n      Cultural intelligence\n      Workplace variations\n    <b>Global Supply Chain</b>\n      International logistics\n      Offshore sourcing\n      Global procurement\n      Risk mitigation\n      Network optimization\n    <b>Foreign Exchange</b>\n      Currency hedging\n      Exchange rate forecasting\n      Transaction exposure\n      Translation risk\n      Economic exposure\n    <b>International Marketing</b>\n      Product adaptation\n      Pricing strategies\n      Distribution channels\n      Promotion localization\n      Glocalization\n    <b>Political Risk</b>\n      Government stability\n      Regulatory changes\n      Geopolitical tensions\n      Expropriation risk\n      Country analysis\n    <b>Global HR</b>\n      Expatriate management\n      International assignments\n      Compensation systems\n      Talent mobility",
             "complexity": "high",
             "tags": [
                 "international_business",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

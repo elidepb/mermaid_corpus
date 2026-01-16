@@ -1,20 +1,22 @@
 ```mermaid
 timeline
-    title A History of Foreign Trade
-    section Ancient Trade
-        c. 3000 BC : Indus Valley-Mesopotamia Trade
-        c. 130 BC : The Silk Road is established
-    section Age of Discovery
-        15th Century : Maritime Exploration (Columbus, da Gama)
-        17th Century : Mercantilism & Colonial Trade
-    section 19th Century & Industrialization
-        1846 : Repeal of the Corn Laws (UK) - Rise of Free Trade
-        1860 : Cobden-Chevalier Treaty (UK-France)
-    section 20th Century
-        1930 : Smoot-Hawley Tariff Act (Protectionism)
-        1947 : General Agreement on Tariffs and Trade (GATT)
-        1994 : North American Free Trade Agreement (NAFTA)
-    section 21st Century
-        2001 : China joins the World Trade Organization (WTO)
-        2018 : Start of US-China Trade War
+    title Foreign Trade Evolution
+    200 BCE-1400s : Silk Road Era
+                  : East-West trade routes
+    1600s-1700s : Mercantilism
+                : Export-focused policies
+    1846 : Corn Laws Repeal
+         : Free trade shift in Britain
+    1930 : Smoot-Hawley Tariff
+         : Protectionism consequences
+    1947 : GATT Established
+         : Multilateral liberalization
+    1956 : Containerization
+         : Shipping revolution
+    1994 : WTO Creation
+         : Uruguay Round expansion
+    2001 : China Joins WTO
+         : Global trade transformation
+    2020s : Digital Trade Era
+          : Blockchain & sustainability
 ```

@@ -1,19 +1,22 @@
 ```mermaid
 timeline
-    title History of Supply Chain Management
-    section Pre-1900s
-        Ancient Times : Early logistics in military campaigns (e.g., Roman legions)
-    section Early 20th Century
-        1910s : Rise of trucking & modern transportation
-        1950s : Palletization & containerization standardize shipping
-    section Mid-20th Century
-        1960s : Material Requirements Planning (MRP) systems
-        1970s : Barcodes & scanning revolutionize inventory tracking
-    section Late 20th Century
-        1980s : Just-In-Time (JIT) and Lean principles
-        1990s : Enterprise Resource Planning (ERP) systems integrate functions
-    section 21st Century
-        2000s : Globalization & outsourcing / E-commerce boom
-        2010s : Big Data, AI & Real-time visibility
-        2020s : Focus on Resilience, Sustainability & Circular Supply Chains
+    title Supply Chain Management Evolution
+    1980s : Supply Chain Concept
+          : Integration awareness emerges
+    1980s : JIT Global Adoption
+          : Lean inventory practices
+    1990s : ERP Systems
+          : Cross-functional integration
+    1997 : Bullwhip Effect Study
+         : Demand amplification analysis
+    2000s : RFID Technology
+          : Advanced tracking systems
+    2011 : Japan Crisis
+         : Risk management emphasis
+    2010s : Industry 4.0
+          : Digital transformation
+    2015 : Omnichannel Logistics
+         : Multi-channel integration
+    2020s : AI & Digital Twins
+          : Predictive optimization
 ```

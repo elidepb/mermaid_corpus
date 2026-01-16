@@ -4,11 +4,17 @@
             "id": "274",
             "topic": "Auditing",
             "category": "Business",
-            "description": "A detailed flowchart of the financial audit process.",
+            "description": "Auditing is the systematic, independent examination of financial records, operations, and controls to provide assurance on accuracy, compliance, and effectiveness. It begins with engagement planning, defining audit scope, objectives, and resource allocation. Risk assessment identifies material misstatement risks and control weaknesses requiring attention. Internal control evaluation tests the design and operating effectiveness of control systems. Substantive testing examines transactions, account balances, and disclosures through sampling and analytical procedures. Evidence gathering collects sufficient, appropriate documentation to support audit conclusions. Audit findings document identified issues, deficiencies, and areas of concern. Reporting communicates results through audit opinions, management letters, and recommendations. The goal is to provide stakeholders with independent assurance that financial statements are free from material misstatement and that controls are effective.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Audit Process] --> B[Planning]\n    B --> C[Risk Assessment]\n    B --> D[Audit Strategy]\n\n    A --> E[Fieldwork]\n    E --> F[Test of Controls]\n    E --> G[Substantive Procedures]\n\n    A --> H[Reporting]\n    H --> I[Audit Opinion]\n    I --> J[Unqualified]\n    I --> K[Qualified]\n    I --> L[Adverse]\n    I --> M[Disclaimer]",
+            "mermaid_code": "flowchart TD\n    A[<b>Auditing</b><br>Independent examination of<br>records & controls]:::title\n    B[<b>PRIMARY GOAL</b><br>Provide Assurance on<br>Accuracy & Compliance]:::goal\n    C[<b>AUDIT PROCESS</b>]:::process\n    \n    subgraph D[Engagement Planning]\n        D1[Define scope, objectives<br>& resources]\n    end\n    \n    subgraph E[Risk Assessment]\n        E1[Identify misstatement risks<br>& control weaknesses]\n    end\n    \n    subgraph F[Control Evaluation]\n        F1[Test design & effectiveness<br>of control systems]\n    end\n    \n    subgraph G[Substantive Testing]\n        G1[Examine transactions<br>& account balances]\n    end\n    \n    subgraph H[Evidence Gathering]\n        H1[Collect sufficient<br>documentation]\n    end\n    \n    subgraph I[Audit Findings]\n        I1[Document issues<br>& deficiencies]\n    end\n    \n    subgraph J[Reporting]\n        J1[Communicate opinions<br>& recommendations]\n    end\n    \n    K[<b>OUTCOME</b><br>Independent assurance for<br>stakeholder confidence]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    K -.->|informs next| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["auditing", "accounting", "finance", "internal_control", "audit_opinion"],
+            "tags": [
+                "auditing",
+                "accounting",
+                "finance",
+                "internal_control",
+                "audit_opinion"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

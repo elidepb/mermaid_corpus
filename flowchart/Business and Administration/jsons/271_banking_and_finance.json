@@ -4,11 +4,17 @@
             "id": "271",
             "topic": "Banking and Finance",
             "category": "Business",
-            "description": "A detailed flowchart of the banking and finance ecosystem.",
+            "description": "Banking and Finance is the system of institutions, markets, and instruments that facilitate money flow, credit creation, and capital allocation in the economy. It begins with deposit mobilization, where banks collect funds from savers through various account types. Credit assessment evaluates borrower creditworthiness using financial analysis and risk scoring. Lending and credit creation extends loans for consumption, business, and investment purposes. Investment services manage portfolios, execute securities transactions, and provide wealth management. Payment systems process transactions through cards, transfers, and digital platforms. Risk management identifies, measures, and mitigates financial exposures including credit, market, and operational risks. Regulatory compliance ensures adherence to capital requirements, consumer protection, and anti-money laundering rules. The goal is to efficiently intermediate between savers and borrowers while maintaining financial stability and supporting economic growth.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Banking & Finance] --> B[Central Bank]\n    B --> C[Monetary Policy]\n    B --> D[Financial Stability]\n\n    A --> E[Commercial Banks]\n    E --> F[Retail Banking]\n    E --> G[Corporate Banking]\n    E --> H[Investment Banking]\n\n    A --> I[Financial Markets]\n    I --> J[Stock Market]\n    I --> K[Bond Market]\n    I --> L[Forex Market]\n\n    A --> M[Financial Institutions]\n    M --> N[Insurance Companies]\n    M --> O[Pension Funds]\n    M --> P[Mutual Funds]",
+            "mermaid_code": "flowchart TD\n    A[<b>Banking and Finance</b><br>Money flow, credit & capital<br>allocation system]:::title\n    B[<b>PRIMARY GOAL</b><br>Efficient Intermediation &<br>Financial Stability]:::goal\n    C[<b>BANKING PROCESS</b>]:::process\n    \n    subgraph D[Deposit Mobilization]\n        D1[Collect funds from<br>savers via accounts]\n    end\n    \n    subgraph E[Credit Assessment]\n        E1[Evaluate borrower<br>creditworthiness]\n    end\n    \n    subgraph F[Lending & Credit]\n        F1[Extend loans for<br>various purposes]\n    end\n    \n    subgraph G[Investment Services]\n        G1[Portfolio management<br>& wealth advisory]\n    end\n    \n    subgraph H[Payment Systems]\n        H1[Process transactions<br>via multiple channels]\n    end\n    \n    subgraph I[Risk Management]\n        I1[Identify & mitigate<br>financial exposures]\n    end\n    \n    subgraph J[Regulatory Compliance]\n        J1[Adhere to capital<br>& protection rules]\n    end\n    \n    K[<b>OUTCOME</b><br>Economic growth through<br>stable intermediation]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|supports| G\n    D & F -->|enable| H\n    F & G & H -->|require| I\n    I -->|ensures| J\n    J -->|achieves| K\n    K -.->|sustains| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["banking", "finance", "central_bank", "commercial_bank", "financial_markets"],
+            "tags": [
+                "banking",
+                "finance",
+                "central_bank",
+                "commercial_bank",
+                "financial_markets"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

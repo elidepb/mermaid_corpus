@@ -4,9 +4,9 @@
             "id": "256",
             "topic": "Business Administration",
             "category": "Business",
-            "description": "A timeline showing the evolution of Business Administration.",
+            "description": "The evolution of Business Administration spans from early 20th-century scientific management to today's digital transformation. Frederick Taylor introduced systematic work studies in 1911, followed by Fayol's management principles in 1916. The human relations movement emerged in the 1930s, recognizing worker psychology. Peter Drucker popularized management by objectives in the 1954. The 1980s brought total quality management, the 1990s saw business process reengineering, and the 2000s ushered in lean methodologies. Current trends focus on agile management and AI-driven decision-making.",
             "diagram_type": "timeline",
-            "mermaid_code": "timeline\n    title Business Administration Evolution\n    section 19th Century\n        1880s : Scientific Management (Taylor)\n        1900s : Administrative Theory (Fayol)\n    section 20th Century\n        1920s : Human Relations Movement (Mayo)\n        1940s : Operations Research\n        1950s : Systems Theory\n        1960s : Contingency Theory\n        1980s : Total Quality Management\n    section 21st Century\n        2000s : Agile & Lean Methodologies\n        2010s : Digital Transformation & Big Data",
+            "mermaid_code": "timeline\n    title Business Administration Evolution\n    1911 : Scientific Management\n         : Frederick Taylor's work studies\n    1916 : Administrative Theory\n         : Henri Fayol's 14 principles\n    1930s : Human Relations Movement\n          : Hawthorne studies\n    1954 : Management by Objectives\n         : Peter Drucker's framework\n    1980s : Total Quality Management\n          : Deming & Japanese methods\n    1990s : Business Process Reengineering\n          : Radical process redesign\n    2000s : Lean Management\n          : Waste elimination focus\n    2010s : Agile & Digital\n          : Adaptive methodologies\n    2020s : AI-Driven Management\n          : Data analytics & automation",
             "complexity": "high",
             "tags": [
                 "business_administration",

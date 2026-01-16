@@ -4,11 +4,17 @@
             "id": "263",
             "topic": "Logistics",
             "category": "Business",
-            "description": "A detailed flowchart of logistics, showing the relationship between inbound and outbound logistics.",
+            "description": "Logistics is the operational execution of moving, storing, and managing the flow of goods, services, and information from origin to consumption. It begins with transportation planning to determine optimal modes and routes, followed by warehousing operations to store and handle inventory efficiently. Order fulfillment processes pick, pack, and ship products to customers. Freight management negotiates carrier contracts and tracks shipments. Reverse logistics handles returns and recycling. Last-mile delivery ensures products reach final destinations. Performance measurement monitors key metrics like on-time delivery and cost per unit. The goal is to ensure the right products arrive at the right place, at the right time, in the right condition, at the lowest possible cost.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Logistics] --> B[Inbound Logistics]\n    B --> C[Procurement]\n    B --> D[Receiving]\n    B --> E[Warehousing]\n\n    A --> F[Outbound Logistics]\n    F --> G[Order Processing]\n    F --> H[Packing]\n    F --> I[Shipping]\n\n    A --> J[Reverse Logistics]\n    J --> K[Returns]\n    J --> L[Recycling]\n    J --> M[Disposal]",
+            "mermaid_code": "flowchart TD\n    A[<b>Logistics</b><br>Operational execution of<br>goods & information flow]:::title\n    B[<b>PRIMARY GOAL</b><br>Right Product, Place, Time<br>Condition & Cost]:::goal\n    C[<b>LOGISTICS PROCESS</b>]:::process\n    \n    subgraph D[Transportation Planning]\n        D1[Mode & route selection<br>optimization]\n    end\n    \n    subgraph E[Warehousing]\n        E1[Storage & inventory<br>handling operations]\n    end\n    \n    subgraph F[Order Fulfillment]\n        F1[Pick, pack & ship<br>customer orders]\n    end\n    \n    subgraph G[Freight Management]\n        G1[Carrier contracts<br>& shipment tracking]\n    end\n    \n    subgraph H[Reverse Logistics]\n        H1[Returns processing<br>& recycling]\n    end\n    \n    subgraph I[Last-Mile Delivery]\n        I1[Final destination<br>customer delivery]\n    end\n    \n    subgraph J[Performance Metrics]\n        J1[On-time rate<br>& cost tracking]\n    end\n    \n    K[<b>OUTCOME</b><br>Efficient, reliable<br>product delivery]:::outcome\n    \n    A -->|aims to| B\n    B -->|executes via| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| I\n    F -.->|also handles| H\n    I & H -->|monitored by| J\n    J -->|achieves| K\n    K -.->|feedback| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["logistics", "supply_chain", "transportation", "warehousing", "distribution"],
+            "tags": [
+                "logistics",
+                "supply_chain",
+                "transportation",
+                "warehousing",
+                "distribution"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

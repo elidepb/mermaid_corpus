@@ -1,21 +1,21 @@
 {
-  "diagrams": [
-    {
-      "id": "259",
-      "topic": "Marketing",
-      "category": "Business",
-      "description": "A detailed flowchart of the marketing process, from market analysis to customer relationship management.",
-      "diagram_type": "flowchart",
-      "mermaid_code": "flowchart TD\n    Marketing[Marketing] --> Research[Research]\n    Marketing --> Strategy[Strategy]\n    Marketing --> Tactics[Marketing Mix 4 Ps]\n    Research --> MarketResearch[Market Research]\n    Research --> CustomerResearch[Customer Research]\n    Strategy --> Segmentation[Segmentation]\n    Strategy --> Targeting[Targeting]\n    Strategy --> Positioning[Positioning]\n    Tactics --> Product[Product]\n    Tactics --> Price[Price]\n    Tactics --> Place[Place]\n    Tactics --> Promotion[Promotion]",
-      "complexity": "high",
-      "tags": [
-        "marketing",
-        "business",
-        "marketing_strategy",
-        "marketing_mix",
-        "crm"
-      ],
-      "creation_date": "2024-03-15"
-    }
-  ]
+    "diagrams": [
+        {
+            "id": "259",
+            "topic": "Marketing",
+            "category": "Business",
+            "description": "Marketing is the strategic process of creating, communicating, and delivering value to customers while building profitable relationships. It begins with understanding customer needs through market research, then segmenting markets to identify target audiences. Companies position their offerings to differentiate from competitors, develop the marketing mix (product, price, place, promotion), implement campaigns, and measure results to optimize performance. The goal is to satisfy customer needs profitably while building long-term brand loyalty and market share.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Marketing</b><br>Creating & delivering value<br>to customers]:::title\n    B[<b>PRIMARY GOAL</b><br>Satisfy Customer Needs<br>Profitably]:::goal\n    C[<b>MARKETING PROCESS</b>]:::process\n    \n    subgraph D[Research & Analysis]\n        D1[Understand customer<br>needs & market]\n    end\n    \n    subgraph E[Segmentation & Targeting]\n        E1[Identify & select<br>target audiences]\n    end\n    \n    subgraph F[Positioning]\n        F1[Differentiate from<br>competitors]\n    end\n    \n    subgraph G[Marketing Mix - 4Ps]\n        G1[Product, Price,<br>Place, Promotion]\n    end\n    \n    subgraph H[Implementation]\n        H1[Execute campaigns<br>& initiatives]\n    end\n    \n    subgraph I[Measurement]\n        I1[Analyze performance<br>& optimize]\n    end\n    \n    J[<b>OUTCOME</b><br>Brand loyalty &<br>market share]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|achieves| J\n    I -.->|feedback loop| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "business",
+                "marketing_strategy",
+                "marketing_mix",
+                "crm"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
 }

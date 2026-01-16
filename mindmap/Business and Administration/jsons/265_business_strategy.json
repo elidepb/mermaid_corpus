@@ -4,9 +4,9 @@
             "id": "265",
             "topic": "Business Strategy",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Business Strategy.",
+            "description": "Business Strategy encompasses analytical frameworks and strategic approaches that guide organizational direction. Competitive analysis employs Porter's Five Forces, competitor profiling, market positioning, and industry structure assessment. Strategic planning develops corporate, business, and functional level strategies with scenario planning. Growth strategies include market penetration, product development, market development, and diversification through Ansoff's matrix. Competitive advantages are built through cost leadership, differentiation, innovation, and resource-based capabilities. Strategic alliances form through joint ventures, mergers and acquisitions, partnerships, and ecosystem development. Digital transformation integrates technology disruption, platform strategies, and data-driven decision making. Blue ocean strategy creates uncontested market spaces through value innovation.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Business Strategy))\n    Analysis\n      SWOT\n      PESTEL\n      Porter's Five Forces\n    Formulation\n      Vision & Mission\n      Goals\n      Objectives\n    Types\n      Corporate\n      Competitive\n      Functional\n    Implementation\n      Resource Allocation\n      Execution\n    Evaluation\n      Metrics\n      Adjustment",
+            "mermaid_code": "mindmap\n  root((<b>Business<br>Strategy</b>))\n    <b>Competitive Analysis</b>\n      Porter's Five Forces\n      Competitor profiling\n      Market positioning\n      Industry structure\n      Barrier analysis\n    <b>Strategic Planning</b>\n      Corporate strategy\n      Business-level strategy\n      Functional strategy\n      Scenario planning\n      Vision alignment\n    <b>Growth Strategies</b>\n      Market penetration\n      Product development\n      Market development\n      Diversification\n      Ansoff's matrix\n    <b>Competitive Advantage</b>\n      Cost leadership\n      Differentiation\n      Innovation focus\n      Resource-based view\n      Core competencies\n    <b>Strategic Alliances</b>\n      Joint ventures\n      M&A integration\n      Partnerships\n      Ecosystem development\n    <b>Digital Transformation</b>\n      Technology disruption\n      Platform strategies\n      Data-driven decisions\n      Business model shift\n    <b>Blue Ocean Strategy</b>\n      Value innovation\n      Uncontested markets\n      Strategic canvas\n      Four actions framework",
             "complexity": "high",
             "tags": [
                 "business_strategy",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

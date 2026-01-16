@@ -4,9 +4,9 @@
             "id": "277",
             "topic": "Quality Management",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Quality Management.",
+            "description": "Quality Management encompasses philosophies, tools, and systems for organizational excellence. Quality philosophies include Total Quality Management emphasizing organization-wide commitment, Deming's 14 Points for transformation, Juran's Quality Trilogy of planning-control-improvement, and Crosby's Zero Defects concept. Quality tools employ control charts for monitoring, Pareto analysis for prioritization, cause-and-effect diagrams for root cause analysis, flowcharts for process mapping, and check sheets for data collection. Six Sigma methodology reduces variation through DMAIC (Define-Measure-Analyze-Improve-Control) framework and statistical rigor. ISO standards provide certification frameworks including ISO 9001 for quality management systems. Lean principles eliminate waste through value stream mapping, just-in-time production, and continuous flow. Quality costs include prevention costs, appraisal costs, internal failure costs, and external failure costs. Customer focus drives voice of customer analysis, satisfaction measurement, and requirements translation.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Quality Management))\n    Principles\n      Customer Focus\n      Leadership\n      Process Approach\n      Continuous Improvement\n    Systems\n      ISO 9001\n      TQM\n      Six Sigma\n      Lean\n    Tools\n      Control Charts\n      Pareto\n      Fishbone\n      FMEA\n    Audit\n      Internal\n      External\n      Certification\n    Culture\n      Engagement\n      Training",
+            "mermaid_code": "mindmap\n  root((<b>Quality<br>Management</b>))\n    <b>Quality Philosophies</b>\n      Total Quality Management\n      Deming's 14 Points\n      Juran's Trilogy\n      Crosby Zero Defects\n      Feigenbaum's approach\n    <b>Quality Tools</b>\n      Control charts\n      Pareto analysis\n      Fishbone diagrams\n      Flowcharts\n      Check sheets\n      Histograms\n      Scatter diagrams\n    <b>Six Sigma</b>\n      DMAIC framework\n      Statistical rigor\n      Belt system\n      Variation reduction\n      Process capability\n    <b>ISO Standards</b>\n      ISO 9001 certification\n      Quality management systems\n      Documentation requirements\n      Audit processes\n      Continuous improvement\n    <b>Lean Principles</b>\n      Waste elimination\n      Value stream mapping\n      Just-in-time\n      Continuous flow\n      5S methodology\n    <b>Quality Costs</b>\n      Prevention costs\n      Appraisal costs\n      Internal failures\n      External failures\n      Cost optimization\n    <b>Customer Focus</b>\n      Voice of customer\n      Satisfaction measurement\n      Requirements translation\n      Feedback loops\n    <b>Process Improvement</b>\n      Kaizen events\n      PDCA cycle\n      Root cause analysis\n      Benchmarking",
             "complexity": "high",
             "tags": [
                 "quality_management",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

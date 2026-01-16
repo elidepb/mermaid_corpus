@@ -4,9 +4,9 @@
             "id": "275",
             "topic": "Taxation",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Taxation.",
+            "description": "Taxation encompasses diverse tax types, principles, and strategies across jurisdictions. Tax types include income tax on wages and business profits, corporate tax on company earnings, value-added tax on consumption, property tax on real estate, capital gains tax on investment profits, estate and gift taxes on wealth transfers, and payroll taxes funding social programs. Tax principles apply horizontal equity treating similar taxpayers equally, vertical equity imposing higher burdens on greater ability to pay, efficiency minimizing economic distortions, simplicity in administration and compliance, and certainty providing clear rules. Tax planning strategies employ income shifting across periods or entities, deduction maximization through allowable expenses, entity selection optimizing tax treatment, retirement account contributions, and charitable giving. International taxation addresses transfer pricing, tax treaties, foreign tax credits, and controlled foreign corporation rules. Tax administration involves revenue collection, taxpayer services, audit selection, and dispute resolution.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Taxation))\n    Types\n      Income Tax\n      Corporate Tax\n      Sales Tax\n      VAT\n      Property Tax\n    Planning\n      Deductions\n      Credits\n      Deferrals\n    Compliance\n      Filing\n      Documentation\n      Deadlines\n    International\n      Transfer Pricing\n      Tax Treaties\n      BEPS\n    Strategy\n      Tax Efficiency\n      Legal Optimization",
+            "mermaid_code": "mindmap\n  root((<b>Taxation</b>))\n    <b>Tax Types</b>\n      Income tax\n      Corporate tax\n      Value-added tax\n      Property tax\n      Capital gains tax\n      Estate & gift tax\n      Payroll tax\n    <b>Tax Principles</b>\n      Horizontal equity\n      Vertical equity\n      Efficiency\n      Simplicity\n      Certainty\n      Convenience\n    <b>Tax Planning</b>\n      Income shifting\n      Deduction maximization\n      Entity selection\n      Retirement contributions\n      Charitable giving\n      Loss utilization\n    <b>International Tax</b>\n      Transfer pricing\n      Tax treaties\n      Foreign tax credits\n      CFC rules\n      BEPS initiatives\n    <b>Tax Administration</b>\n      Revenue collection\n      Taxpayer services\n      Audit selection\n      Dispute resolution\n      Penalty enforcement\n    <b>Tax Structures</b>\n      Progressive rates\n      Flat tax systems\n      Regressive taxes\n      Marginal vs average\n    <b>Deductions & Credits</b>\n      Business expenses\n      Investment incentives\n      Personal exemptions\n      Education credits\n      Child tax credits\n    <b>Compliance</b>\n      Return preparation\n      Documentation\n      Recordkeeping\n      Payment deadlines\n      Electronic filing",
             "complexity": "high",
             "tags": [
                 "taxation",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

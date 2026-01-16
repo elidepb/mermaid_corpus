@@ -1,21 +1,43 @@
 ```mermaid
 mindmap
-  root((Operations Management))
-    Production
-      Capacity Planning
-      Scheduling
-      Quality Control
-    Process Design
-      Lean
+  root((<b>Operations<br>Management</b>))
+    <b>Process Management</b>
+      Workflow design
+      Process mapping
+      Bottleneck analysis
+      Efficiency optimization
+      Standardization
+    <b>Quality Management</b>
+      TQM principles
+      ISO standards
       Six Sigma
-      Automation
-    Inventory
-      Just-in-Time
-      EOQ
-      ABC Analysis
-    Efficiency
-      Productivity
-      Optimization
-      Waste Reduction
+      Statistical control
+      Defect prevention
+    <b>Supply Chain</b>
+      Procurement
+      Logistics coordination
+      Vendor management
+      Distribution networks
+      Risk mitigation
+    <b>Capacity Planning</b>
+      Demand forecasting
+      Resource allocation
+      Facility decisions
+      Utilization rates
+    <b>Lean Manufacturing</b>
+      Waste elimination
+      JIT production
+      Value stream mapping
+      Kaizen improvement
+    <b>Project Management</b>
+      Agile methodologies
+      Timeline planning
+      Budget control
+      Risk management
+    <b>Operations Analytics</b>
+      Performance metrics
+      Data visualization
+      Predictive maintenance
+      Optimization models
 ```
 

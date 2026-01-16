@@ -4,9 +4,9 @@
             "id": "268",
             "topic": "Leadership",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Leadership.",
+            "description": "Leadership encompasses diverse theories, styles, and competencies that drive organizational success. Leadership theories include trait approaches identifying innate characteristics, behavioral models focusing on actions, contingency frameworks emphasizing situational adaptation, and transformational perspectives inspiring change. Leadership styles range from autocratic and democratic to laissez-faire and coaching orientations. Emotional intelligence integrates self-awareness, self-regulation, empathy, and social skills essential for interpersonal effectiveness. Strategic thinking involves systems perspective, future orientation, pattern recognition, and scenario planning. Communication excellence employs active listening, storytelling, persuasion, and transparency. Ethical leadership upholds integrity, accountability, fairness, and moral courage. Power and influence utilize positional authority, expert credibility, referent relationships, and coalition building.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Leadership))\n    Styles\n      Transformational\n      Transactional\n      Servant\n      Situational\n    Skills\n      Vision\n      Communication\n      Empathy\n      Decision Making\n    Theories\n      Trait\n      Behavioral\n      Contingency\n    Development\n      Coaching\n      Mentoring\n      Self-Awareness\n    Impact\n      Motivation\n      Culture\n      Performance",
+            "mermaid_code": "mindmap\n  root((<b>Leadership</b>))\n    <b>Leadership Theories</b>\n      Trait approach\n      Behavioral models\n      Contingency frameworks\n      Transformational theory\n      Servant leadership\n    <b>Leadership Styles</b>\n      Autocratic\n      Democratic\n      Laissez-faire\n      Coaching orientation\n      Situational adaptation\n    <b>Emotional Intelligence</b>\n      Self-awareness\n      Self-regulation\n      Empathy development\n      Social skills\n      Relationship management\n    <b>Strategic Thinking</b>\n      Systems perspective\n      Future orientation\n      Pattern recognition\n      Scenario planning\n      Vision articulation\n    <b>Communication</b>\n      Active listening\n      Storytelling\n      Persuasion techniques\n      Transparency\n      Nonverbal awareness\n    <b>Ethical Leadership</b>\n      Integrity commitment\n      Accountability\n      Fairness principles\n      Moral courage\n      Values alignment\n    <b>Power & Influence</b>\n      Positional authority\n      Expert credibility\n      Referent relationships\n      Coalition building\n      Negotiation skills\n    <b>Team Development</b>\n      Talent cultivation\n      Delegation mastery\n      Conflict resolution\n      Empowerment practices",
             "complexity": "high",
             "tags": [
                 "leadership",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

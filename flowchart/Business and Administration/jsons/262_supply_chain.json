@@ -4,11 +4,17 @@
             "id": "262",
             "topic": "Supply Chain",
             "category": "Business",
-            "description": "A detailed flowchart of the supply chain, including the flow of goods, information, and finances.",
+            "description": "Supply Chain Management is the integrated coordination of all activities involved in moving products from raw material suppliers to end customers. It begins with strategic sourcing to select suppliers and negotiate contracts, followed by procurement to acquire materials. Manufacturing transforms inputs into finished goods, while inventory management balances stock across the network. Distribution moves products through warehouses to retail points, and demand planning forecasts customer needs. Information systems enable real-time visibility and coordination across partners. The goal is to optimize the entire network for cost efficiency, speed, and customer satisfaction while managing risks and maintaining flexibility.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Supply Chain] --> B[Plan]\n    B --> C[Demand Forecasting]\n    B --> D[Supply Planning]\n\n    A --> E[Source]\n    E --> F[Supplier Selection]\n    E --> G[Procurement]\n\n    A --> H[Make]\n    H --> I[Production]\n    H --> J[Inventory Management]\n\n    A --> K[Deliver]\n    K --> L[Order Management]\n    K --> M[Warehousing]\n    K --> N[Transportation]\n\n    A --> O[Return]\n    O --> P[Reverse Logistics]",
+            "mermaid_code": "flowchart TD\n    A[<b>Supply Chain Management</b><br>Integrated coordination from<br>suppliers to customers]:::title\n    B[<b>PRIMARY GOAL</b><br>Optimize Network for Cost,<br>Speed & Satisfaction]:::goal\n    C[<b>SUPPLY CHAIN FLOW</b>]:::flow\n    \n    subgraph D[Strategic Sourcing]\n        D1[Supplier selection<br>& contract negotiation]\n    end\n    \n    subgraph E[Procurement]\n        E1[Material acquisition<br>& vendor management]\n    end\n    \n    subgraph F[Manufacturing]\n        F1[Production & transformation<br>of inputs to outputs]\n    end\n    \n    subgraph G[Inventory Management]\n        G1[Stock optimization<br>across network]\n    end\n    \n    subgraph H[Distribution]\n        H1[Warehousing & delivery<br>to retail points]\n    end\n    \n    subgraph I[Demand Planning]\n        I1[Forecast customer needs<br>& align supply]\n    end\n    \n    subgraph J[Information Systems]\n        J1[Real-time visibility<br>& coordination]\n    end\n    \n    K[<b>OUTCOME</b><br>Efficient, resilient<br>end-to-end network]:::outcome\n    \n    A -->|aims to| B\n    B -->|requires| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I & J -->|together achieve| K\n    J -.->|enables all| C\n    K -.->|continuous feedback| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef flow fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["supply_chain", "logistics", "operations", "procurement", "inventory_management"],
+            "tags": [
+                "supply_chain",
+                "logistics",
+                "operations",
+                "procurement",
+                "inventory_management"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

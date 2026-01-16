@@ -4,9 +4,9 @@
             "id": "272",
             "topic": "Investments",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Investments.",
+            "description": "Investments encompasses diverse asset classes, strategies, and analytical frameworks for capital deployment. Asset classes include equities offering ownership and growth potential, fixed income providing steady income streams, real estate generating rental yields and appreciation, commodities hedging inflation, and alternative investments like private equity and hedge funds. Investment strategies range from value investing seeking undervalued securities, growth investing targeting high-potential companies, income investing prioritizing dividends and interest, index investing tracking market benchmarks, to active management attempting to outperform markets. Portfolio theory applies modern portfolio theory for optimization, efficient frontier analysis, capital asset pricing model, and diversification principles. Risk metrics measure beta, alpha, Sharpe ratio, standard deviation, and value at risk. Behavioral finance examines cognitive biases, herd mentality, and emotional decision-making impacts.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Investments))\n    Asset Classes\n      Stocks\n      Bonds\n      Real Estate\n      Commodities\n      Alternatives\n    Strategy\n      Value\n      Growth\n      Income\n      Index\n    Analysis\n      Fundamental\n      Technical\n      Quantitative\n    Portfolio\n      Diversification\n      Allocation\n      Rebalancing\n    Risk/Return\n      Risk Tolerance\n      Time Horizon",
+            "mermaid_code": "mindmap\n  root((<b>Investments</b>))\n    <b>Asset Classes</b>\n      Equities ownership\n      Fixed income bonds\n      Real estate properties\n      Commodities\n      Alternative investments\n      Cash equivalents\n    <b>Investment Strategies</b>\n      Value investing\n      Growth investing\n      Income investing\n      Index tracking\n      Active management\n      Momentum trading\n    <b>Portfolio Theory</b>\n      Modern portfolio theory\n      Efficient frontier\n      CAPM model\n      Diversification principles\n      Optimization techniques\n    <b>Risk Metrics</b>\n      Beta measurement\n      Alpha generation\n      Sharpe ratio\n      Standard deviation\n      Value at risk\n      Maximum drawdown\n    <b>Behavioral Finance</b>\n      Cognitive biases\n      Herd mentality\n      Emotional decisions\n      Loss aversion\n      Overconfidence\n    <b>Analysis Methods</b>\n      Fundamental analysis\n      Technical analysis\n      Quantitative models\n      Macroeconomic factors\n    <b>Investment Vehicles</b>\n      Mutual funds\n      ETFs\n      Individual securities\n      REITs\n      Derivatives\n    <b>Tax Strategies</b>\n      Tax-loss harvesting\n      Asset location\n      Tax-deferred accounts\n      Capital gains management",
             "complexity": "high",
             "tags": [
                 "investments",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

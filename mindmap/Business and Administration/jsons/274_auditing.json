@@ -4,9 +4,9 @@
             "id": "274",
             "topic": "Auditing",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Auditing.",
+            "description": "Auditing encompasses specialized types, standards, and methodologies for providing assurance. Audit types include external audits examining financial statements for public reporting, internal audits evaluating operational effectiveness and controls, compliance audits verifying regulatory adherence, forensic audits investigating fraud and irregularities, and operational audits assessing efficiency. Audit standards comprise Generally Accepted Auditing Standards (GAAS), International Standards on Auditing (ISA), and Public Company Accounting Oversight Board (PCAOB) requirements. Audit procedures employ inspection of documents, observation of processes, confirmation with third parties, recalculation of computations, and analytical review. Internal controls evaluate control environment, risk assessment processes, information systems, control activities, and monitoring mechanisms. Professional skepticism maintains questioning mindset and critical assessment throughout. Independence ensures objectivity through organizational and mental independence. Materiality determines significance thresholds for reporting misstatements.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Auditing))\n    Types\n      Internal\n      External\n      Forensic\n      Compliance\n    Process\n      Planning\n      Testing\n      Evidence\n      Reporting\n    Standards\n      GAAS\n      ISA\n      PCAOB\n    Techniques\n      Sampling\n      Confirmation\n      Observation\n    Independence\n      Ethics\n      Objectivity",
+            "mermaid_code": "mindmap\n  root((<b>Auditing</b>))\n    <b>Audit Types</b>\n      External audits\n      Internal audits\n      Compliance audits\n      Forensic audits\n      Operational audits\n      IT audits\n    <b>Audit Standards</b>\n      GAAS principles\n      ISA framework\n      PCAOB requirements\n      Professional ethics\n      Quality control\n    <b>Audit Procedures</b>\n      Document inspection\n      Process observation\n      Third-party confirmation\n      Recalculation\n      Analytical review\n      Inquiry techniques\n    <b>Internal Controls</b>\n      Control environment\n      Risk assessment\n      Information systems\n      Control activities\n      Monitoring mechanisms\n      COSO framework\n    <b>Professional Skepticism</b>\n      Questioning mindset\n      Critical assessment\n      Evidence evaluation\n      Bias awareness\n    <b>Independence</b>\n      Organizational separation\n      Mental independence\n      Conflict avoidance\n      Objectivity maintenance\n    <b>Materiality</b>\n      Significance thresholds\n      Quantitative factors\n      Qualitative factors\n      Reporting levels\n    <b>Audit Opinions</b>\n      Unqualified opinion\n      Qualified opinion\n      Adverse opinion\n      Disclaimer of opinion",
             "complexity": "high",
             "tags": [
                 "auditing",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

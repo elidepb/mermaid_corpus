@@ -4,11 +4,17 @@
             "id": "267",
             "topic": "Organizational Behavior",
             "category": "Business",
-            "description": "A detailed flowchart of Organizational Behavior, showing the relationship between individual, group, and organizational levels.",
+            "description": "Organizational Behavior is the systematic study of how individuals, groups, and structures affect and are affected by behavior within organizations to improve effectiveness. It begins with individual analysis, examining personality, perception, motivation, and attitudes that drive employee actions. Group dynamics explores team formation, communication patterns, conflict resolution, and collaborative processes. Organizational structure analysis assesses hierarchies, culture, power distribution, and decision-making systems. Leadership investigation studies styles, influence mechanisms, and change management approaches. Performance outcomes measure productivity, satisfaction, and commitment. Intervention strategies implement training, development, and organizational redesign. The goal is to understand and optimize human behavior to enhance organizational performance, employee well-being, and adaptive",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Organizational Behavior] --> B[Individual Level]\n    B --> C[Personality]\n    B --> D[Values]\n    B --> E[Attitudes]\n    B --> F[Perception]\n    B --> G[Motivation]\n\n    A --> H[Group Level]\n    H --> I[Teams]\n    H --> J[Communication]\n    H --> K[Leadership]\n    H --> L[Power & Politics]\n    H --> M[Conflict & Negotiation]\n\n    A --> N[Organizational Level]\n    N --> O[Organizational Culture]\n    N --> P[Organizational Structure]\n    N --> Q[Organizational Change]",
+            "mermaid_code": "flowchart TD\n    A[<b>Organizational Behavior</b><br>Study of behavior within<br>organizations]:::title\n    B[<b>PRIMARY GOAL</b><br>Optimize Human Behavior<br>for Performance]:::goal\n    C[<b>OB ANALYSIS LEVELS</b>]:::levels\n    \n    subgraph D[Individual Level]\n        D1[Personality, motivation<br>perception & attitudes]\n    end\n    \n    subgraph E[Group Dynamics]\n        E1[Team formation,<br>communication & conflict]\n    end\n    \n    subgraph F[Organizational Structure]\n        F1[Hierarchy, culture<br>& decision systems]\n    end\n    \n    subgraph G[Leadership]\n        G1[Styles, influence<br>& change management]\n    end\n    \n    subgraph H[Performance Outcomes]\n        H1[Productivity, satisfaction<br>& commitment]\n    end\n    \n    subgraph I[Intervention Strategies]\n        I1[Training, development<br>& redesign]\n    end\n    \n    J[<b>OUTCOME</b><br>Enhanced performance,<br>well-being & adaptability]:::outcome\n    \n    A -->|aims to| B\n    B -->|analyzes| C\n    C -->|level 1| D\n    C -->|level 2| E\n    C -->|level 3| F\n    D & E & F -->|shaped by| G\n    G -->|produces| H\n    H -->|informs| I\n    I -->|achieves| J\n    J -.->|continuous feedback| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef levels fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["organizational_behavior", "management", "psychology", "leadership", "culture"],
+            "tags": [
+                "organizational_behavior",
+                "management",
+                "psychology",
+                "leadership",
+                "culture"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

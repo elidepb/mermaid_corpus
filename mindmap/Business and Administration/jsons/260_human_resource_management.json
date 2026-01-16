@@ -4,9 +4,9 @@
             "id": "260",
             "topic": "Human Resource Management",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Human Resource Management.",
+            "description": "Human Resource Management encompasses specialized functions that collectively optimize human capital. Talent acquisition sources and selects candidates through strategic recruiting and interviewing. Learning and development enhances skills via training programs, career development, and leadership coaching. Compensation management designs salary structures, incentives, and comprehensive benefits packages. Employee relations fosters positive workplace culture through conflict resolution and engagement initiatives. HR analytics leverages data to inform workforce decisions and predict trends. Compliance ensures adherence to labor laws and workplace safety regulations. Strategic HR aligns people practices with business objectives.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Human Resource Management))\n    Recruitment\n      Sourcing\n      Selection\n      Onboarding\n    Development\n      Training\n      Career Planning\n      Succession\n    Compensation\n      Salary\n      Benefits\n      Incentives\n    Performance\n      Appraisal\n      Feedback\n      KPIs\n    Relations\n      Employee Engagement\n      Conflict Resolution",
+            "mermaid_code": "mindmap\n  root((<b>Human Resource<br>Management</b>))\n    <b>Talent Acquisition</b>\n      Strategic recruiting\n      Candidate sourcing\n      Interview process\n      Selection criteria\n      Employer branding\n    <b>Learning & Development</b>\n      Training programs\n      Career development\n      Leadership coaching\n      Skill assessment\n      Succession planning\n    <b>Compensation</b>\n      Salary structures\n      Incentive programs\n      Benefits packages\n      Total rewards\n      Market analysis\n    <b>Employee Relations</b>\n      Workplace culture\n      Conflict resolution\n      Engagement surveys\n      Recognition programs\n      Communication\n    <b>HR Analytics</b>\n      Workforce metrics\n      Turnover analysis\n      Predictive modeling\n      Data-driven decisions\n    <b>Compliance</b>\n      Labor laws\n      Workplace safety\n      Equal opportunity\n      Policy enforcement\n    <b>Strategic HR</b>\n      Business alignment\n      Organizational design\n      Change management\n      Workforce planning",
             "complexity": "high",
             "tags": [
                 "human_resource_management",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

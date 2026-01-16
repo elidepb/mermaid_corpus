@@ -4,9 +4,9 @@
             "id": "262",
             "topic": "Supply Chain",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Supply Chain.",
+            "description": "Supply Chain Management encompasses specialized domains that collectively create competitive advantage. Supplier relationship management builds strategic partnerships through collaboration, performance monitoring, and risk assessment. Network design optimizes facility locations, transportation modes, and distribution channels. Inventory optimization balances holding costs against service levels using safety stock calculations and ABC analysis. Supply chain analytics leverages big data for demand sensing, predictive modeling, and scenario planning. Risk management identifies vulnerabilities and develops contingency plans for disruptions. Sustainability initiatives reduce environmental impact through circular economy principles and ethical sourcing. Technology integration employs blockchain, IoT sensors, and AI for transparency and automation.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Supply Chain))\n    Components\n      Suppliers\n      Manufacturers\n      Distributors\n      Retailers\n    Planning\n      Demand Forecasting\n      S&OP\n    Execution\n      Procurement\n      Production\n      Distribution\n    Optimization\n      Cost Reduction\n      Lead Time\n      Visibility\n    Technology\n      SCM Software\n      Blockchain\n      IoT",
+            "mermaid_code": "mindmap\n  root((<b>Supply Chain<br>Management</b>))\n    <b>Supplier Relations</b>\n      Strategic partnerships\n      Performance monitoring\n      Collaboration platforms\n      Risk assessment\n      Contract management\n    <b>Network Design</b>\n      Facility location\n      Transportation modes\n      Distribution channels\n      Route optimization\n      Capacity planning\n    <b>Inventory Optimization</b>\n      Safety stock\n      ABC analysis\n      Reorder points\n      Holding costs\n      Service levels\n    <b>Analytics</b>\n      Demand sensing\n      Predictive modeling\n      Big data analysis\n      Scenario planning\n      Performance metrics\n    <b>Risk Management</b>\n      Vulnerability mapping\n      Contingency planning\n      Disruption response\n      Supplier diversification\n    <b>Sustainability</b>\n      Circular economy\n      Ethical sourcing\n      Carbon footprint\n      Green logistics\n    <b>Technology</b>\n      Blockchain tracking\n      IoT sensors\n      AI optimization\n      Cloud platforms",
             "complexity": "high",
             "tags": [
                 "supply_chain",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

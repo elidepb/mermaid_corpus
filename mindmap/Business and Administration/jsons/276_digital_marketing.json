@@ -4,9 +4,9 @@
             "id": "276",
             "topic": "Digital Marketing",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Digital Marketing.",
+            "description": "Digital Marketing encompasses diverse channels, techniques, and technologies for online customer engagement. Search engine optimization improves organic visibility through keyword research, on-page optimization, technical SEO, and link building. Social media marketing builds communities on platforms like Facebook, Instagram, LinkedIn, and TikTok through content sharing and engagement. Content marketing delivers value through blogs, videos, podcasts, infographics, and ebooks that educate and entertain. Pay-per-click advertising targets audiences via Google Ads, social ads, display networks, and retargeting campaigns. Email marketing nurtures relationships through segmented campaigns, automation workflows, and personalized messaging. Influencer marketing leverages creators and brand ambassadors for authentic promotion. Marketing automation streamlines lead nurturing, customer journeys, and campaign management. Analytics and attribution track customer journeys, conversion paths, and ROI across touchpoints.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Digital Marketing))\n    Channels\n      SEO\n      SEM\n      Social Media\n      Email\n      Content\n    Strategy\n      Personas\n      Funnel\n      Attribution\n    Analytics\n      Google Analytics\n      KPIs\n      A/B Testing\n    Tools\n      CRM\n      Marketing Automation\n      Ad Platforms\n    Trends\n      AI\n      Personalization\n      Video",
+            "mermaid_code": "mindmap\n  root((<b>Digital<br>Marketing</b>))\n    <b>SEO</b>\n      Keyword research\n      On-page optimization\n      Technical SEO\n      Link building\n      Local SEO\n      Content optimization\n    <b>Social Media Marketing</b>\n      Platform strategy\n      Community building\n      Content calendar\n      Engagement tactics\n      Social listening\n      Influencer partnerships\n    <b>Content Marketing</b>\n      Blog posts\n      Video content\n      Podcasts\n      Infographics\n      Ebooks & guides\n      Webinars\n    <b>PPC Advertising</b>\n      Google Ads\n      Social ads\n      Display networks\n      Retargeting\n      Shopping campaigns\n      Bid management\n    <b>Email Marketing</b>\n      Segmentation\n      Automation workflows\n      Personalization\n      A/B testing\n      List building\n      Newsletter campaigns\n    <b>Influencer Marketing</b>\n      Creator partnerships\n      Brand ambassadors\n      Micro-influencers\n      Campaign management\n    <b>Marketing Automation</b>\n      Lead nurturing\n      Customer journeys\n      Workflow automation\n      CRM integration\n    <b>Analytics</b>\n      Google Analytics\n      Conversion tracking\n      Attribution modeling\n      ROI measurement\n      Heat mapping",
             "complexity": "high",
             "tags": [
                 "digital_marketing",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

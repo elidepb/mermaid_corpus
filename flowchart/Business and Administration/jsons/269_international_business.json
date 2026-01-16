@@ -4,11 +4,17 @@
             "id": "269",
             "topic": "International Business",
             "category": "Business",
-            "description": "A detailed flowchart of international business, including modes of entry and environmental factors.",
+            "description": "International Business is the strategic conduct of commercial activities across national borders to leverage global opportunities while managing cross-cultural complexities. It begins with market analysis, assessing international opportunities, competitive landscapes, and entry barriers. Entry mode selection chooses among exporting, licensing, joint ventures, or foreign direct investment based on risk and control preferences. Global strategy formulation develops standardization versus localization approaches for products, marketing, and operations. Cross-cultural management navigates differences in values, communication styles, and business practices. International operations coordinate global supply chains, production networks, and distribution systems. Financial management handles currency risks, international taxation, and capital flows. Compliance ensures adherence to trade regulations, tariffs, and legal frameworks. The goal is sustainable global competitive advantage through effective resource deployment across diverse markets.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[International Business] --> B[Modes of Entry]\n    B --> C[Exporting]\n    B --> D[Licensing]\n    B --> E[Franchising]\n    B --> F[Joint Venture]\n    B --> G[Wholly Owned Subsidiary]\n\n    A --> H[Environmental Factors]\n    H --> I[Political]\n    H --> J[Economic]\n    H --> K[Social]\n    H --> L[Technological]\n    H --> M[Legal]\n    H --> N[Environmental]",
+            "mermaid_code": "flowchart TD\n    A[<b>International Business</b><br>Commercial activities across<br>national borders]:::title\n    B[<b>PRIMARY GOAL</b><br>Global Competitive Advantage<br>Across Markets]:::goal\n    C[<b>GLOBAL BUSINESS PROCESS</b>]:::process\n    \n    subgraph D[Market Analysis]\n        D1[Assess opportunities<br>& entry barriers]\n    end\n    \n    subgraph E[Entry Mode Selection]\n        E1[Choose export, licensing,<br>JV or FDI]\n    end\n    \n    subgraph F[Global Strategy]\n        F1[Standardization vs<br>localization approach]\n    end\n    \n    subgraph G[Cross-Cultural Management]\n        G1[Navigate values &<br>business practices]\n    end\n    \n    subgraph H[International Operations]\n        H1[Coordinate supply chains<br>& production networks]\n    end\n    \n    subgraph I[Financial Management]\n        I1[Handle currency risks<br>& capital flows]\n    end\n    \n    subgraph J[Compliance]\n        J1[Adhere to regulations<br>& legal frameworks]\n    end\n    \n    K[<b>OUTCOME</b><br>Sustainable advantage through<br>global resource deployment]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    K -.->|continuous adaptation| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["international_business", "globalization", "modes_of_entry", "pestle_analysis", "business"],
+            "tags": [
+                "international_business",
+                "globalization",
+                "modes_of_entry",
+                "pestle_analysis",
+                "business"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

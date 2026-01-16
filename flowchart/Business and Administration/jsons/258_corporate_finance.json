@@ -4,11 +4,17 @@
             "id": "258",
             "topic": "Corporate Finance",
             "category": "Business",
-            "description": "A detailed flowchart of corporate finance, showing the relationship between investment, financing, and dividend decisions.",
+            "description": "Corporate Finance is the art and science of managing a company's capital to maximize shareholder value. It focuses on three core decisions: where to invest long-term assets (investment), how to fund those investments (financing), and how to manage day-to-day cash flow (dividends and working capital). These decisions are interconnected and must balance risk against return while ensuring the company maintains adequate liquidity to operate. The ultimate goal is optimal allocation of financial resources to create sustainable value for shareholders.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Corporate Finance] --> B[Investment Decisions]\n    A --> C[Financing Decisions]\n    A --> D[Dividend Decisions]\n\n    B --> E[Capital Budgeting]\n    B --> F[Working Capital Management]\n\n    E --> G[NPV]\n    E --> H[IRR]\n\n    F --> I[Cash Management]\n    F --> J[Inventory Management]\n\n    C --> K[Capital Structure]\n    C --> L[Sources of Funds]\n\n    K --> M[Debt]\n    K --> N[Equity]\n\n    L --> O[Short-Term]\n    L --> P[Long-Term]\n\n    D --> Q[Dividend Policy]\n    D --> R[Share Repurchases]",
+            "mermaid_code": "flowchart TD\n    A[<b>Corporate Finance</b><br>The art and science of managing<br>a company's capital]:::title\n    B[<b>ULTIMATE GOAL</b><br>Maximize Shareholder Value]:::goal\n    C[<b>THREE CORE DECISIONS</b>]:::decisions\n    \n    subgraph D[Investment Decisions]\n        D1[Where to invest<br>in long-term assets]\n    end\n    \n    subgraph E[Financing Decisions]\n        E1[How to fund these investments]\n    end\n    \n    subgraph F[Capital Management]\n        F1[Dividend Policies<br>& Working Capital]\n    end\n    \n    G[<b>FOCUS</b><br>Optimal allocation<br>of financial resources]:::focus\n    \n    A -->|aims to| B\n    B -->|requires| C\n    C -->|involves| D\n    C -->|involves| E\n    C -->|involves| F\n    D & E & F -->|collectively achieve| G\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef decisions fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef focus fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["corporate_finance", "finance", "investment", "capital_budgeting", "dividend_policy"],
+            "tags": [
+                "corporate_finance",
+                "finance",
+                "investment",
+                "capital_budgeting",
+                "dividend_policy"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

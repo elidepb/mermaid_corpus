@@ -4,9 +4,9 @@
             "id": "256",
             "topic": "Business Administration",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Business Administration.",
+            "description": "Business Administration represents the interconnected disciplines of managing modern organizations. It branches into strategic areas: operations management optimizes production processes, human resources develops talent, marketing creates customer value, finance allocates capital, and information systems enable data-driven decisions. Each branch supports organizational success through specialized expertise while maintaining alignment with overall business goals.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Business Administration))\n    Core Functions\n      Planning\n      Organizing\n      Leading\n      Controlling\n    Key Areas\n      Finance\n      Marketing\n      Operations\n      HR\n    Skills\n      Decision Making\n      Communication\n      Problem Solving\n    Tools\n      ERP Systems\n      Analytics\n      Automation",
+            "mermaid_code": "mindmap\n  root((<b>Business<br>Administration</b>))\n    <b>Operations</b>\n      Process optimization\n      Quality control\n      Supply chain\n      Production efficiency\n    <b>Human Resources</b>\n      Talent acquisition\n      Training & development\n      Performance management\n      Employee relations\n    <b>Marketing</b>\n      Market research\n      Brand strategy\n      Customer relations\n      Sales management\n    <b>Finance</b>\n      Budget planning\n      Investment analysis\n      Risk management\n      Financial reporting\n    <b>Information Systems</b>\n      Data management\n      Technology integration\n      Business analytics\n      Digital transformation",
             "complexity": "high",
             "tags": [
                 "business_administration",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

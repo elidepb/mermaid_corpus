@@ -4,9 +4,9 @@
             "id": "278",
             "topic": "Change Management",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Change Management.",
+            "description": "Change Management encompasses models, strategies, and practices for guiding organizational transformation. Change models include Lewin's three-stage model of unfreeze-change-refreeze, Kotter's eight-step process emphasizing urgency and coalitions, ADKAR framework focusing on individual transitions through Awareness-Desire-Knowledge-Ability-Reinforcement, and the McKinsey 7-S model aligning strategy, structure, systems, skills, staff, style, and shared values. Change leadership requires transformational vision, emotional intelligence, coalition building, and resilience modeling. Resistance sources stem from loss of control, uncertainty, disruption to routines, and past change failures. Communication strategies employ town halls, newsletters, champions networks, and feedback mechanisms. Training and development build competencies through workshops, coaching, job aids, and support systems. Culture transformation shifts mindsets, values, and behaviors through symbolic actions and reinforcement. Measurement tracks adoption rates, performance metrics, and employee sentiment throughout transition phases.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Change Management))\n    Models\n      Kotter's 8 Steps\n      ADKAR\n      Lewin's Model\n    Process\n      Assess\n      Plan\n      Implement\n      Sustain\n    Resistance\n      Causes\n      Mitigation\n      Communication\n    Leadership\n      Sponsorship\n      Champions\n      Stakeholders\n    Tools\n      Readiness Assessment\n      Impact Analysis\n      Training",
+            "mermaid_code": "mindmap\n  root((<b>Change<br>Management</b>))\n    <b>Change Models</b>\n      Lewin's 3-stage model\n      Kotter's 8 steps\n      ADKAR framework\n      McKinsey 7-S\n      Bridges transition model\n    <b>Change Leadership</b>\n      Transformational vision\n      Emotional intelligence\n      Coalition building\n      Resilience modeling\n      Influence tactics\n    <b>Resistance Sources</b>\n      Loss of control\n      Uncertainty fears\n      Routine disruption\n      Past failures\n      Resource constraints\n    <b>Communication Strategies</b>\n      Town halls\n      Newsletters\n      Champions networks\n      Feedback mechanisms\n      Storytelling\n    <b>Training & Development</b>\n      Skills workshops\n      Coaching programs\n      Job aids\n      Support systems\n      Peer learning\n    <b>Culture Transformation</b>\n      Mindset shifts\n      Values alignment\n      Behavioral change\n      Symbolic actions\n      Reinforcement\n    <b>Measurement</b>\n      Adoption rates\n      Performance metrics\n      Employee sentiment\n      ROI tracking\n      Milestone tracking\n    <b>Change Types</b>\n      Strategic change\n      Process improvement\n      Technology adoption\n      Organizational restructure\n      Merger integration",
             "complexity": "high",
             "tags": [
                 "change_management",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

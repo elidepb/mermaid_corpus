@@ -4,11 +4,17 @@
             "id": "261",
             "topic": "Operations Management",
             "category": "Business",
-            "description": "A detailed flowchart of Operations Management, including inputs, transformation processes, and outputs.",
+            "description": "Operations Management is the systematic design, execution, and improvement of processes that transform inputs into valuable outputs. It begins with demand forecasting to predict customer needs, followed by capacity planning to align resources. Process design establishes efficient workflows, while supply chain management coordinates material flows. Quality control ensures standards are met, inventory management balances stock levels, and scheduling optimizes resource utilization. Continuous improvement methodologies like Lean and Six Sigma eliminate waste and reduce variation. The goal is to deliver products and services efficiently, meeting customer requirements while minimizing costs and maximizing productivity.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Operations Management] --> B[Inputs]\n    B --> C[Human Resources]\n    B --> D[Raw Materials]\n    B --> E[Technology]\n    B --> F[Capital]\n\n    A --> G[Transformation Process]\n    G --> H[Product Design]\n    G --> I[Process Strategy]\n    G --> J[Quality Management]\n    G --> K[Inventory Management]\n\n    A --> L[Outputs]\n    L --> M[Goods]\n    L --> N[Services]",
+            "mermaid_code": "flowchart TD\n    A[<b>Operations Management</b><br>Design & improvement of<br>transformation processes]:::title\n    B[<b>PRIMARY GOAL</b><br>Efficient Delivery of<br>Products & Services]:::goal\n    C[<b>OPERATIONS CYCLE</b>]:::cycle\n    \n    subgraph D[Planning]\n        D1[Demand forecasting<br>& capacity planning]\n    end\n    \n    subgraph E[Process Design]\n        E1[Workflow establishment<br>& optimization]\n    end\n    \n    subgraph F[Supply Chain]\n        F1[Material coordination<br>& logistics]\n    end\n    \n    subgraph G[Quality Control]\n        G1[Standards verification<br>& defect prevention]\n    end\n    \n    subgraph H[Inventory]\n        H1[Stock balancing<br>& management]\n    end\n    \n    subgraph I[Scheduling]\n        I1[Resource optimization<br>& timing]\n    end\n    \n    subgraph J[Improvement]\n        J1[Lean & Six Sigma<br>waste elimination]\n    end\n    \n    K[<b>OUTCOME</b><br>Cost minimization &<br>productivity maximization]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    J -.->|continuous loop| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["operations_management", "business", "supply_chain", "quality_management", "inventory_management"],
+            "tags": [
+                "operations_management",
+                "business",
+                "supply_chain",
+                "quality_management",
+                "inventory_management"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

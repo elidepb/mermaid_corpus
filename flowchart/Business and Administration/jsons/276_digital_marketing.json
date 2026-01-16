@@ -4,11 +4,17 @@
             "id": "276",
             "topic": "Digital Marketing",
             "category": "Business",
-            "description": "A detailed flowchart of the digital marketing ecosystem.",
+            "description": "Digital Marketing is the strategic use of digital channels and technologies to promote products, engage audiences, and drive conversions. It begins with audience research, identifying target demographics, behaviors, and online preferences through analytics and segmentation. Strategy development defines objectives, channel selection, and content themes aligned with business goals. Content creation produces engaging materials including text, images, videos, and interactive experiences. Channel deployment distributes content across search engines, social media, email, and websites. Campaign execution implements paid advertising, organic reach efforts, and influencer partnerships. Performance tracking monitors metrics like traffic, engagement, conversions, and ROI using analytics platforms. Optimization and iteration refine approaches based on data insights, A/B testing, and performance benchmarks. The goal is to build brand awareness, generate qualified leads, and convert prospects into customers through personalized digital experiences.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Digital Marketing] --> B[Owned Media]\n    B --> C[Website]\n    B --> D[Blog]\n    B --> E[Social Media Profiles]\n\n    A --> F[Paid Media]\n    F --> G[PPC Advertising]\n    F --> H[Social Media Ads]\n    F --> I[Display Ads]\n\n    A --> J[Earned Media]\n    J --> K[SEO]\n    J --> L[Public Relations]\n    J --> M[Reviews]\n\n    A --> N[Digital Marketing Strategy]\n    N --> O[Goals]\n    N --> P[Target Audience]\n    N --> Q[Channels]\n    N --> R[Content]\n    N --> S[Measurement]",
+            "mermaid_code": "flowchart TD\n    A[<b>Digital Marketing</b><br>Strategic use of digital channels<br>for promotion]:::title\n    B[<b>PRIMARY GOAL</b><br>Build Awareness & Drive<br>Conversions]:::goal\n    C[<b>MARKETING PROCESS</b>]:::process\n    \n    subgraph D[Audience Research]\n        D1[Identify demographics,<br>behaviors & preferences]\n    end\n    \n    subgraph E[Strategy Development]\n        E1[Define objectives, channels<br>& content themes]\n    end\n    \n    subgraph F[Content Creation]\n        F1[Produce engaging text,<br>images & videos]\n    end\n    \n    subgraph G[Channel Deployment]\n        G1[Distribute across SEO,<br>social, email & web]\n    end\n    \n    subgraph H[Campaign Execution]\n        H1[Implement paid ads<br>& organic reach]\n    end\n    \n    subgraph I[Performance Tracking]\n        I1[Monitor traffic, engagement<br>& conversions]\n    end\n    \n    subgraph J[Optimization & Iteration]\n        J1[Refine via data insights<br>& A/B testing]\n    end\n    \n    K[<b>OUTCOME</b><br>Qualified leads & customer<br>conversions]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    J -.->|continuous feedback| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["digital_marketing", "marketing", "seo", "ppc", "social_media_marketing"],
+            "tags": [
+                "digital_marketing",
+                "marketing",
+                "seo",
+                "ppc",
+                "social_media_marketing"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

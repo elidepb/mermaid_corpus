@@ -4,9 +4,9 @@
             "id": "267",
             "topic": "Organizational Behavior",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Organizational Behavior.",
+            "description": "Organizational Behavior encompasses theoretical frameworks and practical applications that explain workplace dynamics. Motivation theories include Maslow's hierarchy of needs, Herzberg's two-factor theory, expectancy theory, and goal-setting frameworks that drive employee engagement. Leadership approaches range from transformational and transactional to servant and authentic leadership styles. Organizational culture shapes values, beliefs, artifacts, and behavioral norms through socialization processes. Team effectiveness depends on composition, cohesion, roles, trust-building, and collaborative mechanisms. Change management employs Lewin's force field analysis, Kotter's eight-step process, and resistance reduction strategies. Communication patterns utilize formal and informal channels, active listening, and feedback systems. Decision-making processes apply rational, bounded rationality, and intuitive models. Work-life balance initiatives promote employee wellness, engagement, and retention.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Organizational Behavior))\n    Individual\n      Personality\n      Perception\n      Motivation\n      Learning\n    Group\n      Teams\n      Communication\n      Conflict\n      Leadership\n    Organization\n      Culture\n      Structure\n      Change\n      Politics\n    Applications\n      Performance\n      Job Satisfaction\n      Engagement",
+            "mermaid_code": "mindmap\n  root((<b>Organizational<br>Behavior</b>))\n    <b>Motivation Theories</b>\n      Maslow's hierarchy\n      Herzberg two-factor\n      Expectancy theory\n      Goal-setting theory\n      Self-determination\n    <b>Leadership Styles</b>\n      Transformational\n      Transactional\n      Servant leadership\n      Authentic leadership\n      Situational approach\n    <b>Organizational Culture</b>\n      Values & beliefs\n      Artifacts & symbols\n      Behavioral norms\n      Socialization processes\n      Culture change\n    <b>Team Effectiveness</b>\n      Team composition\n      Cohesion building\n      Role clarity\n      Trust development\n      Collaborative dynamics\n    <b>Change Management</b>\n      Force field analysis\n      Kotter's 8 steps\n      Resistance reduction\n      Adoption strategies\n      Transition support\n    <b>Communication</b>\n      Formal channels\n      Informal networks\n      Active listening\n      Feedback systems\n      Nonverbal cues\n    <b>Decision Making</b>\n      Rational models\n      Bounded rationality\n      Intuitive processes\n      Group decisions\n      Cognitive biases\n    <b>Work-Life Balance</b>\n      Employee wellness\n      Engagement programs\n      Retention strategies\n      Flexibility options",
             "complexity": "high",
             "tags": [
                 "organizational_behavior",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

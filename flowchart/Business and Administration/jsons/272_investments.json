@@ -4,11 +4,17 @@
             "id": "272",
             "topic": "Investments",
             "category": "Business",
-            "description": "A detailed flowchart of the investment process.",
+            "description": "Investments is the strategic allocation of capital into assets with the expectation of generating returns over time while managing risk. It begins with financial goal setting, defining objectives for retirement, wealth accumulation, or income generation. Risk assessment evaluates investor risk tolerance, time horizon, and financial capacity. Asset allocation distributes capital across asset classes like stocks, bonds, real estate, and alternatives to optimize the risk-return tradeoff. Security selection chooses specific investments through fundamental and technical analysis. Portfolio construction builds diversified holdings that align with strategic objectives. Performance monitoring tracks returns, measures against benchmarks, and evaluates risk metrics. Rebalancing adjusts allocations to maintain target weights and respond to market conditions. The goal is to maximize risk-adjusted returns through disciplined investment processes and long-term perspective.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Investment Process] --> B[Set Investment Goals]\n    B --> C[Determine Risk Tolerance]\n    C --> D[Asset Allocation]\n    D --> E[Security Selection]\n    E --> F[Portfolio Construction]\n    F --> G[Monitoring & Rebalancing]\n\n    D --> H[Stocks]\n    D --> I[Bonds]\n    D --> J[Real Estate]\n    D --> K[Commodities]\n    D --> L[Alternatives]",
+            "mermaid_code": "flowchart TD\n    A[<b>Investments</b><br>Strategic capital allocation<br>for returns]:::title\n    B[<b>PRIMARY GOAL</b><br>Maximize Risk-Adjusted<br>Returns]:::goal\n    C[<b>INVESTMENT PROCESS</b>]:::process\n    \n    subgraph D[Financial Goal Setting]\n        D1[Define objectives for<br>retirement & wealth]\n    end\n    \n    subgraph E[Risk Assessment]\n        E1[Evaluate tolerance,<br>horizon & capacity]\n    end\n    \n    subgraph F[Asset Allocation]\n        F1[Distribute across stocks,<br>bonds & alternatives]\n    end\n    \n    subgraph G[Security Selection]\n        G1[Choose investments via<br>fundamental & technical analysis]\n    end\n    \n    subgraph H[Portfolio Construction]\n        H1[Build diversified<br>holdings]\n    end\n    \n    subgraph I[Performance Monitoring]\n        I1[Track returns vs<br>benchmarks]\n    end\n    \n    subgraph J[Rebalancing]\n        J1[Adjust allocations to<br>target weights]\n    end\n    \n    K[<b>OUTCOME</b><br>Long-term wealth growth<br>with risk control]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    J -.->|continuous cycle| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["investments", "finance", "portfolio_management", "asset_allocation", "risk_management"],
+            "tags": [
+                "investments",
+                "finance",
+                "portfolio_management",
+                "asset_allocation",
+                "risk_management"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

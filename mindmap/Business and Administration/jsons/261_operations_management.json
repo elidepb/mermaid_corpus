@@ -4,9 +4,9 @@
             "id": "261",
             "topic": "Operations Management",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Operations Management.",
+            "description": "Operations Management comprises interconnected domains that optimize production and service delivery. Process management designs efficient workflows using methods like process mapping and bottleneck analysis. Quality management implements systems such as TQM, ISO standards, and statistical process control. Supply chain operations coordinate procurement, logistics, vendor management, and distribution networks. Capacity planning balances demand with available resources through forecasting and facility decisions. Lean manufacturing eliminates waste via just-in-time production and value stream mapping. Project management applies methodologies to execute initiatives on time and within budget. Operations analytics uses data to drive performance improvement and predictive maintenance.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Operations Management))\n    Production\n      Capacity Planning\n      Scheduling\n      Quality Control\n    Process Design\n      Lean\n      Six Sigma\n      Automation\n    Inventory\n      Just-in-Time\n      EOQ\n      ABC Analysis\n    Efficiency\n      Productivity\n      Optimization\n      Waste Reduction",
+            "mermaid_code": "mindmap\n  root((<b>Operations<br>Management</b>))\n    <b>Process Management</b>\n      Workflow design\n      Process mapping\n      Bottleneck analysis\n      Efficiency optimization\n      Standardization\n    <b>Quality Management</b>\n      TQM principles\n      ISO standards\n      Six Sigma\n      Statistical control\n      Defect prevention\n    <b>Supply Chain</b>\n      Procurement\n      Logistics coordination\n      Vendor management\n      Distribution networks\n      Risk mitigation\n    <b>Capacity Planning</b>\n      Demand forecasting\n      Resource allocation\n      Facility decisions\n      Utilization rates\n    <b>Lean Manufacturing</b>\n      Waste elimination\n      JIT production\n      Value stream mapping\n      Kaizen improvement\n    <b>Project Management</b>\n      Agile methodologies\n      Timeline planning\n      Budget control\n      Risk management\n    <b>Operations Analytics</b>\n      Performance metrics\n      Data visualization\n      Predictive maintenance\n      Optimization models",
             "complexity": "high",
             "tags": [
                 "operations_management",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

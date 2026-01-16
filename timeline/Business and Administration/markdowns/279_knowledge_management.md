@@ -1,20 +1,24 @@
 ```mermaid
 timeline
-    title The History of Knowledge Management
-    section Pre-Digital Era
-        1960s : Peter Drucker coins the term "knowledge worker"
-        1970s : Early work on expert systems
-    section The 1980s: The Rise of Information
-        1980s : Focus on information management and data processing
-        1987 : Karl Wiig - "Foundations of Knowledge Management"
-    section The 1990s: KM Goes Mainstream
-        1991 : Ikujiro Nonaka - SECI model of knowledge creation
-        1995 : The term "Knowledge Management" is widely adopted
-        1998 : Thomas H. Davenport & Laurence Prusak - "Working Knowledge"
-    section The 2000s: Technology and Collaboration
-        2001 : Wikipedia is launched - a global KM system
-        2000s : Rise of wikis, blogs, and social bookmarking
-    section The 2010s: Social, Mobile, and Cloud
-        2010s : Enterprise social networks & collaborative tools
-        2010s : Cloud computing enables ubiquitous access to knowledge
+    title Knowledge Management Evolution
+    1950s-1960s : Library & Information Science
+                : Systematic organization foundations
+    1959 : Knowledge Worker Concept
+         : Drucker's intellectual capital
+    1966 : Tacit Knowledge Theory
+         : Polanyi's experiential knowing
+    1978 : Organizational Learning
+         : Argyris & Schön's loop learning
+    1990s : KM Term Prominence
+          : Competitive knowledge assets
+    1995 : SECI Model
+         : Nonaka & Takeuchi's framework
+    Late 1990s-2000s : Enterprise Content Management
+                     : System proliferation
+    Mid-2000s : Web 2.0 Technologies
+              : Collaborative wikis
+    2010s : AI & Machine Learning
+          : Knowledge discovery transformation
+    2020s : Conversational AI & Graphs
+          : Personalized learning experiences
 ```

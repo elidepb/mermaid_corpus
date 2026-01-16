@@ -4,11 +4,17 @@
             "id": "256",
             "topic": "Business Administration",
             "category": "Business",
-            "description": "A detailed flowchart showing the interconnected functions and processes of Business Administration.",
+            "description": "Business Administration is the systematic process of managing organizational resources to achieve strategic objectives efficiently. It encompasses planning what the organization will do, organizing how resources will be structured, leading teams to execute plans, and controlling outcomes to ensure goals are met. This cyclical management process creates value through optimal coordination of human, financial, and material resources.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Business Administration] --> B[Core Functions]\n    A --> C[Support Functions]\n    A --> D[Management Processes]\n\n    B --> FIN[Finance]\n    B --> MKT[Marketing]\n    B --> OPS[Operations]\n\n    FIN --> FIN_PLAN[Financial Planning]\n    FIN --> INV[Investment Management]\n    FIN --> RISK[Risk Management]\n\n    MKT --> MKT_RES[Market Research]\n    MKT --> BRAND[Brand Management]\n    MKT --> SALES[Sales]\n\n    OPS --> SCM[Supply Chain Management]\n    OPS --> QM[Quality Management]\n    OPS --> PROD[Production]\n\n    C --> HR[Human Resources]\n    C --> IT[Information Technology]\n    C --> ACC[Accounting]\n\n    HR --> RECRUIT[Recruitment]\n    HR --> TRAIN[Training & Development]\n    HR --> COMP[Compensation]\n\n    IT --> INFRA[Infrastructure]\n    IT --> SEC[Security]\n    IT --> SW_DEV[Software Development]\n\n    ACC --> BOOK[Bookkeeping]\n    ACC --> AUDIT[Auditing]\n    ACC --> TAX[Taxation]\n\n    D --> PLAN[Planning]\n    D --> ORG[Organizing]\n    D --> LEAD[Leading]\n    D --> CTRL[Controlling]\n\n    PLAN --> STRAT[Strategic Planning]\n    PLAN --> TACT[Tactical Planning]\n\n    LEAD --> MOTIV[Motivation]\n    LEAD --> COMM[Communication]",
+            "mermaid_code": "flowchart TD\n    A[<b>Business Administration</b><br>Systematic management of<br>organizational resources]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Achieve Strategic Goals<br>Efficiently]:::objective\n    C[<b>FOUR CORE FUNCTIONS</b>]:::functions\n    \n    subgraph D[Planning]\n        D1[Define objectives<br>& strategies]\n    end\n    \n    subgraph E[Organizing]\n        E1[Structure resources<br>& responsibilities]\n    end\n    \n    subgraph F[Leading]\n        F1[Motivate & direct<br>teams]\n    end\n    \n    subgraph G[Controlling]\n        G1[Monitor performance<br>& adjust]\n    end\n    \n    H[<b>VALUE CREATION</b><br>Through optimal coordination<br>of resources]:::value\n    \n    A -->|aims to| B\n    B -->|requires| C\n    C -->|involves| D\n    C -->|involves| E\n    C -->|involves| F\n    C -->|involves| G\n    D & E & F & G -->|collectively achieve| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef functions fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef value fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["business_administration", "management", "finance", "marketing", "operations"],
+            "tags": [
+                "business_administration",
+                "management",
+                "finance",
+                "marketing",
+                "operations"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

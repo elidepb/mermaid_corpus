@@ -1,18 +1,22 @@
 ```mermaid
 timeline
-    title A Brief History of Entrepreneurship
-    section Early Commerce
-        17,000 BC : First known instances of trade (New Guinea)
-        Middle Ages : Guilds & Merchant Entrepreneurs
-    section 18th & 19th Centuries
-        1776 : Adam Smith's "The Wealth of Nations" - concept of the entrepreneur
-        Industrial Revolution : Rise of industrialists & innovators (e.g., Carnegie, Ford)
-    section 20th Century
-        1930s : Schumpeter's theory of "creative destruction"
-        1947 : First MBA entrepreneurship course (Harvard)
-        1970s : Rise of Silicon Valley & Venture Capital
-    section Late 20th & Early 21st Century
-        1990s : The Dot-Com Boom
-        2000s : Social Entrepreneurship & The Lean Startup movement
-        2010s : Gig Economy & Rise of the Solopreneur
+    title Entrepreneurship Evolution
+    1760s-1840s : Industrial Revolution
+                : Manufacturing ventures
+    1942 : Creative Destruction Theory
+         : Schumpeter's framework
+    1950s-1960s : Silicon Valley Birth
+                : Tech entrepreneurship hub
+    1970s-1980s : PC Revolution
+                : Technology democratization
+    1995-2000 : Dot-com Boom & Bust
+              : Internet entrepreneurship
+    2008 : Lean Startup Methodology
+         : Rapid iteration emphasis
+    2010s : Mobile & Gig Economy
+          : Smartphone-enabled ventures
+    2015 : Unicorn Era
+         : Billion-dollar startups
+    2020s : AI & Sustainability
+          : Tech-driven impact ventures
 ```

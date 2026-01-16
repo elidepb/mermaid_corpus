@@ -4,11 +4,17 @@
             "id": "277",
             "topic": "Quality Management",
             "category": "Business",
-            "description": "A detailed flowchart of the Total Quality Management (TQM) framework.",
+            "description": "Quality Management is the systematic approach to ensuring products and services consistently meet or exceed customer expectations through continuous improvement. It begins with quality planning, establishing standards, specifications, and acceptance criteria aligned with customer requirements. Process design develops procedures and workflows that build quality into operations rather than inspecting it afterward. Quality control implements inspection, testing, and monitoring to detect defects and variations. Statistical process control uses data analysis to identify trends, patterns, and out-of-control conditions. Corrective action addresses root causes of defects through problem-solving methodologies like 5 Whys and fishbone diagrams. Preventive action anticipates potential issues and implements safeguards before problems occur. Continuous improvement employs methodologies like Kaizen, Six Sigma, and Lean to systematically enhance performance. The goal is to achieve excellence through defect prevention, waste elimination, and customer satisfaction.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Total Quality Management] --> B[Customer Focus]\n    A --> C[Leadership]\n    A --> D[Employee Involvement]\n    A --> E[Process Approach]\n    A --> F[System Approach to Management]\n    A --> G[Continual Improvement]\n    A --> H[Factual Approach to Decision Making]\n    A --> I[Mutually Beneficial Supplier Relationships]",
+            "mermaid_code": "flowchart TD\n    A[<b>Quality Management</b><br>Systematic approach to<br>meeting expectations]:::title\n    B[<b>PRIMARY GOAL</b><br>Achieve Excellence Through<br>Continuous Improvement]:::goal\n    C[<b>QUALITY PROCESS</b>]:::process\n    \n    subgraph D[Quality Planning]\n        D1[Establish standards<br>& specifications]\n    end\n    \n    subgraph E[Process Design]\n        E1[Develop procedures<br>building quality in]\n    end\n    \n    subgraph F[Quality Control]\n        F1[Implement inspection,<br>testing & monitoring]\n    end\n    \n    subgraph G[Statistical Process Control]\n        G1[Analyze data for trends<br>& variations]\n    end\n    \n    subgraph H[Corrective Action]\n        H1[Address root causes<br>of defects]\n    end\n    \n    subgraph I[Preventive Action]\n        I1[Anticipate & prevent<br>potential issues]\n    end\n    \n    subgraph J[Continuous Improvement]\n        J1[Apply Kaizen, Six Sigma<br>& Lean methods]\n    end\n    \n    K[<b>OUTCOME</b><br>Defect prevention &<br>customer satisfaction]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    J -.->|feedback loop| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["quality_management", "tqm", "six_sigma", "iso_9000", "continuous_improvement"],
+            "tags": [
+                "quality_management",
+                "tqm",
+                "six_sigma",
+                "iso_9000",
+                "continuous_improvement"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

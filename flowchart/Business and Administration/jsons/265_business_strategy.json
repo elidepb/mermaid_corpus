@@ -4,11 +4,17 @@
             "id": "265",
             "topic": "Business Strategy",
             "category": "Business",
-            "description": "A detailed flowchart of the strategic management process.",
+            "description": "Business Strategy is the systematic formulation and execution of plans to achieve competitive advantage and long-term organizational success. It begins with environmental analysis, examining external opportunities and threats through industry analysis and market trends. Internal assessment evaluates organizational strengths and weaknesses, resources, and capabilities. Strategic formulation defines vision, mission, and strategic objectives aligned with competitive positioning. Strategy selection chooses among alternatives like cost leadership, differentiation, or focus strategies. Implementation executes through resource allocation, organizational alignment, and change management. Performance monitoring tracks progress using balanced scorecards and KPIs. Strategic review adapts plans based on results and changing conditions. The goal is sustainable competitive advantage that creates superior value for stakeholders.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Strategic Management Process] --> B[Mission & Vision]\n    B --> C[External Analysis]\n    C --> D[PESTLE]\n    C --> E[Porter's Five Forces]\n    B --> F[Internal Analysis]\n    F --> G[SWOT]\n    F --> H[VRIO]\n    A --> I[Strategy Formulation]\n    I --> J[Corporate Strategy]\n    I --> K[Business Strategy]\n    I --> L[Functional Strategy]\n    A --> M[Strategy Implementation]\n    A --> N[Evaluation & Control]",
+            "mermaid_code": "flowchart TD\n    A[<b>Business Strategy</b><br>Formulation & execution for<br>competitive advantage]:::title\n    B[<b>PRIMARY GOAL</b><br>Sustainable Competitive<br>Advantage]:::goal\n    C[<b>STRATEGIC PROCESS</b>]:::process\n    \n    subgraph D[Environmental Analysis]\n        D1[External opportunities<br>& threats assessment]\n    end\n    \n    subgraph E[Internal Assessment]\n        E1[Strengths, weaknesses<br>& capabilities]\n    end\n    \n    subgraph F[Strategic Formulation]\n        F1[Vision, mission<br>& objectives definition]\n    end\n    \n    subgraph G[Strategy Selection]\n        G1[Choose cost leadership,<br>differentiation or focus]\n    end\n    \n    subgraph H[Implementation]\n        H1[Resource allocation<br>& organizational alignment]\n    end\n    \n    subgraph I[Performance Monitoring]\n        I1[Track KPIs<br>& balanced scorecard]\n    end\n    \n    subgraph J[Strategic Review]\n        J1[Adapt based on results<br>& conditions]\n    end\n    \n    K[<b>OUTCOME</b><br>Superior value creation<br>for stakeholders]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    J -.->|continuous cycle| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["business_strategy", "strategic_management", "swot_analysis", "porters_five_forces", "corporate_strategy"],
+            "tags": [
+                "business_strategy",
+                "strategic_management",
+                "swot_analysis",
+                "porters_five_forces",
+                "corporate_strategy"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

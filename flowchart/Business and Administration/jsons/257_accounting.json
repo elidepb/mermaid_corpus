@@ -4,11 +4,17 @@
             "id": "257",
             "topic": "Accounting",
             "category": "Business",
-            "description": "A detailed flowchart of the accounting cycle, from transaction to post-closing trial balance.",
+            "description": "Accounting is the systematic process of recording, classifying, and reporting financial transactions to provide useful information for decision-making. It begins with identifying economic events, recording them through journal entries, classifying into ledger accounts, and summarizing in financial statements. This process serves three primary users: management for internal decisions, investors and creditors for external assessment, and tax authorities for compliance. The ultimate goal is to provide accurate, timely financial information that supports informed economic decisions.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Start] --> B[1. Identify Transactions]\n    B --> C[2. Record in Journals]\n    C --> D[3. Post to General Ledger]\n    D --> E[4. Unadjusted Trial Balance]\n    E --> F[5. Record Adjusting Entries]\n    F --> G[6. Adjusted Trial Balance]\n    G --> H[7. Prepare Financial Statements]\n    H --> I[Income Statement]\n    H --> J[Balance Sheet]\n    H --> K[Statement of Cash Flows]\n    H --> L[8. Closing Entries]\n    L --> M[9. Post-Closing Trial Balance]\n    M --> N[End]",
+            "mermaid_code": "flowchart TD\n    A[<b>Accounting</b><br>Systematic recording & reporting<br>of financial transactions]:::title\n    B[<b>PRIMARY PURPOSE</b><br>Provide Financial Information<br>for Decision-Making]:::objective\n    C[<b>ACCOUNTING CYCLE</b>]:::cycle\n    \n    subgraph D[Recording]\n        D1[Identify transactions<br>& journal entries]\n    end\n    \n    subgraph E[Classifying]\n        E1[Post to ledger<br>accounts]\n    end\n    \n    subgraph F[Summarizing]\n        F1[Prepare financial<br>statements]\n    end\n    \n    subgraph G[Reporting]\n        G1[Communicate results<br>to stakeholders]\n    end\n    \n    H[<b>THREE USER GROUPS</b>]:::users\n    \n    I[<b>Management</b><br>Internal decisions]:::internal\n    J[<b>Investors & Creditors</b><br>External assessment]:::external\n    K[<b>Tax Authorities</b><br>Compliance]:::tax\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|serves| H\n    H -->|informs| I\n    H -->|informs| J\n    H -->|informs| K\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef users fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#333\n    classDef internal fill:#e1f5fe,stroke:#0277bd,stroke-width:1px,color:#333\n    classDef external fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1px,color:#333\n    classDef tax fill:#e8f5e9,stroke:#388e3c,stroke-width:1px,color:#333",
             "complexity": "high",
-            "tags": ["accounting", "finance", "accounting_cycle", "financial_statements", "bookkeeping"],
+            "tags": [
+                "accounting",
+                "finance",
+                "accounting_cycle",
+                "financial_statements",
+                "bookkeeping"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

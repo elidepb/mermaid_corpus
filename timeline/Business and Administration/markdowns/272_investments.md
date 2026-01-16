@@ -1,21 +1,24 @@
 ```mermaid
 timeline
-    title The History of Investments
-    section Early Forms
-        1602 : First stock market in Amsterdam
-        1773 : First regulated stock exchange in London
-    section 19th Century
-        1817 : New York Stock Exchange Board established
-        1868 : First investment trust (Foreign & Colonial Investment Trust)
-    section Early 20th Century
-        1924 : First mutual fund (Massachusetts Investors Trust)
-        1940 : Investment Company Act of 1940 (U.S.)
-    section Mid-20th Century
-        1952 : Modern Portfolio Theory (Harry Markowitz)
-        1973 : First options exchange (Chicago Board Options Exchange)
-        1975 : First index fund (Vanguard)
-    section Late 20th & 21st Century
-        1993 : First exchange-traded fund (ETF) - SPDR S&P 500
-        2000s : Rise of online brokerages and algorithmic trading
-        2010s : Robo-advisors & Socially Responsible Investing (SRI)
+    title Investments Evolution
+    1602 : Amsterdam Stock Exchange
+         : First modern securities market
+    1934 : Security Analysis
+         : Graham's fundamental analysis
+    1952 : Modern Portfolio Theory
+         : Markowitz's optimization
+    1964 : Capital Asset Pricing Model
+         : Sharpe-Lintner-Mossin framework
+    1970s : Efficient Market Hypothesis
+          : Market predictability debate
+    1976 : Index Funds Launch
+         : Vanguard democratizes investing
+    1987 : Black Monday
+         : Market volatility lessons
+    2000 : Dot-com Bubble
+         : Speculation risks exposed
+    2000s : ETF Proliferation
+          : Low-cost diversification
+    2020s : Algorithmic & ESG
+          : Tech-driven sustainable investing
 ```

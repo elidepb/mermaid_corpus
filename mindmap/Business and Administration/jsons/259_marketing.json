@@ -4,9 +4,9 @@
             "id": "259",
             "topic": "Marketing",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Marketing.",
+            "description": "Marketing comprises interconnected disciplines that drive customer engagement and business growth. Digital marketing leverages online channels including SEO, social media, and email campaigns. Brand management builds identity and equity through consistent messaging. Consumer behavior analysis reveals psychological and social purchase drivers. Product development aligns offerings with market needs. Marketing analytics transforms data into actionable insights. Content marketing educates and engages audiences. Customer relationship management nurtures long-term connections through personalized experiences and loyalty programs.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Marketing))\n    4Ps\n      Product\n      Price\n      Place\n      Promotion\n    Strategy\n      Segmentation\n      Targeting\n      Positioning\n    Channels\n      Traditional\n      Digital\n      Social Media\n    Research\n      Market Analysis\n      Consumer Behavior\n    Branding\n      Identity\n      Awareness",
+            "mermaid_code": "mindmap\n  root((<b>Marketing</b>))\n    <b>Digital Marketing</b>\n      SEO & SEM\n      Social media\n      Email campaigns\n      Influencer marketing\n      Online advertising\n    <b>Brand Management</b>\n      Brand identity\n      Brand equity\n      Positioning strategy\n      Messaging consistency\n    <b>Consumer Behavior</b>\n      Purchase psychology\n      Decision-making process\n      Social influences\n      Motivation factors\n    <b>Product Development</b>\n      Market research\n      Innovation\n      Product lifecycle\n      Feature optimization\n    <b>Marketing Analytics</b>\n      Data analysis\n      KPI tracking\n      ROI measurement\n      Predictive modeling\n    <b>Content Marketing</b>\n      Storytelling\n      Value creation\n      Audience engagement\n      Thought leadership\n    <b>CRM</b>\n      Customer retention\n      Loyalty programs\n      Personalization\n      Relationship building",
             "complexity": "high",
             "tags": [
                 "marketing",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

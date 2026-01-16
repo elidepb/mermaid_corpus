@@ -4,11 +4,17 @@
             "id": "273",
             "topic": "Financial Analysis",
             "category": "Business",
-            "description": "A detailed flowchart of the financial analysis process.",
+            "description": "Financial Analysis is the systematic evaluation of financial data to assess business performance, health, and investment potential. It begins with data collection, gathering financial statements including balance sheets, income statements, and cash flow statements. Horizontal analysis compares financial data across multiple periods to identify trends and growth patterns. Vertical analysis examines financial statement components as percentages of totals to understand composition. Ratio analysis calculates liquidity, profitability, efficiency, and leverage metrics to evaluate performance dimensions. Cash flow analysis assesses operating, investing, and financing activities to understand liquidity and sustainability. Valuation determines company worth using discounted cash flow, comparable company analysis, and precedent transactions. Forecasting projects future performance based on historical trends and assumptions. The goal is to provide insights for investment decisions, credit assessments, and strategic planning.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Financial Analysis] --> B[Gather Data]\n    B --> C[Income Statement]\n    B --> D[Balance Sheet]\n    B --> E[Cash Flow Statement]\n\n    A --> F[Analyze Data]\n    F --> G[Ratio Analysis]\n    G --> H[Liquidity Ratios]\n    G --> I[Profitability Ratios]\n    G --> J[Leverage Ratios]\n    G --> K[Valuation Ratios]\n\n    F --> L[Trend Analysis]\n    F --> M[Comparative Analysis]\n\n    A --> N[Draw Conclusions]\n    N --> O[Identify Strengths & Weaknesses]\n    N --> P[Make Recommendations]",
+            "mermaid_code": "flowchart TD\n    A[<b>Financial Analysis</b><br>Systematic evaluation of<br>financial data]:::title\n    B[<b>PRIMARY GOAL</b><br>Provide Insights for<br>Decision-Making]:::goal\n    C[<b>ANALYSIS PROCESS</b>]:::process\n    \n    subgraph D[Data Collection]\n        D1[Gather financial statements<br>& reports]\n    end\n    \n    subgraph E[Horizontal Analysis]\n        E1[Compare data across<br>periods for trends]\n    end\n    \n    subgraph F[Vertical Analysis]\n        F1[Examine components as<br>percentages of totals]\n    end\n    \n    subgraph G[Ratio Analysis]\n        G1[Calculate liquidity,<br>profitability & efficiency]\n    end\n    \n    subgraph H[Cash Flow Analysis]\n        H1[Assess operating, investing<br>& financing activities]\n    end\n    \n    subgraph I[Valuation]\n        I1[Determine worth via DCF<br>& comparables]\n    end\n    \n    subgraph J[Forecasting]\n        J1[Project future performance<br>based on trends]\n    end\n    \n    K[<b>OUTCOME</b><br>Informed investment, credit<br>& strategic decisions]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    D -->|step 3| F\n    E & F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    K -.->|insights inform| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["financial_analysis", "finance", "accounting", "ratio_analysis", "valuation"],
+            "tags": [
+                "financial_analysis",
+                "finance",
+                "accounting",
+                "ratio_analysis",
+                "valuation"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

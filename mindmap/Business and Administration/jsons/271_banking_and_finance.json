@@ -4,9 +4,9 @@
             "id": "271",
             "topic": "Banking and Finance",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Banking and Finance.",
+            "description": "Banking and Finance encompasses diverse institutions, markets, and products that constitute the financial system. Banking services include retail banking with checking and savings accounts, commercial banking providing business loans and trade finance, and investment banking facilitating capital raising and M&A advisory. Financial markets comprise money markets for short-term instruments, capital markets trading stocks and bonds, foreign exchange markets, and derivatives markets. Investment instruments range from equities and fixed income to mutual funds, ETFs, and alternative investments. Financial regulation enforces Basel Accords for capital adequacy, Dodd-Frank consumer protections, and anti-money laundering frameworks. Fintech innovations deploy digital banking, blockchain technology, robo-advisors, and peer-to-peer lending platforms. Corporate finance manages capital structure, working capital, and valuation. Central banking conducts monetary policy, regulates banks, and maintains financial stability.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Banking and Finance))\n    Banking Types\n      Commercial\n      Investment\n      Central\n      Retail\n    Services\n      Deposits\n      Loans\n      Credit Cards\n      Mortgages\n    Markets\n      Money Market\n      Capital Market\n      Forex\n    Regulation\n      Basel III\n      Compliance\n      KYC/AML\n    Fintech\n      Digital Banking\n      Blockchain\n      Cryptocurrencies",
+            "mermaid_code": "mindmap\n  root((<b>Banking and<br>Finance</b>))\n    <b>Banking Services</b>\n      Retail banking\n      Commercial banking\n      Investment banking\n      Private banking\n      Trade finance\n    <b>Financial Markets</b>\n      Money markets\n      Capital markets\n      Foreign exchange\n      Derivatives markets\n      Commodities\n    <b>Investment Instruments</b>\n      Equities\n      Fixed income\n      Mutual funds\n      ETFs\n      Alternative investments\n    <b>Financial Regulation</b>\n      Basel Accords\n      Capital adequacy\n      Consumer protection\n      AML frameworks\n      Dodd-Frank Act\n    <b>Fintech Innovation</b>\n      Digital banking\n      Blockchain tech\n      Robo-advisors\n      P2P lending\n      Mobile payments\n    <b>Corporate Finance</b>\n      Capital structure\n      Working capital\n      Valuation methods\n      M&A advisory\n      IPO services\n    <b>Central Banking</b>\n      Monetary policy\n      Bank regulation\n      Financial stability\n      Lender of last resort\n    <b>Risk Management</b>\n      Credit risk\n      Market risk\n      Operational risk\n      Liquidity risk",
             "complexity": "high",
             "tags": [
                 "banking_and_finance",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

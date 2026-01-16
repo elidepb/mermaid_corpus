@@ -1,16 +1,22 @@
 ```mermaid
 timeline
     title Business Administration Evolution
-    section 19th Century
-        1880s : Scientific Management (Taylor)
-        1900s : Administrative Theory (Fayol)
-    section 20th Century
-        1920s : Human Relations Movement (Mayo)
-        1940s : Operations Research
-        1950s : Systems Theory
-        1960s : Contingency Theory
-        1980s : Total Quality Management
-    section 21st Century
-        2000s : Agile & Lean Methodologies
-        2010s : Digital Transformation & Big Data
+    1911 : Scientific Management
+         : Frederick Taylor's work studies
+    1916 : Administrative Theory
+         : Henri Fayol's 14 principles
+    1930s : Human Relations Movement
+          : Hawthorne studies
+    1954 : Management by Objectives
+         : Peter Drucker's framework
+    1980s : Total Quality Management
+          : Deming & Japanese methods
+    1990s : Business Process Reengineering
+          : Radical process redesign
+    2000s : Lean Management
+          : Waste elimination focus
+    2010s : Agile & Digital
+          : Adaptive methodologies
+    2020s : AI-Driven Management
+          : Data analytics & automation
 ```

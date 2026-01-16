@@ -4,11 +4,17 @@
             "id": "268",
             "topic": "Leadership",
             "category": "Business",
-            "description": "A detailed flowchart of leadership theories and styles.",
+            "description": "Leadership is the process of influencing, inspiring, and guiding individuals and teams toward achieving shared goals and organizational vision. It begins with vision development, where leaders articulate a compelling future direction and purpose. Strategic alignment ensures organizational goals cascade through all levels. Team building recruits talent, fosters collaboration, and develops capabilities. Influence and motivation inspire commitment through emotional intelligence, communication, and role modeling. Decision-making balances analysis with intuition to solve complex problems. Change leadership navigates transitions, overcomes resistance, and drives transformation. Performance coaching provides feedback, mentorship, and development opportunities. The goal is to create high-performing cultures where people are empowered, engaged, and aligned toward common objectives while adapting to evolving challenges.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[Leadership] --> B[Trait Theories]\n    A --> C[Behavioral Theories]\n    C --> D[Task-Oriented]\n    C --> E[People-Oriented]\n    A --> F[Contingency Theories]\n    F --> G[Fiedler's Model]\n    F --> H[Hersey-Blanchard Situational Leadership]\n    A --> I[Modern Theories]\n    I --> J[Transformational Leadership]\n    I --> K[Transactional Leadership]\n    I --> L[Servant Leadership]\n    I --> M[Authentic Leadership]",
+            "mermaid_code": "flowchart TD\n    A[<b>Leadership</b><br>Influencing & guiding toward<br>shared goals]:::title\n    B[<b>PRIMARY GOAL</b><br>Create High-Performing<br>Empowered Culture]:::goal\n    C[<b>LEADERSHIP PROCESS</b>]:::process\n    \n    subgraph D[Vision Development]\n        D1[Articulate compelling<br>future direction]\n    end\n    \n    subgraph E[Strategic Alignment]\n        E1[Cascade goals through<br>all levels]\n    end\n    \n    subgraph F[Team Building]\n        F1[Recruit talent & foster<br>collaboration]\n    end\n    \n    subgraph G[Influence & Motivation]\n        G1[Inspire commitment<br>through communication]\n    end\n    \n    subgraph H[Decision Making]\n        H1[Balance analysis<br>with intuition]\n    end\n    \n    subgraph I[Change Leadership]\n        I1[Navigate transitions<br>& drive transformation]\n    end\n    \n    subgraph J[Performance Coaching]\n        J1[Provide feedback<br>& development]\n    end\n    \n    K[<b>OUTCOME</b><br>Engaged teams achieving<br>common objectives]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    K -.->|continuous evolution| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["leadership", "management", "leadership_styles", "situational_leadership", "transformational_leadership"],
+            "tags": [
+                "leadership",
+                "management",
+                "leadership_styles",
+                "situational_leadership",
+                "transformational_leadership"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

@@ -1,16 +1,22 @@
 ```mermaid
 timeline
-    title A History of Leadership Theories
-    section Early 20th Century
-        1900s : Great Man Theory
-        1930s-40s : Trait Theory
-    section Mid-20th Century
-        1950s : Behavioral Theories (e.g., Ohio State & Michigan Studies)
-        1960s : Contingency Theories (e.g., Fiedler's Model)
-    section Late 20th Century
-        1970s : Transactional & Transformational Leadership
-        1980s : Servant Leadership (Robert Greenleaf)
-    section 21st Century
-        2000s : Authentic Leadership
-        2010s : Adaptive Leadership & System Leadership
+    title Leadership Evolution
+    1840s : Great Man Theory
+          : Carlyle's born leaders concept
+    Early 1900s : Trait Theories
+                : Inherent characteristics focus
+    1940s-1950s : Behavioral Studies
+                : Ohio State & Michigan research
+    1964 : Contingency Theory
+         : Fiedler's situational model
+    1970s : Servant Leadership
+          : Greenleaf's follower development
+    1978 : Transformational Leadership
+         : Burns' inspirational framework
+    1995 : Emotional Intelligence
+         : Goleman's EQ emphasis
+    2000s : Authentic Leadership
+          : Genuineness & self-awareness
+    2020s : Inclusive & Adaptive
+          : Distributed leadership models
 ```

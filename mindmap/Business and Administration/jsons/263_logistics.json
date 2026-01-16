@@ -4,9 +4,9 @@
             "id": "263",
             "topic": "Logistics",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Logistics.",
+            "description": "Logistics comprises specialized operational functions that ensure seamless product flow. Transportation management selects carriers, optimizes routes, consolidates shipments, and negotiates freight rates across multiple modes. Warehouse operations design facility layouts, implement picking strategies, manage cross-docking, and maintain inventory accuracy. Distribution planning establishes network configurations, determines shipment frequencies, and balances costs with service levels. Materials handling employs automation technologies, conveyors, robotics, and packaging systems. Third-party logistics providers offer outsourced expertise in specialized services. Technology systems include warehouse management software, transportation management platforms, GPS tracking, and automated sorting. Customs and compliance ensure regulatory adherence for international shipments.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Logistics))\n    Transportation\n      Modes\n      Route Planning\n      Fleet Management\n    Warehousing\n      Storage\n      Inventory Control\n      Picking & Packing\n    Distribution\n      Last Mile\n      Cross-Docking\n    Technology\n      WMS\n      TMS\n      GPS Tracking\n    3PL/4PL\n      Outsourcing\n      Partners",
+            "mermaid_code": "mindmap\n  root((<b>Logistics</b>))\n    <b>Transportation</b>\n      Carrier selection\n      Route optimization\n      Load consolidation\n      Freight negotiation\n      Multi-modal shipping\n    <b>Warehousing</b>\n      Facility layout\n      Picking strategies\n      Cross-docking\n      Inventory accuracy\n      Space utilization\n    <b>Distribution</b>\n      Network configuration\n      Shipment frequency\n      Service level balance\n      Hub management\n    <b>Materials Handling</b>\n      Automation systems\n      Conveyor technology\n      Robotics integration\n      Packaging solutions\n    <b>3PL Services</b>\n      Outsourced operations\n      Specialized expertise\n      Scalable solutions\n      Value-added services\n    <b>Technology Systems</b>\n      WMS platforms\n      TMS software\n      GPS tracking\n      Automated sorting\n    <b>Customs & Compliance</b>\n      Regulatory adherence\n      Documentation\n      Trade agreements\n      Import/export rules",
             "complexity": "high",
             "tags": [
                 "logistics",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

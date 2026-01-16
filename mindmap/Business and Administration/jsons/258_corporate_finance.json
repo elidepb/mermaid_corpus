@@ -4,9 +4,9 @@
             "id": "258",
             "topic": "Corporate Finance",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Corporate Finance.",
+            "description": "Corporate Finance encompasses specialized domains that collectively manage organizational capital. Capital budgeting evaluates long-term investment projects using NPV and IRR analysis. Capital structure determines the optimal debt-to-equity mix to minimize cost of capital. Working capital management ensures sufficient liquidity for daily operations. Valuation techniques assess company worth for mergers and acquisitions. Risk management identifies and mitigates financial exposures through derivatives and hedging. Financial planning forecasts future needs and aligns resources with strategic objectives.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Corporate Finance))\n    Capital Structure\n      Debt\n      Equity\n      Hybrid\n    Investment Decisions\n      Capital Budgeting\n      NPV\n      IRR\n    Financial Planning\n      Forecasting\n      Budgeting\n    Risk Management\n      Hedging\n      Derivatives\n    Valuation\n      DCF\n      Multiples",
+            "mermaid_code": "mindmap\n  root((<b>Corporate<br>Finance</b>))\n    <b>Capital Budgeting</b>\n      Project evaluation\n      NPV analysis\n      IRR calculation\n      Payback period\n      Investment selection\n    <b>Capital Structure</b>\n      Debt vs equity\n      Cost of capital\n      Leverage optimization\n      Credit rating impact\n    <b>Working Capital</b>\n      Cash management\n      Inventory control\n      Receivables\n      Payables\n      Liquidity planning\n    <b>Valuation</b>\n      DCF models\n      Comparable analysis\n      M&A assessment\n      Enterprise value\n    <b>Risk Management</b>\n      Financial exposure\n      Derivatives\n      Hedging strategies\n      Interest rate risk\n    <b>Financial Planning</b>\n      Forecasting\n      Strategic alignment\n      Resource allocation\n      Performance metrics",
             "complexity": "high",
             "tags": [
                 "corporate_finance",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

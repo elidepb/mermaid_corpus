@@ -4,9 +4,9 @@
             "id": "266",
             "topic": "Project Management",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Project Management.",
+            "description": "Project Management encompasses specialized knowledge areas that collectively ensure project success. Scope management defines and controls project boundaries through requirements gathering and work breakdown structures. Time management develops schedules using critical path analysis, Gantt charts, and milestone tracking. Cost management estimates budgets, controls expenditures, and forecasts financial performance. Risk management identifies uncertainties, assesses impacts, develops mitigation strategies, and maintains risk registers. Resource management allocates human capital, equipment, and materials efficiently. Quality management establishes standards, conducts inspections, and implements continuous improvement. Stakeholder management identifies interests, manages expectations, and maintains engagement. Integration management coordinates all knowledge areas into cohesive project execution.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Project Management))\n    Phases\n      Initiation\n      Planning\n      Execution\n      Monitoring\n      Closure\n    Knowledge Areas\n      Scope\n      Time\n      Cost\n      Quality\n      Risk\n    Methodologies\n      Waterfall\n      Agile\n      Scrum\n      Kanban\n    Tools\n      Gantt Charts\n      Critical Path\n      PM Software",
+            "mermaid_code": "mindmap\n  root((<b>Project<br>Management</b>))\n    <b>Scope Management</b>\n      Requirements gathering\n      WBS creation\n      Scope verification\n      Change control\n      Deliverable definition\n    <b>Time Management</b>\n      Schedule development\n      Critical path analysis\n      Gantt charts\n      Milestone tracking\n      Duration estimation\n    <b>Cost Management</b>\n      Budget estimation\n      Expenditure control\n      Cost forecasting\n      Earned value analysis\n      Financial reporting\n    <b>Risk Management</b>\n      Risk identification\n      Impact assessment\n      Mitigation strategies\n      Risk registers\n      Contingency planning\n    <b>Resource Management</b>\n      Team allocation\n      Equipment planning\n      Material procurement\n      Capacity optimization\n      Conflict resolution\n    <b>Quality Management</b>\n      Standards establishment\n      Quality inspections\n      Process improvement\n      Defect prevention\n      Acceptance criteria\n    <b>Stakeholder Management</b>\n      Interest mapping\n      Expectation alignment\n      Communication plans\n      Engagement strategies\n    <b>Integration Management</b>\n      Project charter\n      Coordination\n      Knowledge areas alignment\n      Change integration",
             "complexity": "high",
             "tags": [
                 "project_management",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

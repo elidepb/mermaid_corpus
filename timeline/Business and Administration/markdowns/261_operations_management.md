@@ -1,18 +1,24 @@
 ```mermaid
 timeline
-    title Milestones in Operations Management
-    section Early 20th Century
-        1910s : Scientific Management (Frederick W. Taylor)
-        1913 : Moving Assembly Line (Henry Ford)
-    section Mid-20th Century
-        1930s : Statistical Quality Control (Walter Shewhart)
-        1940s : Operations Research (WWII Military Operations)
-        1960s : Material Requirements Planning (MRP)
-    section Late 20th Century
-        1970s : Just-In-Time (JIT) Production (Toyota)
-        1980s : Total Quality Management (TQM)
-        1990s : Lean Manufacturing & Six Sigma
-    section 21st Century
-        2000s : Supply Chain Management & E-Commerce
-        2010s : Industry 4.0 & Smart Factories
+    title Operations Management Evolution
+    1911 : Scientific Management
+         : Taylor's time-motion studies
+    1913 : Assembly Line
+         : Ford's mass production
+    1920s : Statistical Quality Control
+          : Shewhart's methods
+    1950s : Toyota Production System
+          : Lean & JIT principles
+    1960s : MRP Systems
+          : Computerized inventory
+    1980s : Total Quality Management
+          : Continuous improvement focus
+    1990s : BPR & Six Sigma
+          : Process optimization
+    2000s : ERP Integration
+          : Enterprise systems
+    2010s : Industry 4.0
+          : IoT & automation
+    2020s : AI-Driven Operations
+          : Smart manufacturing
 ```

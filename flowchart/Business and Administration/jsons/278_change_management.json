@@ -1,21 +1,21 @@
 {
-  "diagrams": [
-    {
-      "id": "278",
-      "topic": "Change Management",
-      "category": "Business",
-      "description": "A detailed flowchart of Kotter's 8-Step Change Model.",
-      "diagram_type": "flowchart",
-      "mermaid_code": "flowchart TD\n    Change[Organizational Change] --> Assessment[Assess Current State]\n    Assessment --> Vision[Create Vision for Change]\n    Vision --> Urgency[Establish Sense of Urgency]\n    Urgency --> Coalition[Form Powerful Coalition]\n    Coalition --> Strategy[Develop Change Strategy]\n    Strategy --> Kotter[Kotter's 8-Step Model]\n    Strategy --> Lewin[Lewin's Change Model]\n    Kotter --> Step1[1. Create Urgency]\n    Kotter --> Step2[2. Form Coalition]\n    Kotter --> Step3[3. Create Vision]\n    Kotter --> Step4[4. Communicate Vision]\n    Kotter --> Step5[5. Empower Action]\n    Kotter --> Step6[6. Create Quick Wins]\n    Kotter --> Step7[7. Build on Change]\n    Kotter --> Step8[8. Anchor Change]\n    Lewin --> Unfreeze[Unfreeze Current State]\n    Lewin --> ChangePhase[Implement Change]\n    Lewin --> Refreeze[Refreeze New State]\n    Strategy --> Communication[Communication Plan]\n    Communication --> Stakeholders[Identify Stakeholders]\n    Communication --> Messages[Develop Messages]\n    Communication --> Channels[Select Channels]\n    Strategy --> Training[Training and Development]\n    Training --> Skills[Skill Assessment]\n    Training --> Programs[Training Programs]\n    Training --> Support[Ongoing Support]\n    Strategy --> Resistance[Resistance Management]\n    Resistance --> Identify[Identify Resistance]\n    Resistance --> Understand[Understand Root Causes]\n    Resistance --> Address[Address Concerns]\n    Resistance --> Engage[Engage Resistors]\n    Strategy --> Implementation[Implementation]\n    Implementation --> Timeline[Timeline and Milestones]\n    Implementation --> Resources[Resource Allocation]\n    Implementation --> Monitoring[Progress Monitoring]\n    Implementation --> Evaluation[Evaluation and Adjustment]\n    Evaluation --> Success[Change Successfully Implemented]",
-      "complexity": "high",
-      "tags": [
-        "change_management",
-        "kotters_8_step_model",
-        "organizational_change",
-        "leadership",
-        "business"
-      ],
-      "creation_date": "2024-03-15"
-    }
-  ]
+    "diagrams": [
+        {
+            "id": "278",
+            "topic": "Change Management",
+            "category": "Business",
+            "description": "Change Management is the structured approach to transitioning individuals, teams, and organizations from current to desired future states while minimizing resistance and maximizing adoption. It begins with change identification, recognizing the need for transformation driven by market shifts, technology, or strategic imperatives. Stakeholder analysis maps affected parties, assesses impact levels, and identifies change champions and resisters. Vision and strategy development articulates the compelling case for change, desired outcomes, and implementation roadmap. Communication planning delivers consistent messaging through multiple channels to build awareness and understanding. Resistance management addresses concerns, fears, and objections through engagement, training, and support. Implementation execution deploys changes incrementally with quick wins to build momentum. Reinforcement and sustainability embed new behaviors through recognition, measurement, and continuous adjustment. The goal is successful transformation with minimal disruption and sustained behavioral adoption.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Change Management</b><br>Structured transition from<br>current to future state]:::title\n    B[<b>PRIMARY GOAL</b><br>Successful Transformation with<br>Sustained Adoption]:::goal\n    C[<b>CHANGE PROCESS</b>]:::process\n    \n    subgraph D[Change Identification]\n        D1[Recognize need driven by<br>market or strategy]\n    end\n    \n    subgraph E[Stakeholder Analysis]\n        E1[Map affected parties<br>& impact levels]\n    end\n    \n    subgraph F[Vision & Strategy]\n        F1[Articulate compelling case<br>& roadmap]\n    end\n    \n    subgraph G[Communication Planning]\n        G1[Deliver consistent messaging<br>across channels]\n    end\n    \n    subgraph H[Resistance Management]\n        H1[Address concerns via<br>engagement & training]\n    end\n    \n    subgraph I[Implementation Execution]\n        I1[Deploy changes with<br>quick wins]\n    end\n    \n    subgraph J[Reinforcement & Sustainability]\n        J1[Embed behaviors via<br>recognition & measurement]\n    end\n    \n    K[<b>OUTCOME</b><br>Minimal disruption &<br>behavioral adoption]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|achieves| K\n    K -.->|continuous evolution| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "change_management",
+                "kotters_8_step_model",
+                "organizational_change",
+                "leadership",
+                "business"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
 }

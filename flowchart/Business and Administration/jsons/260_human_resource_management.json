@@ -4,11 +4,17 @@
             "id": "260",
             "topic": "Human Resource Management",
             "category": "Business",
-            "description": "A detailed flowchart of the Human Resource Management cycle.",
+            "description": "Human Resource Management is the strategic process of acquiring, developing, and retaining talent to achieve organizational objectives. It begins with workforce planning to identify staffing needs, followed by recruitment and selection to attract qualified candidates. Once hired, employees undergo onboarding and training to build competencies. Performance management systems evaluate and improve contributions, while compensation and benefits ensure competitive rewards. The process includes employee relations to maintain engagement and succession planning to prepare future leaders. The ultimate goal is to build a productive, motivated workforce aligned with organizational strategy.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    A[HR Management] --> B[HR Planning]\n    B --> C[Job Analysis]\n    C --> D[Recruitment]\n    D --> E[Selection]\n    E --> F[Onboarding]\n    F --> G[Training & Development]\n    G --> H[Performance Management]\n    H --> I[Compensation & Benefits]\n    I --> J[Employee Relations]\n    J --> K[Separation]",
+            "mermaid_code": "flowchart TD\n    A[<b>Human Resource Management</b><br>Strategic acquisition, development<br>& retention of talent]:::title\n    B[<b>PRIMARY GOAL</b><br>Build Productive & Motivated<br>Workforce]:::goal\n    C[<b>HR CYCLE</b>]:::cycle\n    \n    subgraph D[Planning]\n        D1[Workforce analysis<br>& staffing needs]\n    end\n    \n    subgraph E[Acquisition]\n        E1[Recruitment<br>& selection]\n    end\n    \n    subgraph F[Development]\n        F1[Training & onboarding<br>competency building]\n    end\n    \n    subgraph G[Performance]\n        G1[Evaluation & feedback<br>improvement plans]\n    end\n    \n    subgraph H[Compensation]\n        H1[Rewards & benefits<br>competitive packages]\n    end\n    \n    subgraph I[Retention]\n        I1[Employee engagement<br>& succession planning]\n    end\n    \n    J[<b>OUTCOME</b><br>Strategic alignment &<br>organizational success]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|achieves| J\n    I -.->|continuous cycle| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "high",
-            "tags": ["human_resource_management", "hr", "recruitment", "performance_management", "compensation"],
+            "tags": [
+                "human_resource_management",
+                "hr",
+                "recruitment",
+                "performance_management",
+                "compensation"
+            ],
             "creation_date": "2024-03-15"
         }
     ]

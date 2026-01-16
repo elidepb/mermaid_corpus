@@ -1,22 +1,26 @@
 ```mermaid
 timeline
-    title The History of Digital Marketing
-    section The Precursors
-        1970s : Early email systems
-        1980s : Database marketing
-    section The 1990s: The Dawn of Digital
-        1990 : First search engine (Archie)
-        1994 : First clickable banner ad
-        1998 : Google is founded
-    section The 2000s: Growth and Social Media
-        2000 : Dot-com bubble bursts
-        2003 : MySpace & LinkedIn launch
-        2004 : Facebook launches
-        2006 : Twitter launches
-        2007 : The first iPhone is released
-    section The 2010s: Mobile, Video, and AI
-        2010 : Instagram launches
-        2012 : Mobile internet usage overtakes desktop
-        2016 : Rise of influencer marketing
-        2018 : GDPR and other privacy regulations
+    title Digital Marketing Evolution
+    1991 : World Wide Web
+         : Online marketing foundation
+    1994 : First Banner Ads
+         : Commercial internet advertising
+    1998 : Google Launch
+         : Search engine revolution
+    2000 : Google AdWords
+         : PPC advertising platform
+    2004 : Facebook Founded
+         : Social media marketing begins
+    2005 : YouTube Created
+         : Video marketing scale
+    2007 : iPhone Launch
+         : Mobile-first marketing era
+    2010 : Content Marketing Rise
+         : Inbound strategy emphasis
+    2012-2015 : Influencer Marketing
+              : Instagram-driven growth
+    Late 2010s : AI & Voice Search
+               : Personalization advances
+    2020s : Omnichannel & Privacy
+          : Integrated AI-driven strategies
 ```

@@ -4,9 +4,9 @@
             "id": "273",
             "topic": "Financial Analysis",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Financial Analysis.",
+            "description": "Financial Analysis encompasses comprehensive tools and methodologies for evaluating business financial health. Financial ratios include liquidity ratios measuring current and quick ratios, profitability ratios calculating ROE, ROA, and profit margins, efficiency ratios assessing asset turnover and inventory management, and leverage ratios evaluating debt-to-equity and interest coverage. Financial statements comprise the balance sheet showing assets, liabilities, and equity, income statement detailing revenues and expenses, cash flow statement tracking cash movements, and statement of shareholders' equity. Valuation methods apply discounted cash flow models, comparable company multiples, precedent transaction analysis, and asset-based approaches. DuPont analysis decomposes ROE into profit margin, asset turnover, and financial leverage components. Credit analysis evaluates default risk, credit ratings, and debt serviceability. Trend analysis identifies patterns, seasonal variations, and cyclical movements affecting performance.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Financial Analysis))\n    Statements Analysis\n      Horizontal\n      Vertical\n      Ratio\n    Ratios\n      Liquidity\n      Profitability\n      Leverage\n      Efficiency\n    Valuation\n      DCF\n      Comparable\n      Precedent\n    Forecasting\n      Revenue\n      Expenses\n      Cash Flow\n    Tools\n      Excel\n      Financial Software",
+            "mermaid_code": "mindmap\n  root((<b>Financial<br>Analysis</b>))\n    <b>Liquidity Ratios</b>\n      Current ratio\n      Quick ratio\n      Cash ratio\n      Working capital\n      Operating cash flow\n    <b>Profitability Ratios</b>\n      ROE calculation\n      ROA measurement\n      Profit margins\n      EBITDA margin\n      Gross profit ratio\n    <b>Efficiency Ratios</b>\n      Asset turnover\n      Inventory turnover\n      Receivables turnover\n      Payables period\n      Cash conversion cycle\n    <b>Leverage Ratios</b>\n      Debt-to-equity\n      Interest coverage\n      Debt ratio\n      Equity multiplier\n      Fixed charge coverage\n    <b>Financial Statements</b>\n      Balance sheet\n      Income statement\n      Cash flow statement\n      Shareholders' equity\n      Notes & disclosures\n    <b>Valuation Methods</b>\n      DCF models\n      Comparable companies\n      Precedent transactions\n      Asset-based valuation\n      Dividend discount model\n    <b>DuPont Analysis</b>\n      ROE decomposition\n      Profit margin\n      Asset turnover\n      Financial leverage\n      Performance drivers\n    <b>Credit Analysis</b>\n      Default risk\n      Credit ratings\n      Debt serviceability\n      Covenant compliance",
             "complexity": "high",
             "tags": [
                 "financial_analysis",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

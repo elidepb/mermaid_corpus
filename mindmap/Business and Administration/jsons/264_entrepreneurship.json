@@ -4,9 +4,9 @@
             "id": "264",
             "topic": "Entrepreneurship",
             "category": "Business",
-            "description": "A mindmap showing the fundamental concepts and structure of Entrepreneurship.",
+            "description": "Entrepreneurship encompasses multifaceted capabilities and activities that drive venture creation. Innovation management generates novel solutions through design thinking, disruptive technologies, and product development. Funding strategies include bootstrapping, angel investors, venture capital, and crowdfunding platforms. Market entry tactics establish competitive positioning, customer acquisition channels, and pricing models. Team building recruits cofounders, develops organizational culture, and manages talent growth. Risk management identifies uncertainties, develops contingency plans, and makes pivot decisions. Business model innovation designs value propositions, revenue streams, and scalability paths. Networking cultivates mentor relationships, strategic partnerships, and industry connections that accelerate growth.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Entrepreneurship))\n    Mindset\n      Innovation\n      Risk Taking\n      Resilience\n    Process\n      Ideation\n      Validation\n      Launch\n      Scale\n    Funding\n      Bootstrapping\n      Angel Investors\n      Venture Capital\n    Business Model\n      Canvas\n      Revenue Streams\n    Ecosystem\n      Incubators\n      Accelerators\n      Mentors",
+            "mermaid_code": "mindmap\n  root((<b>Entrepreneurship</b>))\n    <b>Innovation</b>\n      Design thinking\n      Disruptive technology\n      Product development\n      Creative problem-solving\n      R&D investment\n    <b>Funding Strategies</b>\n      Bootstrapping\n      Angel investors\n      Venture capital\n      Crowdfunding\n      Strategic investors\n    <b>Market Entry</b>\n      Competitive positioning\n      Customer acquisition\n      Pricing models\n      Go-to-market strategy\n      Early adopters\n    <b>Team Building</b>\n      Cofounder recruitment\n      Culture development\n      Talent acquisition\n      Leadership skills\n      Equity distribution\n    <b>Risk Management</b>\n      Uncertainty analysis\n      Contingency planning\n      Pivot decisions\n      Failure recovery\n    <b>Business Models</b>\n      Value proposition\n      Revenue streams\n      Scalability design\n      Unit economics\n    <b>Networking</b>\n      Mentor relationships\n      Strategic partnerships\n      Industry connections\n      Accelerator programs",
             "complexity": "high",
             "tags": [
                 "entrepreneurship",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

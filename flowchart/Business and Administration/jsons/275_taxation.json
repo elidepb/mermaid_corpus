@@ -1,21 +1,21 @@
 {
-  "diagrams": [
-    {
-      "id": "275",
-      "topic": "Taxation",
-      "category": "Business",
-      "description": "A detailed flowchart of the taxation process.",
-      "diagram_type": "flowchart",
-      "mermaid_code": "flowchart TD\n    Taxation[Taxation] --> Taxpayer[Taxpayer]\n    Taxation --> Income[Income]\n    Taxation --> Deductions[Deductions]\n    Income --> GrossIncome[Gross Income]\n    GrossIncome --> AGI[Adjusted Gross Income]\n    AGI --> TaxableIncome[Taxable Income]\n    TaxableIncome --> TaxLiability[Tax Liability]\n    TaxLiability --> Credits[Tax Credits]\n    Credits --> TaxDue[Tax Due or Refund]\n    Deductions --> Standard[Standard Deduction]\n    Deductions --> Itemized[Itemized Deductions]",
-      "complexity": "high",
-      "tags": [
-        "taxation",
-        "finance",
-        "accounting",
-        "irs",
-        "tax_return"
-      ],
-      "creation_date": "2024-03-15"
-    }
-  ]
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Taxation",
+            "category": "Business",
+            "description": "Taxation is the systematic process of levying and collecting compulsory payments from individuals and entities to fund government operations and public services. It begins with tax jurisdiction determination, establishing where taxpayers owe obligations based on residence, citizenship, or income source. Income calculation measures taxable income by aggregating revenues and applying allowable deductions and exemptions. Tax liability computation applies applicable rates to taxable income, considering progressive brackets, flat rates, or hybrid systems. Tax credits and incentives reduce liability through investment incentives, social benefits, and economic development programs. Compliance and filing submit returns, documentation, and payments within statutory deadlines. Tax planning optimizes strategies to minimize liability through legal structuring, timing, and election choices. Enforcement and collection ensure compliance through audits, penalties, and collection mechanisms. The goal is equitable revenue generation while promoting economic efficiency and social objectives.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Taxation</b><br>Systematic levying of<br>compulsory payments]:::title\n    B[<b>PRIMARY GOAL</b><br>Equitable Revenue Generation<br>for Public Services]:::goal\n    C[<b>TAX PROCESS</b>]:::process\n    \n    subgraph D[Jurisdiction Determination]\n        D1[Establish tax obligations<br>by residence & source]\n    end\n    \n    subgraph E[Income Calculation]\n        E1[Aggregate revenues &<br>apply deductions]\n    end\n    \n    subgraph F[Tax Liability Computation]\n        F1[Apply rates to<br>taxable income]\n    end\n    \n    subgraph G[Credits & Incentives]\n        G1[Reduce liability via<br>investment & social programs]\n    end\n    \n    subgraph H[Compliance & Filing]\n        H1[Submit returns &<br>payments by deadline]\n    end\n    \n    subgraph I[Tax Planning]\n        I1[Optimize strategies to<br>minimize liability]\n    end\n    \n    subgraph J[Enforcement & Collection]\n        J1[Ensure compliance via<br>audits & penalties]\n    end\n    \n    K[<b>OUTCOME</b><br>Funded government operations<br>& social programs]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    I -.->|informs| E\n    H -->|requires| J\n    J -->|achieves| K\n    K -.->|ongoing cycle| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "taxation",
+                "finance",
+                "accounting",
+                "irs",
+                "tax_return"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
 }
