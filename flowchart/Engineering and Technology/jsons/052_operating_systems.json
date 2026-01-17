@@ -6,9 +6,15 @@
             "category": "computer_science",
             "description": "An Operating System (OS) is system software that manages computer hardware and software resources while providing common services for computer programs. It acts as an intermediary between users and hardware, handling core functions: process management (scheduling and executing programs), memory management (allocating RAM efficiently), file system management (organizing and storing data), and I/O management (controlling peripheral devices). The OS ensures resource optimization, security, and user-friendly interaction through interfaces.",
             "diagram_type": "flowchart",
-            "mermaid_code": "flowchart TD\n    OS[Operating Systems] --> Core[Core Components]\n    OS --> Functions[Major Functions]\n    OS --> Types[Types of OS]\n\n    Core --> Kernel[Kernel]\n    Core --> Shell[Shell]\n    Core --> FS[File System]\n\n    Functions --> PM[Process Management]\n    Functions --> MM[Memory Management]\n    Functions --> DM[Device Management]\n    Functions --> FM[File Management]\n    Functions --> Security[Security]\n\n    PM --> Scheduling[Scheduling]\n    PM --> IPC[Inter-Process Communication]\n\n    MM --> Paging[Paging]\n    MM --> Segmentation[Segmentation]\n    MM --> VM[Virtual Memory]\n\n    Types --> Batch[Batch OS]\n    Types --> TimeSharing[Time-Sharing OS]\n    Types --> Distributed[Distributed OS]\n    Types --> Network[Network OS]\n    Types --> RealTime[Real-Time OS]",
+            "mermaid_code": "flowchart TD\n    A[<b>Operating System</b><br>System software managing hardware<br>and software resources]:::title\n    B[<b>PRIMARY ROLE</b><br>Intermediary between<br>users and hardware]:::role\n    C[<b>CORE FUNCTIONS</b>]:::functions\n    \n    subgraph D[Process Management]\n        D1[Scheduling &<br>executing programs]\n    end\n    \n    subgraph E[Memory Management]\n        E1[Allocating RAM<br>efficiently]\n    end\n    \n    subgraph F[File System Management]\n        F1[Organizing &<br>storing data]\n    end\n    \n    subgraph G[I/O Management]\n        G1[Controlling<br>peripheral devices]\n    end\n    \n    H[<b>ACHIEVES</b><br>Resource optimization,<br>security & user interaction]:::goal\n    \n    A -->|serves as| B\n    B -->|implements| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    D & E & F & G -->|collectively deliver| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef role fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef functions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef goal fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
             "complexity": "medium",
-            "tags": ["operating_systems", "computer_science", "kernel", "memory_management", "process_management"],
+            "tags": [
+                "operating_systems",
+                "computer_science",
+                "kernel",
+                "memory_management",
+                "process_management"
+            ],
             "creation_date": "2024-01-16"
         }
     ]

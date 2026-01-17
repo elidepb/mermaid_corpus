@@ -1,21 +1,21 @@
 {
-  "diagrams": [
-    {
-      "id": "056",
-      "topic": "Robotics Engineering",
-      "category": "engineering",
-      "description": "Robotics Engineering is the interdisciplinary field that designs, constructs, and operates robots to perform tasks autonomously or semi-autonomously. Its primary goal is to create intelligent machines that enhance human capabilities and automate complex processes. Core disciplines include: mechanical design (structural components, actuators, mobility systems), electronics & control systems (sensors, microcontrollers, power management), programming & AI (algorithms, machine learning, path planning), and human-robot interaction (interfaces, safety protocols). These elements integrate through systems engineering principles, utilizing feedback loops and real-time processing to achieve precise, adaptive, and efficient robotic operations across industrial, medical, service, and exploration applications.",
-      "diagram_type": "flowchart",
-      "mermaid_code": "flowchart TD\n    RoboticsEngineering[Robotics Engineering] --> Components[Robot Components]\n    RoboticsEngineering --> Kinematics[Kinematics and Dynamics]\n    RoboticsEngineering --> Control[Control Systems]\n    RoboticsEngineering --> Perception[Perception]\n    Components --> Manipulators[Manipulators]\n    Components --> Sensors[Sensors]\n    Components --> Actuators[Actuators]\n    Kinematics --> Forward[Forward Kinematics]\n    Kinematics --> Inverse[Inverse Kinematics]\n    Control --> PID[PID Control]\n    Perception --> Vision[Computer Vision]\n    Perception --> SLAM[SLAM]",
-      "complexity": "medium",
-      "tags": [
-        "robotics_engineering",
-        "engineering",
-        "robotics",
-        "kinematics",
-        "slam"
-      ],
-      "creation_date": "2024-01-16"
-    }
-  ]
+    "diagrams": [
+        {
+            "id": "056",
+            "topic": "Robotics Engineering",
+            "category": "engineering",
+            "description": "Robotics Engineering is the interdisciplinary field that designs, constructs, and operates robots to perform tasks autonomously or semi-autonomously. Its primary goal is to create intelligent machines that enhance human capabilities and automate complex processes. Core disciplines include: mechanical design (structural components, actuators, mobility systems), electronics & control systems (sensors, microcontrollers, power management), programming & AI (algorithms, machine learning, path planning), and human-robot interaction (interfaces, safety protocols). These elements integrate through systems engineering principles, utilizing feedback loops and real-time processing to achieve precise, adaptive, and efficient robotic operations across industrial, medical, service, and exploration applications.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Robotics Engineering</b><br>Interdisciplinary field designing<br>& operating intelligent machines]:::title\n    B[<b>PRIMARY GOAL</b><br>Create autonomous systems<br>to enhance human capabilities]:::goal\n    C[<b>CORE DISCIPLINES</b>]:::disciplines\n    \n    subgraph D[Mechanical Design]\n        D1[Structural components<br>Actuators<br>Mobility systems]\n    end\n    \n    subgraph E[Electronics & Control]\n        E1[Sensors<br>Microcontrollers<br>Power management]\n    end\n    \n    subgraph F[Programming & AI]\n        F1[Algorithms<br>Machine learning<br>Path planning]\n    end\n    \n    subgraph G[Human-Robot Interaction]\n        G1[Interfaces<br>Safety protocols<br>Collaboration]\n    end\n    \n    H[<b>INTEGRATION</b><br>Systems engineering<br>Feedback loops<br>Real-time processing]:::integration\n    \n    I[<b>ACHIEVES</b><br>Precise, adaptive & efficient<br>robotic operations]:::outcome\n    \n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    D & E & F & G -->|unified by| H\n    H -->|delivers| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef disciplines fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef integration fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "robotics_engineering",
+                "engineering",
+                "robotics",
+                "kinematics",
+                "slam"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
 }

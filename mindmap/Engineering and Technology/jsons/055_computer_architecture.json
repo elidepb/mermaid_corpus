@@ -6,7 +6,7 @@
             "category": "Computer Science",
             "description": "Computer Architecture encompasses multiple layers and design philosophies. The CPU includes the ALU (arithmetic operations), Control Unit (instruction decoding), and registers (fast storage). Memory hierarchy spans registers, L1/L2/L3 cache, RAM, and secondary storage. Instruction Set Architectures include CISC (complex instructions) and RISC (reduced instructions). Processing models feature Von Neumann architecture, Harvard architecture, pipelining, and parallel processing (SIMD, MIMD). Bus systems comprise data bus, address bus, and control bus. Performance factors include clock speed, cores, cache size, and bandwidth. Modern innovations involve multi-core processors, GPUs, quantum computing, and neuromorphic chips.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Computer Architecture))\n    CPU Architecture\n      Instruction Set\n      Pipeline\n      Superscalar\n      RISC vs CISC\n    Memory Hierarchy\n      Registers\n      Cache\n      RAM\n      Virtual Memory\n    I/O Systems\n      Buses\n      Interrupts\n      DMA\n      Peripheral Devices\n    Processor Design\n      Control Unit\n      ALU\n      Clock Speed\n      Multi-core\n    Parallel Processing\n      SIMD\n      MIMD\n      GPU Architecture\n      Distributed Computing\n    Performance Metrics\n      Clock Speed\n      IPC\n      Throughput\n      Latency\n      Benchmarking\n    Emerging Technologies\n      Quantum Computing\n      Neuromorphic Computing\n      Optical Computing",
+            "mermaid_code": "mindmap\n  root((<b>Computer<br>Architecture</b>))\n    <b>CPU Components</b>\n      ALU\n      Control Unit\n      Registers\n      Clock\n    <b>Memory Hierarchy</b>\n      Registers\n      L1/L2/L3 Cache\n      RAM\n      Secondary Storage\n    <b>Instruction Sets</b>\n      CISC\n        Complex instructions\n      RISC\n        Reduced instructions\n      ARM\n      x86\n    <b>Architecture Models</b>\n      Von Neumann\n      Harvard\n      Pipelining\n      Parallel Processing\n        SIMD\n        MIMD\n    <b>Bus Systems</b>\n      Data Bus\n      Address Bus\n      Control Bus\n    <b>Performance Factors</b>\n      Clock Speed\n      Cores\n      Cache Size\n      Bandwidth\n    <b>I/O Systems</b>\n      Interrupts\n      DMA\n      Controllers\n    <b>Modern Innovations</b>\n      Multi-core\n      GPUs\n      Quantum Computing\n      Neuromorphic",
             "complexity": "high",
             "tags": [
                 "computer_architecture",
@@ -16,4 +16,3 @@
         }
     ]
 }
-

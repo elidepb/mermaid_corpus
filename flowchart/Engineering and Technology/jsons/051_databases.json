@@ -1,21 +1,21 @@
 {
-  "diagrams": [
-    {
-      "id": "051",
-      "topic": "Databases",
-      "category": "computer_science",
-      "description": "Databases are organized collections of structured data with systematic mechanisms for storage, retrieval, modification, and management ensuring data integrity, security, and efficient access. It begins with requirements analysis, understanding data needs, access patterns, transaction volumes, and performance requirements. Data modeling creates conceptual models identifying entities and relationships, logical models defining schemas and constraints, and physical models optimizing storage structures. Database design implements normalization reducing redundancy, defines primary and foreign keys establishing relationships, and creates indexes improving query performance. Schema implementation creates tables, views, stored procedures, and triggers using data definition language. Data population loads initial data through ETL processes, bulk imports, or migration from legacy systems. Query optimization develops efficient SQL queries, analyzes execution plans, and creates appropriate indexes for common access patterns. Transaction management ensures ACID properties of atomicity, consistency, isolation, and durability through concurrency control and logging. Backup and recovery implements regular backups, point-in-time recovery, and disaster recovery procedures. The goal is maintaining reliable, performant data repositories supporting business operations with data integrity and availability.",
-      "diagram_type": "flowchart",
-      "mermaid_code": "flowchart TD\n    Databases[Databases] --> Types[Database Types]\n    Databases --> Concepts[Core Concepts]\n    Databases --> Languages[Database Languages]\n    Types --> Relational[Relational SQL]\n    Types --> NoSQL[NoSQL]\n    Relational --> Tables[Tables Rows Columns]\n    Relational --> Keys[Primary and Foreign Keys]\n    NoSQL --> Document[Document Databases]\n    NoSQL --> KeyValue[Key Value Stores]\n    Concepts --> ACID[ACID Properties]\n    Concepts --> Indexing[Indexing]\n    Languages --> DDL[Data Definition Language]\n    Languages --> DML[Data Manipulation Language]",
-      "complexity": "medium",
-      "tags": [
-        "databases",
-        "computer_science",
-        "sql",
-        "nosql",
-        "acid"
-      ],
-      "creation_date": "2024-01-16"
-    }
-  ]
+    "diagrams": [
+        {
+            "id": "051",
+            "topic": "Databases",
+            "category": "computer_science",
+            "description": "Databases are organized collections of structured data with systematic mechanisms for storage, retrieval, modification, and management ensuring data integrity, security, and efficient access. It begins with requirements analysis, understanding data needs, access patterns, transaction volumes, and performance requirements. Data modeling creates conceptual models identifying entities and relationships, logical models defining schemas and constraints, and physical models optimizing storage structures. Database design implements normalization reducing redundancy, defines primary and foreign keys establishing relationships, and creates indexes improving query performance. Schema implementation creates tables, views, stored procedures, and triggers using data definition language. Data population loads initial data through ETL processes, bulk imports, or migration from legacy systems. Query optimization develops efficient SQL queries, analyzes execution plans, and creates appropriate indexes for common access patterns. Transaction management ensures ACID properties of atomicity, consistency, isolation, and durability through concurrency control and logging. Backup and recovery implements regular backups, point-in-time recovery, and disaster recovery procedures. The goal is maintaining reliable, performant data repositories supporting business operations with data integrity and availability.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Databases</b><br>Organized structured data<br>with systematic management]:::title\n    B[<b>PRIMARY GOAL</b><br>Reliable Performant Data<br>with Integrity & Availability]:::goal\n    C[<b>DATABASE LIFECYCLE</b>]:::process\n    \n    subgraph D[Requirements Analysis]\n        D1[Understand data needs &<br>access patterns]\n    end\n    \n    subgraph E[Data Modeling]\n        E1[Create conceptual, logical<br>& physical models]\n    end\n    \n    subgraph F[Database Design]\n        F1[Implement normalization,<br>keys & indexes]\n    end\n    \n    subgraph G[Schema Implementation]\n        G1[Create tables, views,<br>procedures & triggers]\n    end\n    \n    subgraph H[Data Population]\n        H1[Load via ETL, imports<br>or migration]\n    end\n    \n    subgraph I[Query Optimization]\n        I1[Develop efficient SQL<br>& analyze plans]\n    end\n    \n    subgraph J[Transaction Management]\n        J1[Ensure ACID properties<br>via concurrency control]\n    end\n    \n    subgraph K[Backup & Recovery]\n        K1[Implement backups &<br>disaster recovery]\n    end\n    \n    L[<b>OUTCOME</b><br>Data repositories supporting<br>business operations]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|maintenance cycle| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "databases",
+                "computer_science",
+                "sql",
+                "nosql",
+                "acid"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
 }

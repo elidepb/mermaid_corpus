@@ -6,7 +6,7 @@
             "category": "Computer Science",
             "description": "Computer Networks comprise various layers and elements working together. The OSI Model structures networks into seven layers (Physical, Data Link, Network, Transport, Session, Presentation, Application). Network types span LAN, WAN, MAN, and PAN. Key hardware includes routers, switches, hubs, and modems. Protocols govern communication (TCP/IP suite, HTTP, HTTPS, FTP, DNS, DHCP). Topologies define structure (star, ring, mesh, bus, hybrid). Security measures include firewalls, VPNs, encryption, and authentication. Transmission media use copper cables, fiber optics, or wireless technologies, while services encompass email, file transfer, remote access, and cloud computing.",
             "diagram_type": "mindmap",
-            "mermaid_code": "mindmap\n  root((Computer Networks))\n    Network Architecture\n      OSI Model\n      TCP/IP Model\n      Protocols\n      Standards\n    Physical Layer\n      Transmission Media\n      Signal Encoding\n      Multiplexing\n      Network Topology\n    Data Link Layer\n      MAC Addressing\n      Error Detection\n      Flow Control\n      Ethernet\n    Network Layer\n      IP Addressing\n      Routing Algorithms\n      Subnetting\n      IPv4 vs IPv6\n    Transport Layer\n      TCP\n      UDP\n      Port Numbers\n      Congestion Control\n    Application Layer\n      HTTP/HTTPS\n      FTP\n      DNS\n      Email Protocols\n    Network Security\n      Firewalls\n      Encryption\n      VPN\n      Network Attacks\n    Wireless Networks\n      Wi-Fi\n      Bluetooth\n      Cellular Networks\n      Satellite",
+            "mermaid_code": "mindmap\n  root((<b>Computer<br>Networks</b>))\n    <b>OSI Model</b>\n      Physical\n      Data Link\n      Network\n      Transport\n      Session\n      Presentation\n      Application\n    <b>Network Types</b>\n      LAN\n      WAN\n      MAN\n      PAN\n    <b>Hardware</b>\n      Routers\n      Switches\n      Hubs\n      Modems\n    <b>Protocols</b>\n      TCP/IP\n      HTTP/HTTPS\n      FTP\n      DNS\n      DHCP\n    <b>Topology</b>\n      Star\n      Ring\n      Mesh\n      Bus\n      Hybrid\n    <b>Security</b>\n      Firewalls\n      VPN\n      Encryption\n      Authentication\n    <b>Transmission Media</b>\n      Copper Cables\n      Fiber Optics\n      Wireless\n    <b>Services</b>\n      Email\n      File Transfer\n      Remote Access\n      Cloud Computing",
             "complexity": "high",
             "tags": [
                 "computer_networks",
@@ -16,4 +16,3 @@
         }
     ]
 }
-
