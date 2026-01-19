@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "297",
+            "topic": "Water Pollution",
+            "category": "Environmental Sciences",
+            "description": "Water Pollution encompasses diverse sources, pollutants, and impacts. Point sources include industrial effluents (chemical plants, refineries, manufacturing), municipal wastewater (sewage treatment plants), and concentrated animal feeding operations (CAFOs). Non-point sources feature agricultural runoff (fertilizers, pesticides, animal waste), urban stormwater (oil, heavy metals, trash), atmospheric deposition, and mining operations. Major pollutants include nutrients (nitrogen, phosphorus causing eutrophication and algal blooms), heavy metals (lead, mercury, cadmium, arsenic), organic pollutants (pesticides, pharmaceuticals, PCBs, PAHs), pathogens (bacteria, viruses, parasites), thermal pollution, and emerging contaminants (microplastics, PFAS, nanomaterials). Water bodies affected span rivers and streams, lakes and reservoirs, coastal waters and oceans, groundwater aquifers, and wetlands. Health impacts include waterborne diseases, toxic exposure, and disrupted drinking water supplies. Ecological effects feature eutrophication, hypoxic dead zones, bioaccumulation in food chains, habitat destruction, and species decline. Control strategies involve wastewater treatment plants, stormwater management (green infrastructure, retention ponds), agricultural best management practices, industrial pretreatment, regulations (Clean Water Act, water quality standards), and restoration projects. Monitoring techniques use water quality sensors, laboratory analysis, biological indicators, and remote sensing.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Water<br>Pollution</b>))\n    <b>Point Sources</b>\n      Industrial Effluents\n        Chemical Plants\n        Refineries\n        Manufacturing\n      Municipal Wastewater\n        Sewage Treatment Plants\n      CAFOs\n    <b>Non-Point Sources</b>\n      Agricultural Runoff\n        Fertilizers\n        Pesticides\n        Animal Waste\n      Urban Stormwater\n        Oil\n        Heavy Metals\n        Trash\n      Atmospheric Deposition\n      Mining Operations\n    <b>Major Pollutants</b>\n      Nutrients\n        Nitrogen\n        Phosphorus\n        Eutrophication\n      Heavy Metals\n        Lead\n        Mercury\n        Cadmium\n        Arsenic\n      Organic Pollutants\n        Pesticides\n        Pharmaceuticals\n        PCBs\n        PAHs\n      Pathogens\n        Bacteria\n        Viruses\n        Parasites\n      Thermal Pollution\n      Emerging Contaminants\n        Microplastics\n        PFAS\n        Nanomaterials\n    <b>Affected Water Bodies</b>\n      Rivers & Streams\n      Lakes & Reservoirs\n      Coastal Waters & Oceans\n      Groundwater\n      Wetlands\n    <b>Health Impacts</b>\n      Waterborne Diseases\n      Toxic Exposure\n      Drinking Water Issues\n    <b>Ecological Effects</b>\n      Eutrophication\n      Hypoxic Zones\n      Bioaccumulation\n      Habitat Destruction\n      Species Decline\n    <b>Control Strategies</b>\n      Wastewater Treatment\n      Stormwater Management\n        Green Infrastructure\n        Retention Ponds\n      Agricultural BMPs\n      Industrial Pretreatment\n      Regulations\n        Clean Water Act\n      Restoration Projects\n    <b>Monitoring</b>\n      Water Quality Sensors\n      Laboratory Analysis\n      Biological Indicators\n      Remote Sensing",
+            "complexity": "high",
+            "tags": [
+                "water_pollution",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

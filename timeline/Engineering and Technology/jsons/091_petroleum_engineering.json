@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "091",
+            "topic": "Petroleum Engineering",
+            "category": "Engineering",
+            "description": "Petroleum Engineering evolved from simple surface collection to sophisticated subsurface extraction technologies transforming global energy supply. Early petroleum use collected surface seeps for thousands of years. Edwin Drake drilled the first commercial oil well in Titusville, Pennsylvania (1859) at 69 feet depth initiating the petroleum industry. Rotary drilling replaced cable tool drilling (early 1900s) enabling deeper wells. Reservoir pressure maintenance through waterflooding began (1920s). Offshore drilling commenced from piers (1930s) expanding to platforms. Directional drilling developed during WWII accessing multiple zones from single locations. Hydraulic fracturing pioneered in the 1940s stimulating low-permeability formations. Enhanced oil recovery methods advanced including thermal and chemical techniques (1960s-1970s). North Sea oil development proved deepwater capabilities (1970s). 3D seismic imaging revolutionized exploration (1980s) revealing subsurface structures. Horizontal drilling commercialized (1980s-1990s) maximizing reservoir contact. The shale revolution (2000s-2010s) combined horizontal drilling and multi-stage fracturing unlocking unconventional resources. Deepwater drilling reached ultra-deep waters exceeding 10,000 feet. Digital oilfield technologies integrated real-time monitoring and optimization. Today's petroleum engineering employs AI for reservoir characterization, carbon capture and storage, automated drilling systems, and transitions toward lower-carbon operations while maintaining energy security.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Petroleum Engineering Evolution\n    Ancient-1800s : Surface Seep Collection\n                  : Natural petroleum use\n    1859 : Drake's First Well\n         : Commercial drilling begins\n    Early 1900s : Rotary Drilling\n                : Deeper well capability\n    1920s : Waterflooding\n          : Pressure maintenance\n    1930s : Offshore Drilling\n          : Platform development\n    WWII Era : Directional Drilling\n             : Multiple zone access\n    1940s : Hydraulic Fracturing\n          : Stimulation pioneered\n    1960s-1970s : Enhanced Oil Recovery\n                : Thermal & chemical methods\n    1970s : North Sea Development\n          : Deepwater capabilities\n    1980s : 3D Seismic Imaging\n          : Exploration revolution\n    1980s-1990s : Horizontal Drilling\n                : Reservoir contact maximized\n    2000s-2010s : Shale Revolution\n                : Unconventional resources unlocked\n    2020s : AI & Carbon Capture\n          : Digital optimization & lower-carbon",
+            "complexity": "high",
+            "tags": [
+                "petroleum_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

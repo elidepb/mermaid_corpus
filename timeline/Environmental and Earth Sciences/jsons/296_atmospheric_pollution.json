@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "296",
+            "topic": "Atmospheric Pollution",
+            "category": "Environmental Sciences",
+            "description": "Air pollution awareness emerged during the Industrial Revolution (1800s) with severe smoke and soot from coal combustion in industrial cities creating health hazards and killer fogs. The early 1900s witnessed continued industrial pollution and urban smoke problems. The 1940s-50s brought deadly air pollution episodes: the Donora smog (Pennsylvania, 1948) killing 20 people and the Great Smog of London (1952) causing thousands of deaths, catalyzing action. The 1956 Clean Air Act in the UK marked early legislative response. The 1960s saw growing awareness with smog problems in Los Angeles driving photochemical smog research. The 1970 Clean Air Act in the U.S. established comprehensive air quality regulation, setting National Ambient Air Quality Standards (NAAQS) for criteria pollutants. The 1980s addressed acid rain through amendments requiring SO2 reductions and introduced catalytic converters for vehicles. The 1990s brought Clean Air Act amendments strengthening regulations, Phase-out of leaded gasoline, and recognition of particulate matter (PM2.5) health impacts. The 2000s advanced with tighter emission standards, diesel particulate filter requirements, and growing concern over ground-level ozone. The 2010s-2020s continue with severe pollution in developing nations (Delhi, Beijing), PM2.5 health research expansion, air quality and climate linkages recognition, COVID-19 lockdowns revealing pollution's reversibility, stricter vehicle emission standards (Euro 6, China 6), transition to electric vehicles, and indoor air quality awareness becoming global priorities.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Air Pollution Awareness & Control Evolution</b>\n    \n    section Industrial Era\n        1800s : Industrial Revolution\n              : Coal combustion smoke\n              : Killer fogs in cities\n        Early 1900s : Industrial pollution continues\n                    : Urban smoke problems\n    \n    section Deadly Episodes\n        1948  : Donora smog\n              : Pennsylvania, 20 deaths\n        1952  : Great Smog of London\n              : Thousands of deaths\n        1956  : UK Clean Air Act\n    \n    section Regulatory Era\n        1960s : LA smog problems\n              : Photochemical smog research\n        1970  : US Clean Air Act\n              : NAAQS established\n              : Criteria pollutants\n        1980s : Acid rain addressed\n              : SO2 reductions\n              : Catalytic converters\n    \n    section Strengthened Controls\n        1990s : Clean Air Act amendments\n              : Leaded gasoline phase-out\n              : PM2.5 recognition\n        2000s : Tighter emission standards\n              : Diesel particulate filters\n              : Ozone concerns\n    \n    section Global Challenges\n        2010s-2020s : Severe pollution (Delhi, Beijing)\n                    : PM2.5 health research\n                    : Climate-air quality links\n                    : COVID-19 lockdown insights\n                    : Stricter standards (Euro 6)\n                    : Electric vehicle transition\n                    : Indoor air quality focus",
+            "complexity": "high",
+            "tags": [
+                "atmospheric_pollution",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

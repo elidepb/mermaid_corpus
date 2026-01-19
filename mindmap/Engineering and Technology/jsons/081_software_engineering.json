@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Software Engineering",
+            "category": "Engineering",
+            "description": "Software Engineering encompasses methodologies, principles, practices, and tools enabling systematic software creation and evolution. Development methodologies include Waterfall with sequential phases and extensive documentation, Agile emphasizing iterative development and customer collaboration, Scrum using time-boxed sprints and ceremonies, Extreme Programming practicing pair programming and continuous integration, Kanban visualizing workflow and limiting work-in-progress, and Lean focusing on waste elimination and value delivery. Software design principles apply SOLID principles for object-oriented design, separation of concerns modularizing functionality, DRY (Don't Repeat Yourself) avoiding duplication, KISS (Keep It Simple) favoring simplicity, YAGNI (You Aren't Gonna Need It) avoiding premature features, and Law of Demeter minimizing coupling. Architecture patterns employ layered architecture separating presentation, business, and data layers, microservices decomposing into independent deployable services, event-driven architecture using asynchronous messaging, service-oriented architecture exposing reusable services, and hexagonal architecture isolating core logic. Software quality attributes address functional correctness meeting requirements, performance optimizing response time and throughput, reliability ensuring consistent operation, maintainability enabling changes efficiently, scalability handling growth, security protecting from threats, and usability providing good user experience. Engineering practices include code review ensuring quality through peer examination, continuous integration automating builds and tests, test-driven development writing tests before code, refactoring improving design without changing behavior, and documentation maintaining understandable artifacts.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Software<br>Engineering</b>))\n    <b>Development Methodologies</b>\n      Waterfall sequential\n      Agile iterative\n      Scrum sprints\n      Extreme Programming\n      Kanban workflow\n      Lean development\n    <b>Design Principles</b>\n      SOLID principles\n      Separation of concerns\n      DRY principle\n      KISS simplicity\n      YAGNI minimalism\n      Law of Demeter\n    <b>Architecture Patterns</b>\n      Layered architecture\n      Microservices\n      Event-driven\n      Service-oriented\n      Hexagonal architecture\n      CQRS pattern\n    <b>Quality Attributes</b>\n      Functional correctness\n      Performance optimization\n      Reliability assurance\n      Maintainability\n      Scalability\n      Security\n      Usability\n    <b>Engineering Practices</b>\n      Code review\n      Continuous integration\n      Test-driven development\n      Refactoring\n      Pair programming\n      Documentation\n    <b>Testing Strategies</b>\n      Unit testing\n      Integration testing\n      System testing\n      Acceptance testing\n      Regression testing\n      Performance testing\n    <b>Version Control</b>\n      Git workflows\n      Branching strategies\n      Code merging\n      Release management\n      Change tracking\n    <b>Software Metrics</b>\n      Code complexity\n      Test coverage\n      Defect density\n      Technical debt\n      Velocity tracking",
+            "complexity": "high",
+            "tags": [
+                "software_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

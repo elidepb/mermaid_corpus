@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "Engineering",
+            "description": "Augmented Reality evolved from theoretical concepts to ubiquitous mobile experiences transforming industries and entertainment. Early AR concepts appeared in science fiction and experimental systems (1960s-1970s). Ivan Sutherland's head-mounted display (1968) laid foundational groundwork. The term augmented reality was coined by Boeing researcher Tom Caudell (1990) for aircraft assembly. Virtual Fixtures system at US Air Force (1992) demonstrated first functioning AR system for training. ARToolKit released (1999) as open-source library enabling marker-based AR development. AR gaming emerged with ARQuake (2000) overlaying game elements on real environments. Wikitude (2008) pioneered mobile AR browsers with location-based information. Augmented reality gained mainstream attention through marketing campaigns and applications (2010s). Google Glass (2013) attempted consumer AR glasses but faced privacy concerns. Pokémon GO (2016) became cultural phenomenon with 500+ million downloads demonstrating mass AR appeal. Apple ARKit (2017) and Google ARCore democratized AR development for billions of mobile devices. IKEA Place app showcased practical furniture visualization. Today's AR integrates neural rendering, real-time 3D reconstruction, spatial computing platforms, and enterprise solutions for remote assistance and training.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Augmented Reality Evolution\n    1960s-1970s : Early AR Concepts\n                : Experimental systems\n    1968 : Sutherland's HMD\n         : Foundational display work\n    1990 : AR Term Coined\n         : Tom Caudell at Boeing\n    1992 : Virtual Fixtures System\n         : First functioning AR\n    1999 : ARToolKit Released\n         : Open-source marker tracking\n    2000 : ARQuake Gaming\n         : Real-world game overlay\n    2008 : Wikitude Mobile AR\n         : Location-based browser\n    2013 : Google Glass\n         : Consumer AR glasses attempt\n    2016 : Pokémon GO Phenomenon\n         : 500M+ downloads mass appeal\n    2017 : ARKit & ARCore Launch\n         : Mobile AR democratization\n    2020s : Neural Rendering & Spatial\n          : Real-time 3D & enterprise AR",
+            "complexity": "high",
+            "tags": [
+                "augmented_reality",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

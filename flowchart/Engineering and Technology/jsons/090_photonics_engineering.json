@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "090",
+            "topic": "Photonics Engineering",
+            "category": "engineering",
+            "description": "Photonics Engineering is the science and technology of generating, controlling, and detecting photons (light particles) to create devices and systems for telecommunications, sensing, imaging, energy, and computing applications. It begins with light source design, developing lasers, LEDs, or other emitters producing coherent or incoherent light with specific wavelengths, power levels, and modulation characteristics. Optical component design creates lenses, mirrors, prisms, filters, beam splitters, and waveguides manipulating light propagation, focusing, splitting, or wavelength selection. Photonic material engineering develops semiconductors, crystals, polymers, and metamaterials with tailored refractive indices, bandgaps, and nonlinear properties. Device fabrication employs nanofabrication techniques including photolithography, etching, deposition, and epitaxial growth creating integrated photonic circuits. Light-matter interaction analysis studies absorption, emission, scattering, and nonlinear effects optimizing device performance. System integration combines sources, modulators, amplifiers, detectors, and control electronics into functional systems. Performance characterization measures optical power, spectral properties, temporal response, and signal quality validating specifications. Application deployment implements systems in fiber-optic communications, medical imaging, LiDAR sensing, solar energy conversion, or quantum computing. The goal is harnessing light's unique properties—speed, bandwidth, energy efficiency, and quantum behavior—to create transformative technologies revolutionizing information processing, healthcare, energy, and manufacturing through photon manipulation rather than electron control.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Photonics Engineering</b><br>Science of generating, controlling<br>& detecting photons]:::title\n    B[<b>PRIMARY GOAL</b><br>Harness Light Properties for<br>Transformative Technologies]:::goal\n    C[<b>PHOTONICS DEVELOPMENT</b>]:::process\n    \n    subgraph D[Light Source Design]\n        D1[Develop lasers, LEDs with<br>specific characteristics]\n    end\n    \n    subgraph E[Optical Component Design]\n        E1[Create lenses, waveguides<br>manipulating light]\n    end\n    \n    subgraph F[Photonic Material Engineering]\n        F1[Develop semiconductors with<br>tailored properties]\n    end\n    \n    subgraph G[Device Fabrication]\n        G1[Employ nanofabrication creating<br>integrated circuits]\n    end\n    \n    subgraph H[Light-Matter Interaction]\n        H1[Study absorption, emission<br>& nonlinear effects]\n    end\n    \n    subgraph I[System Integration]\n        I1[Combine sources, modulators,<br>detectors & electronics]\n    end\n    \n    subgraph J[Performance Characterization]\n        J1[Measure power, spectra<br>& signal quality]\n    end\n    \n    subgraph K[Application Deployment]\n        K1[Implement in communications,<br>imaging & sensing]\n    end\n    \n    L[<b>OUTCOME</b><br>Technologies revolutionizing<br>information & healthcare]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous innovation| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "photonics_engineering",
+                "engineering",
+                "optics",
+                "lasers",
+                "fiber_optics"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

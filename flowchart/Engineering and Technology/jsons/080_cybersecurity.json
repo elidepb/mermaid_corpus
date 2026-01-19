@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Cybersecurity",
+            "category": "technology",
+            "description": "Cybersecurity is the comprehensive practice of protecting computer systems, networks, programs, and data from digital attacks, unauthorized access, damage, or theft through layered defensive strategies and proactive threat management. It begins with asset identification, cataloging critical systems, data, applications, and infrastructure requiring protection with risk classification. Threat assessment analyzes potential attack vectors, vulnerability exploits, threat actors, and attack patterns using threat intelligence. Security policy development establishes governance frameworks, access control policies, acceptable use guidelines, and incident response procedures. Preventive controls implementation deploys firewalls, antivirus software, encryption, authentication systems, and security configurations hardening defenses. Security monitoring employs continuous surveillance through SIEM platforms, intrusion detection systems, log analysis, and anomaly detection identifying suspicious activities. Vulnerability management conducts regular scanning, penetration testing, patch management, and security assessments addressing weaknesses. Incident response handles security breaches through detection, containment, eradication, recovery, and forensic analysis. Security awareness training educates users about phishing, social engineering, password hygiene, and security best practices building human firewall. The goal is maintaining confidentiality, integrity, and availability of information assets while enabling business operations through defense-in-depth strategies that anticipate, prevent, detect, and respond to cyber threats.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cybersecurity</b><br>Protecting systems, networks<br>& data from attacks]:::title\n    B[<b>PRIMARY GOAL</b><br>Maintain CIA Triad Through<br>Defense-in-Depth]:::goal\n    C[<b>SECURITY LIFECYCLE</b>]:::process\n    \n    subgraph D[Asset Identification]\n        D1[Catalog critical systems,<br>data & infrastructure]\n    end\n    \n    subgraph E[Threat Assessment]\n        E1[Analyze attack vectors,<br>vulnerabilities & actors]\n    end\n    \n    subgraph F[Policy Development]\n        F1[Establish governance,<br>access controls & procedures]\n    end\n    \n    subgraph G[Preventive Controls]\n        G1[Deploy firewalls, encryption<br>& authentication systems]\n    end\n    \n    subgraph H[Security Monitoring]\n        H1[Employ SIEM, IDS<br>& anomaly detection]\n    end\n    \n    subgraph I[Vulnerability Management]\n        I1[Conduct scanning, testing<br>& patch management]\n    end\n    \n    subgraph J[Incident Response]\n        J1[Handle breaches via detection,<br>containment & recovery]\n    end\n    \n    subgraph K[Security Awareness]\n        K1[Educate users about threats<br>& best practices]\n    end\n    \n    L[<b>OUTCOME</b><br>Protected assets enabling<br>secure business operations]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous cycle| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "cybersecurity",
+                "technology",
+                "computer_security",
+                "nist",
+                "gdpr"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

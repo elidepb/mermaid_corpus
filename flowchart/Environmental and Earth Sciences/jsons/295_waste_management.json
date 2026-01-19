@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "295",
+            "topic": "Waste Management",
+            "category": "Environmental Sciences",
+            "description": "Waste Management is the systematic collection, transportation, processing, recycling, and disposal of waste materials minimizing environmental impacts, protecting public health, and recovering valuable resources through integrated strategies following the waste hierarchy of prevention, reduction, reuse, recycling, recovery, and disposal. It begins with waste characterization, analyzing composition, quantities, sources, and properties understanding waste streams to design appropriate management systems. Collection and segregation implements systems for gathering waste from sources with separation into recyclables, organics, hazardous materials, and residuals enabling efficient processing. Transportation and transfer moves waste from collection points to processing facilities or disposal sites using optimized routes and transfer stations reducing costs and emissions. Treatment and processing applies methods including mechanical recycling, biological composting, thermal conversion through incineration or gasification, and chemical processing extracting value and reducing volume. Resource recovery captures materials through recycling, energy through waste-to-energy plants, and nutrients through composting closing material loops. Residual disposal manages remaining waste through sanitary landfills with engineered liners and leachate collection, or permanent storage for hazardous materials protecting environment and health. Monitoring and compliance tracks operations, emissions, groundwater quality, and regulatory adherence ensuring safety. Public education and engagement promotes waste reduction, proper sorting, and participation building sustainable behaviors. The goal is transitioning toward circular economy minimizing waste generation, maximizing resource recovery, preventing pollution, and reducing reliance on virgin materials through integrated waste management systems.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Waste Management</b><br>Systematic handling minimizing<br>environmental impacts]:::title\n    B[<b>PRIMARY GOAL</b><br>Transition to Circular Economy<br>Maximizing Resource Recovery]:::goal\n    C[<b>WASTE MANAGEMENT PROCESS</b>]:::process\n    \n    subgraph D[Waste Characterization]\n        D1[Analyze composition, quantities<br>& properties]\n    end\n    \n    subgraph E[Collection & Segregation]\n        E1[Gather & separate recyclables,<br>organics & hazardous]\n    end\n    \n    subgraph F[Transportation & Transfer]\n        F1[Move to facilities via<br>optimized routes]\n    end\n    \n    subgraph G[Treatment & Processing]\n        G1[Apply recycling, composting,<br>incineration or chemical methods]\n    end\n    \n    subgraph H[Resource Recovery]\n        H1[Capture materials, energy<br>& nutrients]\n    end\n    \n    subgraph I[Residual Disposal]\n        I1[Manage via sanitary landfills<br>or hazardous storage]\n    end\n    \n    subgraph J[Monitoring & Compliance]\n        J1[Track operations, emissions<br>& regulatory adherence]\n    end\n    \n    subgraph K[Education & Engagement]\n        K1[Promote reduction, sorting<br>& participation]\n    end\n    \n    L[<b>OUTCOME</b><br>Minimized waste, maximized recovery<br>& pollution prevention]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous improvement| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "waste_management",
+                "environmental_science",
+                "recycling",
+                "sustainability",
+                "circular_economy",
+                "waste_hierarchy"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "Technology",
+            "description": "Augmented Reality encompasses platforms, technologies, applications, and interaction paradigms enhancing real-world perception with digital overlays. AR platforms include ARKit from Apple for iOS development, ARCore from Google for Android devices, Microsoft HoloLens for enterprise mixed reality, Magic Leap for spatial computing, and WebAR for browser-based experiences without apps. Tracking technologies employ marker-based tracking using visual markers or QR codes, markerless tracking detecting natural features, SLAM building environment maps in real-time, GPS and compass for location-based AR, and image recognition identifying objects and scenes. AR display types span smartphones and tablets providing accessible AR through screens, smart glasses like HoloLens and Magic Leap offering hands-free experiences, head-up displays projecting onto windshields, and contact lenses representing future vision. Application domains include retail with virtual try-on and product visualization, navigation with wayfinding and location information, gaming exemplified by Pokémon GO, education through interactive 3D models and simulations, industrial maintenance providing step-by-step repair guidance, healthcare for surgical visualization and medical training, and architecture visualizing building designs in context. Technical components involve computer vision for understanding scenes, 3D rendering generating realistic graphics, spatial audio creating immersive soundscapes, and gesture recognition enabling natural interaction.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Augmented<br>Reality</b>))\n    <b>AR Platforms</b>\n      ARKit iOS\n      ARCore Android\n      Microsoft HoloLens\n      Magic Leap\n      WebAR browsers\n      Vuforia\n    <b>Tracking Technologies</b>\n      Marker-based tracking\n      Markerless tracking\n      SLAM mapping\n      GPS & compass\n      Image recognition\n      Object detection\n    <b>Display Types</b>\n      Smartphones & tablets\n      Smart glasses\n      Head-up displays\n      Contact lenses future\n      Projection mapping\n    <b>Application Domains</b>\n      Retail virtual try-on\n      Navigation wayfinding\n      Gaming Pokémon GO\n      Education 3D models\n      Industrial maintenance\n      Healthcare surgery\n      Architecture visualization\n    <b>Technical Components</b>\n      Computer vision\n      3D rendering\n      Spatial audio\n      Gesture recognition\n      Depth sensing\n      Light estimation\n    <b>Interaction Methods</b>\n      Touch input\n      Hand gestures\n      Voice commands\n      Gaze tracking\n      Controller input\n    <b>Content Types</b>\n      3D objects\n      Information overlays\n      Animations\n      Video textures\n      Spatial anchors\n    <b>Development Tools</b>\n      Unity AR Foundation\n      Unreal Engine\n      8th Wall WebAR\n      Spark AR Studio\n      Lens Studio",
+            "complexity": "high",
+            "tags": [
+                "augmented_reality",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

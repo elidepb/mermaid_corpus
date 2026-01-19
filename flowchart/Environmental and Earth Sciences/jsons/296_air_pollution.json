@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "296",
+            "topic": "Air Pollution",
+            "category": "Environmental Sciences",
+            "description": "Air Pollution is the contamination of the atmosphere by harmful substances that pose health risks to humans, animals, and ecosystems while contributing to environmental degradation. Its primary concern is understanding sources, transport mechanisms, and health/environmental impacts to develop effective control and prevention strategies. Core aspects include: pollution sources (stationary sources like power plants and industrial facilities, mobile sources including vehicles and aircraft, natural sources such as wildfires and dust storms), pollutant types (criteria pollutants - particulate matter, ozone, nitrogen oxides, sulfur dioxide, carbon monoxide, lead; hazardous air pollutants - toxic chemicals, volatile organic compounds), atmospheric processes (dispersion and transport, chemical transformations, photochemical reactions forming secondary pollutants), health and environmental impacts (respiratory diseases, cardiovascular effects, acid rain, visibility reduction, ecosystem damage), and control measures (emission standards, pollution control technologies, air quality monitoring, policy interventions). The management process involves air quality monitoring and assessment, source identification, impact evaluation, control technology implementation, and regulatory enforcement. These elements integrate through atmospheric chemistry, meteorology, and public health to address pollution through emission controls, cleaner technologies, urban planning, transportation policies, and air quality management that protect human health and environmental quality.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Air Pollution</b><br>Atmospheric contamination by<br>harmful substances]:::title\n    B[<b>PRIMARY CONCERN</b><br>Understand sources & impacts<br>to develop control strategies]:::concern\n    C[<b>CORE ASPECTS</b>]:::aspects\n    \n    subgraph D[Pollution Sources]\n        D1[Stationary: power plants<br>Mobile: vehicles<br>Natural: wildfires]\n    end\n    \n    subgraph E[Pollutant Types]\n        E1[Criteria pollutants<br>PM, O3, NOx, SO2<br>Hazardous air pollutants]\n    end\n    \n    subgraph F[Atmospheric Processes]\n        F1[Dispersion & transport<br>Chemical transformations<br>Photochemical reactions]\n    end\n    \n    subgraph G[Health & Environmental Impacts]\n        G1[Respiratory diseases<br>Acid rain<br>Ecosystem damage]\n    end\n    \n    subgraph H[Control Measures]\n        H1[Emission standards<br>Control technologies<br>Policy interventions]\n    end\n    \n    I[<b>MANAGEMENT PROCESS</b><br>Monitoring, Assessment<br>Control, Enforcement]:::process\n    \n    J[<b>ADDRESSES</b><br>Pollution through controls,<br>technology & policy]:::outcome\n    \n    A -->|raises| B\n    B -->|through understanding| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|enables| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "air_pollution",
+                "environmental_science",
+                "pollutants",
+                "emissions",
+                "smog",
+                "acid_rain",
+                "air_quality"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

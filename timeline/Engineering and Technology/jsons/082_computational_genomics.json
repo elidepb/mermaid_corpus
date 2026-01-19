@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "082",
+            "topic": "Computational Genomics",
+            "category": "Engineering",
+            "description": "Computational Genomics evolved from early DNA sequencing to high-throughput analysis transforming biomedical research and healthcare. DNA structure discovered by Watson and Crick (1953) laid molecular biology foundations. Sanger sequencing method (1977) enabled first DNA sequences but remained low-throughput. The Human Genome Project launched (1990) aiming to sequence entire human genome. BLAST algorithm (1990) revolutionized sequence similarity searching. First bacterial genome sequenced (1995) demonstrating whole-genome capabilities. Human Genome Project completed draft (2001) after decade-long international collaboration. SNP databases and HapMap project (2002-2005) cataloged genetic variation. Next-generation sequencing commercialized (2005-2007) with Illumina and 454 platforms dramatically reducing costs. The 1000 Genomes Project (2008-2015) characterized human genetic diversity. ENCODE project (2012) mapped functional elements across the genome. CRISPR-Cas9 genome editing (2012) enabled precise genetic manipulation. Single-cell sequencing emerged (2014+) revealing cellular heterogeneity. Cancer genomics initiatives like TCGA generated comprehensive tumor datasets. AlphaFold (2020) solved protein structure prediction using AI. Today's computational genomics integrates long-read sequencing, spatial omics, AI-driven discovery, and population-scale biobanks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Computational Genomics Evolution\n    1953 : DNA Structure Discovery\n         : Watson & Crick foundations\n    1977 : Sanger Sequencing\n         : First DNA sequencing method\n    1990 : Human Genome Project & BLAST\n         : Whole genome & similarity search\n    1995 : First Bacterial Genome\n         : Whole-genome demonstration\n    2001 : Human Genome Draft\n         : Decade collaboration completed\n    2002-2005 : HapMap Project\n              : Genetic variation catalog\n    2005-2007 : NGS Commercialization\n              : Illumina cost reduction\n    2008-2015 : 1000 Genomes Project\n              : Human diversity characterization\n    2012 : ENCODE & CRISPR\n         : Functional elements & editing\n    2014+ : Single-Cell Sequencing\n          : Cellular heterogeneity\n    2020 : AlphaFold Breakthrough\n         : AI protein structure prediction\n    2020s : Long-Read & Spatial Omics\n          : Multi-modal AI integration",
+            "complexity": "high",
+            "tags": [
+                "computational_genomics",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

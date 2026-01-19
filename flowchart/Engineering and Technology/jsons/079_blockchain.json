@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Blockchain",
+            "category": "technology",
+            "description": "Blockchain is a distributed ledger technology that maintains a secure, transparent, and immutable record of transactions across a decentralized network without requiring trusted intermediaries. It begins with transaction initiation, where participants create and digitally sign transactions transferring assets or executing smart contracts. Transaction validation involves network nodes verifying transaction authenticity, digital signatures, and compliance with protocol rules. Block formation aggregates validated transactions into blocks with cryptographic hashes linking to previous blocks creating an immutable chain. Consensus mechanism achieves network agreement on block validity through Proof of Work, Proof of Stake, or other algorithms ensuring distributed trust. Block addition permanently appends approved blocks to the chain, distributing copies across all network nodes. Smart contract execution runs self-executing code automatically when predefined conditions are met, enabling programmable transactions. Network synchronization maintains consistency across distributed nodes through peer-to-peer communication and replication. Security maintenance protects against attacks through cryptographic techniques, decentralization, and economic incentives. The goal is creating trustless, transparent, and tamper-resistant systems enabling peer-to-peer transactions, automated agreements, and verifiable records without centralized authorities.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Blockchain</b><br>Distributed ledger with<br>immutable records]:::title\n    B[<b>PRIMARY GOAL</b><br>Create Trustless Transparent<br>Tamper-Resistant Systems]:::goal\n    C[<b>BLOCKCHAIN PROCESS</b>]:::process\n    \n    subgraph D[Transaction Initiation]\n        D1[Create & digitally sign<br>transactions]\n    end\n    \n    subgraph E[Transaction Validation]\n        E1[Verify authenticity &<br>protocol compliance]\n    end\n    \n    subgraph F[Block Formation]\n        F1[Aggregate transactions with<br>cryptographic hashes]\n    end\n    \n    subgraph G[Consensus Mechanism]\n        G1[Achieve agreement via<br>PoW, PoS or alternatives]\n    end\n    \n    subgraph H[Block Addition]\n        H1[Append to chain &<br>distribute to nodes]\n    end\n    \n    subgraph I[Smart Contract Execution]\n        I1[Run self-executing code<br>when conditions met]\n    end\n    \n    subgraph J[Network Synchronization]\n        J1[Maintain consistency via<br>P2P replication]\n    end\n    \n    subgraph K[Security Maintenance]\n        K1[Protect via cryptography<br>& decentralization]\n    end\n    \n    L[<b>OUTCOME</b><br>Peer-to-peer transactions<br>without intermediaries]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|enables| I\n    H -->|requires| J\n    J & K -->|together achieve| L\n    L -.->|continuous operation| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "blockchain",
+                "technology",
+                "cryptocurrency",
+                "smart_contracts",
+                "consensus"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

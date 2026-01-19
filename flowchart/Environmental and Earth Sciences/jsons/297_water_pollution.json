@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "297",
+            "topic": "Water Pollution",
+            "category": "Environmental Sciences",
+            "description": "Water Pollution is the contamination of water bodies (rivers, lakes, oceans, groundwater, wetlands) by harmful substances that degrade water quality and harm ecosystems and human health. Its primary concern is understanding sources, transport mechanisms, and impacts to develop effective prevention and remediation strategies. Core aspects include: pollution sources (point sources from industrial discharge and wastewater, non-point sources from agricultural runoff and urban stormwater), pollutant types (nutrients causing eutrophication, heavy metals, organic chemicals, pathogens, plastics and microplastics), transport and fate (surface runoff, groundwater infiltration, bioaccumulation in food chains), environmental impacts (ecosystem degradation, aquatic life toxicity, biodiversity loss), and control measures (wastewater treatment, best management practices, pollution prevention, regulatory frameworks). The assessment process involves monitoring and sampling, pollutant identification, impact assessment, source control implementation, and effectiveness evaluation. These elements integrate through hydrology, chemistry, and ecology to address contamination through treatment technologies, watershed management, policy enforcement, and restoration projects that protect water resources and public health.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Water Pollution</b><br>Contamination of water bodies<br>by harmful substances]:::title\n    B[<b>PRIMARY CONCERN</b><br>Understand sources & impacts<br>to develop control strategies]:::concern\n    C[<b>CORE ASPECTS</b>]:::aspects\n    \n    subgraph D[Pollution Sources]\n        D1[Point sources<br>Industrial & wastewater<br>Non-point: runoff]\n    end\n    \n    subgraph E[Pollutant Types]\n        E1[Nutrients & heavy metals<br>Organic chemicals<br>Pathogens & microplastics]\n    end\n    \n    subgraph F[Transport & Fate]\n        F1[Surface runoff<br>Groundwater infiltration<br>Bioaccumulation]\n    end\n    \n    subgraph G[Environmental Impacts]\n        G1[Ecosystem degradation<br>Aquatic toxicity<br>Biodiversity loss]\n    end\n    \n    subgraph H[Control Measures]\n        H1[Wastewater treatment<br>Best management practices<br>Regulatory frameworks]\n    end\n    \n    I[<b>ASSESSMENT PROCESS</b><br>Monitoring, Identification<br>Impact assessment, Control]:::process\n    \n    J[<b>ADDRESSES</b><br>Contamination through treatment,<br>management & policy]:::outcome\n    \n    A -->|raises| B\n    B -->|through understanding| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|enables| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "water_pollution",
+                "environmental_science",
+                "pollutants",
+                "water_quality",
+                "eutrophication",
+                "wastewater_treatment"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

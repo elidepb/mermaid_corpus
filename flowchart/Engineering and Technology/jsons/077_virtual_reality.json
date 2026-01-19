@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Virtual Reality",
+            "category": "technology",
+            "description": "Virtual Reality is the computer-generated simulation of three-dimensional immersive environments that users can interact with using specialized hardware, creating sense of presence in digital worlds. It begins with content creation, developing 3D models, environments, textures, animations, and interactive elements using game engines and modeling software. Hardware setup configures head-mounted displays, motion tracking systems, controllers, and computing platforms delivering visual and audio immersion. Tracking implementation establishes position and orientation tracking through inside-out or outside-in methods enabling natural movement. Rendering optimization generates stereoscopic images at high frame rates (90+ fps) minimizing latency and motion sickness through techniques like foveated rendering. Interaction design creates intuitive input methods including hand tracking, gesture recognition, voice commands, and haptic feedback. Application development builds experiences ranging from gaming and entertainment to training simulations and therapeutic interventions. User experience testing evaluates comfort, usability, presence, and minimizes cybersickness through iterative refinement. Deployment and distribution publishes VR applications through platforms like Steam VR, Oculus Store, or enterprise channels. The goal is creating compelling immersive experiences that transport users to virtual worlds for entertainment, education, collaboration, training, and therapeutic applications while ensuring comfort and accessibility.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Virtual Reality</b><br>Computer-generated immersive<br>3D environments]:::title\n    B[<b>PRIMARY GOAL</b><br>Create Compelling Immersive<br>Experiences]:::goal\n    C[<b>VR DEVELOPMENT PROCESS</b>]:::process\n    \n    subgraph D[Content Creation]\n        D1[Develop 3D models, environments<br>& animations]\n    end\n    \n    subgraph E[Hardware Setup]\n        E1[Configure HMDs, tracking<br>& computing platforms]\n    end\n    \n    subgraph F[Tracking Implementation]\n        F1[Establish position & orientation<br>tracking systems]\n    end\n    \n    subgraph G[Rendering Optimization]\n        G1[Generate stereoscopic images<br>at 90+ fps]\n    end\n    \n    subgraph H[Interaction Design]\n        H1[Create hand tracking, gestures<br>& haptic feedback]\n    end\n    \n    subgraph I[Application Development]\n        I1[Build gaming, training<br>or therapeutic experiences]\n    end\n    \n    subgraph J[UX Testing]\n        J1[Evaluate comfort, presence<br>& minimize cybersickness]\n    end\n    \n    subgraph K[Deployment & Distribution]\n        K1[Publish via Steam VR,<br>Oculus or enterprise]\n    end\n    \n    L[<b>OUTCOME</b><br>Immersive worlds for<br>entertainment & training]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|content updates| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "virtual_reality",
+                "technology",
+                "vr",
+                "immersion",
+                "hmd"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

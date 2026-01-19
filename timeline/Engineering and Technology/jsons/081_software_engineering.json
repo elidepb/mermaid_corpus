@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Software Engineering",
+            "category": "Engineering",
+            "description": "Software Engineering emerged from the software crisis recognizing need for disciplined approaches to complex system development. Early programming used ad-hoc methods without formal processes (1940s-1950s). The term software engineering was coined at NATO conference (1968) addressing software crisis of late, over-budget projects. Structured programming emerged (1970s) promoting modularity and reducing goto statements. The Waterfall model formalized by Royce (1970) established sequential development phases. Object-oriented programming gained prominence with Smalltalk and C++ (1980s). The Capability Maturity Model (1991) provided process improvement framework. Rational Unified Process introduced iterative development (1996). Extreme Programming emerged (1996) emphasizing agile practices. The Agile Manifesto (2001) revolutionized software development with iterative customer-focused approach. Scrum framework gained widespread adoption for agile teams. DevOps movement (2009) integrated development and operations practices. Microservices architecture became popular (2011+) for scalable distributed systems. Continuous delivery and deployment automated software releases. Site Reliability Engineering from Google formalized operational excellence. Today's software engineering integrates AI-assisted coding, infrastructure as code, GitOps workflows, and platform engineering approaches.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Software Engineering Evolution\n    1940s-1950s : Ad-Hoc Programming\n                : Informal development methods\n    1968 : Software Engineering Coined\n         : NATO conference software crisis\n    1970 : Waterfall Model\n         : Royce's sequential phases\n    1970s : Structured Programming\n          : Modularity & goto reduction\n    1980s : Object-Oriented Programming\n          : Smalltalk & C++ prominence\n    1991 : CMM Framework\n         : Process improvement model\n    1996 : RUP & XP Emergence\n         : Iterative & agile practices\n    2001 : Agile Manifesto\n         : Development methodology shift\n    2009 : DevOps Movement\n         : Dev-ops integration\n    2011+ : Microservices Architecture\n          : Distributed scalable systems\n    2010s : Continuous Delivery\n          : Automated release pipelines\n    2020s : AI-Assisted Coding\n          : GitOps & platform engineering",
+            "complexity": "high",
+            "tags": [
+                "software_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

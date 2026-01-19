@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "083",
+            "topic": "Signal Processing",
+            "category": "engineering",
+            "description": "Signal Processing is the mathematical analysis, manipulation, and transformation of signals (time-varying or spatial data) to extract information, remove noise, compress data, or enhance features for interpretation and decision-making. It begins with signal acquisition, capturing analog signals through sensors, transducers, or measurement devices converting physical phenomena to electrical signals. Analog-to-digital conversion samples continuous signals at appropriate rates following Nyquist theorem and quantizes amplitudes creating digital representations. Preprocessing removes artifacts, filters noise, normalizes amplitudes, and segments signals preparing data for analysis. Time-domain analysis examines signal characteristics like amplitude, frequency, phase, and temporal patterns using statistical measures. Frequency-domain analysis applies Fourier transforms decomposing signals into frequency components revealing spectral characteristics and periodic patterns. Filtering implements low-pass, high-pass, band-pass, or adaptive filters removing unwanted frequencies while preserving signal features. Feature extraction identifies discriminative characteristics, patterns, or parameters relevant for classification or recognition tasks. Signal reconstruction and synthesis generates output signals for applications like audio playback, image display, or control systems. The goal is extracting meaningful information from noisy, complex signals enabling applications across telecommunications, audio/video processing, biomedical monitoring, radar systems, and control engineering through mathematical transformations and algorithmic processing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Signal Processing</b><br>Mathematical analysis of<br>time-varying data]:::title\n    B[<b>PRIMARY GOAL</b><br>Extract Information from<br>Noisy Complex Signals]:::goal\n    C[<b>PROCESSING PIPELINE</b>]:::process\n    \n    subgraph D[Signal Acquisition]\n        D1[Capture analog signals<br>via sensors & transducers]\n    end\n    \n    subgraph E[A/D Conversion]\n        E1[Sample & quantize following<br>Nyquist theorem]\n    end\n    \n    subgraph F[Preprocessing]\n        F1[Remove artifacts, filter noise<br>& normalize]\n    end\n    \n    subgraph G[Time-Domain Analysis]\n        G1[Examine amplitude, frequency<br>& temporal patterns]\n    end\n    \n    subgraph H[Frequency-Domain Analysis]\n        H1[Apply Fourier transforms<br>revealing spectra]\n    end\n    \n    subgraph I[Filtering]\n        I1[Implement low-pass, high-pass<br>& adaptive filters]\n    end\n    \n    subgraph J[Feature Extraction]\n        J1[Identify discriminative<br>patterns & parameters]\n    end\n    \n    subgraph K[Signal Reconstruction]\n        K1[Generate output for<br>applications & systems]\n    end\n    \n    L[<b>OUTCOME</b><br>Meaningful information enabling<br>diverse applications]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|adaptive processing| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "signal_processing",
+                "engineering",
+                "fourier_transform",
+                "filters",
+                "digital_signal_processing"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

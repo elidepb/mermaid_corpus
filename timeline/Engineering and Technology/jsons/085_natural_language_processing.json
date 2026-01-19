@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "085",
+            "topic": "Natural Language Processing",
+            "category": "Engineering",
+            "description": "Natural Language Processing evolved from rule-based systems to neural approaches achieving human-level performance on many tasks. Early work in machine translation used rule-based approaches (1950s-1960s) with limited success. ELIZA chatbot (1966) demonstrated simple pattern matching for conversation. Statistical methods emerged in the 1980s-1990s using probabilistic models and corpus-based approaches. WordNet (1990s) provided lexical database for semantic relationships. The Penn Treebank (1992) enabled supervised parsing research. Statistical machine translation advanced in the 2000s using phrase-based models. Word2Vec (2013) revolutionized word representations with efficient embedding learning. Sequence-to-sequence models (2014) enabled neural machine translation. Attention mechanisms (2015) improved sequence modeling. LSTM networks became standard for sequential data. The transformer architecture (2017) introduced self-attention replacing recurrence. BERT (2018) achieved breakthrough performance through bidirectional pretraining and fine-tuning. GPT-2 (2019) demonstrated impressive text generation capabilities. GPT-3 (2020) scaled to 175 billion parameters showing few-shot learning. ChatGPT (2022) brought conversational AI to mainstream. Today's NLP integrates instruction tuning, retrieval augmentation, chain-of-thought reasoning, and multimodal understanding combining text with vision and other modalities.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Natural Language Processing Evolution\n    1950s-1960s : Rule-Based Translation\n                : Limited MT approaches\n    1966 : ELIZA Chatbot\n         : Pattern matching conversation\n    1980s-1990s : Statistical Methods\n                : Probabilistic corpus-based\n    1990s : WordNet Database\n          : Semantic relationships\n    1992 : Penn Treebank\n         : Supervised parsing corpus\n    2000s : Statistical MT\n          : Phrase-based models\n    2013 : Word2Vec Embeddings\n         : Efficient representation learning\n    2014 : Seq2Seq Models\n         : Neural machine translation\n    2015 : Attention Mechanisms\n         : Improved sequence modeling\n    2017 : Transformer Architecture\n         : Self-attention revolution\n    2018 : BERT Breakthrough\n         : Bidirectional pretraining\n    2020 : GPT-3 175B Parameters\n         : Few-shot learning capability\n    2022 : ChatGPT Mainstream\n         : Conversational AI adoption\n    2020s : Instruction Tuning & RAG\n          : Reasoning & multimodal integration",
+            "complexity": "high",
+            "tags": [
+                "natural_language_processing",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

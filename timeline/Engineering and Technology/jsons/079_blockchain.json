@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Blockchain",
+            "category": "Engineering",
+            "description": "Blockchain evolved from cryptographic research to transformative technology disrupting finance, supply chains, and governance. Early cryptographic foundations laid by David Chaum's digital cash (1983) and timestamping concepts (1991). Bitcoin whitepaper published by Satoshi Nakamoto (2008) introduced first practical blockchain implementation combining cryptography, consensus, and incentives. Bitcoin network launched (2009) enabling peer-to-peer digital currency without central authority. Ethereum proposed by Vitalik Buterin (2013) extending blockchain with Turing-complete smart contracts. Ethereum launched (2015) enabling decentralized applications and programmable agreements. Enterprise blockchain initiatives emerged with Hyperledger project (2015) for permissioned business networks. The DAO hack (2016) exposed smart contract vulnerabilities and led to controversial Ethereum fork. Initial Coin Offerings peaked (2017) raising billions for blockchain projects amid speculation. Bitcoin reached $20,000 (2017) before market correction. Enterprise adoption accelerated with supply chain and identity pilots (2018-2019). DeFi summer (2020) demonstrated blockchain's financial innovation potential. NFTs exploded in popularity (2021) for digital art and collectibles. Ethereum 2.0 transition to Proof of Stake began addressing scalability and energy concerns. Today's blockchain integrates layer-2 scaling solutions, central bank digital currencies, and regulatory frameworks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Blockchain Evolution\n    1983 : Digital Cash Concept\n         : David Chaum's cryptography\n    1991 : Timestamping Research\n         : Cryptographic foundations\n    2008 : Bitcoin Whitepaper\n         : Satoshi Nakamoto's proposal\n    2009 : Bitcoin Network Launch\n         : First blockchain implementation\n    2013 : Ethereum Proposed\n         : Vitalik Buterin's vision\n    2015 : Ethereum & Hyperledger\n         : Smart contracts & enterprise\n    2016 : The DAO Hack\n         : Smart contract vulnerabilities\n    2017 : ICO Peak & $20K Bitcoin\n         : Market speculation surge\n    2018-2019 : Enterprise Adoption\n              : Supply chain & identity pilots\n    2020 : DeFi Summer\n         : Financial innovation boom\n    2021 : NFT Explosion\n         : Digital art mainstream\n    2022+ : Ethereum 2.0 & Layer-2\n          : PoS transition & scaling\n    2020s : CBDCs & Regulation\n          : Government integration",
+            "complexity": "high",
+            "tags": [
+                "blockchain",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

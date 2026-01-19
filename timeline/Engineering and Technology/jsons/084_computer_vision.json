@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Computer Vision",
+            "category": "Engineering",
+            "description": "Computer Vision evolved from simple pattern recognition to sophisticated deep learning systems rivaling human perception. Early work in the 1960s explored edge detection and pattern recognition algorithms. The Hough transform (1972) enabled robust line and shape detection. David Marr's computational theory of vision (1982) provided theoretical framework for visual processing stages. Scale-Invariant Feature Transform SIFT (1999) revolutionized feature matching enabling robust object recognition. The PASCAL VOC challenge (2005) established benchmarks for object detection and segmentation. Convolutional neural networks gained prominence when AlexNet (2012) won ImageNet competition with dramatic improvements using GPUs and deep architectures. Region-based CNN R-CNN (2014) advanced object detection combining region proposals with CNNs. ResNet (2015) introduced skip connections enabling networks exceeding 100 layers. YOLO (2016) achieved real-time object detection with single-pass architecture. Mask R-CNN (2017) extended instance segmentation capabilities. DeepFace (2014) and FaceNet (2015) achieved human-level facial recognition. Vision transformers (2020) applied attention mechanisms challenging CNN dominance. CLIP (2021) aligned vision and language through contrastive learning. Today's computer vision integrates self-supervised learning, few-shot recognition, neural architecture search, and multimodal understanding combining vision with text and other modalities.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Computer Vision Evolution\n    1960s : Early Pattern Recognition\n          : Edge detection algorithms\n    1972 : Hough Transform\n         : Robust shape detection\n    1982 : Marr's Vision Theory\n         : Computational framework\n    1999 : SIFT Algorithm\n         : Feature matching revolution\n    2005 : PASCAL VOC Challenge\n         : Benchmarking established\n    2012 : AlexNet ImageNet Win\n         : Deep learning breakthrough\n    2014 : R-CNN Object Detection\n         : Region proposals with CNNs\n    2015 : ResNet Skip Connections\n         : 100+ layer networks\n    2016 : YOLO Real-Time\n         : Single-pass detection\n    2017 : Mask R-CNN\n         : Instance segmentation\n    2020 : Vision Transformers\n         : Attention mechanisms\n    2021 : CLIP Vision-Language\n         : Contrastive multimodal\n    2020s : Self-Supervised & Few-Shot\n          : Efficient learning paradigms",
+            "complexity": "high",
+            "tags": [
+                "computer_vision",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

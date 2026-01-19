@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "298",
+            "topic": "Landscape Ecology",
+            "category": "Environmental Sciences",
+            "description": "Landscape ecology emerged in 1930s Europe with geographer Carl Troll coining the term landscape ecology (1939) and emphasizing spatial patterns. The 1940s-50s saw early European development focusing on landscape classification and cultural landscapes. The 1960s brought island biogeography theory (MacArthur and Wilson, 1967) providing theoretical foundations for understanding species-area relationships. The 1970s witnessed landscape ecology spreading to North America with Richard Forman and Michel Godron's pioneering work on landscape structure and patch dynamics. The 1980s marked formalization as a discipline with establishment of the International Association for Landscape Ecology (IALE, 1982), publication of foundational textbooks, and development of landscape metrics. The 1990s brought GIS and remote sensing integration, FRAGSTATS software development (McGarigal, 1995), metapopulation theory application to landscapes, and conservation biology integration. The 2000s advanced with ecosystem services framework incorporation, climate change considerations, urban landscape ecology emergence, and landscape genetics development. The 2010s-2020s continue with big data and machine learning applications, landscape connectivity modeling, telecoupling (distant interactions), sustainable landscape design, nature-based solutions, and landscape-scale climate adaptation strategies becoming central to conservation and land management practices.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Landscape Ecology Evolution</b>\n    \n    section European Origins\n        1930s : Term coined\n              : Carl Troll (1939)\n              : Spatial patterns emphasis\n        1940s-50s : European development\n                  : Landscape classification\n                  : Cultural landscapes\n    \n    section Theoretical Foundations\n        1967  : Island biogeography theory\n              : MacArthur & Wilson\n        1970s : Spreads to North America\n              : Forman & Godron's work\n              : Patch dynamics\n    \n    section Discipline Formalization\n        1982  : IALE established\n        1980s : Foundational textbooks\n              : Landscape metrics developed\n    \n    section Technology Integration\n        1990s : GIS & remote sensing\n              : FRAGSTATS software (1995)\n              : Metapopulation applications\n              : Conservation biology link\n    \n    section Expansion Era\n        2000s : Ecosystem services framework\n              : Climate change focus\n              : Urban landscape ecology\n              : Landscape genetics\n    \n    section Modern Approaches\n        2010s-2020s : Big data & ML applications\n                    : Connectivity modeling\n                    : Telecoupling concepts\n                    : Sustainable design\n                    : Nature-based solutions\n                    : Climate adaptation",
+            "complexity": "high",
+            "tags": [
+                "landscape_ecology",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

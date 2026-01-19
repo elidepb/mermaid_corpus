@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Virtual Reality",
+            "category": "Engineering",
+            "description": "Virtual Reality evolved from science fiction concepts to mainstream technology through decades of innovation. Early VR concepts appeared in science fiction and flight simulators (1950s-1960s). Ivan Sutherland created the first head-mounted display system Sword of Damocles (1968) demonstrating basic VR principles. VPL Research founded by Jaron Lanier (1985) commercialized VR gloves and goggles, popularizing the term virtual reality. NASA developed VR systems for astronaut training (1980s-1990s). The Virtuality arcade machines (1991) brought VR gaming to public spaces. Nintendo's Virtual Boy (1995) failed commercially but advanced consumer awareness. The VR hype cycle crashed in the mid-1990s due to technical limitations and high costs. Oculus Rift Kickstarter (2012) reignited VR interest with affordable modern headsets. Facebook acquired Oculus (2014) for $2 billion validating VR's potential. HTC Vive (2016) introduced room-scale VR with lighthouse tracking. PlayStation VR (2016) brought VR to console gaming. Standalone headsets like Oculus Quest (2019) eliminated PC requirements. Half-Life: Alyx (2020) demonstrated AAA VR gaming potential. Today's VR integrates mixed reality, AI-driven content, social metaverse platforms, and enterprise training solutions.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Virtual Reality Evolution\n    1950s-1960s : Early VR Concepts\n                : Sci-fi & flight simulators\n    1968 : Sword of Damocles\n         : Sutherland's first HMD\n    1985 : VPL Research\n         : Lanier commercializes VR\n    1980s-1990s : NASA VR Training\n                : Astronaut simulations\n    1991 : Virtuality Arcade\n         : Public VR gaming\n    1995 : Nintendo Virtual Boy\n         : Failed consumer attempt\n    Mid-1990s : VR Hype Crash\n              : Technical limitations\n    2012 : Oculus Rift Kickstarter\n         : Modern VR revival\n    2014 : Facebook Acquires Oculus\n         : $2 billion validation\n    2016 : HTC Vive & PSVR\n         : Room-scale & console VR\n    2019 : Oculus Quest Standalone\n         : PC-free VR\n    2020 : Half-Life Alyx\n         : AAA VR gaming milestone\n    2020s : Mixed Reality & Metaverse\n          : AI-driven social platforms",
+            "complexity": "high",
+            "tags": [
+                "virtual_reality",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "088",
+            "topic": "Railway Engineering",
+            "category": "Engineering",
+            "description": "Railway Engineering evolved from primitive tramways to sophisticated high-speed networks transforming transportation and commerce. Early horse-drawn wagonways transported coal in England (1600s-1700s). Richard Trevithick's steam locomotive (1804) demonstrated mechanical traction. The Stockton and Darlington Railway (1825) operated the first public steam railway. George Stephenson's Rocket locomotive (1829) established design principles. Railway mania (1840s) saw rapid expansion in Britain and globally. Transcontinental railroads connected continents including the US First Transcontinental (1869). Air brakes invented by George Westinghouse (1869) improved safety. Electric traction emerged with Werner von Siemens' demonstration (1879). The Orient Express (1883) exemplified luxury rail travel. Diesel-electric locomotives developed in the early 1900s. Japan's Shinkansen (1964) pioneered high-speed rail at 210 km/h. France's TGV set speed records reaching 574.8 km/h (2007). Automatic train protection systems became mandatory in Europe (1990s-2000s). China built the world's largest high-speed network (2000s-2010s). Maglev trains achieved commercial operation in Shanghai (2004). Today's railway engineering integrates digital twins, predictive maintenance using AI, autonomous train operation, and sustainable electrification reducing carbon emissions.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Railway Engineering Evolution\n    1600s-1700s : Horse-Drawn Wagonways\n                : Early coal transport\n    1804 : Trevithick Steam Locomotive\n         : Mechanical traction demonstrated\n    1825 : Stockton & Darlington Railway\n         : First public steam railway\n    1829 : Stephenson's Rocket\n         : Design principles established\n    1840s : Railway Mania\n          : Rapid global expansion\n    1869 : Transcontinental & Air Brakes\n         : Continental connection & safety\n    1879 : Electric Traction\n         : Siemens demonstration\n    1883 : Orient Express\n         : Luxury rail travel\n    Early 1900s : Diesel-Electric Locomotives\n                : Alternative traction\n    1964 : Shinkansen High-Speed\n         : 210 km/h pioneering\n    2007 : TGV Speed Record\n         : 574.8 km/h achievement\n    2004 : Shanghai Maglev\n         : Commercial magnetic levitation\n    2000s-2010s : China HSR Network\n                : World's largest expansion\n    2020s : Digital Twins & AI\n          : Predictive autonomous operation",
+            "complexity": "high",
+            "tags": [
+                "railway_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

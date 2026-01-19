@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "090",
+            "topic": "Photonic Engineering",
+            "category": "Engineering",
+            "description": "Photonics Engineering evolved from basic optics to sophisticated quantum technologies transforming global communications and computing. Early optical science studied light properties through lenses and prisms (1600s-1800s). The laser invented by Theodore Maiman (1960) using ruby crystal revolutionized coherent light generation. Semiconductor lasers developed in the 1960s enabled compact efficient sources. Charles Kao proposed optical fiber communications (1966) demonstrating low-loss transmission potential. The first optical fiber systems deployed commercially (1977) initiating telecommunications revolution. Erbium-doped fiber amplifiers (1987) enabled long-distance transmission without electronic regeneration. Wavelength-division multiplexing (1990s) multiplied fiber capacity transmitting multiple channels simultaneously. Dense WDM systems achieved terabit transmission rates. Photonic crystal fibers (1996) provided unprecedented dispersion and nonlinearity control. Silicon photonics emerged (2000s) integrating optics with electronics on CMOS platforms. Optical coherence tomography advanced medical imaging (2000s). Quantum dot lasers commercialized offering temperature stability. Integrated photonic circuits miniaturized complex optical functions (2010s). Quantum photonics demonstrated quantum computing operations and secure communications. LiDAR became essential for autonomous vehicles. Today's photonics integrates neuromorphic photonic computing, on-chip frequency combs, topological photonics, and room-temperature quantum light sources.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Photonics Engineering Evolution\n    1600s-1800s : Early Optical Science\n                : Lenses & prisms studies\n    1960 : Laser Invention\n         : Maiman's ruby laser\n    1960s : Semiconductor Lasers\n          : Compact efficient sources\n    1966 : Kao Fiber Proposal\n         : Low-loss transmission potential\n    1977 : First Optical Fiber Systems\n         : Commercial deployment\n    1987 : Erbium-Doped Amplifiers\n         : Long-distance transmission\n    1990s : Wavelength-Division Multiplexing\n          : Terabit capacity multiplication\n    1996 : Photonic Crystal Fibers\n         : Dispersion control advancement\n    2000s : Silicon Photonics\n          : CMOS platform integration\n    2000s : OCT Medical Imaging\n          : Advanced diagnostics\n    2010s : Integrated Photonic Circuits\n          : Complex function miniaturization\n    2020s : Quantum & Neuromorphic\n          : Computing & on-chip combs",
+            "complexity": "high",
+            "tags": [
+                "photonic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

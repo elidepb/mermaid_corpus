@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "300",
+            "topic": "Water Resources Management",
+            "category": "Environmental Sciences",
+            "description": "Water Resources Management is the integrated planning, development, distribution, and optimization of water resources to meet current and future human and environmental needs sustainably. Its primary objective is to balance competing water demands while ensuring long-term availability, quality, and ecosystem health through efficient allocation and governance. Core domains include: water supply management (surface water and groundwater development, storage infrastructure like reservoirs and aquifers, water transfer systems, supply augmentation), water demand management (consumption reduction, efficiency improvements, water pricing, conservation programs, reuse and recycling), water quality management (pollution prevention, treatment systems, watershed protection, water quality monitoring), flood management (structural measures like levees and dams, non-structural approaches including floodplain zoning and early warning systems), and integrated governance (stakeholder participation, legal frameworks, transboundary cooperation, adaptive management, climate resilience). The management process involves resource assessment and inventory, demand forecasting, allocation planning, infrastructure development, monitoring and evaluation, and policy implementation. These elements integrate through hydrology, engineering, economics, and policy to create sustainable water supply systems, irrigation schemes, flood protection infrastructure, watershed management programs, and integrated water resource plans that ensure water security for people and ecosystems.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Water Resources Management</b><br>Integrated planning & optimization<br>of water resources]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Balance demands & ensure<br>sustainable availability]:::objective\n    C[<b>CORE DOMAINS</b>]:::domains\n    \n    subgraph D[Water Supply Management]\n        D1[Surface & groundwater<br>Storage infrastructure<br>Water transfer systems]\n    end\n    \n    subgraph E[Water Demand Management]\n        E1[Efficiency improvements<br>Conservation programs<br>Reuse & recycling]\n    end\n    \n    subgraph F[Water Quality Management]\n        F1[Pollution prevention<br>Treatment systems<br>Watershed protection]\n    end\n    \n    subgraph G[Flood Management]\n        G1[Structural measures<br>Non-structural approaches<br>Early warning systems]\n    end\n    \n    subgraph H[Integrated Governance]\n        H1[Stakeholder participation<br>Legal frameworks<br>Climate resilience]\n    end\n    \n    I[<b>MANAGEMENT PROCESS</b><br>Assessment, Planning<br>Infrastructure, Monitoring]:::process\n    \n    J[<b>CREATES</b><br>Sustainable systems ensuring<br>water security]:::outcome\n    \n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|delivers| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "water_resources_management",
+                "environmental_science",
+                "water_supply",
+                "water_quality",
+                "iwrm",
+                "governance"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

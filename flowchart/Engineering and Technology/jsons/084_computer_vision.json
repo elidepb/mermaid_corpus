@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Computer Vision",
+            "category": "computer_science",
+            "description": "Computer Vision is the field enabling machines to interpret, understand, and extract meaningful information from visual data such as images and videos, mimicking human visual perception through computational algorithms. It begins with image acquisition, capturing visual data through cameras, sensors, or digital sources with appropriate resolution and lighting. Image preprocessing enhances quality through noise reduction, contrast adjustment, color correction, and geometric transformations preparing data for analysis. Feature detection identifies key visual elements including edges, corners, blobs, and regions of interest using algorithms like SIFT, SURF, or Harris corner detection. Feature description creates mathematical representations of detected features enabling matching and recognition across different images. Object detection locates and classifies objects within images using techniques like YOLO, R-CNN, or SSD identifying bounding boxes and categories. Image segmentation partitions images into meaningful regions separating objects from backgrounds through semantic or instance segmentation. Recognition and classification assigns labels to detected objects or entire scenes using convolutional neural networks trained on large datasets. 3D reconstruction estimates depth and spatial relationships creating three-dimensional models from two-dimensional images. The goal is enabling machines to understand visual scenes for applications in autonomous vehicles, medical imaging, facial recognition, quality inspection, augmented reality, and robotics through automated visual interpretation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Computer Vision</b><br>Machines interpreting visual<br>data computationally]:::title\n    B[<b>PRIMARY GOAL</b><br>Enable Automated Visual<br>Understanding & Interpretation]:::goal\n    C[<b>CV PIPELINE</b>]:::process\n    \n    subgraph D[Image Acquisition]\n        D1[Capture visual data via<br>cameras & sensors]\n    end\n    \n    subgraph E[Image Preprocessing]\n        E1[Enhance via noise reduction<br>& contrast adjustment]\n    end\n    \n    subgraph F[Feature Detection]\n        F1[Identify edges, corners<br>& regions of interest]\n    end\n    \n    subgraph G[Feature Description]\n        G1[Create mathematical<br>representations]\n    end\n    \n    subgraph H[Object Detection]\n        H1[Locate & classify objects<br>using YOLO, R-CNN]\n    end\n    \n    subgraph I[Image Segmentation]\n        I1[Partition into regions<br>via semantic segmentation]\n    end\n    \n    subgraph J[Recognition & Classification]\n        J1[Assign labels using<br>CNNs & datasets]\n    end\n    \n    subgraph K[3D Reconstruction]\n        K1[Estimate depth & spatial<br>relationships]\n    end\n    \n    L[<b>OUTCOME</b><br>Visual understanding for<br>autonomous & medical systems]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous learning| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "computer_vision",
+                "computer_science",
+                "image_processing",
+                "object_detection",
+                "cnn"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

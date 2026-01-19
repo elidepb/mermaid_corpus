@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "298",
+            "topic": "Landscape Ecology",
+            "category": "Environmental Sciences",
+            "description": "Landscape Ecology is the interdisciplinary science that studies the spatial patterns of ecosystems, their interactions, and how landscape structure influences ecological processes across multiple scales. Its primary objective is to understand the relationships between landscape patterns and ecological processes to inform conservation, land management, and sustainability planning. Core concepts include: landscape structure (spatial configuration, patch-corridor-matrix model, landscape heterogeneity, fragmentation patterns), landscape function (ecological flows, connectivity, species movement, nutrient cycling, disturbance regimes), landscape change (land use conversion, urbanization, succession, climate impacts), scale and hierarchy (spatial and temporal scales, scaling relationships, hierarchical patch dynamics), and landscape metrics (quantifying patterns, diversity indices, connectivity measures, fragmentation analysis). The research process involves spatial data collection (remote sensing, GIS), pattern analysis, process modeling, scenario development, and management recommendations. These elements integrate through spatial ecology, conservation biology, and geographic information science to address habitat conservation, corridor design, ecosystem services protection, sustainable land use planning, and biodiversity preservation across landscapes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Landscape Ecology</b><br>Study of spatial ecosystem patterns<br>& their ecological processes]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Understand pattern-process<br>relationships for conservation]:::objective\n    C[<b>CORE CONCEPTS</b>]:::concepts\n    \n    subgraph D[Landscape Structure]\n        D1[Spatial configuration<br>Patch-corridor-matrix<br>Fragmentation patterns]\n    end\n    \n    subgraph E[Landscape Function]\n        E1[Ecological flows<br>Connectivity<br>Species movement]\n    end\n    \n    subgraph F[Landscape Change]\n        F1[Land use conversion<br>Urbanization<br>Climate impacts]\n    end\n    \n    subgraph G[Scale & Hierarchy]\n        G1[Spatial & temporal scales<br>Scaling relationships<br>Hierarchical dynamics]\n    end\n    \n    subgraph H[Landscape Metrics]\n        H1[Pattern quantification<br>Diversity indices<br>Connectivity measures]\n    end\n    \n    I[<b>RESEARCH PROCESS</b><br>Data collection, Pattern analysis<br>Modeling, Management]:::process\n    \n    J[<b>ADDRESSES</b><br>Conservation, planning &<br>biodiversity preservation]:::outcome\n    \n    A -->|aims to| B\n    B -->|through studying| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|enables| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef concepts fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "landscape_ecology",
+                "environmental_science",
+                "ecology",
+                "spatial_patterns",
+                "fragmentation",
+                "connectivity"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

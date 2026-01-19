@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Climate Change",
+            "category": "Environmental Sciences",
+            "description": "Climate change awareness emerged in the 1820s-1850s with Joseph Fourier describing the greenhouse effect (1824) and John Tyndall identifying heat-absorbing gases (1859). 1896 brought Svante Arrhenius calculating that CO2 doubling could warm Earth. The 1950s saw Charles Keeling begin atmospheric CO2 measurements at Mauna Loa (1958), documenting steady increases. The 1960s-70s witnessed growing scientific consensus on human-caused warming and early climate modeling. 1988 marked the Intergovernmental Panel on Climate Change (IPCC) establishment and James Hansen's congressional testimony on global warming. The 1992 Rio Earth Summit created the UN Framework Convention on Climate Change (UNFCCC). 1997 introduced the Kyoto Protocol, the first binding emission reduction treaty. The 2000s brought the IPCC Fourth Assessment Report (2007) strengthening scientific consensus, followed by increasing extreme weather events and public awareness. 2015 achieved the landmark Paris Agreement, committing nations to limit warming to well below 2°C, preferably 1.5°C. The 2018 IPCC Special Report highlighted urgent need for 1.5°C pathway. The 2020s continue with accelerating impacts (record temperatures, Arctic ice loss, extreme events), net-zero commitments by major economies, renewable energy cost declines, youth climate movements, COP26 Glasgow Climate Pact (2021), and growing focus on climate justice, loss and damage, and urgent emission reductions.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Climate Change Awareness & Action Evolution</b>\n    \n    section Scientific Foundations\n        1824  : Greenhouse effect described\n              : Joseph Fourier\n        1859  : Heat-absorbing gases identified\n              : John Tyndall\n        1896  : CO2 warming calculated\n              : Svante Arrhenius\n        1958  : Keeling Curve begins\n              : CO2 measurements\n    \n    section Growing Awareness\n        1960s-70s : Scientific consensus builds\n                  : Early climate modeling\n        1988  : IPCC established\n              : Hansen's testimony\n        1992  : Rio Earth Summit\n              : UNFCCC created\n    \n    section International Action\n        1997  : Kyoto Protocol\n              : First binding treaty\n        2000s : IPCC 4th Assessment (2007)\n              : Strengthened consensus\n              : Extreme events increase\n    \n    section Paris Era\n        2015  : Paris Agreement\n              : Below 2°C, aim 1.5°C\n        2018  : IPCC 1.5°C Special Report\n              : Urgent action needed\n    \n    section Acceleration Phase\n        2020s : Accelerating impacts\n              : Record temperatures\n              : Net-zero commitments\n              : Renewable cost declines\n              : Youth movements\n              : COP26 Glasgow (2021)\n              : Climate justice focus\n              : Loss & damage",
+            "complexity": "high",
+            "tags": [
+                "climate_change",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

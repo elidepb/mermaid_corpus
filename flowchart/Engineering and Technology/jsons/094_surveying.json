@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "094",
+            "topic": "Surveying",
+            "category": "engineering",
+            "description": "Surveying is the science and art of determining the three-dimensional positions of points, distances, angles, and elevations on the Earth's surface to establish boundaries, create maps, and guide construction projects through precise measurement and calculation. It begins with project planning, defining objectives, selecting appropriate methods, gathering existing data, and obtaining necessary permissions based on accuracy requirements and site conditions. Control network establishment creates reference points with known coordinates through triangulation, GPS observations, or leveling providing the framework for all subsequent measurements. Field measurements collect data using total stations measuring angles and distances, GPS receivers determining positions via satellites, levels determining elevations, and laser scanners capturing detailed 3D point clouds. Data processing applies corrections for atmospheric conditions, Earth curvature, and instrument errors, computes coordinates, and adjusts observations to minimize discrepancies ensuring consistency. Boundary determination establishes property lines through legal research, monument recovery, and mathematical calculations resolving ownership questions. Topographic mapping represents terrain features including contours, structures, vegetation, and utilities creating detailed site representations. Construction staking transfers design positions to the field marking locations for excavation, foundations, and structures guiding builders. Quality assurance validates measurements through redundancy, closure checks, and statistical analysis ensuring accuracy meets specifications. The goal is providing accurate spatial information supporting land development, infrastructure construction, resource management, and legal property definition through systematic measurement and rigorous mathematical analysis.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Surveying</b><br>Determining positions, distances<br>& elevations precisely]:::title\n    B[<b>PRIMARY GOAL</b><br>Provide Accurate Spatial Information<br>for Development]:::goal\n    C[<b>SURVEYING PROCESS</b>]:::process\n    \n    subgraph D[Project Planning]\n        D1[Define objectives, methods<br>& gather existing data]\n    end\n    \n    subgraph E[Control Network]\n        E1[Create reference points via<br>triangulation & GPS]\n    end\n    \n    subgraph F[Field Measurements]\n        F1[Collect data using total stations,<br>GPS & laser scanners]\n    end\n    \n    subgraph G[Data Processing]\n        G1[Apply corrections, compute<br>coordinates & adjust]\n    end\n    \n    subgraph H[Boundary Determination]\n        H1[Establish property lines via<br>legal research & calculations]\n    end\n    \n    subgraph I[Topographic Mapping]\n        I1[Represent terrain features,<br>contours & structures]\n    end\n    \n    subgraph J[Construction Staking]\n        J1[Transfer design positions<br>marking locations]\n    end\n    \n    subgraph K[Quality Assurance]\n        K1[Validate via redundancy<br>& statistical analysis]\n    end\n    \n    L[<b>OUTCOME</b><br>Accurate spatial data for<br>construction & boundaries]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous verification| K\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "surveying",
+                "engineering",
+                "geodesy",
+                "cartography",
+                "gis"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

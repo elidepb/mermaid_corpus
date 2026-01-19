@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Theory of Computation",
+            "category": "computer_science",
+            "description": "Theory of Computation is the mathematical study of fundamental capabilities and limitations of computational processes, algorithms, and machines, establishing what problems can be solved computationally and with what resources. It begins with problem formulation, precisely defining computational problems specifying inputs, outputs, and correctness criteria in mathematical terms. Computational model selection chooses appropriate abstraction including Turing machines, finite automata, pushdown automata, or lambda calculus representing computational processes. Complexity analysis classifies problems by resource requirements including time complexity measured in operations and space complexity measured in memory usage. Algorithm design develops step-by-step procedures solving problems efficiently using paradigms like divide-and-conquer, dynamic programming, or greedy approaches. Decidability determination establishes whether problems are solvable algorithmically distinguishing decidable from undecidable problems. Complexity class identification categorizes problems into P, NP, NP-complete, NP-hard, PSPACE, or other classes based on resource bounds. Reduction techniques prove relationships between problems showing one problem at least as hard as another through transformations. Formal verification proves algorithm correctness using mathematical logic, invariants, and induction establishing properties rigorously. The goal is understanding fundamental limits of computation, classifying problem difficulty, developing efficient algorithms, and establishing theoretical foundations for computer science through mathematical analysis of computability and complexity.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Theory of Computation</b><br>Mathematical study of<br>computational limits]:::title\n    B[<b>PRIMARY GOAL</b><br>Understand Fundamental Limits<br>& Problem Difficulty]:::goal\n    C[<b>THEORETICAL ANALYSIS</b>]:::process\n    \n    subgraph D[Problem Formulation]\n        D1[Define inputs, outputs<br>& correctness mathematically]\n    end\n    \n    subgraph E[Model Selection]\n        E1[Choose Turing machines,<br>automata or lambda calculus]\n    end\n    \n    subgraph F[Complexity Analysis]\n        F1[Classify by time & space<br>resource requirements]\n    end\n    \n    subgraph G[Algorithm Design]\n        G1[Develop procedures using<br>paradigms & techniques]\n    end\n    \n    subgraph H[Decidability Determination]\n        H1[Establish algorithmic<br>solvability]\n    end\n    \n    subgraph I[Complexity Classification]\n        I1[Categorize into P, NP,<br>NP-complete classes]\n    end\n    \n    subgraph J[Reduction Techniques]\n        J1[Prove problem relationships<br>via transformations]\n    end\n    \n    subgraph K[Formal Verification]\n        K1[Prove correctness using<br>logic & induction]\n    end\n    \n    L[<b>OUTCOME</b><br>Theoretical foundations for<br>efficient computing]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|refine understanding| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "theory_of_computation",
+                "computer_science",
+                "automata_theory",
+                "computability",
+                "complexity_theory"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

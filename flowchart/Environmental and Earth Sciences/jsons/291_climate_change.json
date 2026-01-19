@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Climate Change",
+            "category": "Environmental Sciences",
+            "description": "Climate Change refers to long-term shifts in global or regional climate patterns, primarily driven by increased atmospheric concentrations of greenhouse gases from human activities. Its primary concern is understanding the causes, impacts, and mitigation strategies to address rising global temperatures and associated environmental changes. Core aspects include: greenhouse gas emissions (carbon dioxide from fossil fuels, methane from agriculture and landfills, nitrous oxide, fluorinated gases), climate drivers (greenhouse effect intensification, radiative forcing, feedback mechanisms like ice-albedo and water vapor), observed impacts (rising temperatures, sea level rise, extreme weather events, ocean acidification, ecosystem disruption), mitigation strategies (renewable energy transition, energy efficiency, carbon capture and storage, reforestation, sustainable practices), and adaptation measures (climate-resilient infrastructure, agricultural adaptation, coastal protection, water resource management). The response process involves scientific assessment and monitoring, emission reduction implementation, adaptation planning, international cooperation, and policy enforcement. These elements integrate through atmospheric science, ecology, and policy to address the challenge through emission reductions, renewable energy deployment, carbon sequestration, climate adaptation projects, and global agreements that aim to limit warming and build resilience.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Climate Change</b><br>Long-term shifts in climate patterns<br>driven by human activities]:::title\n    B[<b>PRIMARY CONCERN</b><br>Understand causes & impacts<br>to develop response strategies]:::concern\n    C[<b>CORE ASPECTS</b>]:::aspects\n    \n    subgraph D[Greenhouse Gas Emissions]\n        D1[CO2 from fossil fuels<br>Methane from agriculture<br>N2O & fluorinated gases]\n    end\n    \n    subgraph E[Climate Drivers]\n        E1[Greenhouse effect<br>Radiative forcing<br>Feedback mechanisms]\n    end\n    \n    subgraph F[Observed Impacts]\n        F1[Rising temperatures<br>Sea level rise<br>Extreme weather events]\n    end\n    \n    subgraph G[Mitigation Strategies]\n        G1[Renewable energy<br>Carbon capture<br>Reforestation]\n    end\n    \n    subgraph H[Adaptation Measures]\n        H1[Resilient infrastructure<br>Agricultural adaptation<br>Coastal protection]\n    end\n    \n    I[<b>RESPONSE PROCESS</b><br>Assessment, Emission reduction<br>Adaptation, Cooperation]:::process\n    \n    J[<b>ADDRESSES</b><br>Climate challenge through mitigation,<br>adaptation & global action]:::outcome\n    \n    A -->|raises| B\n    B -->|through understanding| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|enables| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "climate_change",
+                "environmental_science",
+                "global_warming",
+                "greenhouse_gas",
+                "mitigation",
+                "adaptation",
+                "sustainability"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Computer Vision",
+            "category": "Computer Science",
+            "description": "Computer Vision encompasses algorithms, architectures, tasks, and applications enabling machines to perceive and understand visual information. Core algorithms include edge detection using Canny or Sobel operators identifying boundaries, feature matching comparing image regions using SIFT or ORB descriptors, optical flow tracking motion between frames, and structure from motion reconstructing 3D scenes. Neural network architectures employ convolutional neural networks as fundamental building blocks, ResNet with skip connections enabling deeper networks, VGG providing systematic depth exploration, Inception using multi-scale processing, YOLO for real-time object detection, and vision transformers applying attention mechanisms. Computer vision tasks span image classification categorizing entire images, object detection locating multiple objects with bounding boxes, semantic segmentation labeling every pixel by class, instance segmentation distinguishing individual objects, pose estimation detecting human body keypoints, facial recognition identifying individuals, and optical character recognition extracting text. Applications include autonomous vehicles perceiving roads and obstacles, medical imaging diagnosing diseases from X-rays and MRIs, surveillance systems monitoring security, robotics enabling manipulation and navigation, augmented reality overlaying digital content, quality inspection detecting manufacturing defects, and agricultural monitoring assessing crop health. Challenges address occlusion handling partially visible objects, illumination variations managing lighting changes, viewpoint invariance recognizing objects from different angles, and real-time processing achieving low latency.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Computer<br>Vision</b>))\n    <b>Core Algorithms</b>\n      Edge detection Canny\n      Feature matching SIFT\n      Optical flow\n      Structure from motion\n      Stereo vision\n      RANSAC outlier removal\n    <b>Neural Architectures</b>\n      Convolutional networks\n      ResNet skip connections\n      VGG systematic depth\n      Inception multi-scale\n      YOLO real-time\n      Vision transformers\n    <b>CV Tasks</b>\n      Image classification\n      Object detection\n      Semantic segmentation\n      Instance segmentation\n      Pose estimation\n      Facial recognition\n      OCR text extraction\n    <b>Applications</b>\n      Autonomous vehicles\n      Medical imaging\n      Surveillance systems\n      Robotics vision\n      Augmented reality\n      Quality inspection\n      Agricultural monitoring\n    <b>Image Processing</b>\n      Filtering operations\n      Morphological transforms\n      Histogram equalization\n      Color space conversion\n      Image enhancement\n    <b>3D Vision</b>\n      Depth estimation\n      Point cloud processing\n      3D reconstruction\n      SLAM navigation\n      Photogrammetry\n    <b>Video Analysis</b>\n      Action recognition\n      Object tracking\n      Video segmentation\n      Motion analysis\n      Event detection\n    <b>Challenges</b>\n      Occlusion handling\n      Illumination variance\n      Viewpoint invariance\n      Real-time processing\n      Dataset bias",
+            "complexity": "high",
+            "tags": [
+                "computer_vision",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "086",
+            "topic": "Computer Simulation",
+            "category": "Engineering",
+            "description": "Computer Simulation evolved from manual calculations to sophisticated computational models transforming scientific discovery and engineering design. Early analog computers simulated physical systems using electrical circuits (1930s-1940s). The Manhattan Project utilized computational simulation for nuclear weapon design (1940s). Monte Carlo methods developed by Stanislaw Ulam and John von Neumann (1940s) enabled stochastic simulation. ENIAC performed early ballistic trajectory simulations (1946). Weather forecasting simulations began with numerical weather prediction (1950s). System dynamics methodology emerged from Jay Forrester's work at MIT (1950s-1960s). FORTRAN programming language (1957) facilitated scientific computing. Discrete-event simulation formalized in the 1960s for operations research. Finite element methods advanced structural analysis (1960s-1970s). Flight simulators became sophisticated training tools (1970s). Computational fluid dynamics matured enabling aerospace design (1980s). Agent-based modeling gained prominence studying complex adaptive systems (1990s). Molecular dynamics simulations enabled drug discovery and materials science. Climate models grew increasingly sophisticated predicting global change (2000s). GPU computing accelerated large-scale simulations (2010s). Digital twins emerged combining real-time data with simulation models. Today's simulation integrates machine learning surrogates, cloud computing for massive scale, quantum simulation explorations, and virtual reality visualization.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Computer Simulation Evolution\n    1930s-1940s : Analog Computers\n                : Electrical circuit simulation\n    1940s : Manhattan Project & Monte Carlo\n          : Nuclear design & stochastic methods\n    1946 : ENIAC Simulations\n         : Ballistic trajectories\n    1950s : Weather Forecasting\n          : Numerical prediction begins\n    1950s-1960s : System Dynamics\n                : Forrester's methodology\n    1957 : FORTRAN Language\n         : Scientific computing enabled\n    1960s : Discrete-Event Formalized\n          : Operations research applications\n    1960s-1970s : Finite Element Methods\n                : Structural analysis advancement\n    1980s : Computational Fluid Dynamics\n          : Aerospace design maturation\n    1990s : Agent-Based Modeling\n          : Complex adaptive systems\n    2000s : Climate Models\n          : Global change prediction\n    2010s : GPU Acceleration\n          : Large-scale simulation speedup\n    2020s : Digital Twins & ML\n          : Real-time integration & surrogates",
+            "complexity": "high",
+            "tags": [
+                "computer_simulation",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "083",
+            "topic": "Signal Processing",
+            "category": "Engineering",
+            "description": "Signal Processing encompasses transforms, filters, applications, and techniques extracting information from various signal types. Signal types include continuous-time signals varying over time, discrete-time signals sampled at intervals, analog signals with continuous amplitudes, digital signals with quantized values, deterministic signals with predictable behavior, and stochastic signals with random components. Transforms provide Fourier transform decomposing into frequency components, discrete Fourier transform for sampled data, fast Fourier transform enabling efficient computation, wavelet transform for time-frequency analysis, Laplace transform analyzing system behavior, and z-transform for discrete systems. Filter types employ finite impulse response filters with linear phase, infinite impulse response filters with recursive structures, adaptive filters adjusting to signal characteristics, matched filters optimizing signal detection, and Wiener filters minimizing mean square error. Applications span telecommunications with modulation and channel equalization, audio processing including compression and enhancement, image processing for filtering and compression, biomedical engineering analyzing ECG and EEG signals, radar systems detecting and tracking targets, speech recognition converting audio to text, and control systems implementing feedback loops. Digital signal processors provide specialized hardware for real-time processing, while software tools include MATLAB for algorithm development, Python libraries like SciPy, and DSP frameworks. Advanced techniques employ adaptive signal processing, multi-rate processing, compressed sensing, blind source separation, and machine learning integration.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Signal<br>Processing</b>))\n    <b>Signal Types</b>\n      Continuous-time\n      Discrete-time\n      Analog signals\n      Digital signals\n      Deterministic\n      Stochastic\n    <b>Transforms</b>\n      Fourier transform\n      Discrete Fourier transform\n      Fast Fourier transform\n      Wavelet transform\n      Laplace transform\n      Z-transform\n    <b>Filter Types</b>\n      FIR filters\n      IIR filters\n      Adaptive filters\n      Matched filters\n      Wiener filters\n      Kalman filters\n    <b>Applications</b>\n      Telecommunications\n      Audio processing\n      Image processing\n      Biomedical signals\n      Radar systems\n      Speech recognition\n      Control systems\n    <b>Analysis Methods</b>\n      Time-domain analysis\n      Frequency-domain\n      Time-frequency analysis\n      Statistical analysis\n      Spectral estimation\n    <b>Processing Hardware</b>\n      Digital signal processors\n      FPGAs\n      ASICs\n      GPUs for parallel\n      Embedded systems\n    <b>Software Tools</b>\n      MATLAB\n      Python SciPy\n      GNU Radio\n      LabVIEW\n      DSP libraries\n    <b>Advanced Techniques</b>\n      Adaptive processing\n      Multi-rate processing\n      Compressed sensing\n      Blind source separation\n      Machine learning integration",
+            "complexity": "high",
+            "tags": [
+                "signal_processing",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

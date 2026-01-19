@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "294",
+            "topic": "Renewable Energy",
+            "category": "Environmental Sciences",
+            "description": "Renewable Energies evolved from niche applications to mainstream power sources transforming global energy systems and climate strategies. Windmills and waterwheels provided mechanical power for centuries (ancient to 1800s). The first hydroelectric power plant opened at Niagara Falls (1881). Wind turbines generated electricity in Denmark (1890s). Geothermal power plants began in Italy (1904). Solar photovoltaic effect discovered by Becquerel (1839) remained laboratory curiosity until Bell Labs created practical silicon solar cells (1954). The oil crises (1970s) spurred renewable energy research and early wind farms. Modern wind turbines emerged with improved aerodynamics and materials (1980s). Germany's feed-in tariff (1990) pioneered renewable energy policy support. Grid-connected solar systems proliferated as costs declined. Denmark achieved high wind penetration demonstrating grid integration (2000s). China became manufacturing powerhouse driving cost reductions (2000s-2010s). Offshore wind farms expanded in Europe. Solar and wind became cheapest electricity sources in many markets. Battery storage costs plummeted enabling variable renewable integration. The Paris Agreement (2015) accelerated deployment commitments. Floating offshore wind, green hydrogen, and long-duration storage technologies advanced. Today's renewable energies achieve record installations, corporate power purchase agreements, and integrated with electric vehicles, while addressing intermittency through smart grids, sector coupling, and diverse renewable portfolios supporting net-zero targets.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Renewable Energies Evolution\n    Ancient-1800s : Windmills & Waterwheels\n                  : Mechanical power provision\n    1839 : Photovoltaic Effect\n         : Becquerel's discovery\n    1881 : Niagara Hydroelectric\n         : First power plant\n    1890s-1904 : Wind & Geothermal\n               : Denmark & Italy pioneers\n    1954 : Bell Labs Solar Cells\n         : Practical silicon PV\n    1970s : Oil Crises\n          : Renewable research spurred\n    1980s : Modern Wind Turbines\n          : Improved aerodynamics\n    1990 : Germany Feed-in Tariff\n         : Policy support pioneered\n    2000s : China Manufacturing & Denmark Wind\n          : Cost reduction & grid integration\n    2010s : Cost Competitiveness\n          : Solar & wind cheapest sources\n    2015 : Paris Agreement\n         : Accelerated deployment\n    2020s : Record Installations & Storage\n          : Net-zero targets & smart grids",
+            "complexity": "high",
+            "tags": [
+                "renewable_energy",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

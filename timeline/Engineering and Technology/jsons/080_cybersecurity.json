@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Cybersecurity",
+            "category": "Engineering",
+            "description": "Cybersecurity evolved from basic password protection to sophisticated defense against nation-state attacks and cybercrime ecosystems. Early computer security focused on physical access and passwords (1960s-1970s). The first computer virus, Creeper (1971), demonstrated self-replicating threats. Antivirus software emerged in the 1980s combating early malware. The Morris Worm (1988) infected 10% of internet computers, highlighting network vulnerabilities. Firewalls became essential network defense in the 1990s. The ILOVEYOU virus (2000) caused billions in damages through email propagation. Code Red and Nimda worms (2001) exploited web vulnerabilities at scale. Payment card breaches accelerated leading to PCI DSS standards (2004). Stuxnet worm (2010) demonstrated sophisticated state-sponsored cyber weapons targeting industrial systems. Anonymous and hacktivist groups gained prominence (2010-2012). Target data breach (2013) exposed 40 million credit cards. WannaCry and NotPetya ransomware (2017) caused global disruptions costing billions. GDPR implementation (2018) strengthened data privacy requirements. SolarWinds supply chain attack (2020) compromised government and enterprise networks. Today's cybersecurity addresses AI-powered attacks, quantum computing threats, ransomware-as-a-service, and securing cloud-native architectures while managing remote workforce risks.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Cybersecurity Evolution\n    1960s-1970s : Basic Password Security\n                : Physical access control\n    1971 : Creeper Virus\n         : First self-replicating code\n    1980s : Antivirus Software\n          : Early malware defense\n    1988 : Morris Worm\n         : 10% internet infection\n    1990s : Firewall Deployment\n          : Network protection standard\n    2000 : ILOVEYOU Virus\n         : Email-based global damage\n    2001 : Code Red & Nimda\n         : Web vulnerability exploitation\n    2004 : PCI DSS Standards\n         : Payment card security\n    2010 : Stuxnet Cyber Weapon\n         : State-sponsored industrial attack\n    2013 : Target Breach\n         : 40M credit cards exposed\n    2017 : WannaCry & NotPetya\n         : Global ransomware epidemics\n    2018 : GDPR Implementation\n         : Data privacy enforcement\n    2020 : SolarWinds Attack\n         : Supply chain compromise\n    2020s : AI Threats & Quantum\n          : Advanced attack vectors",
+            "complexity": "high",
+            "tags": [
+                "cybersecurity",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

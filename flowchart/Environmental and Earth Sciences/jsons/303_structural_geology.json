@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "303",
+            "topic": "Structural Geology",
+            "category": "Earth Sciences",
+            "description": "Structural Geology is the branch of geology that studies the three-dimensional distribution of rock units and their deformational history, focusing on how rocks respond to tectonic forces. Its primary objective is to understand the geometry, kinematics (movement), and dynamics (forces) of rock deformation to reconstruct geological history and locate natural resources. Core domains include: brittle deformation (faults, fractures, joints, earthquakes, brittle-ductile transition), ductile deformation (folds, foliation, lineation, shear zones, metamorphic fabrics), structural elements (bedding planes, unconformities, intrusions, veins, strike and dip measurements), tectonic settings (convergent boundaries with mountain building, divergent boundaries with rifting, transform boundaries, intraplate deformation), and stress and strain analysis (stress fields, strain measurements, rheology, deformation mechanisms). The research process involves field observations and mapping, structural measurements (orientation data collection), kinematic analysis (movement direction determination), stress-strain analysis, and tectonic interpretation. These elements integrate through mechanics, geophysics, and field geology to enable geological mapping, earthquake hazard assessment, petroleum and mineral exploration, engineering geology applications, and tectonic history reconstruction that reveals Earth's dynamic processes and guides resource exploration and hazard mitigation.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Structural Geology</b><br>Study of rock deformation<br>& tectonic forces]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Understand geometry, kinematics<br>& dynamics of deformation]:::objective\n    C[<b>CORE DOMAINS</b>]:::domains\n    \n    subgraph D[Brittle Deformation]\n        D1[Faults & fractures<br>Joints<br>Earthquakes]\n    end\n    \n    subgraph E[Ductile Deformation]\n        E1[Folds & foliation<br>Shear zones<br>Metamorphic fabrics]\n    end\n    \n    subgraph F[Structural Elements]\n        F1[Bedding planes<br>Unconformities<br>Strike & dip]\n    end\n    \n    subgraph G[Tectonic Settings]\n        G1[Convergent boundaries<br>Divergent boundaries<br>Transform boundaries]\n    end\n    \n    subgraph H[Stress & Strain Analysis]\n        H1[Stress fields<br>Strain measurements<br>Deformation mechanisms]\n    end\n    \n    I[<b>RESEARCH PROCESS</b><br>Field mapping, Measurements<br>Analysis, Interpretation]:::process\n    \n    J[<b>ENABLES</b><br>Geological mapping, hazard assessment<br>& resource exploration]:::outcome\n    \n    A -->|aims to| B\n    B -->|through studying| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|delivers| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "structural_geology",
+                "earth_sciences",
+                "geology",
+                "folds",
+                "faults",
+                "stress",
+                "strain",
+                "tectonics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

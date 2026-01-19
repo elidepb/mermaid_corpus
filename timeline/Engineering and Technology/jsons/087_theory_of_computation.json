@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Theory of Computation",
+            "category": "Engineering",
+            "description": "Theory of Computation evolved from mathematical logic to comprehensive framework for understanding computational limits and capabilities. David Hilbert's Entscheidungsproblem (1928) posed the decision problem asking for algorithm determining mathematical statement truth. Alonzo Church developed lambda calculus (1936) as formal system for computation. Alan Turing introduced Turing machines (1936) providing universal computation model and proving halting problem undecidable. Church-Turing thesis (1936) equated intuitive and formal notions of computability. John von Neumann architecture (1945) influenced practical computer design. Chomsky hierarchy (1956) classified formal languages by generative power. Cook's theorem (1971) identified first NP-complete problem proving satisfiability hardness. Karp's 21 NP-complete problems (1972) demonstrated widespread computational difficulty. The P versus NP problem formalized (1970s) as fundamental question whether P=NP. Randomized algorithms gained prominence with primality testing (1970s-1980s). Interactive proof systems emerged extending verification power (1980s). Quantum computing theory developed with Shor's algorithm (1994) factoring efficiently and Grover's search (1996). Approximation algorithms formalized providing performance guarantees (1990s). Parameterized complexity emerged analyzing problems by multiple parameters (2000s). Today's theory explores quantum complexity classes, fine-grained complexity, communication complexity, and connections between complexity and cryptography.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Theory of Computation Evolution\n    1928 : Hilbert's Entscheidungsproblem\n         : Decision problem posed\n    1936 : Church & Turing\n         : Lambda calculus & Turing machines\n    1936 : Church-Turing Thesis\n         : Computation equivalence\n    1945 : Von Neumann Architecture\n         : Practical computer design\n    1956 : Chomsky Hierarchy\n         : Formal language classification\n    1971 : Cook's Theorem\n         : First NP-complete problem\n    1972 : Karp's 21 Problems\n         : NP-completeness widespread\n    1970s : P vs NP Problem\n          : Fundamental question formalized\n    1980s : Interactive Proof Systems\n          : Extended verification power\n    1994 : Shor's Algorithm\n         : Quantum factoring efficiency\n    1996 : Grover's Search\n         : Quantum search speedup\n    2000s : Parameterized Complexity\n          : Multi-parameter analysis\n    2020s : Quantum & Fine-Grained\n          : Advanced complexity exploration",
+            "complexity": "high",
+            "tags": [
+                "theory_of_computation",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

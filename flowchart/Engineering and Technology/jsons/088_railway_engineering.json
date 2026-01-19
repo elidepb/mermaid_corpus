@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "088",
+            "topic": "Railway Engineering",
+            "category": "engineering",
+            "description": "Railway Engineering is the specialized discipline designing, constructing, operating, and maintaining railway systems including tracks, rolling stock, signaling, and infrastructure to provide safe, efficient, and reliable rail transportation. It begins with route planning, determining optimal alignments considering topography, land use, environmental impact, passenger demand, and freight requirements through feasibility studies. Track design establishes geometric parameters including horizontal curves, vertical grades, superelevation, and clearances ensuring safe operation at design speeds. Infrastructure engineering designs foundations, earthworks, bridges, tunnels, drainage systems, and stations providing stable support and passenger facilities. Rolling stock selection specifies locomotives, passenger cars, or freight wagons matching operational requirements for capacity, speed, and power. Signaling and control systems implement train detection, interlocking, automatic train protection, and centralized traffic control ensuring safe train separation. Electrification systems design overhead catenary or third-rail power supply providing traction power for electric trains. Construction management coordinates track laying, structure building, systems installation, and testing following specifications and schedules. Operations and maintenance establish service schedules, perform preventive maintenance, conduct inspections, and implement repairs ensuring reliability and safety. The goal is creating integrated railway systems moving passengers and freight safely, efficiently, and sustainably through coordinated engineering of civil, mechanical, electrical, and control systems.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Railway Engineering</b><br>Designing & operating railway<br>transportation systems]:::title\n    B[<b>PRIMARY GOAL</b><br>Safe Efficient Reliable<br>Rail Transportation]:::goal\n    C[<b>ENGINEERING LIFECYCLE</b>]:::process\n    \n    subgraph D[Route Planning]\n        D1[Determine alignment considering<br>topography & demand]\n    end\n    \n    subgraph E[Track Design]\n        E1[Establish curves, grades<br>& superelevation]\n    end\n    \n    subgraph F[Infrastructure Engineering]\n        F1[Design foundations, bridges,<br>tunnels & stations]\n    end\n    \n    subgraph G[Rolling Stock Selection]\n        G1[Specify locomotives, cars<br>& freight wagons]\n    end\n    \n    subgraph H[Signaling & Control]\n        H1[Implement detection, interlocking<br>& train protection]\n    end\n    \n    subgraph I[Electrification Systems]\n        I1[Design catenary or third-rail<br>power supply]\n    end\n    \n    subgraph J[Construction Management]\n        J1[Coordinate laying, building<br>& systems installation]\n    end\n    \n    subgraph K[Operations & Maintenance]\n        K1[Establish schedules, perform<br>inspections & repairs]\n    end\n    \n    L[<b>OUTCOME</b><br>Integrated systems moving<br>passengers & freight safely]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous improvement| K\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "railway_engineering",
+                "engineering",
+                "civil_engineering",
+                "transportation",
+                "rail_transport"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

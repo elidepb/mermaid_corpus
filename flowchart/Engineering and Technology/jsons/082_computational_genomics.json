@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "082",
+            "topic": "Computational Genomics",
+            "category": "bioinformatics",
+            "description": "Computational Genomics is the application of computational methods, algorithms, and statistical techniques to analyze, interpret, and understand genomic data revealing genetic variations, evolutionary relationships, and biological functions. It begins with data acquisition, obtaining DNA/RNA sequences through next-generation sequencing platforms generating massive datasets. Quality control filters low-quality reads, removes adapters, trims sequences, and assesses data integrity using quality metrics. Sequence alignment maps reads to reference genomes or assembles de novo genomes using algorithms like BWA or SPAdes identifying genomic positions. Variant calling detects genetic variations including SNPs, insertions, deletions, and structural variants comparing sequences to references. Annotation identifies genes, regulatory elements, functional domains, and predicts biological consequences using genomic databases. Comparative genomics analyzes evolutionary relationships, conserved regions, and species differences through phylogenetic analysis. Functional analysis integrates expression data, pathway analysis, and regulatory networks understanding gene functions and interactions. Statistical validation applies rigorous methods correcting for multiple testing and validating findings through replication. The goal is extracting biological insights from genomic data enabling personalized medicine, disease research, evolutionary studies, and biotechnology applications through computational approaches bridging biology and computer science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Computational Genomics</b><br>Analyzing genomic data via<br>computational methods]:::title\n    B[<b>PRIMARY GOAL</b><br>Extract Biological Insights<br>for Precision Medicine]:::goal\n    C[<b>GENOMICS WORKFLOW</b>]:::process\n    \n    subgraph D[Data Acquisition]\n        D1[Obtain DNA/RNA sequences<br>via NGS platforms]\n    end\n    \n    subgraph E[Quality Control]\n        E1[Filter reads, remove adapters<br>& assess integrity]\n    end\n    \n    subgraph F[Sequence Alignment]\n        F1[Map to reference or<br>assemble de novo]\n    end\n    \n    subgraph G[Variant Calling]\n        G1[Detect SNPs, indels<br>& structural variants]\n    end\n    \n    subgraph H[Annotation]\n        H1[Identify genes, regulatory<br>elements & functions]\n    end\n    \n    subgraph I[Comparative Genomics]\n        I1[Analyze evolutionary relationships<br>& conservation]\n    end\n    \n    subgraph J[Functional Analysis]\n        J1[Integrate expression, pathways<br>& regulatory networks]\n    end\n    \n    subgraph K[Statistical Validation]\n        K1[Apply rigorous methods<br>& validate findings]\n    end\n    \n    L[<b>OUTCOME</b><br>Biological insights enabling<br>precision applications]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|iterative refinement| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "computational_genomics",
+                "bioinformatics",
+                "genomics",
+                "dna_sequencing",
+                "genome_analysis"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

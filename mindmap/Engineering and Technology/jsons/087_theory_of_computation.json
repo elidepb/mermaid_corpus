@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Theory of Computation",
+            "category": "Computer Science",
+            "description": "Theory of Computation encompasses computational models, complexity classes, fundamental theorems, and algorithmic paradigms establishing computer science foundations. Computational models include Turing machines as universal computation model, finite automata recognizing regular languages, pushdown automata accepting context-free languages, lambda calculus as functional computation basis, cellular automata with local rules producing complex behavior, and quantum computing leveraging superposition. Complexity classes feature P containing polynomial-time solvable problems, NP encompassing nondeterministic polynomial-time problems, NP-complete as hardest NP problems, NP-hard including problems at least as hard as NP-complete, PSPACE for polynomial space problems, and EXPTIME for exponential time problems. Decidability concepts distinguish decidable problems solvable by algorithms, undecidable problems with no algorithmic solution including the halting problem, semi-decidable problems recognizable but not decidable, and Church-Turing thesis equating intuitive and formal computation. Algorithm paradigms employ divide-and-conquer recursively decomposing problems, dynamic programming solving overlapping subproblems, greedy algorithms making locally optimal choices, backtracking exploring solution spaces, and approximation algorithms providing near-optimal solutions. Formal languages organize into Chomsky hierarchy with regular, context-free, context-sensitive, and recursively enumerable languages. Automata theory studies deterministic and nondeterministic finite automata, pushdown automata, and Turing machines. Computational complexity analyzes worst-case, average-case, and amortized complexity using asymptotic notation.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Theory of<br>Computation</b>))\n    <b>Computational Models</b>\n      Turing machines\n      Finite automata\n      Pushdown automata\n      Lambda calculus\n      Cellular automata\n      Quantum computing\n    <b>Complexity Classes</b>\n      P polynomial-time\n      NP nondeterministic\n      NP-complete hardest\n      NP-hard beyond NP\n      PSPACE space-bound\n      EXPTIME exponential\n    <b>Decidability</b>\n      Decidable problems\n      Undecidable halting\n      Semi-decidable\n      Church-Turing thesis\n      Rice's theorem\n    <b>Algorithm Paradigms</b>\n      Divide-and-conquer\n      Dynamic programming\n      Greedy algorithms\n      Backtracking\n      Approximation algorithms\n      Randomized algorithms\n    <b>Formal Languages</b>\n      Regular languages\n      Context-free languages\n      Context-sensitive\n      Recursively enumerable\n      Chomsky hierarchy\n    <b>Automata Theory</b>\n      DFA deterministic\n      NFA nondeterministic\n      Pushdown automata\n      Turing machines\n      State minimization\n    <b>Complexity Analysis</b>\n      Worst-case complexity\n      Average-case analysis\n      Amortized analysis\n      Big-O notation\n      Space-time tradeoffs\n    <b>Reduction Methods</b>\n      Polynomial-time reduction\n      Many-one reduction\n      Turing reduction\n      NP-completeness proofs\n      Hardness results",
+            "complexity": "high",
+            "tags": [
+                "theory_of_computation",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

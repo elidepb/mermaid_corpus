@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "297",
+            "topic": "Water Pollution",
+            "category": "Environmental Sciences",
+            "description": "Water pollution awareness emerged in the Industrial Revolution (1800s) when rapid industrialization caused severe river contamination, particularly in England (Thames River) and growing industrial cities. The early 1900s brought recognition of waterborne diseases and initial sanitation efforts with chlorination implementation. The 1940s-50s witnessed post-war industrial expansion increasing pollution, and early environmental activism beginning. The 1960s marked growing environmental awareness with Rachel Carson's Silent Spring (1962) highlighting pesticide impacts, and the Cuyahoga River fire (1969) symbolizing severe water pollution. The 1970s brought landmark legislation: the Clean Water Act (1972) in the U.S., establishing water quality standards and pollution discharge permits. The 1980s focused on toxic substances, Superfund sites, and acid rain concerns. The 1990s addressed non-point source pollution, watershed management approaches, and Total Maximum Daily Load (TMDL) programs. The 2000s recognized emerging contaminants (pharmaceuticals, personal care products), implemented advanced treatment technologies, and emphasized green infrastructure. The 2010s-2020s continue with microplastics research, PFAS (forever chemicals) contamination concerns, nutrient pollution (Gulf of Mexico dead zone), climate change impacts on water quality, nature-based solutions, and integrated watershed management becoming priorities.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Water Pollution Awareness & Control Evolution</b>\n    \n    section Industrial Era\n        1800s : Industrial Revolution\n              : Severe river contamination\n              : Thames River pollution\n        Early 1900s : Waterborne disease recognition\n                    : Sanitation efforts\n                    : Chlorination implemented\n    \n    section Growing Awareness\n        1940s-50s : Post-war industrial expansion\n                  : Pollution increases\n                  : Early activism\n        1960s : Environmental awareness grows\n              : Silent Spring (1962)\n              : Cuyahoga River fire (1969)\n    \n    section Regulatory Era\n        1972  : Clean Water Act\n              : Water quality standards\n              : Discharge permits\n        1980s : Toxic substances focus\n              : Superfund sites\n              : Acid rain concerns\n    \n    section Comprehensive Approaches\n        1990s : Non-point source pollution\n              : Watershed management\n              : TMDL programs\n        2000s : Emerging contaminants\n              : Pharmaceuticals, PCPs\n              : Advanced treatment\n              : Green infrastructure\n    \n    section Modern Challenges\n        2010s-2020s : Microplastics research\n                    : PFAS contamination\n                    : Nutrient pollution\n                    : Climate impacts\n                    : Nature-based solutions\n                    : Integrated management",
+            "complexity": "high",
+            "tags": [
+                "water_pollution",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

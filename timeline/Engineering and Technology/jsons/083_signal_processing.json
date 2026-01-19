@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "083",
+            "topic": "Signal Processing",
+            "category": "Engineering",
+            "description": "Signal Processing evolved from analog circuit theory to sophisticated digital algorithms transforming communication and computation. Early signal processing used analog filters and amplifiers (1920s-1930s) for telecommunications. Shannon's information theory (1948) established theoretical foundations for signal transmission and capacity. The sampling theorem by Nyquist-Shannon formalized analog-to-digital conversion requirements. Digital computers enabled numerical signal processing in the 1950s-1960s. The Fast Fourier Transform algorithm by Cooley and Tukey (1965) revolutionized frequency analysis making it computationally practical. Digital signal processors emerged in the 1970s as specialized hardware for real-time processing. The discrete cosine transform (1974) enabled JPEG image compression. Wavelet theory developed in the 1980s providing multi-resolution time-frequency analysis. MPEG audio/video compression standards (1990s) enabled digital media distribution. Adaptive filtering and blind source separation advanced in the 1990s. Compressed sensing theory (2004) enabled signal reconstruction from sparse measurements. Software-defined radio emerged allowing flexible reconfigurable systems. Deep learning revolutionized signal processing (2010s+) for speech recognition, image classification, and more. Today's signal processing integrates AI, edge computing for real-time processing, 5G communications, and quantum signal processing explorations.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Signal Processing Evolution\n    1920s-1930s : Analog Filters\n                : Telecommunications circuits\n    1948 : Shannon Information Theory\n         : Transmission foundations\n    1950s-1960s : Digital Computing\n                : Numerical processing\n    1965 : Fast Fourier Transform\n         : Cooley-Tukey algorithm\n    1970s : Digital Signal Processors\n          : Specialized hardware\n    1974 : Discrete Cosine Transform\n         : JPEG compression enabling\n    1980s : Wavelet Theory\n          : Multi-resolution analysis\n    1990s : MPEG Standards\n          : Digital media compression\n    2004 : Compressed Sensing\n         : Sparse reconstruction theory\n    2010s : Software-Defined Radio\n          : Flexible reconfigurable systems\n    2010s+ : Deep Learning Integration\n           : AI signal processing\n    2020s : Edge AI & 5G\n          : Real-time quantum exploration",
+            "complexity": "high",
+            "tags": [
+                "signal_processing",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

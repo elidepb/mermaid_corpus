@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "093",
+            "topic": "Agricultural Engineering",
+            "category": "engineering",
+            "description": "Agricultural Engineering applies engineering principles to agricultural production, processing, and resource management optimizing food production, sustainability, and rural development through mechanization, automation, and precision technologies. It begins with soil and water management, designing irrigation systems, drainage networks, soil conservation structures, and water harvesting techniques ensuring optimal growing conditions. Farm machinery design develops tractors, harvesters, planters, and specialized equipment improving efficiency, reducing labor, and minimizing crop damage. Crop production systems optimize planting density, nutrient delivery, pest management, and harvest timing using precision agriculture technologies. Post-harvest engineering designs storage facilities, processing equipment, and preservation systems maintaining quality and reducing losses. Precision agriculture implements GPS guidance, variable rate application, remote sensing, and data analytics enabling site-specific management. Renewable energy systems integrate solar panels, wind turbines, biogas digesters, and biofuel production utilizing agricultural resources sustainably. Greenhouse and controlled environment agriculture creates optimal growing conditions through climate control, hydroponics, and vertical farming maximizing yields per area. Environmental impact assessment addresses soil erosion, water quality, greenhouse gas emissions, and biodiversity implementing sustainable practices. The goal is increasing agricultural productivity while conserving natural resources, reducing environmental impact, and ensuring food security through engineering solutions that modernize farming practices, optimize resource use, and enable sustainable intensification.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Agricultural Engineering</b><br>Engineering principles for<br>agricultural production]:::title\n    B[<b>PRIMARY GOAL</b><br>Increase Productivity While<br>Conserving Resources]:::goal\n    C[<b>AGRI-ENGINEERING PROCESS</b>]:::process\n    \n    subgraph D[Soil & Water Management]\n        D1[Design irrigation, drainage<br>& conservation structures]\n    end\n    \n    subgraph E[Farm Machinery Design]\n        E1[Develop tractors, harvesters<br>& specialized equipment]\n    end\n    \n    subgraph F[Crop Production Systems]\n        F1[Optimize planting, nutrients<br>& harvest timing]\n    end\n    \n    subgraph G[Post-Harvest Engineering]\n        G1[Design storage, processing<br>& preservation systems]\n    end\n    \n    subgraph H[Precision Agriculture]\n        H1[Implement GPS, sensors<br>& data analytics]\n    end\n    \n    subgraph I[Renewable Energy Systems]\n        I1[Integrate solar, biogas<br>& biofuel production]\n    end\n    \n    subgraph J[Controlled Environment]\n        J1[Create optimal conditions<br>via greenhouses & hydroponics]\n    end\n    \n    subgraph K[Environmental Assessment]\n        K1[Address erosion, water quality<br>& emissions]\n    end\n    \n    L[<b>OUTCOME</b><br>Sustainable intensification &<br>food security]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous optimization| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "agricultural_engineering",
+                "engineering",
+                "agriculture",
+                "irrigation",
+                "farm_machinery"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

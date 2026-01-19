@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Virtual Reality",
+            "category": "Technology",
+            "description": "Virtual Reality encompasses hardware, software, applications, and design principles creating immersive digital experiences. VR hardware includes head-mounted displays like Meta Quest, PlayStation VR, and Valve Index offering varying resolutions and fields of view, tracking systems using inside-out or lighthouse tracking, input devices including motion controllers and hand tracking, haptic systems providing force feedback and vibration, and treadmills enabling natural locomotion. Software platforms utilize Unity game engine for cross-platform development, Unreal Engine for high-fidelity graphics, WebVR for browser-based experiences, and specialized frameworks for enterprise applications. VR applications span gaming with immersive entertainment, training simulations for aviation, surgery, and military, virtual tours of real estate and tourism destinations, social VR platforms for remote collaboration, therapeutic uses treating phobias and PTSD, and design visualization for architecture and product development. Design considerations address locomotion methods preventing motion sickness, user interface design for 3D space, audio spatialization creating realistic soundscapes, accessibility accommodations for diverse users, and comfort factors managing heat, weight, and duration. Technical challenges include rendering complex scenes maintaining frame rates, reducing latency below 20ms, achieving high resolution overcoming screen-door effect, wireless transmission balancing quality and lag, and content creation requiring specialized skills and tools.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Virtual<br>Reality</b>))\n    <b>VR Hardware</b>\n      Head-mounted displays\n      Meta Quest\n      PlayStation VR\n      Valve Index\n      Motion controllers\n      Hand tracking\n      Haptic feedback\n    <b>Tracking Systems</b>\n      Inside-out tracking\n      Outside-in lighthouse\n      6DOF movement\n      Eye tracking\n      Full body tracking\n    <b>Software Platforms</b>\n      Unity game engine\n      Unreal Engine\n      WebVR browsers\n      SteamVR runtime\n      OpenXR standard\n    <b>VR Applications</b>\n      Gaming & entertainment\n      Training simulations\n      Virtual tours\n      Social VR platforms\n      Therapeutic uses\n      Design visualization\n    <b>Design Considerations</b>\n      Locomotion methods\n      UI in 3D space\n      Spatial audio\n      Accessibility\n      Comfort factors\n      Cybersickness prevention\n    <b>Technical Challenges</b>\n      High frame rates\n      Low latency <20ms\n      Resolution & FOV\n      Wireless transmission\n      Content creation\n    <b>Interaction Methods</b>\n      Hand gestures\n      Voice commands\n      Gaze-based selection\n      Physical controllers\n      Haptic gloves\n    <b>Content Types</b>\n      360-degree video\n      Real-time 3D\n      Photogrammetry\n      Volumetric capture\n      Procedural generation",
+            "complexity": "high",
+            "tags": [
+                "virtual_reality",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

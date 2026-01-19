@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Augmented Reality",
+            "category": "technology",
+            "description": "Augmented Reality is the technology overlaying digital information, graphics, and interactive elements onto the real-world environment in real-time, enhancing perception through computer-generated sensory input. It begins with environment sensing, using cameras, depth sensors, and IMUs to capture and understand the physical world. Scene understanding processes visual data to detect surfaces, objects, and spatial features through computer vision and machine learning algorithms. Tracking and registration maintains accurate alignment between digital content and physical world using SLAM (Simultaneous Localization and Mapping) and marker-based or markerless tracking. Content creation develops 3D models, animations, information overlays, and interactive elements tailored to AR experiences. Rendering and display projects digital content onto the real world through smartphone screens, AR glasses, or head-up displays with proper occlusion and lighting. Interaction design enables user input through gestures, voice commands, gaze tracking, and touch interfaces for manipulating virtual objects. Application development builds experiences across gaming, navigation, retail, education, industrial maintenance, and healthcare domains. Performance optimization ensures smooth frame rates, low latency, and minimal battery consumption. The goal is seamlessly blending digital and physical worlds to enhance productivity, entertainment, learning, and decision-making through contextual information and interactive visualization.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Augmented Reality</b><br>Overlaying digital content<br>onto real world]:::title\n    B[<b>PRIMARY GOAL</b><br>Seamlessly Blend Digital & Physical<br>for Enhanced Experience]:::goal\n    C[<b>AR DEVELOPMENT PROCESS</b>]:::process\n    \n    subgraph D[Environment Sensing]\n        D1[Capture physical world via<br>cameras & depth sensors]\n    end\n    \n    subgraph E[Scene Understanding]\n        E1[Detect surfaces, objects<br>& spatial features]\n    end\n    \n    subgraph F[Tracking & Registration]\n        F1[Maintain alignment using<br>SLAM & tracking methods]\n    end\n    \n    subgraph G[Content Creation]\n        G1[Develop 3D models, overlays<br>& interactive elements]\n    end\n    \n    subgraph H[Rendering & Display]\n        H1[Project onto screens or<br>AR glasses with occlusion]\n    end\n    \n    subgraph I[Interaction Design]\n        I1[Enable gestures, voice,<br>gaze & touch input]\n    end\n    \n    subgraph J[Application Development]\n        J1[Build gaming, navigation,<br>retail & training experiences]\n    end\n    \n    subgraph K[Performance Optimization]\n        K1[Ensure smooth frame rates<br>& low battery use]\n    end\n    \n    L[<b>OUTCOME</b><br>Enhanced productivity &<br>contextual information]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous refinement| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "augmented_reality",
+                "technology",
+                "ar",
+                "arkit",
+                "arcore"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

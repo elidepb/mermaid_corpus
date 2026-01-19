@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "095",
+            "topic": "Cartography",
+            "category": "Engineering",
+            "description": "Cartography evolved from ancient clay tablets to interactive digital maps transforming spatial understanding and navigation. Early maps appeared in ancient Babylon on clay tablets and cave paintings (prehistoric to 600 BCE). Greek cartographers including Ptolemy created world maps using coordinate systems (150 CE). Chinese and Islamic cartographers advanced during medieval periods. The Age of Exploration (1400s-1600s) drove nautical chart development and world mapping. Gerardus Mercator's projection (1569) revolutionized navigation preserving angles for sailing. Topographic mapping with contour lines emerged (1700s) representing terrain relief. Lithography enabled color printing of maps (1800s) improving visual communication. The US Geological Survey established (1879) creating systematic topographic coverage. Aerial photography enabled accurate mapping (early 1900s). Thematic mapping advanced with statistical cartography (1900s). Satellite imagery from Landsat (1972) provided global Earth observation. Geographic Information Systems emerged (1960s-1980s) enabling spatial analysis and digital mapping. GPS provided accurate positioning for mapping (1990s). Google Maps launched (2005) popularizing web mapping and directions. OpenStreetMap (2004) created collaborative mapping. LiDAR provided detailed elevation data. Today's cartography integrates real-time data, augmented reality overlays, 3D city models, AI-generated map features, and personalized adaptive maps responding to user context and preferences.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Cartography Evolution\n    Prehistoric-600 BCE : Early Maps\n                       : Clay tablets & paintings\n    150 CE : Ptolemy's World Maps\n           : Coordinate systems\n    1400s-1600s : Age of Exploration\n                : Nautical chart development\n    1569 : Mercator Projection\n         : Navigation angle preservation\n    1700s : Contour Lines\n          : Terrain relief representation\n    1800s : Lithography Color Printing\n          : Visual communication improved\n    1879 : USGS Established\n         : Systematic topographic coverage\n    Early 1900s : Aerial Photography\n                : Accurate mapping enabled\n    1972 : Landsat Satellite\n         : Global Earth observation\n    1960s-1980s : GIS Emergence\n                : Digital spatial analysis\n    2004-2005 : OpenStreetMap & Google Maps\n              : Collaborative & web mapping\n    2020s : Real-Time & AR\n          : AI-generated adaptive maps",
+            "complexity": "high",
+            "tags": [
+                "cartography",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

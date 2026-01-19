@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "088",
+            "topic": "Railway Engineering",
+            "category": "Engineering",
+            "description": "Railway Engineering encompasses track systems, rolling stock technologies, signaling methods, and operational strategies creating comprehensive rail transportation networks. Track components include rails providing running surface, sleepers distributing loads, ballast supporting and draining track, fasteners securing rails to sleepers, switches enabling route changes, and continuous welded rail eliminating joints. Rolling stock technologies feature diesel-electric locomotives with flexible operation, electric trains offering high performance and low emissions, high-speed trains exceeding 250 km/h, light rail for urban transit, freight cars specialized for cargo types, and magnetic levitation eliminating wheel-rail contact. Signaling systems employ track circuits detecting train presence, axle counters monitoring occupancy, automatic train protection preventing collisions, positive train control in North America, and European Train Control System for interoperability. Railway infrastructure includes earthworks with cuts and embankments, bridges spanning obstacles, tunnels penetrating mountains, stations providing passenger facilities, maintenance depots servicing equipment, and drainage managing water. Operational aspects address timetable planning optimizing schedules, capacity analysis maximizing throughput, energy management reducing consumption, safety protocols preventing accidents, and passenger information systems. Design considerations include gauge selection affecting stability and compatibility, loading gauge defining vehicle dimensions, curve radius limiting speeds, gradient restrictions affecting traction, and platform height ensuring accessibility.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Railway<br>Engineering</b>))\n    <b>Track Components</b>\n      Rails running surface\n      Sleepers load distribution\n      Ballast support & drainage\n      Fasteners securing\n      Switches & crossings\n      Continuous welded rail\n    <b>Rolling Stock</b>\n      Diesel-electric locomotives\n      Electric trains\n      High-speed trains 250+ km/h\n      Light rail transit\n      Freight cars specialized\n      Magnetic levitation\n    <b>Signaling Systems</b>\n      Track circuits detection\n      Axle counters\n      Automatic train protection\n      Positive train control\n      ETCS European standard\n      Communications-based control\n    <b>Infrastructure</b>\n      Earthworks cuts & embankments\n      Bridges spanning\n      Tunnels penetrating\n      Stations & platforms\n      Maintenance depots\n      Drainage systems\n    <b>Operations</b>\n      Timetable planning\n      Capacity analysis\n      Energy management\n      Safety protocols\n      Passenger information\n      Crew scheduling\n    <b>Design Parameters</b>\n      Gauge selection\n      Loading gauge dimensions\n      Curve radius limits\n      Gradient restrictions\n      Platform height\n      Clearances\n    <b>Power Systems</b>\n      Overhead catenary\n      Third-rail supply\n      Substations distribution\n      Regenerative braking\n      Voltage levels\n    <b>Maintenance</b>\n      Track geometry inspection\n      Rail grinding\n      Ballast tamping\n      Component replacement\n      Predictive analytics",
+            "complexity": "high",
+            "tags": [
+                "railway_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Software Engineering",
+            "category": "engineering",
+            "description": "Software Engineering is the systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software applying engineering principles to create reliable, efficient, and maintainable systems at scale. It begins with requirements engineering, eliciting, analyzing, documenting, and validating stakeholder needs through interviews, workshops, and prototyping. Software architecture design establishes high-level system structure, component interactions, technology choices, and architectural patterns ensuring scalability and maintainability. Detailed design specifies algorithms, data structures, interfaces, and component-level implementations with design patterns and principles. Implementation translates designs into code following coding standards, best practices, and software craftsmanship principles using appropriate languages and frameworks. Quality assurance encompasses unit testing, integration testing, system testing, and acceptance testing ensuring correctness and reliability. Configuration management tracks versions, manages changes, controls releases, and maintains code repositories enabling team collaboration. Project management coordinates schedules, resources, risks, and stakeholder communication throughout development lifecycle. Deployment and operations releases software to production environments with continuous integration/deployment pipelines and operational monitoring. Maintenance and evolution addresses defects, implements enhancements, refactors technical debt, and adapts to changing requirements. The goal is delivering high-quality software systematically that meets user needs, remains maintainable over time, and can evolve with technological and business changes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Software Engineering</b><br>Systematic disciplined approach<br>to software development]:::title\n    B[<b>PRIMARY GOAL</b><br>Deliver High-Quality Maintainable<br>Software Systematically]:::goal\n    C[<b>SE LIFECYCLE</b>]:::process\n    \n    subgraph D[Requirements Engineering]\n        D1[Elicit, analyze & validate<br>stakeholder needs]\n    end\n    \n    subgraph E[Software Architecture]\n        E1[Establish structure, patterns<br>& technology choices]\n    end\n    \n    subgraph F[Detailed Design]\n        F1[Specify algorithms, data<br>structures & interfaces]\n    end\n    \n    subgraph G[Implementation]\n        G1[Translate to code following<br>standards & best practices]\n    end\n    \n    subgraph H[Quality Assurance]\n        H1[Execute unit, integration<br>& system testing]\n    end\n    \n    subgraph I[Configuration Management]\n        I1[Track versions, manage<br>changes & control releases]\n    end\n    \n    subgraph J[Project Management]\n        J1[Coordinate schedules,<br>resources & risks]\n    end\n    \n    subgraph K[Deployment & Operations]\n        K1[Release via CI/CD with<br>operational monitoring]\n    end\n    \n    subgraph L[Maintenance & Evolution]\n        L1[Address defects, enhance<br>& refactor technical debt]\n    end\n    \n    M[<b>OUTCOME</b><br>Quality software meeting needs<br>& evolving with change]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H & I & J -->|enable| K\n    K -->|step 6| L\n    L -->|achieves| M\n    M -.->|continuous cycle| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "software_engineering",
+                "engineering",
+                "sdlc",
+                "agile",
+                "solid"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

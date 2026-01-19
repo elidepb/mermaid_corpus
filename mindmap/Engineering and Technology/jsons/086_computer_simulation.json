@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "086",
+            "topic": "Computer Simulation",
+            "category": "Computer Science",
+            "description": "Computer Simulation encompasses methodologies, techniques, domains, and tools for virtual system modeling and experimentation. Simulation types include discrete-event simulation modeling systems as sequences of events, continuous simulation using differential equations for smooth changes, agent-based modeling simulating autonomous entities and emergent behavior, system dynamics capturing feedback loops and stocks/flows, Monte Carlo simulation using random sampling for probabilistic analysis, and hybrid approaches combining multiple paradigms. Numerical methods employ finite difference methods discretizing derivatives, finite element analysis dividing domains into elements, Runge-Kutta methods solving differential equations, Monte Carlo integration estimating integrals stochastically, and computational fluid dynamics simulating fluid flow. Application domains span engineering for structural analysis and circuit design, healthcare modeling disease spread and treatment outcomes, economics forecasting markets and policy impacts, climate science predicting weather and climate change, transportation optimizing traffic flow and logistics, manufacturing planning production and supply chains, and defense training personnel and testing strategies. Simulation software includes MATLAB/Simulink for mathematical modeling, AnyLogic for multi-method simulation, Arena for discrete-event modeling, NetLogo for agent-based systems, COMSOL for multiphysics, and custom implementations in Python or C++. Challenges address computational complexity managing resource requirements, model accuracy balancing fidelity and tractability, uncertainty quantification characterizing input and output variability, and validation establishing confidence in predictions.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Computer<br>Simulation</b>))\n    <b>Simulation Types</b>\n      Discrete-event simulation\n      Continuous simulation\n      Agent-based modeling\n      System dynamics\n      Monte Carlo simulation\n      Hybrid approaches\n    <b>Numerical Methods</b>\n      Finite difference methods\n      Finite element analysis\n      Runge-Kutta solvers\n      Monte Carlo integration\n      Computational fluid dynamics\n      Molecular dynamics\n    <b>Application Domains</b>\n      Engineering design\n      Healthcare modeling\n      Economics forecasting\n      Climate science\n      Transportation optimization\n      Manufacturing planning\n      Defense training\n    <b>Simulation Software</b>\n      MATLAB/Simulink\n      AnyLogic multi-method\n      Arena discrete-event\n      NetLogo agent-based\n      COMSOL multiphysics\n      Python custom\n    <b>Model Components</b>\n      State variables\n      Governing equations\n      Boundary conditions\n      Initial conditions\n      Parameters & coefficients\n      Random processes\n    <b>Validation Methods</b>\n      Historical data comparison\n      Expert judgment\n      Sensitivity analysis\n      Face validity\n      Statistical tests\n    <b>Analysis Techniques</b>\n      What-if scenarios\n      Optimization\n      Sensitivity analysis\n      Uncertainty quantification\n      Design of experiments\n    <b>Challenges</b>\n      Computational complexity\n      Model accuracy\n      Uncertainty quantification\n      Validation confidence\n      Scalability",
+            "complexity": "high",
+            "tags": [
+                "computer_simulation",
+                "computer_science"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

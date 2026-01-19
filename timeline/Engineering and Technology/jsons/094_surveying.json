@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "094",
+            "topic": "Surveying",
+            "category": "Engineering",
+            "description": "Surveying evolved from ancient measurement techniques to modern satellite-based positioning systems supporting global infrastructure development. Ancient civilizations employed surveying for land division and construction with Egyptian pyramid alignment and Roman road networks. The Pythagorean theorem and geometric principles formalized measurements. The theodolite invented in the 16th century enabled precise angle measurement. Triangulation networks established by Snellius (1615) provided accurate large-scale mapping frameworks. The transit telescope improved angular measurements (1700s). The US Public Land Survey System (1785) created systematic land division. Precise leveling instruments developed in the 1800s for canal and railroad construction. Photogrammetry emerged in the late 1800s extracting measurements from photographs. Electronic distance measurement revolutionized surveying (1950s) replacing tape measurements. The first GPS satellites launched (1978) initiating space-based positioning. Total stations integrated EDM and angle measurement (1980s). Differential GPS achieved centimeter accuracy (1990s). Real-Time Kinematic GPS enabled instantaneous positioning. LiDAR technology provided rapid detailed terrain mapping (2000s). Unmanned aerial vehicles democratized aerial surveying. Building Information Modeling integrated survey data with design. Today's surveying employs autonomous robotic systems, satellite constellations like Galileo and BeiDou supplementing GPS, machine learning for point cloud processing, and augmented reality for field visualization.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Surveying Evolution\n    Ancient Times : Basic Land Measurement\n                  : Egyptian & Roman techniques\n    1500s : Theodolite Invention\n          : Precise angle measurement\n    1615 : Snellius Triangulation\n         : Large-scale mapping networks\n    1700s : Transit Telescope\n          : Improved angular measurements\n    1785 : US Public Land Survey\n         : Systematic land division\n    1800s : Precise Leveling\n          : Canal & railroad construction\n    Late 1800s : Photogrammetry\n               : Photo measurement extraction\n    1950s : Electronic Distance Measurement\n          : EDM replaces tape\n    1978 : GPS Satellite Launch\n         : Space-based positioning begins\n    1980s : Total Stations\n          : Integrated EDM & angles\n    1990s : Differential GPS\n          : Centimeter accuracy achieved\n    2000s : LiDAR Technology\n          : Rapid terrain mapping\n    2020s : Autonomous Systems & ML\n          : Robotic surveying & AR visualization",
+            "complexity": "high",
+            "tags": [
+                "surveying",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

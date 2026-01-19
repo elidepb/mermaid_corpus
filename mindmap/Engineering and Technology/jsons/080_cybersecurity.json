@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Cybersecurity",
+            "category": "Technology",
+            "description": "Cybersecurity encompasses threat categories, defensive technologies, frameworks, and practices protecting digital assets from sophisticated attacks. Security domains include network security protecting data in transit through firewalls and VPNs, application security addressing software vulnerabilities via secure coding and testing, endpoint security defending devices with antivirus and EDR solutions, cloud security protecting cloud infrastructure and SaaS applications, identity and access management controlling user permissions, and data security ensuring encryption and data loss prevention. Threat landscape features malware including viruses, ransomware, and trojans, phishing attacks manipulating users through deceptive communications, advanced persistent threats conducting long-term espionage campaigns, insider threats from malicious or negligent employees, denial of service attacks overwhelming systems, and zero-day exploits leveraging unknown vulnerabilities. Security frameworks provide NIST Cybersecurity Framework organizing practices, ISO 27001 standards for information security management, CIS Controls prioritizing defensive actions, MITRE ATT&CK cataloging adversary tactics, and Zero Trust architecture assuming breach and verifying continuously. Security technologies deploy next-generation firewalls with deep packet inspection, SIEM platforms aggregating and analyzing security events, EDR tools detecting and responding to endpoint threats, security orchestration automating incident response, and threat intelligence sharing indicators of compromise. Compliance requirements address GDPR for data privacy, HIPAA for healthcare security, PCI DSS for payment card protection, and SOC 2 for service organization controls.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Cybersecurity</b>))\n    <b>Security Domains</b>\n      Network security\n      Application security\n      Endpoint security\n      Cloud security\n      Identity & access\n      Data security\n    <b>Threat Landscape</b>\n      Malware attacks\n      Phishing campaigns\n      APT threats\n      Insider threats\n      DDoS attacks\n      Zero-day exploits\n    <b>Security Frameworks</b>\n      NIST Cybersecurity\n      ISO 27001\n      CIS Controls\n      MITRE ATT&CK\n      Zero Trust\n      COBIT\n    <b>Security Technologies</b>\n      Next-gen firewalls\n      SIEM platforms\n      EDR solutions\n      Security orchestration\n      Threat intelligence\n      Deception technology\n    <b>Access Controls</b>\n      Multi-factor authentication\n      Single sign-on\n      Privileged access\n      Role-based access\n      Biometric authentication\n    <b>Cryptography</b>\n      Encryption algorithms\n      PKI infrastructure\n      Digital certificates\n      Hash functions\n      Key management\n    <b>Incident Response</b>\n      Detection & analysis\n      Containment strategies\n      Eradication methods\n      Recovery procedures\n      Forensic investigation\n    <b>Compliance</b>\n      GDPR privacy\n      HIPAA healthcare\n      PCI DSS payments\n      SOC 2 controls\n      Regulatory audits",
+            "complexity": "high",
+            "tags": [
+                "cybersecurity",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

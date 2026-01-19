@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "089",
+            "topic": "Acoustic Engineering",
+            "category": "Engineering",
+            "description": "Acoustics Engineering evolved from ancient architectural intuition to quantitative science enabling precise acoustic control. Ancient Greeks designed amphitheaters with remarkable acoustics through empirical observation (500 BCE). Marin Mersenne studied vibrating strings establishing frequency-pitch relationships (1636). Ernst Chladni visualized vibration patterns using sand on plates (1787). Hermann von Helmholtz explained resonance and timbre in On the Sensations of Tone (1863). Wallace Clement Sabine founded architectural acoustics deriving reverberation formula (1900) enabling scientific hall design. The invention of the telephone (1876) and phonograph (1877) spurred electroacoustic development. Acoustic measurement instruments standardized in the early 1900s. Sound reinforcement systems emerged for large venues (1920s-1930s). Acoustic absorption coefficients were standardized enabling material selection (1930s). Noise control became priority during WWII for military applications. Leo Beranek's Acoustics textbook (1954) codified engineering principles. Concert hall acoustics advanced with Sydney Opera House (1973) and other iconic venues. Computer modeling revolutionized acoustic prediction (1980s-1990s) using finite element and ray-tracing methods. Active noise cancellation commercialized in headphones (1990s-2000s). Auralization techniques enabled virtual acoustic experiences. Today's acoustics engineering integrates computational methods, metamaterials with exotic properties, machine learning for optimization, and immersive spatial audio technologies.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Acoustics Engineering Evolution\n    500 BCE : Greek Amphitheaters\n            : Empirical acoustic design\n    1636 : Mersenne String Studies\n         : Frequency-pitch relationships\n    1787 : Chladni Vibration Patterns\n         : Sand visualization technique\n    1863 : Helmholtz Resonance Theory\n         : Timbre & tone explanation\n    1900 : Sabine Reverberation Formula\n         : Architectural acoustics founded\n    1876-1877 : Telephone & Phonograph\n              : Electroacoustic development\n    1920s-1930s : Sound Reinforcement\n                : Large venue systems\n    1930s : Absorption Standardization\n          : Material selection enabled\n    1954 : Beranek's Acoustics\n         : Engineering principles codified\n    1973 : Sydney Opera House\n         : Advanced hall acoustics\n    1980s-1990s : Computer Modeling\n                : FEM & ray-tracing prediction\n    1990s-2000s : Active Noise Cancellation\n                : Commercial headphones\n    2020s : Metamaterials & ML\n          : Exotic properties & optimization",
+            "complexity": "high",
+            "tags": [
+                "acoustic_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

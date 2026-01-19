@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Blockchain",
+            "category": "Technology",
+            "description": "Blockchain encompasses architectures, consensus mechanisms, applications, and cryptographic foundations enabling decentralized trust. Blockchain types include public blockchains like Bitcoin and Ethereum open to all participants, private blockchains restricting access to authorized parties, consortium blockchains shared among multiple organizations, and hybrid blockchains combining public and private elements. Consensus mechanisms employ Proof of Work requiring computational puzzle solving, Proof of Stake selecting validators based on token holdings, Delegated Proof of Stake using voted representatives, Practical Byzantine Fault Tolerance for permissioned networks, and Proof of Authority relying on approved validators. Cryptocurrency applications feature Bitcoin as digital currency and store of value, Ethereum enabling smart contracts and decentralized applications, stablecoins maintaining price stability, central bank digital currencies issued by governments, and DeFi protocols providing financial services without intermediaries. Smart contracts execute programmable agreements on platforms like Ethereum using Solidity language, enabling decentralized autonomous organizations, token standards like ERC-20 and ERC-721, and automated market makers. Enterprise applications span supply chain tracking with provenance verification, healthcare managing medical records securely, identity management providing self-sovereign identity, voting systems ensuring transparent elections, and real estate streamlining property transfers. Technical components include cryptographic hashing ensuring data integrity, digital signatures authenticating transactions, Merkle trees enabling efficient verification, and distributed storage maintaining redundant copies.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Blockchain</b>))\n    <b>Blockchain Types</b>\n      Public blockchains\n      Private blockchains\n      Consortium blockchains\n      Hybrid blockchains\n      Permissioned vs permissionless\n    <b>Consensus Mechanisms</b>\n      Proof of Work\n      Proof of Stake\n      Delegated PoS\n      PBFT\n      Proof of Authority\n    <b>Cryptocurrency</b>\n      Bitcoin currency\n      Ethereum platform\n      Stablecoins\n      CBDCs\n      Altcoins\n    <b>Smart Contracts</b>\n      Ethereum Solidity\n      DAOs\n      ERC-20 tokens\n      ERC-721 NFTs\n      Automated execution\n    <b>Enterprise Applications</b>\n      Supply chain tracking\n      Healthcare records\n      Identity management\n      Voting systems\n      Real estate transfers\n      Trade finance\n    <b>DeFi Protocols</b>\n      Decentralized exchanges\n      Lending platforms\n      Yield farming\n      Liquidity pools\n      Automated market makers\n    <b>Technical Components</b>\n      Cryptographic hashing\n      Digital signatures\n      Merkle trees\n      Distributed storage\n      P2P networking\n    <b>Challenges</b>\n      Scalability limitations\n      Energy consumption\n      Regulatory uncertainty\n      Interoperability\n      User adoption",
+            "complexity": "high",
+            "tags": [
+                "blockchain",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

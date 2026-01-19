@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "085",
+            "topic": "Natural Language Processing",
+            "category": "computer_science",
+            "description": "Natural Language Processing is the computational approach to understanding, interpreting, and generating human language enabling machines to process text and speech for communication, analysis, and knowledge extraction. It begins with text acquisition, collecting language data from documents, websites, social media, or speech transcription creating corpora for analysis. Preprocessing cleans and normalizes text through tokenization splitting into words, removing stopwords, handling punctuation, and converting to lowercase. Linguistic analysis applies part-of-speech tagging identifying word categories, named entity recognition detecting persons and organizations, and syntactic parsing revealing grammatical structure. Feature extraction represents text numerically using bag-of-words, TF-IDF weighting, word embeddings like Word2Vec, or contextual embeddings from transformers. Task-specific modeling applies machine learning or deep learning for classification, sentiment analysis, machine translation, question answering, or text generation. Semantic understanding extracts meaning through relation extraction, coreference resolution, semantic role labeling, and knowledge graph construction. Language generation produces human-like text through neural language models, sequence-to-sequence architectures, or large language models fine-tuned for specific tasks. Evaluation measures performance using metrics like accuracy, BLEU scores, perplexity, or human evaluation assessing quality. The goal is bridging human-machine communication enabling applications in chatbots, translation, information extraction, sentiment analysis, and automated content creation through computational linguistics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Natural Language Processing</b><br>Computational understanding of<br>human language]:::title\n    B[<b>PRIMARY GOAL</b><br>Bridge Human-Machine Communication<br>Through Language]:::goal\n    C[<b>NLP PIPELINE</b>]:::process\n    \n    subgraph D[Text Acquisition]\n        D1[Collect language data from<br>documents & speech]\n    end\n    \n    subgraph E[Preprocessing]\n        E1[Tokenize, remove stopwords<br>& normalize text]\n    end\n    \n    subgraph F[Linguistic Analysis]\n        F1[Apply POS tagging, NER<br>& syntactic parsing]\n    end\n    \n    subgraph G[Feature Extraction]\n        G1[Represent via TF-IDF,<br>embeddings or transformers]\n    end\n    \n    subgraph H[Task-Specific Modeling]\n        H1[Apply ML for classification,<br>translation & QA]\n    end\n    \n    subgraph I[Semantic Understanding]\n        I1[Extract meaning via relations<br>& coreference]\n    end\n    \n    subgraph J[Language Generation]\n        J1[Produce text through neural<br>LMs & seq2seq]\n    end\n    \n    subgraph K[Evaluation]\n        K1[Measure using BLEU,<br>accuracy & human assessment]\n    end\n    \n    L[<b>OUTCOME</b><br>Chatbots, translation &<br>automated content]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous improvement| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "natural_language_processing",
+                "computer_science",
+                "nlp",
+                "machine_learning",
+                "transformers"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "076",
+            "topic": "Internet of Things",
+            "category": "Technology",
+            "description": "Internet of Things encompasses device types, communication protocols, platforms, and applications creating connected ecosystems. IoT devices include sensors measuring temperature, pressure, motion, light, and environmental conditions, actuators controlling motors, valves, and switches, wearables tracking health and activity, smart appliances automating home functions, and industrial equipment monitoring machinery. Communication protocols employ WiFi for high-bandwidth local connectivity, Bluetooth Low Energy for short-range personal devices, cellular (4G/5G) for wide-area coverage, LoRaWAN for long-range low-power applications, Zigbee for home automation mesh networks, and MQTT for lightweight messaging. IoT platforms provide AWS IoT for cloud integration, Azure IoT Hub for Microsoft ecosystems, Google Cloud IoT for analytics, ThingSpeak for data visualization, and open-source options like Node-RED. Application domains span smart homes with automated lighting and climate control, industrial IoT optimizing manufacturing and predictive maintenance, smart cities managing traffic and utilities, healthcare monitoring patients remotely, agriculture optimizing irrigation and crop management, and connected vehicles enabling autonomous driving. Edge computing processes data locally reducing latency and bandwidth, while security challenges address device authentication, data encryption, privacy protection, and vulnerability management across distributed deployments.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Internet of<br>Things</b>))\n    <b>IoT Devices</b>\n      Environmental sensors\n      Actuators & controls\n      Wearables\n      Smart appliances\n      Industrial equipment\n      Smart meters\n    <b>Communication Protocols</b>\n      WiFi connectivity\n      Bluetooth Low Energy\n      Cellular 4G/5G\n      LoRaWAN long-range\n      Zigbee mesh networks\n      MQTT messaging\n    <b>IoT Platforms</b>\n      AWS IoT\n      Azure IoT Hub\n      Google Cloud IoT\n      ThingSpeak\n      Node-RED open source\n      IBM Watson IoT\n    <b>Application Domains</b>\n      Smart homes\n      Industrial IoT\n      Smart cities\n      Healthcare monitoring\n      Precision agriculture\n      Connected vehicles\n    <b>Edge Computing</b>\n      Local data processing\n      Latency reduction\n      Bandwidth optimization\n      Real-time decisions\n      Fog computing\n    <b>Data Analytics</b>\n      Stream processing\n      Predictive analytics\n      Anomaly detection\n      Machine learning\n      Visualization dashboards\n    <b>Security Challenges</b>\n      Device authentication\n      Data encryption\n      Privacy protection\n      Firmware updates\n      Vulnerability management\n    <b>Standards & Protocols</b>\n      HTTP/HTTPS\n      CoAP\n      IPv6/6LoWPAN\n      Thread\n      Matter standard",
+            "complexity": "high",
+            "tags": [
+                "internet_of_things",
+                "technology"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

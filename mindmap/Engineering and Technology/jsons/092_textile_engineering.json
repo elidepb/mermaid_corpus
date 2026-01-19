@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "092",
+            "topic": "Textile Engineering",
+            "category": "Engineering",
+            "description": "Textile Engineering encompasses fiber types, manufacturing processes, fabric structures, and functional applications creating materials for diverse industries. Fiber categories include natural plant fibers like cotton, linen, and hemp, natural animal fibers like wool and silk, synthetic polymers including polyester, nylon, and acrylic, regenerated fibers like rayon and lyocell, and high-performance fibers including aramids, carbon fiber, and ultra-high molecular weight polyethylene. Yarn production methods employ ring spinning producing fine strong yarns, open-end rotor spinning for high-speed production, air-jet spinning using compressed air, friction spinning for bulky yarns, and core-spun yarns combining materials. Fabric construction techniques feature plain weave with simple over-under pattern, twill weave creating diagonal lines, satin weave producing smooth lustrous surface, weft knitting forming courses horizontally, warp knitting creating vertical loops, and nonwoven bonding fibers mechanically, thermally, or chemically. Finishing processes include mechanical finishing like calendering and raising, chemical finishing applying softeners and water repellents, dyeing using various methods and colorants, printing creating patterns through screen or digital printing, and functional treatments adding flame retardancy, antimicrobial properties, or UV protection. Technical textiles span geotextiles for civil engineering, medical textiles for healthcare, protective textiles for safety, automotive textiles for vehicles, and smart textiles integrating sensors and electronics. Testing methods measure tensile strength and elongation, abrasion resistance, pilling propensity, colorfastness to various agents, dimensional stability, and comfort properties like moisture management and breathability.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Textile<br>Engineering</b>))\n    <b>Fiber Categories</b>\n      Natural plant cotton\n      Natural animal wool\n      Synthetic polyester\n      Regenerated rayon\n      High-performance aramids\n      Carbon fiber composites\n    <b>Yarn Production</b>\n      Ring spinning fine\n      Open-end rotor speed\n      Air-jet spinning\n      Friction spinning bulky\n      Core-spun yarns\n      Filament yarns\n    <b>Fabric Construction</b>\n      Plain weave simple\n      Twill weave diagonal\n      Satin weave lustrous\n      Weft knitting courses\n      Warp knitting vertical\n      Nonwoven bonding\n    <b>Finishing Processes</b>\n      Mechanical calendering\n      Chemical softeners\n      Dyeing methods\n      Digital printing\n      Functional treatments\n      Surface modification\n    <b>Technical Textiles</b>\n      Geotextiles civil\n      Medical textiles\n      Protective safety\n      Automotive interiors\n      Smart textiles sensors\n      Composites aerospace\n    <b>Testing Methods</b>\n      Tensile strength\n      Abrasion resistance\n      Pilling propensity\n      Colorfastness\n      Dimensional stability\n      Moisture management\n    <b>Sustainability</b>\n      Recycled fibers\n      Bio-based materials\n      Water conservation\n      Energy efficiency\n      Circular economy\n    <b>Quality Parameters</b>\n      Fabric weight\n      Thread count\n      Hand feel\n      Drape behavior\n      Shrinkage control",
+            "complexity": "high",
+            "tags": [
+                "textile_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "095",
+            "topic": "Cartography",
+            "category": "engineering",
+            "description": "Cartography is the art, science, and technology of creating maps and spatial representations communicating geographic information effectively through careful selection, generalization, and symbolization of features to serve specific purposes and audiences. It begins with purpose and audience definition, identifying map objectives, user needs, scale requirements, and thematic focus determining design decisions. Data collection gathers geographic information from surveys, remote sensing, government databases, and field observations ensuring currency and accuracy. Data compilation integrates multiple sources, resolves conflicts, verifies features, and establishes coordinate reference systems creating comprehensive datasets. Map design applies cartographic principles including visual hierarchy, color theory, typography, and symbolization creating clear effective representations. Generalization simplifies features appropriately for scale through selection, simplification, smoothing, and aggregation maintaining essential characteristics while reducing complexity. Symbol design creates visual marks representing features using points, lines, polygons, and pictorial symbols following conventions and enhancing understanding. Production and reproduction converts designs to final formats through digital rendering, print production, or interactive web maps ensuring quality across media. Usability testing evaluates map effectiveness through user feedback, comprehension studies, and iterative refinement improving communication. The goal is creating maps that accurately, clearly, and beautifully communicate spatial relationships, patterns, and information enabling navigation, analysis, planning, and decision-making across diverse applications from navigation to scientific visualization through thoughtful design balancing aesthetics, accuracy, and functionality.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cartography</b><br>Creating maps communicating<br>geographic information]:::title\n    B[<b>PRIMARY GOAL</b><br>Communicate Spatial Information<br>Clearly & Effectively]:::goal\n    C[<b>CARTOGRAPHIC PROCESS</b>]:::process\n    \n    subgraph D[Purpose & Audience]\n        D1[Identify objectives, needs<br>& thematic focus]\n    end\n    \n    subgraph E[Data Collection]\n        E1[Gather from surveys, remote<br>sensing & databases]\n    end\n    \n    subgraph F[Data Compilation]\n        F1[Integrate sources, resolve<br>conflicts & verify]\n    end\n    \n    subgraph G[Map Design]\n        G1[Apply hierarchy, color,<br>typography & symbols]\n    end\n    \n    subgraph H[Generalization]\n        H1[Simplify via selection,<br>smoothing & aggregation]\n    end\n    \n    subgraph I[Symbol Design]\n        I1[Create visual marks using<br>points, lines & polygons]\n    end\n    \n    subgraph J[Production]\n        J1[Convert to digital, print<br>or web formats]\n    end\n    \n    subgraph K[Usability Testing]\n        K1[Evaluate effectiveness via<br>feedback & refinement]\n    end\n    \n    L[<b>OUTCOME</b><br>Effective maps for navigation,<br>analysis & planning]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|iterative design| G\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "cartography",
+                "engineering",
+                "surveying",
+                "gis",
+                "map_projections"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

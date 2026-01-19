@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "293",
+            "topic": "Sustainability",
+            "category": "Environmental Sciences",
+            "description": "Sustainability evolved from conservation movements to comprehensive global frameworks integrating environmental, economic, and social priorities. Early conservation efforts protected natural resources and wilderness (late 1800s-early 1900s). Rachel Carson's Silent Spring (1962) catalyzed environmental awareness highlighting pesticide impacts. The first Earth Day (1970) mobilized public environmental action. The Limits to Growth report (1972) warned of resource constraints. The UN Conference on the Human Environment in Stockholm (1972) established international environmental cooperation. The Brundtland Report Our Common Future (1987) defined sustainable development as meeting present needs without compromising future generations. The Rio Earth Summit (1992) produced Agenda 21 and climate conventions. The Kyoto Protocol (1997) set binding emission reduction targets. The Millennium Development Goals (2000-2015) addressed poverty and development. Corporate social responsibility emerged as business imperative (2000s). The financial crisis (2008) highlighted economic sustainability needs. The UN Sustainable Development Goals (2015) integrated 17 objectives for 2030. The Paris Agreement (2015) committed nations to limit warming below 2°C. ESG investing gained prominence directing trillions toward sustainable companies. Climate activism intensified with youth movements. Today's sustainability integrates net-zero commitments, circular economy adoption, nature-based solutions, green recovery from pandemic, and systems thinking addressing interconnected challenges.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Sustainability Evolution\n    Late 1800s-1900s : Conservation Movement\n                     : Resource & wilderness protection\n    1962 : Silent Spring\n         : Carson's environmental awakening\n    1970 : First Earth Day\n         : Public environmental mobilization\n    1972 : Limits to Growth & Stockholm\n         : Resource constraints & UN cooperation\n    1987 : Brundtland Report\n         : Sustainable development defined\n    1992 : Rio Earth Summit\n         : Agenda 21 & climate conventions\n    1997 : Kyoto Protocol\n         : Binding emission targets\n    2000-2015 : Millennium Development Goals\n              : Poverty & development focus\n    2000s : CSR Emergence\n          : Business sustainability imperative\n    2015 : UN SDGs & Paris Agreement\n         : 17 goals & climate commitments\n    2020s : Net-Zero & Circular Economy\n          : Systems thinking & green recovery",
+            "complexity": "high",
+            "tags": [
+                "sustainability",
+                "environmental_sciences"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

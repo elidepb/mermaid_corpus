@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "301",
+            "topic": "Hydrology",
+            "category": "Earth Sciences",
+            "description": "Hydrology is the scientific study of water movement, distribution, and properties throughout the Earth's hydrological cycle, encompassing surface water, groundwater, and atmospheric water. Its primary objective is to understand water's behavior in natural and human-modified systems to support water resources management, flood prediction, drought assessment, and environmental protection. Core domains include: hydrological cycle processes (precipitation, evapotranspiration, infiltration, runoff, groundwater flow), surface hydrology (watershed analysis, streamflow dynamics, river hydraulics, lake and reservoir hydrology), subsurface hydrology (groundwater movement, aquifer characteristics, soil moisture dynamics, vadose zone processes), hydrological modeling (rainfall-runoff models, groundwater models, integrated watershed models, climate impact assessment), and measurement and monitoring (precipitation gauges, stream gauges, groundwater wells, remote sensing, isotope tracers). The research and application process involves data collection and monitoring, hydrological analysis, model development and calibration, prediction and forecasting, and water management application. These elements integrate through physics, mathematics, and earth sciences to enable flood forecasting, water supply planning, drought management, contamination assessment, climate change impact studies, and ecosystem flow determination that inform water resource decisions and environmental protection.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Hydrology</b><br>Study of water movement,<br>distribution & properties]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Understand water behavior<br>for management & prediction]:::objective\n    C[<b>CORE DOMAINS</b>]:::domains\n    \n    subgraph D[Hydrological Cycle]\n        D1[Precipitation<br>Evapotranspiration<br>Infiltration & runoff]\n    end\n    \n    subgraph E[Surface Hydrology]\n        E1[Watershed analysis<br>Streamflow dynamics<br>River hydraulics]\n    end\n    \n    subgraph F[Subsurface Hydrology]\n        F1[Groundwater movement<br>Aquifer characteristics<br>Soil moisture]\n    end\n    \n    subgraph G[Hydrological Modeling]\n        G1[Rainfall-runoff models<br>Groundwater models<br>Climate impact assessment]\n    end\n    \n    subgraph H[Measurement & Monitoring]\n        H1[Precipitation gauges<br>Stream gauges<br>Remote sensing]\n    end\n    \n    I[<b>RESEARCH PROCESS</b><br>Data collection, Analysis<br>Modeling, Forecasting]:::process\n    \n    J[<b>ENABLES</b><br>Flood forecasting, water planning<br>& environmental protection]:::outcome\n    \n    A -->|aims to| B\n    B -->|through studying| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|delivers| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "hydrology",
+                "earth_sciences",
+                "hydrological_cycle",
+                "water",
+                "evaporation",
+                "precipitation"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

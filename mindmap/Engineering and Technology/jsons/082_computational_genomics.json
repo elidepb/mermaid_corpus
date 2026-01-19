@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "082",
+            "topic": "Computational Genomics",
+            "category": "Bioinformatics",
+            "description": "Computational Genomics encompasses sequencing technologies, analysis algorithms, databases, and applications transforming biological research and medicine. Sequencing technologies include Illumina short-read sequencing for high-throughput applications, PacBio and Oxford Nanopore long-read sequencing capturing structural variants, single-cell sequencing analyzing individual cells, spatial transcriptomics preserving tissue architecture, and ATAC-seq mapping chromatin accessibility. Bioinformatics tools employ sequence aligners like BWA and Bowtie mapping reads efficiently, genome assemblers including SPAdes and Canu reconstructing genomes, variant callers like GATK and FreeBayes detecting mutations, and RNA-seq pipelines quantifying gene expression. Genomic databases provide reference genomes from NCBI and Ensembl, variant databases like dbSNP and ClinVar cataloging mutations, gene ontology describing biological functions, pathway databases including KEGG and Reactome, and protein databases like UniProt. Applications span personalized medicine tailoring treatments to genetic profiles, cancer genomics identifying driver mutations and therapeutic targets, population genetics studying human diversity and migration, agricultural genomics improving crop yields and livestock, microbiome analysis understanding microbial communities, and evolutionary biology reconstructing phylogenies. Computational challenges address big data management handling petabyte-scale datasets, algorithm optimization improving speed and accuracy, reproducibility ensuring consistent results, and data integration combining multi-omics information.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Computational<br>Genomics</b>))\n    <b>Sequencing Technologies</b>\n      Illumina short-read\n      PacBio long-read\n      Oxford Nanopore\n      Single-cell sequencing\n      Spatial transcriptomics\n      ATAC-seq chromatin\n    <b>Bioinformatics Tools</b>\n      BWA & Bowtie aligners\n      SPAdes & Canu assemblers\n      GATK variant calling\n      RNA-seq pipelines\n      BLAST sequence search\n      Multiple alignment tools\n    <b>Genomic Databases</b>\n      NCBI & Ensembl genomes\n      dbSNP variants\n      ClinVar clinical\n      Gene Ontology\n      KEGG pathways\n      UniProt proteins\n    <b>Analysis Methods</b>\n      Genome assembly\n      Variant detection\n      Gene expression\n      Epigenetic analysis\n      Phylogenetic trees\n      Network analysis\n    <b>Applications</b>\n      Personalized medicine\n      Cancer genomics\n      Population genetics\n      Agricultural genomics\n      Microbiome analysis\n      Evolutionary biology\n    <b>Data Types</b>\n      Whole genome sequencing\n      Exome sequencing\n      RNA-seq transcriptomics\n      ChIP-seq epigenomics\n      Metagenomics\n    <b>Computational Challenges</b>\n      Big data management\n      Algorithm optimization\n      Reproducibility\n      Data integration\n      Cloud computing\n    <b>Statistical Methods</b>\n      Differential expression\n      Enrichment analysis\n      Multiple testing\n      Machine learning\n      Deep learning models",
+            "complexity": "high",
+            "tags": [
+                "computational_genomics",
+                "bioinformatics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

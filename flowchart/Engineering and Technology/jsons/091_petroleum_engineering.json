@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "091",
+            "topic": "Petroleum Engineering",
+            "category": "engineering",
+            "description": "Petroleum Engineering is the specialized discipline focused on exploring, extracting, and producing hydrocarbon resources including oil and natural gas from subsurface reservoirs through drilling, completion, and production optimization techniques. It begins with reservoir characterization, analyzing geological data, seismic surveys, and well logs to understand rock properties, fluid content, and reservoir geometry. Drilling engineering designs wellbore trajectories, selects drilling fluids and equipment, and manages operations to safely reach target formations. Well completion designs production systems including casing, tubing, perforations, and artificial lift determining how fluids flow from reservoir to surface. Reservoir simulation models fluid flow through porous rock using numerical methods predicting production rates and recovery factors. Production optimization maximizes hydrocarbon recovery through pressure maintenance, enhanced oil recovery techniques, and production facilities design. Well intervention and workover perform maintenance, stimulation, and remedial operations maintaining or enhancing productivity. Facilities engineering designs surface equipment including separators, pumps, compressors, and pipelines processing and transporting hydrocarbons. Environmental and safety management addresses drilling waste, emissions control, blowout prevention, and regulatory compliance. The goal is economically extracting hydrocarbon resources while minimizing environmental impact through advanced technologies including horizontal drilling, hydraulic fracturing, and enhanced recovery methods maximizing ultimate recovery from subsurface reservoirs.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Petroleum Engineering</b><br>Extracting hydrocarbon resources<br>from subsurface]:::title\n    B[<b>PRIMARY GOAL</b><br>Economic Extraction Minimizing<br>Environmental Impact]:::goal\n    C[<b>PETROLEUM LIFECYCLE</b>]:::process\n    \n    subgraph D[Reservoir Characterization]\n        D1[Analyze geology, seismic<br>& well logs]\n    end\n    \n    subgraph E[Drilling Engineering]\n        E1[Design trajectories, fluids<br>& manage operations]\n    end\n    \n    subgraph F[Well Completion]\n        F1[Design casing, tubing<br>& artificial lift]\n    end\n    \n    subgraph G[Reservoir Simulation]\n        G1[Model fluid flow predicting<br>production rates]\n    end\n    \n    subgraph H[Production Optimization]\n        H1[Maximize recovery via pressure<br>maintenance & EOR]\n    end\n    \n    subgraph I[Well Intervention]\n        I1[Perform stimulation &<br>remedial operations]\n    end\n    \n    subgraph J[Facilities Engineering]\n        J1[Design separators, pumps<br>& pipelines]\n    end\n    \n    subgraph K[Environmental & Safety]\n        K1[Address waste, emissions<br>& blowout prevention]\n    end\n    \n    L[<b>OUTCOME</b><br>Maximized recovery with<br>advanced technologies]:::outcome\n    \n    A -->|aims to| B\n    B -->|follows| C\n    C -->|step 1| D\n    D -->|step 2| E\n    E -->|step 3| F\n    F -->|step 4| G\n    G -->|step 5| H\n    H -->|step 6| I\n    I -->|step 7| J\n    J -->|step 8| K\n    K -->|achieves| L\n    L -.->|continuous optimization| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "petroleum_engineering",
+                "engineering",
+                "oil_and_gas",
+                "reservoir_engineering",
+                "drilling"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

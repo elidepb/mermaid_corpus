@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "299",
+            "topic": "Ecological Restoration",
+            "category": "Environmental Sciences",
+            "description": "Ecological Restoration is the process of assisting the recovery of degraded, damaged, or destroyed ecosystems to restore their ecological integrity, biodiversity, and ecosystem functions. Its primary objective is to repair environmental damage and reinstate self-sustaining ecosystems that provide ecological, social, and economic benefits. Core domains include: restoration planning (site assessment, reference ecosystem identification, goal setting, stakeholder engagement), intervention strategies (passive restoration through natural regeneration, active restoration with planting and species reintroduction, adaptive management approaches), ecosystem components (soil restoration and amendment, hydrological regime restoration, vegetation establishment, wildlife habitat creation), monitoring and evaluation (ecological indicators, biodiversity assessment, ecosystem function measurements, success criteria), and social dimensions (community involvement, traditional ecological knowledge integration, livelihood benefits, environmental education). The restoration process involves degradation assessment, restoration design, implementation of interventions, monitoring progress, and adaptive management refinement. These elements integrate through ecology, soil science, and social engagement to create restored forests, wetlands, grasslands, coral reefs, and degraded lands that recover biodiversity, ecosystem services, climate resilience, and community wellbeing.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ecological Restoration</b><br>Assisting recovery of degraded<br>ecosystems]:::title\n    B[<b>PRIMARY OBJECTIVE</b><br>Repair damage & restore<br>self-sustaining ecosystems]:::objective\n    C[<b>CORE DOMAINS</b>]:::domains\n    \n    subgraph D[Restoration Planning]\n        D1[Site assessment<br>Reference ecosystems<br>Stakeholder engagement]\n    end\n    \n    subgraph E[Intervention Strategies]\n        E1[Passive restoration<br>Active restoration<br>Adaptive management]\n    end\n    \n    subgraph F[Ecosystem Components]\n        F1[Soil restoration<br>Hydrology restoration<br>Vegetation & habitat]\n    end\n    \n    subgraph G[Monitoring & Evaluation]\n        G1[Ecological indicators<br>Biodiversity assessment<br>Success criteria]\n    end\n    \n    subgraph H[Social Dimensions]\n        H1[Community involvement<br>Traditional knowledge<br>Livelihood benefits]\n    end\n    \n    I[<b>RESTORATION PROCESS</b><br>Assessment, Design<br>Implementation, Monitoring]:::process\n    \n    J[<b>CREATES</b><br>Recovered ecosystems with<br>biodiversity & services]:::outcome\n    \n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    C -->|includes| G\n    C -->|includes| H\n    D & E & F & G & H -->|unified by| I\n    I -->|delivers| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "ecological_restoration",
+                "environmental_science",
+                "ecology",
+                "conservation",
+                "revegetation",
+                "adaptive_management"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

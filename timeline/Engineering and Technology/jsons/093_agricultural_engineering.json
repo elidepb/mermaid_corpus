@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "093",
+            "topic": "Agricultural Engineering",
+            "category": "Engineering",
+            "description": "Agricultural Engineering evolved from simple tools to sophisticated precision systems transforming food production and rural development. Early agriculture used manual tools and animal power for thousands of years. Jethro Tull's seed drill (1701) enabled systematic planting in rows. The mechanical reaper invented by Cyrus McCormick (1831) revolutionized grain harvesting. Steam-powered tractors emerged in the late 1800s providing mechanical power. The internal combustion engine tractor by John Froelich (1892) initiated modern farm mechanization. The combine harvester integrated cutting and threshing (early 1900s). The Ferguson System (1930s) improved tractor-implement integration through three-point hitch. Synthetic fertilizers and pesticides increased yields (1940s-1950s). Center pivot irrigation systems developed (1948) enabling large-scale irrigation. The Green Revolution (1960s-1970s) combined improved varieties with mechanization dramatically increasing productivity. GPS technology applied to agriculture (1990s) enabling precision farming. Variable rate technology allowed site-specific input application. Drones and satellite imagery provided crop monitoring capabilities (2000s-2010s). Autonomous tractors and robots emerged for various operations. Vertical farming and controlled environment agriculture expanded. Today's agricultural engineering integrates AI for crop prediction, gene editing for crop improvement, blockchain for traceability, and climate-smart agriculture adapting to climate change while reducing emissions.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Agricultural Engineering Evolution\n    Ancient-1700s : Manual Tools & Animals\n                  : Traditional farming methods\n    1701 : Tull's Seed Drill\n         : Systematic row planting\n    1831 : McCormick's Reaper\n         : Grain harvesting revolution\n    Late 1800s : Steam-Powered Tractors\n               : Mechanical farm power\n    1892 : Froelich's Gas Tractor\n         : Internal combustion engine\n    Early 1900s : Combine Harvester\n                : Integrated cutting & threshing\n    1930s : Ferguson Three-Point Hitch\n          : Improved implement integration\n    1940s-1950s : Synthetic Fertilizers\n                : Yield increase chemistry\n    1948 : Center Pivot Irrigation\n         : Large-scale water distribution\n    1960s-1970s : Green Revolution\n                : Mechanization & varieties\n    1990s : GPS Precision Farming\n          : Location-based management\n    2000s-2010s : Drones & Satellites\n                : Crop monitoring capabilities\n    2020s : AI & Climate-Smart\n          : Predictive analytics & adaptation",
+            "complexity": "high",
+            "tags": [
+                "agricultural_engineering",
+                "engineering"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}
