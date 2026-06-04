@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Constitutional Law",
+            "category": "Law",
+            "description": "This mind map organizes the field of Constitutional Law around its central concept. It branches into major components: Core Principles (rule of law, separation of powers, federalism, judicial independence, fundamental rights), Sources (written constitution, case law, conventions, international law), Key Doctrines (judicial review, due process, equal protection, proportionality, originalism vs. living constitution), Types of Constitutions (written/unwritten, rigid/flexible, unitary/federal, republican/monarchical), Landmark Cases (Marbury v. Madison, Brown v. Board, Roe v. Wade, Kesavananda Bharati), and Actors & Institutions (constitutional courts, legislature, executive, human rights commissions). The map captures the structural and normative dimensions of constitutional governance.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Constitutional Law))\n    Core_Principles\n      Rule_of_Law\n      Separation_of_Powers\n      Federalism\n      Judicial_Independence\n      Fundamental_Rights\n    Sources\n      Written_Constitution\n      Case_Law\n      Conventions\n      International_Treaties\n    Key_Doctrines\n      Judicial_Review\n      Due_Process\n      Equal_Protection\n      Proportionality\n      Originalism_vs_Living_Constitution\n    Types_of_Constitutions\n      Written_vs_Unwritten\n      Rigid_vs_Flexible\n      Unitary_vs_Federal\n      Republican_vs_Monarchical\n    Landmark_Cases\n      Marbury_v_Madison_1803\n      Brown_v_Board_1954\n      Roe_v_Wade_1973\n      Kesavananda_Bharati_1973\n    Actors_Institutions\n      Constitutional_Courts\n      Legislature\n      Executive\n      Human_Rights_Commissions",
+            "complexity": "high",
+            "tags": ["constitutional_law", "mind_map", "principles", "doctrines", "landmark_cases", "constitutionalism", "judicial_review"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

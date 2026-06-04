@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Political Theory",
+            "category": "Political Science",
+            "description": "This mind map organizes Political Theory around its central concept. It branches into major traditions (classical, liberal, conservative, socialist/Marxist, anarchist, feminist, postcolonial, green), foundational concepts (justice, liberty, equality, rights, power, authority, legitimacy, democracy, citizenship), key thinkers from Plato to Foucault, core methods (normative argument, conceptual analysis, intellectual history, critical theory, deconstruction), and applied areas (constitutional design, human rights, distributive justice, environmental ethics, democratic theory). The structure highlights the field’s conceptual richness and its engagement with both historical and contemporary political problems.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Political Theory))\n    Major_Traditions\n      Classical\n      Liberal\n      Conservative\n      Socialist_Marxist\n      Anarchist\n      Feminist\n      Postcolonial\n      Green\n    Key_Concepts\n      Justice\n      Liberty\n      Equality\n      Rights\n      Power\n      Authority\n      Legitimacy\n      Democracy\n      Citizenship\n    Key_Thinkers\n      Plato\n      Aristotle\n      Machiavelli\n      Hobbes\n      Locke\n      Rousseau\n      Kant\n      Marx\n      Mill\n      Rawls\n      Arendt\n      Foucault\n    Methods\n      Normative_Argument\n      Conceptual_Analysis\n      Intellectual_History\n      Critical_Theory\n      Deconstruction\n    Applied_Areas\n      Constitutional_Design\n      Human_Rights\n      Distributive_Justice\n      Environmental_Ethics\n      Democratic_Theory",
+            "complexity": "high",
+            "tags": ["political_theory", "mind_map", "traditions", "concepts", "thinkers", "justice", "liberalism", "normative_methods"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

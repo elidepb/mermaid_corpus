@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Commercial Law",
+            "category": "Law",
+            "description": "This mind map organizes the field of Commercial Law around its central concept. It branches into major areas (contract law, sale of goods, secured transactions, negotiable instruments, business organizations, agency, competition law, consumer protection, international trade), key principles (freedom of contract, good faith, party autonomy, predictability), primary sources (Uniform Commercial Code, national statutes, case law, CISG, UNIDROIT principles), and common business entities (sole proprietorship, partnership, corporation, LLC). The structure captures the breadth of private law governing commerce.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Commercial Law))\n    Core_Areas\n      Contract_Law\n      Sale_of_Goods\n      Secured_Transactions\n      Negotiable_Instruments\n      Business_Organizations\n      Agency\n      Competition_Law\n      Consumer_Protection\n      International_Trade\n    Key_Principles\n      Freedom_of_Contract\n      Good_Faith\n      Party_Autonomy\n      Predictability\n    Primary_Sources\n      Uniform_Commercial_Code\n      National_Statutes\n      Case_Law\n      CISG\n      UNIDROIT_Principles\n    Business_Entities\n      Sole_Proprietorship\n      Partnership\n      Corporation\n      LLC",
+            "complexity": "high",
+            "tags": ["commercial_law", "mind_map", "business_law", "UCC", "contracts", "business_entities", "CISG"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomics",
+            "category": "Economics",
+            "description": "The mind map of microeconomics branches from the central idea into its fundamental building blocks: consumer theory (utility, budget, preferences), producer theory (production, costs, profit maximization), market structures (perfect competition, monopoly, oligopoly), factor markets (labour, capital), welfare economics (efficiency, equity, Pareto optimality), and market failures that call for corrective intervention (externalities, public goods, asymmetric information).",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Microeconomics))\n    Consumer Theory\n      Utility\n      Budget Constraint\n      Indifference Curves\n    Producer Theory\n      Production Function\n      Costs of Production\n      Profit Maximization\n    Market Structures\n      Perfect Competition\n      Monopoly\n      Monopolistic Competition\n      Oligopoly\n    Factor Markets\n      Labour\n      Capital\n      Land\n    Welfare Economics\n      Efficiency\n      Equity\n      Pareto Optimality\n    Market Failure\n      Externalities\n      Public Goods\n      Asymmetric Information",
+            "complexity": "medium",
+            "tags": [
+                "microeconomics",
+                "mind_map",
+                "consumer_theory",
+                "market_structures",
+                "welfare",
+                "externalities"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

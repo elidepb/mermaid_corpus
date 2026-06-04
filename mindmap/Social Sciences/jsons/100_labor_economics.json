@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Labor Economics",
+            "category": "Economics",
+            "description": "The mind map of labor economics branches out from the central concept into five key areas. Labor supply covers participation, hours, human capital, and migration. Labor demand focuses on marginal productivity, derived demand, and elasticity. Wage determination explores competitive equilibrium, monopsony, efficiency wages, and collective bargaining. Institutions include trade unions, minimum wage laws, unemployment insurance, and employment protection legislation. Finally, outcomes encompass employment, unemployment, wage inequality, and discrimination. This structure provides a comprehensive overview of the field’s main components.",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Labor Economics))\n    Labor Supply\n      Participation rate\n      Hours worked\n      Human capital\n      Migration\n    Labor Demand\n      Marginal productivity\n      Derived demand\n      Elasticity\n    Wage Determination\n      Competitive equilibrium\n      Monopsony\n      Efficiency wages\n      Bargaining\n    Institutions\n      Trade unions\n      Minimum wage\n      Unemployment insurance\n      Employment protection\n    Outcomes\n      Employment\n      Unemployment\n      Wage inequality\n      Discrimination",
+            "complexity": "medium",
+            "tags": [
+                "labor_economics",
+                "mind_map",
+                "wages",
+                "unemployment",
+                "human_capital"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

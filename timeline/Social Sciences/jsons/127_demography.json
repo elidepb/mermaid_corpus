@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demography",
+            "category": "Social Sciences",
+            "description": "This timeline traces the evolution of Demography from early enumerations to modern population science. Key milestones: ancient censuses (Babylon c. 3800 BCE, Roman c. 6 CE); John Graunt’s 1662 life table analysis, founding demography; Edmund Halley’s 1693 life table; Thomas Malthus’s 1798 ‘Essay on the Principle of Population’; the first modern censuses (US 1790, UK 1801); Adolphe Quetelet’s 1835 statistical sociology; Alfred Lotka’s 1907 stable population theory; the demographic transition model (Notestein, 1945); the 1946 establishment of the UN Population Division; the 1954 World Population Conference; the 1974 Bucharest Conference; the 1994 Cairo Conference on Population and Development; global population milestones (1 billion 1804, 7 billion 2011, 8 billion 2022); and contemporary developments in big data and population projections.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Demography\n    section Early Enumerations\n      c. 3800 BCE : Babylonian clay tablets<br>census\n      c. 6 CE : Roman census\n    section Scientific Foundations\n      1662 : John Graunt<br>Natural and Political Observations\n      1693 : Edmund Halley<br>First modern life table\n      1798 : Thomas Malthus<br>Essay on Population\n    section Modern Censuses & Statistics\n      1790 : First US Census\n      1801 : First UK Census\n      1835 : Adolphe Quetelet<br>Statistical study of man\n      1907 : Alfred Lotka<br>Stable population theory\n    section Demographic Transition & Institutions\n      1945 : Frank Notestein<br>Demographic transition model\n      1946 : UN Population Division<br>established\n      1954 : First World Population Conference\n    section Global Policy & Development\n      1974 : Bucharest Conference<br>population & development\n      1994 : Cairo Conference<br>reproductive health & rights\n    section Population Milestones\n      1804 : 1 billion\n      1927 : 2 billion\n      1960 : 3 billion\n      1974 : 4 billion\n      1987 : 5 billion\n      1999 : 6 billion\n      2011 : 7 billion\n      2022 : 8 billion\n    section Contemporary\n      2010s-20s : Big data, microsimulation,<br>and climate‑sensitive projections",
+            "complexity": "high",
+            "tags": ["demography", "history", "timeline", "census", "malthus", "demographic_transition", "population_growth", "vital_statistics"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

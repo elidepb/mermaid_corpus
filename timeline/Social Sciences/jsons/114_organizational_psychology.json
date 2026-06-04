@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Organizational Psychology",
+            "category": "Psychology & Business",
+            "description": "This timeline traces the evolution of Organizational Psychology. Key milestones: Taylor's Scientific Management (1911) and Münsterberg's 'Psychology and Industrial Efficiency' (1913) established the field. The Hawthorne studies (1924‑1932) launched the human relations movement. Mid‑century saw Maslow's hierarchy of needs (1943), the formation of APA Division 14 (1945, later SIOP), Herzberg's two‑factor theory (1959), and Vroom's expectancy theory (1964). The job characteristics model (1976) transformed job design. The 1990s emphasized stress, well‑being, and work‑life balance. The 2000s brought positive organizational behavior (2002) and people analytics (2010s). Contemporary themes include remote work, DEI, and digital transformation (2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Organizational Psychology\n    section Early Foundations\n      1911 : Frederick Taylor<br>Principles of Scientific Management\n      1913 : Hugo Münsterberg<br>Psychology and Industrial Efficiency\n    section Human Relations\n      1924-32 : Hawthorne Studies<br>(Mayo) Human relations movement\n    section Mid‑Century Theories\n      1943 : Maslow<br>Hierarchy of needs\n      1945 : APA Division 14<br>Industrial-Organizational Psychology\n      1959 : Herzberg<br>Two-factor theory\n      1964 : Vroom<br>Expectancy theory\n    section Job Design & OD\n      1976 : Hackman & Oldham<br>Job characteristics model\n      1980s : Organizational development<br>culture & change\n    section Modern Era\n      1990s : Stress & well-being<br>work-life balance\n      2002 : Positive organizational<br>behavior (Luthans)\n      2010s : People analytics<br>& big data\n      2020s : Remote work, DEI,<br>digital transformation",
+            "complexity": "high",
+            "tags": ["organizational_psychology", "history", "timeline", "scientific_management", "hawthorne_studies", "maslow", "job_characteristics", "people_analytics"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

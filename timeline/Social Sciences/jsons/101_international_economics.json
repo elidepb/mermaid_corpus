@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "International Economics",
+            "category": "Economics",
+            "description": "The timeline of international economics highlights key milestones. David Ricardo’s principle of comparative advantage (1817) laid the intellectual foundation for the gains from trade. The Great Depression and the Smoot‑Hawley tariff (1930s) demonstrated the dangers of protectionism. The Bretton Woods conference (1944) established a system of fixed exchange rates and created the IMF and World Bank. The collapse of Bretton Woods in 1971 led to a regime of floating exchange rates. In 1979, Paul Krugman’s new trade theory incorporated economies of scale and imperfect competition. The World Trade Organization (WTO) was founded in 1995 to oversee multilateral trade rules. The Global Financial Crisis of 2008 caused a sharp contraction in trade and capital flows, while the ongoing US‑China trade war (2018–present) has reignited debates about protectionism and global supply chains.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of International Economics\n    1817 : Ricardo’s comparative advantage<br>Foundation of trade theory\n    1930s : Great Depression & protectionism<br>Smoot‑Hawley tariff\n    1944 : Bretton Woods<br>Fixed exchange rates, IMF, World Bank\n    1971 : End of Bretton Woods<br>Floating exchange rates\n    1979 : Krugman’s new trade theory<br>Economies of scale, imperfect competition\n    1995 : WTO established<br>Multilateral trade rules\n    2008 : Global Financial Crisis<br>Collapse of trade, capital flows\n    2018‑present : US‑China trade war<br>Rise of protectionism",
+            "complexity": "medium",
+            "tags": [
+                "international_economics",
+                "history",
+                "Bretton_Woods",
+                "WTO",
+                "trade_war"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

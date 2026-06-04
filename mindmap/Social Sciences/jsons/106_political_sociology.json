@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Political Sociology",
+            "category": "Sociology & Political Science",
+            "description": "This mind map outlines the terrain of political sociology. The central node branches into key concepts (state, power, legitimacy, authority, civil society, hegemony), foundational theorists (Marx on class conflict, Weber on legitimacy and bureaucracy, Gramsci on cultural hegemony), major theoretical perspectives (elite theory, pluralism, Marxism, institutionalism, post-structuralism), and primary research areas (political participation, social movements, revolutions, voting behavior, nationalism, welfare states, political communication). The map captures the field's conceptual and thematic breadth.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Political Sociology))\n    Core_Concepts\n      Power\n      State\n      Legitimacy\n      Authority\n      Civil Society\n      Hegemony\n    Foundational_Theorists\n      Karl Marx\n        Class Conflict\n        Base & Superstructure\n      Max Weber\n        Types of Authority\n        Bureaucracy\n      Antonio Gramsci\n        Cultural Hegemony\n        Organic Intellectuals\n    Theoretical_Perspectives\n      Elite Theory\n        Pareto, Mosca\n      Pluralism\n        Robert Dahl\n      Marxism\n      New Institutionalism\n      Post-Structuralism\n        Foucault\n    Research_Areas\n      Political Participation\n      Social Movements\n      Revolutions\n      Voting Behavior\n      Nationalism\n      Welfare States\n      Political Communication",
+            "complexity": "high",
+            "tags": ["political_sociology", "mind_map", "power", "state", "gramsci", "elite_theory", "social_movements", "political_participation"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

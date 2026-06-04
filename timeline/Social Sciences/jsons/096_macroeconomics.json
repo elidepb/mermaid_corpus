@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "The history of macroeconomics unfolds through seminal works and events: Adam Smith’s Wealth of Nations (1776) laid classical foundations; the Great Depression prompted Keynes’s General Theory (1936), marking the birth of modern macro. The 1950s‑60s brought the Monetarist challenge (Friedman & Schwartz), the 1970s saw Rational Expectations (Lucas critique) and stagflation, while the 1980s‑90s forged the New Keynesian synthesis. The Global Financial Crisis of 2008 spurred macroprudential regulation and a renewed focus on financial stability.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of Macroeconomics\n    1776 : Adam Smith publishes<br>Wealth of Nations\n    1936 : Keynes’s General Theory<br>Birth of modern macro\n    1950s-60s : Monetarist counter‑revolution<br>Friedman & Schwartz\n    1958 : Phillips Curve introduced\n    1970s : Rational Expectations<br>Lucas critique\n    1980s-90s : New Keynesian synthesis<br>Real Business Cycle models\n    2008-09 : Global Financial Crisis<br>Macroprudential regulation",
+            "complexity": "medium",
+            "tags": [
+                "macroeconomics",
+                "history_of_economics",
+                "Keynes",
+                "Friedman",
+                "Lucas_critique",
+                "Great_Recession"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

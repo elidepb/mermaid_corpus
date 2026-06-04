@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Social Psychology",
+            "category": "Psychology",
+            "description": "This mind map organizes the field of Social Psychology around its central concept. Branches cover Core Concepts (social perception, attitudes, conformity, obedience, group polarization, prejudice, prosocial behavior), Major Theories (attribution theory, cognitive dissonance, social identity theory, social learning theory, realistic conflict theory), Landmark Studies (Asch conformity, Milgram obedience, Zimbardo prison, Sherif Robbers Cave, Tajfel minimal group), Research Methods (experiments, surveys, naturalistic observation, archival analysis, implicit association test), Key Contributors (Allport, Lewin, Festinger, Asch, Milgram, Bandura, Tajfel), and Applied Areas (health psychology, organizational behavior, legal psychology, environmental psychology, political psychology).",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Social Psychology))\n    Core_Concepts\n      Social_Cognition\n      Attitudes\n      Conformity\n      Obedience\n      Group_Polarization\n      Prejudice\n      Prosocial_Behavior\n    Major_Theories\n      Attribution_Theory\n      Cognitive_Dissonance\n      Social_Identity_Theory\n      Social_Learning_Theory\n      Realistic_Conflict_Theory\n    Landmark_Studies\n      Asch_(1951)\n        Conformity\n      Milgram_(1963)\n        Obedience\n      Zimbardo_(1971)\n        Stanford_Prison\n      Sherif_(1954)\n        Robbers_Cave\n      Tajfel_(1970)\n        Minimal_Group\n    Research_Methods\n      Experiments\n      Surveys\n      Naturalistic_Observation\n      Archival_Analysis\n      Implicit_Association_Test\n    Key_Contributors\n      Gordon_Allport\n      Kurt_Lewin\n      Leon_Festinger\n      Solomon_Asch\n      Stanley_Milgram\n      Albert_Bandura\n      Henri_Tajfel\n    Applied_Areas\n      Health\n      Organizations\n      Law\n      Environment\n      Politics",
+            "complexity": "high",
+            "tags": ["social_psychology", "mind_map", "social_influence", "conformity", "obedience", "social_identity", "attribution", "milgram"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

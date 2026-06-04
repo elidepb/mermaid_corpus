@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Political Theory",
+            "category": "Political Science",
+            "description": "This timeline traces the historical evolution of Political Theory. It begins with ancient Greek foundations (Plato’s Republic c. 380 BCE, Aristotle’s Politics c. 335 BCE). Medieval contributions (Augustine c. 400, Aquinas c. 1260) integrated theology and politics. Renaissance realism (Machiavelli’s The Prince 1513) and the social contract tradition (Hobbes 1651, Locke 1689, Rousseau 1762) shaped modern thought. The 19th century brought Hegel’s idealism, Marx’s critique of capitalism (1848, 1867), and Mill’s liberalism (1859). Twentieth‑century landmarks include John Rawls’s A Theory of Justice (1971), Robert Nozick’s libertarian response (1974), and the rise of critical theory, feminism, and post‑colonial political thought. Contemporary political theory addresses global justice, multiculturalism, and ecological concerns (1990s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Political Theory\n    section Ancient Foundations\n      c. 380 BCE : Plato<br>The Republic\n      c. 335 BCE : Aristotle<br>Politics\n    section Medieval Synthesis\n      c. 400 : Augustine<br>City of God\n      c. 1260 : Aquinas<br>Summa Theologica\n    section Renaissance & Social Contract\n      1513 : Machiavelli<br>The Prince\n      1651 : Hobbes<br>Leviathan\n      1689 : Locke<br>Two Treatises of Government\n      1762 : Rousseau<br>The Social Contract\n    section 19th Century\n      1821 : Hegel<br>Philosophy of Right\n      1848 : Marx & Engels<br>Communist Manifesto\n      1859 : J.S. Mill<br>On Liberty\n    section 20th Century\n      1971 : John Rawls<br>A Theory of Justice\n      1974 : Robert Nozick<br>Anarchy, State, and Utopia\n      1980s : Feminist & critical<br>race theory\n    section Contemporary\n      1990s : Global justice &<br>multiculturalism\n      2000s : Post‑colonial &<br>decolonial thought\n      2010s‑20s : Ecological political<br>theory & populism",
+            "complexity": "high",
+            "tags": ["political_theory", "history", "timeline", "plato", "machiavelli", "rawls", "social_contract", "justice", "critical_theory"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

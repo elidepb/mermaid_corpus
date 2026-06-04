@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "International Economics",
+            "category": "Economics",
+            "description": "The mind map of international economics organizes the field into five interconnected branches. Trade theory includes the Ricardian model, the Heckscher‑Ohlin framework, new trade theory, and the gravity model of trade. Trade policy covers tariffs, quotas, subsidies, regional trade agreements, and the role of the WTO. International finance examines exchange rate regimes, the balance of payments, currency crises, and capital flows. Global institutions such as the IMF, World Bank, and G20 coordinate monetary and development policies. Finally, current issues like globalization, trade wars, global supply chains, and sustainable development reflect the dynamic challenges studied in the field.",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((International Economics))\n    Trade Theory\n      Ricardian model\n      Heckscher‑Ohlin\n      New trade theory\n      Gravity model\n    Trade Policy\n      Tariffs & quotas\n      Subsidies\n      Regional agreements\n      WTO\n    International Finance\n      Exchange rate regimes\n      Balance of payments\n      Currency crises\n      Capital flows\n    Global Institutions\n      IMF\n      World Bank\n      G20\n    Current Issues\n      Globalization\n      Trade wars\n      Supply chains\n      Sustainable development",
+            "complexity": "medium",
+            "tags": [
+                "international_economics",
+                "mind_map",
+                "trade_theory",
+                "exchange_rates",
+                "globalization"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

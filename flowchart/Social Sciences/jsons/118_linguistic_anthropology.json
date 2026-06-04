@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Linguistic Anthropology",
+            "category": "Anthropology",
+            "description": "Linguistic Anthropology is the study of how language shapes social life, culture, and identity. This flowchart outlines the process: it aims to understand language as a social practice and cultural resource. Core components include language and thought (linguistic relativity), language socialization, speech communities, and language ideology. These are investigated through ethnographic fieldwork and discourse analysis, guided by major theoretical frameworks (indexicality, performativity, language ideologies). The resulting insights apply to language policy, education, and cross‑cultural communication.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Linguistic Anthropology</b><br>Study of how language shapes<br>social life, culture, and identity]:::title\n    B[<b>GOAL</b><br>Understand language as<br>social practice and cultural resource]:::goal\n    C[<b>CORE COMPONENTS</b>]:::components\n    subgraph D[Language & Thought]\n        D1[Linguistic relativity<br>Sapir-Whorf hypothesis<br>Language and cognition]\n    end\n    subgraph E[Socialization & Use]\n        E1[Language socialization<br>Speech communities<br>Language ideologies]\n    end\n    F[<b>METHODS & THEORIES</b>]:::methods\n    subgraph G[Research Methods]\n        G1[Ethnographic fieldwork<br>Participant observation<br>Conversation analysis<br>Discourse analysis]\n    end\n    subgraph H[Theoretical Frameworks]\n        H1[Indexicality<br>Performativity<br>Language ideology<br>Metapragmatics]\n    end\n    I[<b>APPLICATIONS</b><br>Language policy, education,<br>cross‑cultural communication,<br>language revitalization]:::outcome\n\n    A -->|aims to| B\n    B -->|requires understanding of| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|investigated through| F\n    F -->|combines| G\n    F -->|combines| H\n    G & H -->|inform| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["linguistic_anthropology", "language", "culture", "sociolinguistics", "linguistic_relativity", "ethnography", "language_ideology", "discourse_analysis"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

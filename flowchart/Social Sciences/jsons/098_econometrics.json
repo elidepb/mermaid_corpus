@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometrics",
+            "category": "Economics",
+            "description": "Econometrics applies statistical and mathematical methods to economic data in order to give empirical content to economic theories and to verify or refute them. The flowchart illustrates the sequential process of econometric analysis. It begins with an economic theory or hypothesis, followed by the collection of relevant data (cross‑sectional, time series, or panel data). Then, a specific model is formulated and its parameters are estimated. The estimated model undergoes hypothesis testing and diagnostic checks to assess its validity. Finally, the model is used for forecasting or policy evaluation. If the model fails diagnostics, the process returns to model specification, creating a feedback loop that ensures robust empirical conclusions.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>ECONOMETRICS</b><br>Statistical analysis of<br>economic data]:::title\n    B[<b>ULTIMATE PURPOSE</b><br>Test theories, estimate relationships,<br>forecast and evaluate policies]:::purpose\n    C[<b>CORE STEPS</b>]:::steps\n    subgraph steps [ ]\n        D[Economic Theory<br>or Hypothesis]\n        E[Data Collection<br>Cross‑section, Time series, Panel]\n        F[Model Specification<br>& Estimation]\n        G[Hypothesis Testing<br>& Diagnostics]\n        H[Forecasting &<br>Policy Evaluation]\n    end\n    A -->|aims to| B\n    B -->|achieved through| C\n    C --> D\n    D --> E\n    E --> F\n    F --> G\n    G --> H\n    H -->|feedback if model fails| F\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef purpose fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef steps fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    style steps fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+              "econometrics",
+              "data_analysis",
+              "regression",
+              "hypothesis_testing",
+              "forecasting"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

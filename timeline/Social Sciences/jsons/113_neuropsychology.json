@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsychology",
+            "category": "Psychology & Neuroscience",
+            "description": "This timeline traces key milestones in the history of Neuropsychology. Gall's phrenology (1796) sparked interest in brain localization. Broca's 1861 identification of the speech area and Wernicke's 1874 description of receptive aphasia established clinico‑anatomical correlation. Early 20th century: Hebb's cell assembly theory (1949). Alexander Luria developed a comprehensive neuropsychological assessment approach during WWII, later published 'The Working Brain' (1973). The 1970s‑80s saw the rise of clinical neuropsychology with standardized batteries (Halstead‑Reitan, Luria‑Nebraska). Neuroimaging advances: CT (1970s), MRI (1980s), fMRI (1990s) revolutionized understanding of brain‑behavior relationships. Cognitive neuropsychology emerged (1980s‑90s) with models of reading and memory. The 2000s brought connectomics, default mode network, and computational approaches. Recent years emphasize big data, AI diagnostics, and personalized interventions.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Neuropsychology\n    section Precursors\n      1796 : Franz Joseph Gall<br>Phrenology\n    section Classic Localization\n      1861 : Paul Broca<br>Broca's area\n      1874 : Carl Wernicke<br>Wernicke's area\n    section Mid‑Century Foundations\n      1949 : Donald Hebb<br>Cell assembly theory\n      1940s-50s : Alexander Luria<br>Functional systems\n      1973 : Luria's \"The Working Brain\"\n    section Clinical Expansion\n      1970s : Halstead‑Reitan battery<br>Luria‑Nebraska battery\n      1970s : CT scanning introduced\n      1980s : MRI in clinical use\n    section Cognitive & Network Era\n      1980s-90s : Cognitive neuropsychology<br>(reading models, memory models)\n      1990s : fMRI becomes widespread\n      2000s : Connectomics & default mode network\n    section Contemporary\n      2010s : Big data & machine learning\n      2020s : AI‑assisted diagnostics<br>personalized neurorehabilitation",
+            "complexity": "high",
+            "tags": ["neuropsychology", "history", "timeline", "broca", "wernicke", "luria", "hebb", "neuroimaging", "cognitive_neuropsychology"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

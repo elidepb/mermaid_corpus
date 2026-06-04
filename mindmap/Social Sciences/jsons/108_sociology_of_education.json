@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociology of Education",
+            "category": "Sociology",
+            "description": "This mind map organizes the field of Sociology of Education around its central concept. It branches into Core Concepts (educational inequality, social reproduction, cultural capital, hidden curriculum, tracking, credentialism), Theoretical Perspectives (Functionalism with Durkheim and Parsons, Conflict Theory with Bowles and Gintis, Interactionism on labeling, Cultural Reproduction through Bourdieu, Critical Pedagogy from Freire), Research Areas (class and achievement, race and education, gender and schooling, higher education, school choice), Key Thinkers (Durkheim, Bourdieu, Coleman, Freire, Willis), and Policy Issues (school funding, desegregation, accountability, privatization). The structure captures the field's conceptual breadth and its main lines of inquiry.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Sociology of Education))\n    Core_Concepts\n      Educational_Inequality\n      Social_Reproduction\n      Cultural_Capital\n      Hidden_Curriculum\n      Tracking\n      Credentialism\n    Theoretical_Perspectives\n      Functionalism\n        Durkheim\n        Parsons\n      Conflict_Theory\n        Bowles_and_Gintis\n      Interactionism\n        Labeling\n      Cultural_Reproduction\n        Bourdieu\n      Critical_Pedagogy\n        Freire\n    Research_Areas\n      Class_and_Achievement\n      Race_and_Education\n      Gender_and_Schooling\n      Higher_Education\n      School_Choice\n    Key_Thinkers\n      Durkheim\n      Bourdieu\n      Coleman\n      Freire\n      Willis\n    Policy_Issues\n      School_Funding\n      Desegregation\n      Accountability\n      Privatization",
+            "complexity": "high",
+            "tags": ["sociology_of_education", "mind_map", "educational_inequality", "cultural_capital", "hidden_curriculum", "labeling", "school_choice", "bourdieu"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

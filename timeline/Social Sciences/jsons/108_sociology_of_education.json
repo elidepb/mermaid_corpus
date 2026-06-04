@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociology of Education",
+            "category": "Sociology",
+            "description": "This timeline traces the historical development of Sociology of Education. Early foundations include Durkheim’s 'Education and Sociology' (1922) and Parsons’ view of the school class as a social system (1959). The 1960s‑70s shifted toward inequality: the Coleman Report on equality of educational opportunity (1966), Bourdieu and Passeron’s cultural reproduction theory (1970), and Bowles and Gintis’s correspondence principle (1976). Critical and resistance perspectives emerged with Willis’s 'Learning to Labour' (1977) and Apple’s 'Ideology and Curriculum' (1979). The 1980s‑90s saw feminist critiques and Lareau’s work on class and parenting. From the 2000s, global comparisons (PISA, TIMSS) and school choice debates dominated. Contemporary work addresses the digital divide and the pandemic’s impact on educational inequality.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Sociology of Education\n    section Early Foundations\n      1922 : Émile Durkheim<br>Education and Sociology\n      1959 : Talcott Parsons<br>The school class as a social system\n    section Equality & Reproduction\n      1966 : James Coleman<br>Equality of Educational Opportunity\n      1970 : Bourdieu & Passeron<br>La Reproduction\n      1976 : Bowles & Gintis<br>Schooling in Capitalist America\n    section Critical & Resistance\n      1977 : Paul Willis<br>Learning to Labour\n      1979 : Michael Apple<br>Ideology and Curriculum\n    section Expansion & Policy\n      1980s : Feminist critiques<br>gendered curriculum\n      1989 : Annette Lareau<br>Home Advantage\n      2000s : Global comparisons<br>PISA & TIMSS\n    section Contemporary\n      2010s : School choice debates<br>digital divide\n      2020 : Pandemic impacts<br>inequality & online learning",
+            "complexity": "high",
+            "tags": ["sociology_of_education", "history", "timeline", "coleman_report", "bourdieu", "bowles_gintis", "willis", "educational_inequality", "digital_divide"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

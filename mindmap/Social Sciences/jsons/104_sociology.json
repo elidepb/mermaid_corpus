@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociology",
+            "category": "Social Sciences",
+            "description": "This mind map organizes the multidisciplinary field of Sociology around its central concept. It branches into Core Concepts (social structure, culture, socialization, inequality, institutions), Major Theoretical Perspectives (Functionalism – Durkheim, Conflict Theory – Marx, Symbolic Interactionism – Mead, Feminist Theory, Postmodernism), Research Methods (quantitative: surveys/statistics; qualitative: ethnography/interviews; mixed methods), Key Thinkers (Comte, Marx, Durkheim, Weber, Du Bois), and Key Subfields (stratification, race & ethnicity, gender, urban, medical, education, political sociology). The structure illustrates the breadth of sociological inquiry.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Sociology))\n    Core_Concepts\n      Social Structure\n      Culture\n      Socialization\n      Inequality\n      Institutions\n    Theoretical_Perspectives\n      Functionalism\n        Durkheim\n      Conflict Theory\n        Marx\n      Symbolic Interactionism\n        Mead\n      Feminist Theory\n      Postmodernism\n    Research_Methods\n      Quantitative\n        Surveys\n        Statistics\n      Qualitative\n        Ethnography\n        Interviews\n      Mixed Methods\n    Key_Thinkers\n      Auguste Comte\n      Karl Marx\n      Émile Durkheim\n      Max Weber\n      W.E.B. Du Bois\n    Key_Subfields\n      Stratification\n      Race & Ethnicity\n      Gender\n      Urban\n      Medical\n      Education\n      Political",
+            "complexity": "high",
+            "tags": ["sociology", "mind_map", "social_theory", "durkheim", "marx", "weber", "research_methods", "subfields"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

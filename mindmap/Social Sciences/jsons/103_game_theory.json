@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Mathematics & Economics",
+            "description": "This mind map outlines the fundamental structure of Game Theory. From the central root, branches cover Key Elements (players, strategies, payoffs, information), Game Types (cooperative, non-cooperative, zero-sum, simultaneous, sequential, perfect/imperfect info), Solution Concepts (dominant strategy, Nash equilibrium, subgame perfect, Bayesian Nash, evolutionary stable), and Applications (economics—oligopoly, auctions; political science—voting, conflict; biology—evolution; computer science—AI, networks). It provides a comprehensive map of the theory’s components.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Game Theory))\n    Key_Elements\n      Players\n      Strategies\n      Payoffs\n      Information\n    Game_Types\n      Cooperative\n      Non-Cooperative\n      Zero-Sum\n      Simultaneous\n      Sequential\n      Perfect_Info\n      Imperfect_Info\n    Solution_Concepts\n      Dominant Strategy\n      Nash Equilibrium\n      Subgame Perfect\n      Bayesian Nash\n      Evolutionary Stable\n    Applications\n      Economics\n        Oligopoly\n        Auctions\n      Political Science\n        Voting\n        Conflict\n      Biology\n        Evolution\n      Computer Science\n        AI\n        Networks",
+            "complexity": "high",
+            "tags": ["game_theory", "nash_equilibrium", "mind_map", "strategic_interaction", "applications", "cooperative", "non_cooperative", "solution_concepts"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

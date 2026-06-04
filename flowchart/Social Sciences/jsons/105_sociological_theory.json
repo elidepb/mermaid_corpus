@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Sociological Theory",
+            "category": "Sociology",
+            "description": "Sociological theory provides frameworks for understanding social phenomena. This flowchart maps the process: beginning with the goal of explaining social order and change, it integrates classical foundations (Marx's conflict theory, Durkheim's functionalism, Weber's interpretive sociology) and modern perspectives (functionalism, conflict, symbolic interactionism, feminism, critical race theory, postmodernism). It then engages core theoretical debates (structure vs agency, consensus vs conflict, micro vs macro) that guide analysis of social institutions (family, education, economy), ultimately yielding policy insights, critical reflection, and avenues for social change.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociological Theory</b><br>Frameworks for understanding<br>social order, action, and change]:::title\n    B[<b>GOAL</b><br>Explain social phenomena<br>and guide sociological research]:::goal\n    C[<b>FOUNDATIONS</b>]:::foundations\n    subgraph D[Classical Theorists]\n        D1[Karl Marx<br>Class conflict, alienation<br>base/superstructure]\n        D2[Émile Durkheim<br>Social facts, collective conscience<br>anomie, functionalism]\n        D3[Max Weber<br>Verstehen, rationalization<br>Protestant ethic, bureaucracy]\n    end\n    subgraph E[Modern Perspectives]\n        E1[Functionalism<br>Conflict Theory<br>Symbolic Interactionism<br>Feminist Theory<br>Critical Race Theory<br>Postmodernism]\n    end\n    F[<b>CORE DEBATES</b><br>Structure vs Agency<br>Consensus vs Conflict<br>Micro vs Macro]:::debates\n    G[<b>ANALYSIS</b><br>Applied to institutions<br>Family, Education, Economy, State]:::analysis\n    H[<b>OUTCOMES</b><br>Policy insights, critical reflection<br>pathways for social change]:::outcome\n\n    A -->|pursues| B\n    B -->|integrates| C\n    C -->|builds on| D\n    C -->|incorporates| E\n    D & E -->|inform| F\n    F -->|guides| G\n    G -->|produces| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef foundations fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef debates fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["sociological_theory", "classical_sociology", "functionalism", "conflict_theory", "symbolic_interactionism", "feminism", "structure_agency", "social_analysis"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Behavioral Economics",
+            "category": "Economics & Psychology",
+            "description": "Behavioral Economics integrates psychological insights into economic theory to explain real human decision-making. This flowchart illustrates the process: starting from the ultimate goal of understanding and improving real-world decisions, it highlights the role of psychological drivers including cognitive biases (availability, anchoring) and framing effects, which are formalized in key theories like Prospect Theory, Bounded Rationality, and Mental Accounting. These drivers lead to suboptimal outcomes such as under-saving and panic. The chart then shows how Nudge Theory (choice architecture) intervenes to mitigate these biases, ultimately achieving better individual and societal welfare.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Behavioral Economics</b><br>Integrating psychology into economics<br>to understand real decisions]:::titulo\n    B[<b>ULTIMATE GOAL</b><br>Understand & improve<br>real-world decisions]:::goal\n    C[<b>PSYCHOLOGICAL DRIVERS</b>]:::drivers\n    subgraph D[Cognitive Biases & Heuristics]\n        D1[Availability, anchoring,<br>representativeness, overconfidence]\n    end\n    subgraph E[Framing & Context]\n        E1[How choices are presented<br>affects decisions]\n    end\n    subgraph F[Key Theories]\n        F1[Prospect Theory<br>Loss aversion, reference dependence<br>Bounded Rationality<br>Mental Accounting]\n    end\n    G[<b>OUTCOMES</b><br>Suboptimal choices:<br>under-saving, panic,<br>overconsumption]:::outcomes\n    H[<b>INTERVENTION</b><br>Nudge Theory:<br>Choice architecture to<br>improve decisions]:::intervention\n    I[<b>RESULT</b><br>Better individual &<br>societal welfare]:::result\n\n    A -->|aims to| B\n    B -->|through analysis of| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|is formalized in| F\n    D & E -->|lead to| G\n    G -->|can be mitigated by| H\n    H -->|achieving| I\n\n    classDef titulo fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef drivers fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef outcomes fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333\n    classDef intervention fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef result fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["behavioral_economics", "cognitive_biases", "prospect_theory", "nudge", "bounded_rationality", "heuristics", "framing", "loss_aversion"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

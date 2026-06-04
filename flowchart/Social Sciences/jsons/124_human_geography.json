@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Human Geography",
+            "category": "Geography",
+            "description": "Human Geography is the study of the spatial organization of human activities and the relationships between people and their environments. This flowchart illustrates its analytical framework: the overarching goal is to understand and explain spatial patterns of human behavior, culture, and society. It draws on core concepts (space, place, scale, region, landscape) and subfields (cultural, economic, urban, political, social geography). These are investigated through diverse methods (GIS, cartography, qualitative fieldwork, quantitative spatial analysis) and framed by major theoretical perspectives (positivism, humanistic geography, Marxist and feminist geography, post‑structuralism). The resulting analysis addresses key issues like globalization, migration, urban inequality, and environmental perception, and informs applications in planning, policy, and sustainable development.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Human Geography</b><br>Study of spatial organization of<br>human activities and people‑place relations]:::title\n    B[<b>GOAL</b><br>Understand spatial patterns<br>of human behavior, culture,<br>and society]:::goal\n    C[<b>CORE ELEMENTS</b>]:::elements\n    subgraph D[Key Concepts]\n        D1[Space, place, scale<br>Region, landscape, territory]\n    end\n    subgraph E[Subfields]\n        E1[Cultural, economic, urban<br>Political, social, population]\n    end\n    subgraph F[Methods]\n        F1[GIS & cartography<br>Qualitative fieldwork<br>Quantitative spatial analysis]\n    end\n    G[<b>THEORETICAL PERSPECTIVES</b><br>Positivism, humanistic,<br>Marxist, feminist,<br>post‑structural]:::theory\n    H[<b>ANALYSIS</b><br>Globalization, migration,<br>urban inequality,<br>environmental perception]:::analysis\n    I[<b>APPLICATIONS</b><br>Urban planning, policy,<br>sustainable development]:::outcome\n\n    A -->|aims to| B\n    B -->|integrates| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|framed by| G\n    G -->|examines| H\n    H -->|informs| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["human_geography", "spatial_organization", "place", "scale", "GIS", "cultural_geography", "urban_geography", "spatial_analysis"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

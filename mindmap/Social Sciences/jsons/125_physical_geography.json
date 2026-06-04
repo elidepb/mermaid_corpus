@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Physical Geography",
+            "category": "Geography",
+            "description": "This mind map organizes the field of Physical Geography. Major branches include Geomorphology (landforms, tectonic and fluvial processes), Climatology (climate classification, weather systems, climate change), Biogeography (ecosystems, biodiversity patterns, biomes), Hydrology (surface water, groundwater, water cycle), and Soil Geography (pedogenesis, soil classification). Core Concepts encompass systems theory, feedback, equilibrium, landscape evolution, and scale. Methods range from field mapping and remote sensing to GIS and numerical modeling. Notable figures include Alexander von Humboldt, William Morris Davis, and contemporary earth system scientists. Applications cover natural hazard assessment, environmental conservation, and climate adaptation.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Physical Geography))\n    Branches\n      Geomorphology\n        Tectonic\n        Fluvial\n        Coastal\n      Climatology\n        Weather\n        Climate_Change\n      Biogeography\n        Ecosystems\n        Biomes\n      Hydrology\n        Surface_Water\n        Groundwater\n      Soil_Geography\n        Pedogenesis\n        Classification\n    Core_Concepts\n      Systems_Theory\n      Feedback\n      Equilibrium\n      Landscape_Evolution\n      Scale\n    Methods\n      Field_Mapping\n      Remote_Sensing\n      GIS\n      Numerical_Modeling\n      Dating_Techniques\n    Notable_Figures\n      Alexander_von_Humboldt\n      William_Morris_Davis\n      G.K._Gilbert\n      John_McPhee\n    Applications\n      Natural_Hazard_Assessment\n      Environmental_Conservation\n      Climate_Adaptation\n      Resource_Management",
+            "complexity": "high",
+            "tags": ["physical_geography", "mind_map", "branches", "methods", "systems_theory", "landforms", "climate", "GIS"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Cognitive Psychology",
+            "category": "Psychology",
+            "description": "This timeline traces the history of Cognitive Psychology. Early precursors include Donders’ 1868 mental chronometry and Ebbinghaus’ 1885 studies of memory. Bartlett’s 1932 work on reconstructive memory challenged behaviorist views. The cognitive revolution gained momentum with the 1948 Hixon Symposium and Miller’s 1956 ‘magical number 7’. Chomsky’s 1959 review of Skinner’s verbal behavior marked a critical break. Key foundational models emerged: Broadbent’s 1958 filter model, Neisser’s 1967 textbook defining the field, and Atkinson & Shiffrin’s 1968 multi‑store model. The 1970s saw Baddeley & Hitch’s working memory model (1974) and Kahneman & Tversky’s heuristics (1974). The 1980s brought connectionism (Rumelhart & McClelland, 1986), while the 1990s saw cognitive neuroscience flourish. Since 2000, embodied cognition and big data approaches have expanded the field.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Cognitive Psychology\n    section Precursors\n      1868 : Donders<br>Mental chronometry (reaction time)\n      1885 : Ebbinghaus<br>Experimental study of memory\n      1932 : Bartlett<br>Reconstructive memory\n    section Cognitive Revolution\n      1948 : Hixon Symposium<br>Cerebral mechanisms\n      1956 : George Miller<br>\"Magical number 7\"\n      1958 : Broadbent<br>Filter model of attention\n      1959 : Noam Chomsky<br>Review of Skinner's verbal behavior\n    section Foundational Models\n      1967 : Ulric Neisser<br>Cognitive Psychology (textbook)\n      1968 : Atkinson & Shiffrin<br>Multi-store model of memory\n      1974 : Baddeley & Hitch<br>Working memory model\n      1974 : Kahneman & Tversky<br>Heuristics and biases\n    section Expansion\n      1986 : Rumelhart & McClelland<br>Connectionism (PDP)\n      1990s : Cognitive neuroscience<br>fMRI, PET, EEG\n    section Contemporary\n      2000s : Embodied cognition<br>mirror neurons\n      2010s : Big data & computational<br>cognitive science",
+            "complexity": "high",
+            "tags": ["cognitive_psychology", "history", "timeline", "cognitive_revolution", "neisser", "chomsky", "working_memory", "connectionism", "cognitive_neuroscience"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

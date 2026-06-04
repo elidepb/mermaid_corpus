@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Physical Anthropology",
+            "category": "Anthropology",
+            "description": "This mind map organizes the field of Physical Anthropology around its central concept. Branches cover major subfields (paleoanthropology, primatology, human variation, bioarchaeology, forensic anthropology, molecular anthropology), key concepts (natural selection, adaptation, hominin phylogeny, race as a social construct, genetic drift), core methods (fossil excavation and dating, comparative anatomy, genetics and ancient DNA, osteology, craniometry and 3D morphometrics), notable figures (Johann Blumenbach, Charles Darwin, Raymond Dart, Louis Leakey, Jane Goodall, Svante Pääbo), and applications (human origins research, forensic identification, medical anthropology, conservation of primates). The map captures the discipline’s breadth from evolutionary theory to applied science.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Physical Anthropology))\n    Subfields\n      Paleoanthropology\n      Primatology\n      Human_Variation\n      Bioarchaeology\n      Forensic_Anthropology\n      Molecular_Anthropology\n    Key_Concepts\n      Evolution_by_Natural_Selection\n      Adaptation\n      Hominin_Phylogeny\n      Race_as_a_Social_Construct\n      Genetic_Drift\n      Sexual_Dimorphism\n    Methods\n      Fossil_Excavation_&_Dating\n      Comparative_Anatomy\n      Genetics_&_Ancient_DNA\n      Osteology\n      Craniometry_&_3D_Morphometrics\n    Notable_Figures\n      Johann_Blumenbach\n      Charles_Darwin\n      Raymond_Dart\n      Louis_Leakey\n      Jane_Goodall\n      Svante_Pääbo\n    Applications\n      Human_Origins_Research\n      Forensic_Identification\n      Medical_Anthropology\n      Conservation_Primatology",
+            "complexity": "high",
+            "tags": ["physical_anthropology", "mind_map", "paleoanthropology", "primatology", "forensic", "ancient_dna", "human_variation", "evolution"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

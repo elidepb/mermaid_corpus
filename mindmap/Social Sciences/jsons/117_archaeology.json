@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Archaeology",
+            "category": "Archaeology",
+            "description": "This mind map organizes the field of Archaeology. It branches into Core Concepts (stratigraphy, context, artifact, ecofact, feature, site, taphonomy), Major Subfields (prehistoric, historical, classical, underwater, bioarchaeology, zooarchaeology, landscape archaeology), Methods (survey, excavation, GIS, remote sensing, dating methods, lab analysis), Theoretical Approaches (culture history, processual, post‑processual, agency, materiality, cognitive archaeology), Notable Figures (Flinders Petrie, Mortimer Wheeler, Gordon Childe, Lewis Binford, Ian Hodder), and Applied Areas (cultural resource management, heritage preservation, public archaeology, forensic archaeology). It captures the discipline's multidisciplinary nature.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Archaeology))\n    Core_Concepts\n      Stratigraphy\n      Context\n      Artifact\n      Ecofact\n      Feature\n      Site\n      Taphonomy\n    Subfields\n      Prehistoric_Archaeology\n      Historical_Archaeology\n      Classical_Archaeology\n      Underwater_Archaeology\n      Bioarchaeology\n      Zooarchaeology\n      Landscape_Archaeology\n    Methods\n      Survey\n      Excavation\n      GIS\n      Remote_Sensing\n      Dating_Methods\n      Lab_Analysis\n    Theoretical_Approaches\n      Culture_History\n      Processual\n      Post-Processual\n      Agency\n      Materiality\n      Cognitive_Archaeology\n    Notable_Figures\n      Flinders_Petrie\n      Mortimer_Wheeler\n      Gordon_Childe\n      Lewis_Binford\n      Ian_Hodder\n    Applied_Areas\n      Cultural_Resource_Management\n      Heritage_Preservation\n      Public_Archaeology\n      Forensic_Archaeology",
+            "complexity": "high",
+            "tags": ["archaeology", "mind_map", "stratigraphy", "excavation", "dating", "processual", "post-processual", "heritage"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

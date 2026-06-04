@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Criminal Law",
+            "category": "Law",
+            "description": "Criminal Law defines offenses against society and prescribes punishment. This flowchart maps its conceptual structure: the ultimate goal is to maintain social order and deliver justice by prohibiting harmful conduct. It integrates core elements—actus reus (criminal act) and mens rea (guilty mind)—with classification of offenses, followed by defenses (justifications and excuses). The process flows through criminal procedure (arrest, trial, sentencing) protected by constitutional safeguards (due process, presumption of innocence), and culminates in outcomes like punishment, rehabilitation, and public safety.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Criminal Law</b><br>Body of law defining crimes<br>and their punishments]:::title\n    B[<b>GOAL</b><br>Maintain social order, deter<br>harmful conduct, deliver justice]:::goal\n    C[<b>CORE ELEMENTS</b>]:::elements\n    subgraph D[Definition of a Crime]\n        D1[Actus reus (criminal act)<br>Mens rea (guilty mind)<br>Concurrence & causation]\n    end\n    subgraph E[Classification]\n        E1[Felonies, misdemeanors,<br>infractions, white‑collar crimes]\n    end\n    F[<b>DEFENSES</b><br>Justifications (self‑defense, necessity)<br>Excuses (insanity, duress)]:::defenses\n    G[<b>CRIMINAL PROCEDURE</b><br>Investigation, arrest, charging,<br>trial, sentencing, appeal]:::procedure\n    H[<b>CONSTITUTIONAL SAFEGUARDS</b><br>Presumption of innocence, due process,<br>right to counsel, protection against<br>unreasonable searches]:::rights\n    I[<b>OUTCOMES</b><br>Punishment, rehabilitation,<br>victim restoration, public safety]:::outcome\n\n    A -->|aims to| B\n    B -->|through analysis of| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|subject to| F\n    F -->|processed via| G\n    G -->|protected by| H\n    H -->|shapes| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef defenses fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef procedure fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef rights fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["criminal_law", "actus_reus", "mens_rea", "defenses", "criminal_procedure", "punishment", "justice", "due_process"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

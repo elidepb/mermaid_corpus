@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Physical Anthropology",
+            "category": "Anthropology",
+            "description": "This timeline traces the history of Physical Anthropology. Early classification began with Linnaeus (1735) and Blumenbach’s racial typology (1775). The 19th century saw Darwin’s 'On the Origin of Species' (1859) and Huxley’s 'Evidence as to Man's Place in Nature' (1863). The early 20th century brought Dubois’ discovery of Pithecanthropus (1891) and Dart’s Australopithecus (1925). Mid‑century witnessed the modern synthesis (Huxley, 1942), Leakey’s Olduvai finds (1959), and Washburn’s “new physical anthropology” (1951). The 1960s‑70s introduced molecular anthropology (Sarich & Wilson, 1967) and Goodall’s chimpanzee behavior research. The late 20th century refined 'Out of Africa' with mitochondrial Eve (1987). Recent decades have unlocked the Neanderthal genome (Pääbo, 2010) and Denisovan discoveries, integrating genomics and bioinformatics into the study of human evolution.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Physical Anthropology\n    section 18th–19th Century\n      1735 : Linnaeus<br>Systema Naturae (classifies humans)\n      1775 : Blumenbach<br>Racial classification\n      1859 : Darwin<br>On the Origin of Species\n      1863 : Huxley<br>Man's Place in Nature\n    section Early 20th Century\n      1891 : Dubois<br>Pithecanthropus erectus\n      1925 : Dart<br>Australopithecus africanus\n      1942 : Modern synthesis<br>(Huxley)\n    section Mid‑20th Century\n      1951 : Washburn<br>The New Physical Anthropology\n      1959 : Mary Leakey<br>Zinjanthropus (Olduvai)\n      1960s : Goodall begins<br>chimpanzee field studies\n    section Molecular Era\n      1967 : Sarich & Wilson<br>Molecular clock\n      1987 : Cann, Stoneking & Wilson<br>Mitochondrial Eve\n    section Genomic Revolution\n      2010 : Pääbo<br>Neanderthal genome draft\n      2010s : Denisovan discoveries<br>ancient genomics\n      2020s : Paleoproteomics<br>and AI in fossil analysis",
+            "complexity": "high",
+            "tags": ["physical_anthropology", "history", "timeline", "darwin", "dart", "leakey", "neanderthal", "mitochondrial_eve", "ancient_dna", "paleoanthropology"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

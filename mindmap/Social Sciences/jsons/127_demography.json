@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demography",
+            "category": "Social Sciences",
+            "description": "This mind map organizes the field of Demography around its central concept. Major branches include Core Processes (fertility, mortality, migration), Key Measures (crude birth rate, total fertility rate, life expectancy, infant mortality rate, net migration rate), Major Theories (Malthusian theory, demographic transition model, second demographic transition), Data Sources (census, vital registration, demographic surveys, administrative records), Analytical Methods (life table construction, population projections, decomposition analysis), and Applications (public policy, social security, urban planning, public health, marketing). It captures the quantitative and interdisciplinary nature of population studies.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Demography))\n    Core_Processes\n      Fertility\n      Mortality\n      Migration\n    Key_Measures\n      Crude_Birth_Rate\n      Total_Fertility_Rate\n      Life_Expectancy\n      Infant_Mortality_Rate\n      Net_Migration_Rate\n    Major_Theories\n      Malthusian_Theory\n      Demographic_Transition\n      Second_Demographic_Transition\n    Data_Sources\n      Census\n      Vital_Registration\n      Demographic_Surveys\n      Administrative_Records\n    Analytical_Methods\n      Life_Tables\n      Population_Projections\n      Decomposition_Analysis\n    Applications\n      Public_Policy\n      Social_Security\n      Urban_Planning\n      Public_Health\n      Marketing",
+            "complexity": "high",
+            "tags": ["demography", "mind_map", "population", "fertility", "mortality", "migration", "demographic_transition", "methods"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

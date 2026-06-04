@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociology",
+            "category": "Social Sciences",
+            "description": "This timeline traces the key milestones in the development of Sociology. It begins with Auguste Comte coining the term in 1838 and establishing positivism. The 1848 Communist Manifesto by Marx and Engels laid groundwork for conflict theory. The late 19th century saw Émile Durkheim's seminal works on social facts, methodology, and suicide (1893, 1895, 1897). Max Weber introduced interpretive sociology with The Protestant Ethic (1904–05). The 1920s Chicago School advanced urban sociology and symbolic interactionism. Mid‑20th century brought structural functionalism (Parsons, 1930s‑40s) and a revived conflict perspective (Mills, Coser, 1950s‑60s). From the 1970s onward, feminist sociology, critical race theory, postmodernism, and globalization expanded the field, leading to digital sociology in the 2010s.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Sociology\n    section Origins\n      1838 : Auguste Comte<br>coins \"sociology\" (Positivism)\n      1848 : Marx & Engels<br>Communist Manifesto\n    section Classical Foundations\n      1893 : Durkheim<br>The Division of Labor in Society\n      1895 : Durkheim<br>Rules of Sociological Method\n      1897 : Durkheim<br>Suicide (empirical sociology)\n      1904-05 : Max Weber<br>The Protestant Ethic and the Spirit of Capitalism\n    section Early 20th Century\n      1920s : Chicago School<br>Urban sociology & symbolic interactionism\n      1930s-40s : Talcott Parsons<br>Structural functionalism\n    section Mid‑Century Developments\n      1950s-60s : Conflict theory revival<br>(C. Wright Mills, Lewis Coser)\n    section Late 20th Century & Beyond\n      1970s : Feminist sociology<br>Critical race theory\n      1980s : Postmodernism<br>Globalization studies\n      2010s : Digital sociology<br>& computational social science",
+            "complexity": "high",
+            "tags": ["sociology", "history", "comte", "marx", "durkheim", "weber", "chicago_school", "parsons", "feminist_sociology"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

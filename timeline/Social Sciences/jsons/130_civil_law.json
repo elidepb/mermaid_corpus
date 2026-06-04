@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Civil Law",
+            "category": "Law",
+            "description": "This timeline traces the evolution of Civil Law from Roman law to modern codifications. Key milestones: the Twelve Tables (450 BCE) as the first written Roman law; Justinian's Corpus Juris Civilis (529‑534 CE) systematizing Roman jurisprudence; the rediscovery of Roman law in medieval universities (Bologna, 11th century); the influence of canon law; the French Civil Code (Code Napoléon, 1804) marking modern codification; the Austrian ABGB (1811); the German Bürgerliches Gesetzbuch (BGB, 1900); the Swiss Civil Code (1907); the spread of civil law systems through colonization and legal transplants; and contemporary developments such as European harmonization of private law (PECL, DCFR).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Civil Law\n    section Roman Foundations\n      450 BCE : Twelve Tables\n      529‑534 CE : Justinian's<br>Corpus Juris Civilis\n    section Medieval Revival\n      11th c. : Rediscovery of Roman<br>law at Bologna\n      12th‑13th c. : Glossators &<br>Commentators\n    section Early Modern Period\n      17th‑18th c. : Natural law influence<br>(Grotius, Pufendorf)\n      1756 : Bavarian Codex Maximilianeus\n    section Age of Codification\n      1804 : French Civil Code<br>(Napoléon)\n      1811 : Austrian ABGB\n      1900 : German BGB\n      1907 : Swiss Civil Code\n    section Global Spread\n      19th‑20th c. : Civil law transplants<br>in Latin America, Asia, Africa\n    section Contemporary\n      late 20th : European private law<br>harmonization (PECL)\n      2009 : Draft Common Frame of<br>Reference (DCFR)",
+            "complexity": "high",
+            "tags": ["civil_law", "history", "timeline", "roman_law", "napoleonic_code", "german_bgb", "codification", "legal_history"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

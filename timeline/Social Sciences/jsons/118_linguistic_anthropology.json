@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Linguistic Anthropology",
+            "category": "Anthropology",
+            "description": "This timeline traces key milestones in the development of Linguistic Anthropology. Early 20th century: Boas documents Native American languages, establishing the four‑field approach. The 1920s‑30s saw Sapir and Whorf develop the linguistic relativity hypothesis. In the 1960s, Dell Hymes founded the ethnography of communication. Michael Silverstein introduced language ideologies in 1979. The 1980s brought language socialization theory (Ochs & Schieffelin). The 1990s‑2000s saw the rise of critical discourse analysis and digital communication studies. Contemporary work explores language and globalization, multilingualism, and revitalization.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Linguistic Anthropology\n    section Early Foundations\n      1911 : Boas' Handbook of<br>American Indian Languages\n      1920s-30s : Sapir-Whorf hypothesis<br>Linguistic relativity\n    section Ethnography & Communication\n      1962 : Dell Hymes<br>Ethnography of speaking\n      1972 : Gumperz & Hymes<br>Directions in Sociolinguistics\n    section Language Ideology & Socialization\n      1979 : Silverstein<br>Language ideology & metapragmatics\n      1984 : Ochs & Schieffelin<br>Language socialization\n    section Critical & Digital Turns\n      1990s : Critical discourse analysis<br>Language & power\n      2000s : Digital communication<br>& online communities\n    section Contemporary\n      2010s : Language & globalization<br>Multilingualism\n      2020s : Language revitalization<br>& decolonial linguistics",
+            "complexity": "high",
+            "tags": ["linguistic_anthropology", "history", "timeline", "boas", "sapir_whorf", "hymes", "language_ideology", "language_socialization"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

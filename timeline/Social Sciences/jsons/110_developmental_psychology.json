@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Developmental Psychology",
+            "category": "Psychology",
+            "description": "This timeline traces the historical development of Developmental Psychology. Early scientific observations began with Darwin’s baby biography (1877) and Preyer’s 'The Mind of the Child' (1882). The early 20th century saw Binet & Simon’s intelligence scale (1905) and Gesell’s maturational theory (1920s). Piaget’s revolutionary work on cognitive stages emerged in the 1930s‑40s, while Vygotsky’s sociocultural theory (1934) gained Western recognition later. Attachment theory was established by Bowlby (1951) and Ainsworth (1978). Erikson’s psychosocial stages (1950) extended development across the lifespan. Bronfenbrenner’s ecological model (1979) emphasized context. The late 20th century brought developmental neuroscience (1990s) and the rise of lifespan developmental science (Baltes, 1987). Recent work integrates epigenetics and global perspectives (2010s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Developmental Psychology\n    section Early Observations\n      1877 : Darwin<br>A Biographical Sketch of an Infant\n      1882 : Wilhelm Preyer<br>The Mind of the Child\n    section Foundations\n      1905 : Binet & Simon<br>Intelligence scale\n      1920s : Arnold Gesell<br>Maturational theory\n      1936 : Jean Piaget<br>The Origins of Intelligence in Children\n      1934 : Lev Vygotsky<br>Thought and Language\n    section Mid‑Century Theories\n      1950 : Erik Erikson<br>Childhood and Society\n      1951 : John Bowlby<br>Maternal Care and Mental Health\n      1963 : Albert Bandura<br>Social learning theory\n    section Late 20th Century\n      1978 : Mary Ainsworth<br>Strange Situation\n      1979 : Urie Bronfenbrenner<br>Ecological systems theory\n      1987 : Paul Baltes<br>Lifespan developmental psychology\n      1990s : Developmental cognitive neuroscience\n    section Contemporary\n      2000s : Epigenetics<br>gene‑environment interaction\n      2010s‑20s : Global perspectives<br>intersectionality & digital contexts",
+            "complexity": "high",
+            "tags": ["developmental_psychology", "history", "timeline", "piaget", "vygotsky", "bowlby", "erikson", "bronfenbrenner", "epigenetics"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

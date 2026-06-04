@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Human Geography",
+            "category": "Geography",
+            "description": "This timeline traces the evolution of Human Geography. In the late 18th‑19th centuries, Alexander von Humboldt and Carl Ritter laid foundations for systematic regional geography. The late 19th‑early 20th century saw environmental determinism (Ratzel, Semple). Carl Sauer introduced cultural landscape morphology in the 1920s, while the 1950s‑60s brought the quantitative revolution (spatial science, Schaefer, Berry). The 1970s witnessed humanistic geography (Tuan, Relph) and radical/Marxist geography (Harvey). Feminist and post‑structural geographies emerged in the 1980s‑90s alongside the cultural turn. From the 1990s, GIS revolutionized spatial analysis, and in the 2000s‑2020s critical GIS, big data, and digital geographies (data sovereignty, platform urbanism) have reshaped the field.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Human Geography\n    section 18th‑19th Century Foundations\n      1799‑1859 : Humboldt & Ritter<br>Systematic regional geography\n    section Environmental Determinism\n      late 19th : Ratzel, Semple<br>Environmental determinism\n      1920s : Carl Sauer<br>Cultural landscape morphology\n    section Quantitative Revolution\n      1950s‑60s : Spatial science<br>Quantitative revolution (Schaefer, Berry)\n    section Humanistic & Radical Turns\n      1970s : Humanistic geography<br>(Tuan, Relph)\n      1973 : David Harvey<br>Social Justice and the City\n    section Critical Geographies\n      1980s‑90s : Feminist & post‑structural<br>geographies\n      Cultural turn\n    section GIS & Digital Era\n      1990s‑2000s : GIS revolution<br>spatial analysis tools\n      2010s‑20s : Critical GIS, big data<br>digital geographies, platform urbanism",
+            "complexity": "high",
+            "tags": ["human_geography", "history", "timeline", "quantitative_revolution", "cultural_landscape", "harvey", "GIS", "digital_geographies"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

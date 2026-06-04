@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "The mind map of macroeconomics radiates from the central concept, organizing its core areas: ultimate goals (growth, employment, stability), key aggregates (GDP, inflation, unemployment, balance of payments), policy instruments (fiscal and monetary tools), influential schools of thought (Classical, Keynesian, Monetarist, New Keynesian, Supply‑side), and the measurement tools used to track economic performance (national accounts, price indices, labour surveys). This structure captures the interconnected dimensions of the field.",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Macroeconomics))\n    Goals\n      Economic Growth\n      Full Employment\n      Price Stability\n    Key Aggregates\n      GDP\n      Unemployment Rate\n      Inflation Rate\n      Balance of Payments\n    Policy Tools\n      Fiscal Policy\n        Government Spending\n        Taxation\n      Monetary Policy\n        Interest Rates\n        Money Supply\n    Schools of Thought\n      Classical\n      Keynesian\n      Monetarist\n      New Keynesian\n      Supply-side\n    Measurement\n      National Accounts\n      Consumer Price Index\n      Labor Force Surveys",
+            "complexity": "high",
+            "tags": [
+              "macroeconomics",
+              "mind_map",
+              "economic_goals",
+              "aggregates",
+              "fiscal_policy",
+              "monetary_policy"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Labor Economics",
+            "category": "Economics",
+            "description": "Labor economics analyzes the functioning and dynamics of labor markets. The flowchart illustrates how the field’s core objective – to understand how wages and employment are determined – is achieved by studying three key components: labor supply (workers’ decisions on participation, hours, and human capital), labor demand (firms’ hiring based on marginal productivity and costs), and labor market institutions (unions, minimum wage, unemployment insurance). These components interact to determine observable outcomes such as wages, employment levels, and inequality. The outcomes, in turn, may feed back into the design of labor market institutions and policies, creating a continuous cycle of analysis and intervention.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>LABOR ECONOMICS</b><br>Study of how labor markets<br>function and determine outcomes]:::title\n    B[<b>CORE OBJECTIVE</b><br>Understand wage & employment<br>determination]:::objective\n    C[<b>ANALYTICAL COMPONENTS</b>]:::components\n    subgraph supply [Labor Supply]\n        C1[Worker decisions<br>Participation, hours,<br>human capital investment]\n    end\n    subgraph demand [Labor Demand]\n        C2[Firm decisions<br>Marginal productivity,<br>labor cost]\n    end\n    subgraph institutions [Institutions]\n        C3[Unions, minimum wage,<br>unemployment insurance,<br>employment protection]\n    end\n    D[<b>OUTCOMES & FEEDBACK</b><br>Wages, employment,<br>inequality]:::outcome\n    A -->|focuses on| B\n    B -->|analysed through| C\n    C -->|includes| supply\n    C -->|includes| demand\n    C -->|shaped by| institutions\n    supply & demand & institutions -->|determine| D\n    D -->|inform policy| institutions\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef components fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333\n    style supply fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style demand fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style institutions fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+              "labor_economics",
+              "labor_market",
+              "wages",
+              "employment",
+              "human_capital"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

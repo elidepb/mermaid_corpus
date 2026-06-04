@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Labor Economics",
+            "category": "Economics",
+            "description": "The timeline of labor economics highlights pivotal contributions. Adam Smith (1776) emphasized the division of labor and wage determination. David Ricardo (1817) advanced the concept of subsistence wages. The early 20th century saw institutional economics (Commons, Veblen) analyze labor relations. In 1962, Gary Becker formalized human capital theory, framing education as an investment. Jacob Mincer’s earnings equation (1973) became the standard tool for estimating returns to schooling. During the 1980s and 1990s, search and matching models (Pissarides, Mortensen, Diamond) explained frictional unemployment and labor market dynamics. Since the 2000s, the credibility revolution has transformed empirical labor economics through natural experiments and quasi‑experimental methods, strengthening causal inference.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of Labor Economics\n    1776 : Adam Smith<br>Division of labor, wages\n    1817 : Ricardo on wage determination<br>Subsistence wages\n    1890s‑1920s : Institutional labor economics<br>Commons, Veblen\n    1962 : Becker’s Human Capital<br>Investment in education\n    1973 : Mincer earnings equation<br>Returns to schooling\n    1980s‑90s : Search & matching models<br>Pissarides, Mortensen, Diamond\n    2000s‑present : Credibility revolution<br>Natural experiments, quasi‑experiments",
+            "complexity": "medium",
+            "tags": [
+                "labor_economics",
+                "history",
+                "human_capital",
+                "search_models",
+                "credibility_revolution"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Cognitive Psychology",
+            "category": "Psychology",
+            "description": "This mind map organizes the field of Cognitive Psychology. It branches into Core Domains (perception, attention, memory, language, problem solving, decision making), Major Theories (information processing, connectionism, embodied cognition, dual‑process models), Research Methods (reaction time experiments, neuroimaging, computational modeling, case studies), Key Contributors (Ulric Neisser, George Miller, Noam Chomsky, Endel Tulving, Alan Baddeley, Daniel Kahneman), and Applications (education, artificial intelligence, clinical neuropsychology, user experience design). The map captures the interdisciplinary nature of cognitive science and the diverse approaches to studying the mind.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Cognitive Psychology))\n    Core_Domains\n      Perception\n      Attention\n      Memory\n        Working_Memory\n        Long-Term_Memory\n      Language\n      Problem_Solving\n      Decision_Making\n    Major_Theories\n      Information_Processing\n      Connectionism\n      Embodied_Cognition\n      Dual-Process_Models\n    Research_Methods\n      Reaction_Time_Experiments\n      Neuroimaging\n        fMRI\n        EEG\n      Computational_Modeling\n      Case_Studies\n    Key_Contributors\n      Ulric_Neisser\n      George_Miller\n      Noam_Chomsky\n      Endel_Tulving\n      Alan_Baddeley\n      Daniel_Kahneman\n    Applications\n      Education\n      Artificial_Intelligence\n      Clinical_Neuropsychology\n      User_Experience_Design",
+            "complexity": "high",
+            "tags": ["cognitive_psychology", "mind_map", "memory", "attention", "language", "neisser", "kahneman", "cognitive_science", "neuroimaging"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

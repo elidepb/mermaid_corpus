@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Comparative Politics",
+            "category": "Political Science",
+            "description": "This mind map organizes the subfield of Comparative Politics. It branches into Core Concepts (state, nation, regime type, democracy, authoritarianism, political culture, development), Methods (case studies, comparative historical analysis, large‑N statistics, QCA, process tracing), Major Theories (modernization, structuralism, institutionalism, rational choice, constructivism, historical institutionalism), Key Figures (Aristotle, Tocqueville, Moore, Huntington, Skocpol, Lijphart, Przeworski), and Applications (democratization studies, state building, welfare state comparison, electoral systems design). The map captures the field’s comparative logic and multi‑method character.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Comparative Politics))\n    Core_Concepts\n      State\n      Nation\n      Regime_Type\n      Democracy\n      Authoritarianism\n      Political_Culture\n      Development\n    Methods\n      Case_Studies\n      Comparative_Historical_Analysis\n      Large‑N_Statistics\n      QCA\n      Process_Tracing\n    Major_Theories\n      Modernization_Theory\n      Structuralism\n      Institutionalism\n      Rational_Choice\n      Constructivism\n      Historical_Institutionalism\n    Key_Figures\n      Aristotle\n      Tocqueville\n      Barrington_Moore\n      Huntington\n      Skocpol\n      Lijphart\n      Przeworski\n    Applications\n      Democratization\n      State_Building\n      Welfare_State\n      Electoral_Systems\n      Revolution",
+            "complexity": "high",
+            "tags": ["comparative_politics", "mind_map", "concepts", "methods", "theories", "regime_type", "democratization"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

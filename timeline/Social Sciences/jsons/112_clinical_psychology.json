@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Clinical Psychology",
+            "category": "Psychology",
+            "description": "This timeline traces the evolution of Clinical Psychology. It begins with early humanitarian reforms (Pinel unchains patients in 1793) and the birth of the term in 1896 when Lightner Witmer founded the first psychological clinic. Freud’s psychoanalysis (1900) and Binet’s intelligence test (1905) provided foundational tools. The Boulder Conference (1949) established the scientist‑practitioner model. Major developments: Ellis’s REBT (1955) and Beck’s cognitive therapy (1960s‑70s), the rise of behavior therapy. The DSM‑III (1980) revolutionized diagnosis, and APA’s first clinical guidelines appeared in 1995. Recent decades saw the emergence of positive psychology (2000), the evidence‑based practice movement (2005), teletherapy expansion (2010s), and the integration of digital mental health tools (2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Clinical Psychology\n    section Early Reforms & Origins\n      1793 : Philippe Pinel<br>Moral treatment movement\n      1896 : Lightner Witmer<br>First psychological clinic\n    section Psychoanalytic & Assessment Foundations\n      1900 : Sigmund Freud<br>Interpretation of Dreams\n      1905 : Binet & Simon<br>Intelligence test\n    section Mid‑Century Professionalization\n      1949 : Boulder Conference<br>Scientist‑practitioner model\n      1955 : Albert Ellis<br>Rational Emotive Therapy\n    section Cognitive & Behavioral Advances\n      1960s : Aaron Beck<br>Cognitive therapy\n      1970s : Behavior therapy<br>systematic desensitization\n      1980 : DSM‑III<br>Atheoretical diagnosis\n    section Evidence‑Based & Modern Era\n      1995 : APA clinical<br>practice guidelines\n      2000 : Positive psychology<br>(Seligman)\n      2005 : Evidence‑based<br>practice movement\n      2010s : Teletherapy &<br>digital interventions\n      2020s : AI & digital<br>mental health tools",
+            "complexity": "high",
+            "tags": ["clinical_psychology", "history", "timeline", "witmer", "freud", "beck", "dsm", "evidence_based", "teletherapy"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Development Economics",
+            "category": "Economics",
+            "description": "The history of development economics is marked by major theoretical and policy shifts. In 1948, the Marshall Plan symbolized large‑scale post‑war reconstruction and the birth of development aid. W. Arthur Lewis’s dual‑sector model (1954) provided an early theory of structural transformation. Walt Rostow’s “The Stages of Economic Growth” (1960) offered a linear blueprint for modernization. During the 1960s and 1970s, dependency theory, championed by Prebisch and Frank, challenged the prevailing view by emphasizing unequal global structures. The launch of the Human Development Index by the UNDP in 1990 shifted focus from income to broader well‑being. The Millennium Development Goals (2000) and the Sustainable Development Goals (2015) set concrete global targets, reflecting the evolving consensus that development must be multidimensional, inclusive, and environmentally sustainable.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of Development Economics\n    1948 : Marshall Plan<br>Post‑WWII reconstruction\n    1954 : Lewis’ dual‑sector model<br>Unlimited supply of labour\n    1960 : Rostow’s Stages of Growth<br>Linear development\n    1960s‑70s : Dependency Theory<br>Prebisch, Frank\n    1990 : Human Development Index<br>UNDP\n    2000 : Millennium Development Goals<br>Global targets\n    2015 : Sustainable Development Goals<br>Agenda 2030",
+            "complexity": "medium",
+            "tags": [
+                "development_economics",
+                "history",
+                "Rostow",
+                "Lewis",
+                "HDI",
+                "SDGs"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

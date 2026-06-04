@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Constitutional Law",
+            "category": "Law",
+            "description": "Constitutional Law is the body of law that defines the structure, powers, and limits of government institutions, and the relationship between the state and individuals. This flowchart illustrates its systematic operation: the ultimate goal is to uphold constitutional supremacy, protect fundamental rights, and ensure limited government. It integrates core principles (rule of law, separation of powers, federalism, fundamental rights) with key doctrines (judicial review, due process, equal protection, proportionality). Sources include the constitutional text, judicial precedents, conventions, and international treaties. Constitutional interpretation and litigation involve various actors (courts, legislatures, executives) and lead to outcomes such as legal certainty, democratic governance, and the enforcement of rights.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Constitutional Law</b><br>Body of law defining government<br>structure, powers, and limits]:::title\n    B[<b>GOAL</b><br>Uphold constitutional supremacy,<br>protect fundamental rights,<br>and limit government]:::goal\n    C[<b>CORE PRINCIPLES</b>]:::principles\n    subgraph D[Rule of Law & Separation]\n        D1[Rule of law<br>Separation of powers<br>Checks and balances]\n    end\n    subgraph E[Federalism & Rights]\n        E1[Federalism / unitary<br>Fundamental rights & freedoms<br>Judicial independence]\n    end\n    F[<b>KEY DOCTRINES</b><br>Judicial review (Marbury v. Madison)<br>Due process & equal protection<br>Proportionality & deference]:::doctrines\n    G[<b>SOURCES</b><br>Constitutional text, judicial precedents,<br>constitutional conventions,<br>international treaties]:::sources\n    H[<b>INTERPRETATION & LITIGATION</b><br>Originalism, living constitutionalism<br>Constitutional courts, judicial review]:::process\n    I[<b>OUTCOMES</b><br>Legal certainty, democratic<br>governance, rights enforcement]:::outcome\n\n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|operationalized via| F\n    F -->|drawn from| G\n    G -->|shapes| H\n    H -->|achieves| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef principles fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef doctrines fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef sources fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef process fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["constitutional_law", "judicial_review", "separation_of_powers", "fundamental_rights", "rule_of_law", "constitutionalism"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

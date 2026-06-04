@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "International Law",
+            "category": "Law",
+            "description": "This mind map organizes the field of International Law around its central concept. It branches into Sources (treaties, custom, general principles, judicial decisions, scholarly writings), Subjects (states, international organizations, individuals, NGOs), Branches (public international law covering law of the sea, humanitarian law, human rights, environmental law; private international law; international criminal law; international economic law), Core Principles (sovereign equality, non‑intervention, pacta sunt servanda, peaceful dispute settlement), and Enforcement Mechanisms (International Court of Justice, arbitration, UN Security Council, sanctions, diplomacy). The map captures the foundational structure and wide‑ranging scope of the discipline.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((International Law))\n    Sources\n      Treaties\n      Custom\n      General_Principles\n      Judicial_Decisions\n      Scholarly_Writings\n    Subjects\n      States\n      International_Organizations\n      Individuals\n      NGOs\n    Branches\n      Public_International_Law\n        Law_of_the_Sea\n        Humanitarian_Law\n        Human_Rights\n        Environmental_Law\n      Private_International_Law\n      International_Criminal_Law\n      International_Economic_Law\n    Core_Principles\n      Sovereign_Equality\n      Non‑Intervention\n      Pacta_Sunt_Servanda\n      Peaceful_Dispute_Settlement\n    Enforcement_Mechanisms\n      International_Court_of_Justice\n      Arbitration\n      UN_Security_Council\n      Sanctions\n      Diplomacy",
+            "complexity": "high",
+            "tags": ["international_law", "mind_map", "sources", "subjects", "branches", "sovereignty", "ICJ", "human_rights"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

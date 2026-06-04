@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "126",
+            "topic": "Geopolitics",
+            "category": "Geography/Politics",
+            "description": "A flowchart showing the fundamental concepts of Geopolitics.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    G[Geopolitics] --> T[Theories]\n    G --> F[Factors]\n    G --> I[Issues]\n\n    T --> H[Heartland Theory]\n    T --> R[Rimland Theory]\n    T --> C[Critical Geopolitics]\n\n    F --> G2[Geography]\n    F --> R2[Resources]\n    F --> E[Economics]\n    F --> P[Politics]\n\n    I --> B[Borders]\n    I --> C2[Conflict]\n    I --> G3[Globalization]",
+            "complexity": "medium",
+            "tags": [
+                "geopolitics",
+                "geography/politics"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

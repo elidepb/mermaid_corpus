@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Cultural Anthropology",
+            "category": "Anthropology",
+            "description": "This mind map organizes the field of Cultural Anthropology. It branches into Core Concepts (culture, cultural relativism, holism, ethnocentrism, acculturation), Methods (ethnography, participant observation, interviews, life histories, comparative method, thick description), Theoretical Frameworks (cultural evolutionism, functionalism, structuralism, symbolic and interpretive anthropology, political economy, post‑structuralism, feminist anthropology), Key Thinkers (Edward Tylor, Franz Boas, Bronisław Malinowski, Claude Lévi‑Strauss, Margaret Mead, Clifford Geertz), and Applied Areas (medical anthropology, development anthropology, educational anthropology, business anthropology). The map captures the discipline's scope from theory to practice.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Cultural Anthropology))\n    Core_Concepts\n      Culture\n      Cultural_Relativism\n      Holism\n      Ethnocentrism\n      Acculturation\n    Methods\n      Ethnography\n      Participant_Observation\n      Interviews\n      Life_Histories\n      Comparative_Method\n      Thick_Description\n    Theoretical_Frameworks\n      Cultural_Evolutionism\n      Functionalism\n      Structuralism\n      Symbolic_&_Interpretive\n      Political_Economy\n      Post-Structuralism\n      Feminist_Anthropology\n    Key_Thinkers\n      Edward_Tylor\n      Franz_Boas\n      Bronisław_Malinowski\n      Claude_Lévi-Strauss\n      Margaret_Mead\n      Clifford_Geertz\n    Applied_Areas\n      Medical_Anthropology\n      Development\n      Education\n      Business",
+            "complexity": "high",
+            "tags": ["cultural_anthropology", "mind_map", "ethnography", "cultural_relativism", "boas", "malinowski", "geertz", "structuralism"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

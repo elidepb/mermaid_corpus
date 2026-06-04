@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Social Psychology",
+            "category": "Psychology",
+            "description": "This timeline traces the emergence and evolution of Social Psychology. It begins with Norman Triplett's 1898 social facilitation study, followed by the first textbooks by McDougall and Ross in 1908. Kurt Lewin, the 'father of experimental social psychology', established field theory and action research in the 1930s‑40s. The post‑war period produced landmark experiments: Asch's conformity (1951), Festinger's cognitive dissonance (1957), and Milgram's obedience studies (1963). The 1970s‑80s saw the Stanford prison experiment (1971), Tajfel's social identity theory, and the rise of social cognition and attribution research. The 1990s brought evolutionary social psychology and implicit measures (IAT, 1998). Contemporary social psychology integrates neuroscience, cross‑cultural perspectives, and replication reforms.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Social Psychology\n    section Early Roots\n      1898 : Norman Triplett<br>Social facilitation study\n      1908 : First textbooks<br>McDougall & Ross\n    section Foundational Era\n      1930s-40s : Kurt Lewin<br>Field theory & action research\n      1951 : Solomon Asch<br>Conformity experiments\n    section Golden Age\n      1957 : Leon Festinger<br>Cognitive dissonance theory\n      1963 : Stanley Milgram<br>Obedience to authority\n      1971 : Philip Zimbardo<br>Stanford prison experiment\n    section Cognitive & Social Identity\n      1970s : Henri Tajfel<br>Social identity theory\n      1980s : Attribution & social cognition<br>(Heider, Kelley, Fiske)\n    section Modern Developments\n      1990s : Evolutionary social psychology<br>Cultural psychology\n      1998 : Implicit Association Test<br>(Greenwald & Banaji)\n      2000s : Social neuroscience<br>fMRI, TMS\n      2010s : Replication crisis &<br>open science reforms",
+            "complexity": "high",
+            "tags": ["social_psychology", "history", "timeline", "lewin", "asch", "milgram", "festinger", "tajfel", "social_neuroscience"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Political Science",
+            "category": "Social Sciences",
+            "description": "This timeline traces the development of Political Science as a discipline. It begins with ancient political thought (Plato’s Republic, Aristotle’s Politics, 4th century BCE). Medieval contributions include Augustine and Aquinas. The Renaissance saw Machiavelli’s The Prince (1513). The Enlightenment brought Hobbes’s Leviathan (1651), Locke’s Two Treatises (1689), and Rousseau’s Social Contract (1762). The 19th century introduced Tocqueville’s Democracy in America (1835) and Marx’s critique of capitalism. Early 20th century saw Weber’s ‘Politics as a Vocation’ (1919) and the behavioral revolution (1920s‑50s). Post‑WWII, systems theory (Easton, 1953), rational choice, and feminist political theory emerged. Contemporary political science integrates globalization, digital politics, and critical perspectives (2000s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Political Science\n    section Ancient & Medieval\n      4th cent BCE : Plato's Republic<br>Aristotle's Politics\n      5th-13th c : Augustine & Aquinas\n    section Renaissance & Enlightenment\n      1513 : Machiavelli's The Prince\n      1651 : Hobbes' Leviathan\n      1689 : Locke's Two Treatises\n      1762 : Rousseau's Social Contract\n    section 19th Century\n      1835 : Tocqueville's Democracy in America\n      1848 : Marx & Engels' Communist Manifesto\n      1861 : J.S. Mill's Representative Government\n    section Early 20th Century\n      1919 : Weber's 'Politics as a Vocation'\n      1920s‑50s : Behavioral revolution<br>(Merriam, Lasswell)\n    section Post‑WWII\n      1953 : Easton's systems theory\n      1960s‑70s : Rational choice theory<br>Feminist political theory\n    section Contemporary\n      1990s : Globalization & governance\n      2000s : Digital politics & big data\n      2020s : Populism, identity,<br>critical security studies",
+            "complexity": "high",
+            "tags": ["political_science", "history", "timeline", "plato", "machiavelli", "hobbes", "tocqueville", "behavioral_revolution", "rational_choice"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

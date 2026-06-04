@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Commercial Law",
+            "category": "Law",
+            "description": "This timeline traces the evolution of Commercial Law from medieval merchant customs to modern international frameworks. Key milestones include the Lex Mercatoria (medieval merchant law), the English Sale of Goods Act 1893, the U.S. Uniform Sales Act 1906, the Uniform Commercial Code (UCC) drafted in 1952, the UN Convention on Contracts for the International Sale of Goods (CISG) in 1980, and the UNIDROIT Principles of International Commercial Contracts (1994). The timeline also notes the adoption of national commercial codes in civil law countries during the 19th century and contemporary developments in digital commerce and smart contracts.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Commercial Law\n    section Medieval Origins\n      11th‑15th c. : Lex Mercatoria<br>Merchant custom across Europe\n    section National Codifications\n      1807 : French Commercial Code\n      1893 : UK Sale of Goods Act\n      1906 : US Uniform Sales Act\n    section Uniform Laws & Codes\n      1952 : U.S. Uniform Commercial Code<br>(UCC) drafted\n      1950s‑60s : UCC adopted by all states\n    section International Unification\n      1980 : CISG (Vienna Convention)\n      1994 : UNIDROIT Principles\n      2000s : Electronic commerce<br>regulations\n    section Contemporary\n      2010s‑20s : Smart contracts,<br>fintech, digital trade law",
+            "complexity": "high",
+            "tags": ["commercial_law", "history", "timeline", "lex_mercatoria", "UCC", "CISG", "UNIDROIT", "sale_of_goods"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

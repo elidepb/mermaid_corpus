@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Behavioral Economics",
+            "category": "Economics & Psychology",
+            "description": "This timeline traces the historical evolution of Behavioral Economics from early psychological economics to modern applications. Key milestones include: early roots in the 1890s-1940s (Adam Smith's moral sentiments, Irving Fisher's utility, George Katona); the emergence in 1955 with Herbert Simon's bounded rationality; 1974 Tversky & Kahneman's heuristics and biases; 1979 Prospect Theory; 1980s Thaler's mental accounting and framing; 1990s behavioral finance (Shiller, Thaler); 2000s policy applications with nudge and the Behavioural Insights Team; and culminating in the 2017 Nobel Prize for Thaler. Recent advances extend into AI and health.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Behavioral Economics\n    section Early Roots\n      1890s : Adam Smith's moral sentiments<br>Irving Fisher's utility theory\n      1940s : Psychological economics<br>George Katona\n    section Emergence\n      1955 : Herbert Simon<br>\"Bounded Rationality\"\n      1974 : Tversky & Kahneman<br>\"Heuristics and Biases\"\n      1979 : Prospect Theory<br>(Kahneman & Tversky)\n    section Development\n      1980 : Richard Thaler<br>\"Toward a Positive Theory\"\n      1985 : Mental Accounting<br>Framing effects\n      1990s : Behavioral finance<br>Shiller, Thaler\n    section Maturation & Policy\n      2000 : Nudge concept<br>Thaler & Sunstein\n      2008 : Behavioural Insights<br>Team (UK)\n      2017 : Nobel Prize<br>(Thaler)\n    section Recent Advances\n      2020s : Behavioral economics<br>in AI and health",
+            "complexity": "high",
+            "tags": ["behavioral_economics", "history", "prospect_theory", "nudge", "bounded_rationality", "kahneman", "thaler", "timeline"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

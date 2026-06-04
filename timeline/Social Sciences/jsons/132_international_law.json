@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "International Law",
+            "category": "Law",
+            "description": "This timeline traces the development of International Law from its early modern roots to contemporary global governance. Key milestones include: Hugo Grotius’s foundational work De Jure Belli ac Pacis (1625) establishing natural law frameworks; the Peace of Westphalia (1648) recognizing sovereign equality of states; the Congress of Vienna (1815) codifying diplomatic law; the First Geneva Convention (1864) for humanitarian protection; the Hague Peace Conferences (1899, 1907); the creation of the League of Nations (1919) and the United Nations Charter (1945); the establishment of the International Court of Justice (1946); the four Geneva Conventions (1949); the Vienna Convention on the Law of Treaties (1969); the Rome Statute creating the International Criminal Court (1998); and the Paris Agreement on climate change (2015). The timeline illustrates the progressive codification and expansion of international law from bilateral diplomacy to multilateral institutions and universal jurisdiction.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of International Law\n    section Early Foundations\n      1625 : Hugo Grotius<br>De Jure Belli ac Pacis\n      1648 : Peace of Westphalia<br>Sovereign equality\n    section 19th Century\n      1815 : Congress of Vienna<br>Diplomatic law\n      1864 : First Geneva Convention\n      1899 : Hague Peace Conference\n    section 20th Century\n      1919 : League of Nations\n      1945 : United Nations Charter\n      1946 : International Court of Justice\n      1949 : Geneva Conventions revised\n      1969 : Vienna Convention on the Law of Treaties\n    section Modern Era\n      1998 : Rome Statute<br>(International Criminal Court)\n      2002 : ICC begins operations\n      2015 : Paris Agreement<br>(climate change)\n      2020s : Digital & cyber<br>international law",
+            "complexity": "high",
+            "tags": ["international_law", "history", "timeline", "grotius", "westphalia", "geneva_conventions", "un_charter", "icc", "paris_agreement"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

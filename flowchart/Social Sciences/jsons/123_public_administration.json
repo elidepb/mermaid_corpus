@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Public Administration",
+            "category": "Political Science & Public Management",
+            "description": "Public Administration is the academic study and practice of implementing government policy and managing public programs. This flowchart illustrates its systematic approach: the overarching goal is to ensure effective, efficient, and accountable governance. It integrates core functions (planning, organizing, staffing, directing, budgeting—POSDCORB) and principles (public interest, transparency, accountability, rule of law) with major theoretical frameworks—classical bureaucracy, New Public Management, and New Public Service. These guide the policy implementation cycle (formulation → implementation → evaluation → feedback). The resulting insights inform organizational design, human resource management, public budgeting, and performance measurement, ultimately producing public service delivery that builds citizen trust and social equity.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Public Administration</b><br>Study & practice of implementing<br>public policy and managing programs]:::title\n    B[<b>GOAL</b><br>Effective, efficient, and<br>accountable governance]:::goal\n    C[<b>CORE ELEMENTS</b>]:::elements\n    subgraph D[Functions (POSDCORB)]\n        D1[Planning, organizing, staffing<br>Directing, coordinating,<br>reporting, budgeting]\n    end\n    subgraph E[Principles]\n        E1[Public interest, transparency,<br>accountability, rule of law]\n    end\n    F[<b>THEORETICAL FRAMEWORKS</b><br>Classical bureaucracy<br>New Public Management (NPM)<br>New Public Service]:::theory\n    G[<b>POLICY CYCLE</b><br>Formulation → implementation<br>→ evaluation → feedback]:::cycle\n    H[<b>OUTCOMES</b><br>Public service delivery,<br>citizen trust, social equity]:::outcome\n\n    A -->|aims to| B\n    B -->|by integrating| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|guided by| F\n    F -->|drives| G\n    G -->|achieves| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef cycle fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["public_administration", "governance", "public_policy", "POSDCORB", "bureaucracy", "new_public_management", "public_service", "accountability"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

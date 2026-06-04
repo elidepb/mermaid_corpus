@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Development Economics",
+            "category": "Economics",
+            "description": "Development economics focuses on understanding the economic, social, and institutional mechanisms that enable low‑income countries to achieve sustainable improvements in human well‑being. The flowchart begins with the ultimate goal of inclusive and sustainable development. It then presents the analytical framework in a cyclical loop: first, identifying the deep causes of underdevelopment (poverty traps, inequality, weak institutions). These causes are interpreted through development theories (such as Rostow’s stages of growth or structural change models). The theories inform the design of policy interventions in areas like education, health, infrastructure, and microfinance. The results of these interventions are measured using indicators such as the Human Development Index, poverty headcount ratios, and inequality metrics. This measurement provides feedback that may lead to a reassessment of the causes and to improved policies, closing the cycle.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>DEVELOPMENT ECONOMICS</b><br>Study of low‑income countries’<br>improvement in well‑being]:::title\n    B[<b>ULTIMATE GOAL</b><br>Sustainable and inclusive<br>human development]:::goal\n    C[<b>ANALYTICAL FRAMEWORK</b>]:::framework\n    subgraph framework [ ]\n        D[Causes of Underdevelopment<br>Poverty traps, inequality,<br>weak institutions]\n        E[Development Theories<br>Stages of growth,<br>structural change]\n        F[Policy Interventions<br>Education, health,<br>infrastructure, microfinance]\n        G[Outcome Measurement<br>HDI, poverty indices,<br>inequality metrics]\n    end\n    A -->|seeks to understand| B\n    B -->|requires analysis of| C\n    C -->|identifies| D\n    D -->|explains| E\n    E -->|guides design of| F\n    F -->|evaluated by| G\n    G -->|provides feedback to| D\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef framework fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    style framework fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "development_economics",
+                "poverty",
+                "human_development",
+                "policy",
+                "sustainability"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

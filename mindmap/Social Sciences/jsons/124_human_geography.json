@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Human Geography",
+            "category": "Geography",
+            "description": "This mind map organizes the field of Human Geography around its central concept. It branches into Core Concepts (space, place, scale, region, landscape, territoriality), Major Subfields (cultural, economic, political, urban, social, population, health geography), Theoretical Approaches (positivism, humanistic, Marxist, feminist, post‑structural, postcolonial), Research Methods (GIS, cartography, remote sensing, ethnography, surveys, spatial statistics), Key Thinkers (Carl Sauer, David Harvey, Doreen Massey, Yi‑Fu Tuan, Edward Soja), and Applied Areas (urban and regional planning, environmental management, transportation, disaster response, public health). The map captures the discipline’s diverse concerns with human‑environment interactions and spatial justice.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Human Geography))\n    Core_Concepts\n      Space\n      Place\n      Scale\n      Region\n      Landscape\n      Territoriality\n    Major_Subfields\n      Cultural_Geography\n      Economic_Geography\n      Political_Geography\n      Urban_Geography\n      Social_Geography\n      Population_Geography\n      Health_Geography\n    Theoretical_Approaches\n      Positivism\n      Humanistic\n      Marxist\n      Feminist\n      Post-Structural\n      Postcolonial\n    Research_Methods\n      GIS\n      Cartography\n      Remote_Sensing\n      Ethnography\n      Surveys\n      Spatial_Statistics\n    Key_Thinkers\n      Carl_Sauer\n      David_Harvey\n      Doreen_Massey\n      Yi-Fu_Tuan\n      Edward_Soja\n    Applied_Areas\n      Urban_&_Regional_Planning\n      Environmental_Management\n      Transportation\n      Disaster_Response\n      Public_Health",
+            "complexity": "high",
+            "tags": ["human_geography", "mind_map", "concepts", "subfields", "spatial_analysis", "theories", "GIS", "place"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

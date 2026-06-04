@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Public Administration",
+            "category": "Political Science & Public Management",
+            "description": "This timeline traces the historical evolution of Public Administration as a distinct field. It begins with Woodrow Wilson’s foundational essay ‘The Study of Administration’ (1887), establishing the politics‑administration dichotomy. Early 1900s: scientific management (Taylor) influences public sector. The 1930s‑40s: Luther Gulick’s POSDCORB (1937) and the Brownlow Committee. Weber’s bureaucracy model gains prominence. The 1960s‑70s saw the New Public Administration movement (1968 Minnowbrook Conference) emphasizing social equity, and the introduction of PPBS. The 1980s‑90s brought New Public Management (NPM) with market‑oriented reforms, performance measurement, and privatization. The late 1990s‑2000s saw the emergence of New Public Service, network governance, and e‑government. The 2010s‑2020s highlight digital government, agile and resilient administration, and collaborative governance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Public Administration\n    section Founding & Dichotomy\n      1887 : Woodrow Wilson<br>The Study of Administration\n      1900s : Scientific management<br>in government (Taylor)\n    section Classical Models\n      1937 : Luther Gulick<br>POSDCORB\n      1940s‑50s : Weber's bureaucracy<br>ideal type\n    section Social Equity & Reform\n      1960s : PPBS & rational<br>planning systems\n      1968 : Minnowbrook Conference<br>New Public Administration\n    section New Public Management\n      1980s : NPM reforms<br>privatization, performance\n      1992 : Osborne & Gaebler<br>Reinventing Government\n    section Post‑NPM & Digital Era\n      1990s‑2000s : New Public Service<br>network governance\n      2000s : E‑government<br>digital services\n    section Contemporary\n      2010s : Digital government<br>open data\n      2020s : Agile & resilient<br>administration",
+            "complexity": "high",
+            "tags": ["public_administration", "history", "timeline", "wilson", "POSDCORB", "new_public_management", "digital_government", "minnowbrook"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

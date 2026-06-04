@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Cultural Anthropology",
+            "category": "Anthropology",
+            "description": "Cultural Anthropology is the scientific study of human cultures, beliefs, practices, and social organization. This flowchart illustrates its systematic approach: the ultimate goal is to understand cultural diversity and the human experience. It integrates core concepts (culture, cultural relativism, holism, ethnocentrism, comparison) with rigorous ethnographic methods (participant observation, interviews, field notes). These methods are applied within major theoretical frameworks (structural functionalism, symbolic and interpretive anthropology, cultural materialism, feminist and post‑structuralist approaches) to analyze cultural phenomena. The synthesis produces insights into how culture shapes behavior, identity, and social change, ultimately promoting cross‑cultural understanding and challenging ethnocentric bias.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cultural Anthropology</b><br>Scientific study of human cultures,<br>beliefs, and practices]:::title\n    B[<b>GOAL</b><br>Understand cultural diversity<br>and the human experience]:::goal\n    C[<b>CORE CONCEPTS</b>]:::concepts\n    subgraph D[Culture & Worldview]\n        D1[Culture as learned & shared<br>Cultural relativism vs. ethnocentrism<br>Holism & comparison]\n    end\n    subgraph E[Methodology]\n        E1[Ethnography<br>Participant observation<br>Interviews & field notes]\n    end\n    subgraph F[Theoretical Frameworks]\n        F1[Structural functionalism<br>Symbolic & interpretive (Geertz)<br>Cultural materialism<br>Feminist & post‑structuralist]\n    end\n    G[<b>ANALYSIS</b><br>How culture shapes behavior,<br>identity, and social change]:::analysis\n    H[<b>OUTCOMES</b><br>Cross‑cultural understanding<br>and challenge to ethnocentrism]:::outcome\n\n    A -->|aims to| B\n    B -->|integrates| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|guide| G\n    G -->|leads to| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef concepts fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["cultural_anthropology", "ethnography", "cultural_relativism", "holism", "participant_observation", "interpretive_anthropology", "culture", "cross_cultural"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

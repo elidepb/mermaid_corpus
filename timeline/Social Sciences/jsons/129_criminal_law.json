@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Criminal Law",
+            "category": "Law",
+            "description": "This timeline traces the history of Criminal Law from ancient codes to modern international justice. Key milestones include the Code of Hammurabi (c. 1754 BCE), the Twelve Tables of Roman law, the development of English common law (Magna Carta 1215, Habeas Corpus 1679), Blackstone's Commentaries (1765), the Model Penal Code (1962), and landmark decisions such as Miranda v. Arizona (1966). The timeline culminates in contemporary international criminal law and the digital age.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Criminal Law\n    section Ancient & Medieval\n      c. 1754 BCE : Code of Hammurabi\n      450 BCE : Roman Twelve Tables\n      1215 : Magna Carta\n    section Common Law Development\n      1679 : Habeas Corpus Act\n      1765 : Blackstone's Commentaries\n    section Modern Codification\n      1810 : French Penal Code\n      19th c. : U.S. state penal codes\n    section 20th Century Reforms\n      1962 : Model Penal Code<br>(American Law Institute)\n      1966 : Miranda v. Arizona\n      1984 : U.S. Sentencing Reform Act\n    section International & Contemporary\n      1998 : Rome Statute<br>(International Criminal Court)\n      2000s‑20s : Cybercrime,<br>restorative justice,<br>mass incarceration debates",
+            "complexity": "high",
+            "tags": ["criminal_law", "history", "timeline", "code_of_hammurabi", "model_penal_code", "miranda", "international_criminal_court"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

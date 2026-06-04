@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Civil Law",
+            "category": "Law",
+            "description": "Civil Law is a legal system originating in continental Europe, based on written codes and statutes as primary sources of law. This flowchart outlines its systematic approach: the ultimate goal is to provide legal certainty and systematic justice through codified rules. The system is built on core sources (constitution, civil code, commercial code, supplementary statutes), which are interpreted using judicial decisions and scholarly doctrine. Reasoning follows deductive logic: judges apply general rules to specific cases, constrained by codification and the principle of legality. The process leads to clear, predictable outcomes in disputes between private parties, covering areas like contracts, property, torts, and family law.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Civil Law</b><br>Legal system based on codified<br>statutes and written sources]:::title\n    B[<b>GOAL</b><br>Provide legal certainty and<br>systematic, predictable justice]:::goal\n    C[<b>CORE SOURCES</b>]:::sources\n    subgraph D[Primary Legislation]\n        D1[Constitution<br>Civil Code<br>Commercial Code<br>Special Statutes]\n    end\n    subgraph E[Supplementary Sources]\n        E1[Judicial decisions (jurisprudence)<br>Legal scholarship (doctrine)<br>Custom]\n    end\n    F[<b>JUDICIAL REASONING</b><br>Deductive: from general rules<br>to specific cases, limited<br>role for precedent]:::reasoning\n    G[<b>PRINCIPLES</b><br>Legality, codification,<br>legal certainty, systematic<br>interpretation]:::principles\n    H[<b>OUTCOMES</b><br>Resolution of private disputes,<br>protection of rights,<br>contractual and property<br>enforcement]:::outcome\n\n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|shape| F\n    F -->|constrained by| G\n    G -->|yields| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef sources fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef reasoning fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef principles fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["civil_law", "legal_system", "codification", "civil_code", "statutory_law", "continental_law", "legal_certainty"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

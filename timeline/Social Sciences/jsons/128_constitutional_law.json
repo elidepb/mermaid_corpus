@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Constitutional Law",
+            "category": "Law",
+            "description": "This timeline traces the historical evolution of Constitutional Law from medieval charters to modern global constitutionalism. It begins with the Magna Carta (1215) establishing limits on royal power. The English Bill of Rights (1689) and the United States Constitution (1787) further institutionalized separation of powers and fundamental rights. The French Declaration of the Rights of Man (1789) spread revolutionary ideals. The 19th century saw the expansion of parliamentary sovereignty and constitutional monarchies. Marbury v. Madison (1803) established judicial review. After World War II, modern constitutions like Germany’s Basic Law (1949) and India’s Constitution (1950) entrenched human dignity and social justice. The post‑Cold War era produced South Africa’s transformative Constitution (1996), the growth of constitutional courts worldwide, and regional constitutional instruments (EU Charter 2000). Contemporary constitutional law addresses digital rights, transnational constitutionalism, and emergency powers.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Constitutional Law\n    section Medieval & Early Modern Foundations\n      1215 : Magna Carta\n      1689 : English Bill of Rights\n    section Revolutionary Constitutionalism\n      1787 : U.S. Constitution\n      1789 : French Declaration of<br>the Rights of Man\n      1803 : Marbury v. Madison<br>(judicial review established)\n    section 19th Century Developments\n      1830s-1900s : Expansion of<br>parliamentary sovereignty<br>& constitutional monarchies\n    section Post‑WWII Constitutionalism\n      1949 : German Basic Law\n      1950 : Indian Constitution\n      1958 : French Fifth Republic\n    section Global Spread & Courts\n      1982 : Canadian Charter of<br>Rights and Freedoms\n      1996 : South African Constitution\n      2000 : EU Charter of<br>Fundamental Rights\n    section Contemporary\n      2000s‑2020s : Digital rights,<br>transnational constitutionalism,<br>emergency powers debates",
+            "complexity": "high",
+            "tags": ["constitutional_law", "history", "timeline", "magna_carta", "judicial_review", "marbury_v_madison", "constitutionalism", "bill_of_rights"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

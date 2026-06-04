@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomics",
+            "category": "Economics",
+            "description": "The evolution of microeconomics spans from the classical insights of Adam Smith (1776) and Ricardo, through the Marginal Revolution of the 1870s (Jevons, Menger, Walras) and Marshall’s Principles (1890). Game theory (von Neumann & Morgenstern, 1944; Nash, 1950) introduced strategic interaction, while information economics (Akerlof, 1970) explained market asymmetries. Behavioural economics (Kahneman & Tversky, 1979) challenged rational choice, enriching the discipline with psychological realism.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of Microeconomics\n    1776 : Adam Smith’s Wealth of Nations<br>Classical economics\n    1817 : Ricardo’s Principles<br>Comparative advantage\n    1870s : Marginal Revolution<br>Jevons, Menger, Walras\n    1890 : Marshall’s Principles<br>Neoclassical synthesis\n    1944 : von Neumann & Morgenstern<br>Game Theory\n    1950 : Nash Equilibrium\n    1970 : Akerlof’s Market for Lemons<br>Information asymmetry\n    1979 : Kahneman & Tversky<br>Prospect theory, behavioural economics",
+            "complexity": "medium",
+            "tags": [
+                "microeconomics",
+                "history_of_economics",
+                "marginal_revolution",
+                "game_theory",
+                "behavioural_economics"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Sociological Theory",
+            "category": "Sociology",
+            "description": "This mind map organizes the field of Sociological Theory. It branches from classical theorists and their core ideas (Marx’s conflict, Durkheim’s social facts, Weber’s rationalization), through major contemporary paradigms (functionalism, conflict, symbolic interactionism, feminism, critical race, postmodernism), to key concepts (social structure, agency, power, ideology) and persistent debates (structure vs agency, micro vs macro). It illustrates the interconnected theoretical toolkit used to analyze society.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Sociological Theory))\n    Classical_Theorists\n      Karl Marx\n        Class Conflict\n        Base/Superstructure\n      Émile Durkheim\n        Social Facts\n        Anomie\n      Max Weber\n        Verstehen\n        Rationalization\n    Contemporary_Paradigms\n      Functionalism\n      Conflict Theory\n      Symbolic Interactionism\n      Feminist Theory\n      Critical Race Theory\n      Postmodernism\n    Core_Concepts\n      Social Structure\n      Agency\n      Power\n      Ideology\n      Solidarity\n    Key_Debates\n      Structure vs Agency\n      Micro vs Macro\n      Consensus vs Conflict",
+            "complexity": "high",
+            "tags": ["sociological_theory", "mind_map", "classical_theorists", "paradigms", "concepts", "debates", "marx", "durkheim", "weber"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociology of Work",
+            "category": "Sociology & Labor Studies",
+            "description": "This mind map organizes the field of Sociology of Work around a central node. Major branches include core concepts (division of labor, labor process, alienation, skill, flexibility, precarity, emotional labor), key theoretical perspectives (Marxism and alienation, Weberian bureaucracy, Durkheimian occupational solidarity, feminist approaches, symbolic interactionism on workplace identity, Braverman’s deskilling thesis), primary research areas (occupations and professions, technology and automation, gig and platform work, work‑life balance, unemployment, globalization and offshoring, workplace conflict and control), and prominent theorists (Marx, Weber, Durkheim, Braverman, Hochschild, Sennett, Standing). The structure highlights the field’s conceptual richness and interdisciplinary connections.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Sociology of Work))\n    Core_Concepts\n      Division of Labor\n      Labor Process\n      Alienation\n      Skill & Deskilling\n      Flexibility\n      Precarity\n      Emotional Labor\n    Theoretical_Perspectives\n      Marxism\n        Alienation\n        Class Conflict\n      Weberian\n        Bureaucracy\n        Rationalization\n      Durkheimian\n        Occupational Solidarity\n      Feminism\n        Gendered Work\n        Care Work\n      Symbolic Interactionism\n        Workplace Identity\n      Braverman\n        Deskilling Thesis\n    Research_Areas\n      Occupations & Professions\n      Technology & Automation\n      Gig & Platform Work\n      Work-Life Balance\n      Unemployment\n      Globalization & Offshoring\n      Conflict & Control\n    Notable_Theorists\n      Karl Marx\n      Max Weber\n      Émile Durkheim\n      Harry Braverman\n      Arlie Hochschild\n      Richard Sennett\n      Guy Standing",
+            "complexity": "high",
+            "tags": ["sociology_of_work", "mind_map", "division_of_labor", "deskilling", "emotional_labor", "precarity", "gig_economy", "marx", "hochschild"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

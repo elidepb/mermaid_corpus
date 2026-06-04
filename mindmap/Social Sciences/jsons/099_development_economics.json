@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Development Economics",
+            "category": "Economics",
+            "description": "The mind map of development economics organizes the field into five core branches. Theories include Rostow’s stages of growth, structural change models, dependency theory, the capability approach, and neoclassical growth frameworks. Indicators and measurement cover the Human Development Index (HDI), Multidimensional Poverty Index, the Gini coefficient, and GDP per capita. Policy instruments encompass investments in education, health, infrastructure, microfinance, and conditional cash transfers. Persistent challenges such as inequality, corruption, conflict, climate change, and external debt are also central. Finally, key actors — governments, the World Bank, IMF, United Nations agencies, and non‑governmental organizations — play a critical role in shaping development outcomes. This structure reflects the interdisciplinary nature of development economics.",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Development Economics))\n    Theories\n      Rostow’s Stages\n      Structural Change\n      Dependency Theory\n      Capability Approach\n      Neoclassical Growth\n    Indicators & Measurement\n      HDI\n      Multidimensional Poverty Index\n      Gini Coefficient\n      GDP per capita\n    Policy Instruments\n      Education\n      Health & Nutrition\n      Infrastructure\n      Microfinance\n      Conditional Cash Transfers\n    Persistent Challenges\n      Inequality\n      Corruption\n      Conflict\n      Climate Change\n      Debt\n    Key Actors\n      Governments\n      World Bank\n      IMF\n      UN Agencies\n      NGOs",
+            "complexity": "medium",
+            "tags": [
+                "development_economics",
+                "mind_map",
+                "HDI",
+                "poverty",
+                "policy_instruments",
+                "sustainability"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomics",
+            "category": "Economics",
+            "description": "Macroeconomics aims to achieve three ultimate goals: sustainable economic growth, full employment, and price stability. Progress is measured by monitoring key aggregates – GDP, unemployment, inflation, and the balance of payments. These indicators guide the choice of fiscal and monetary policy tools, while analytical models such as AD‑AS, IS‑LM, and the Phillips Curve help explain the relationships between variables and validate policy actions. The flowchart captures this cyclical process: from goals to measurement, to policy intervention, and back to the goals.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>MACROECONOMICS</b><br>The study of aggregate<br>economic behavior]:::title\n    B[<b>ULTIMATE GOALS</b><br>Sustainable Growth<br>Full Employment<br>Price Stability]:::goals\n    subgraph aggregates [<b>KEY AGGREGATES</b>]\n        C1[GDP & National Income]\n        C2[Unemployment Rate]\n        C3[Inflation Rate]\n        C4[Balance of Payments]\n    end\n    subgraph policies [<b>POLICY TOOLS</b>]\n        D1[Fiscal Policy<br>Govt spending & taxation]\n        D2[Monetary Policy<br>Interest rates & money supply]\n    end\n    subgraph models [<b>ANALYTICAL MODELS</b>]\n        E1[AD-AS Model]\n        E2[IS-LM Model]\n        E3[Phillips Curve]\n    end\n    A -->|aims for| B\n    B -->|measured by| aggregates\n    aggregates -->|guide| policies\n    policies -->|target| B\n    aggregates -->|explained through| models\n    models -->|validate| policies\n    classDef title fill:#E3F2FD,stroke:#1565C0,stroke-width:2px,color:#333\n    classDef goals fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px,color:#333\n    style aggregates fill:#FFF3E0,stroke:#EF6C00,stroke-width:1px,color:#333\n    style policies fill:#F3E5F5,stroke:#7B1FA2,stroke-width:1px,color:#333\n    style models fill:#FCE4EC,stroke:#C62828,stroke-width:1px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "macroeconomics",
+                "economic_growth",
+                "inflation",
+                "fiscal_policy",
+                "monetary_policy",
+                "AD-AS_model"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Cognitive Psychology",
+            "category": "Psychology",
+            "description": "Cognitive Psychology is the scientific study of mental processes such as perception, attention, memory, language, and reasoning. This flowchart illustrates its framework: starting from the ultimate goal of understanding how the mind processes information and guides behavior, it integrates core mental domains (perception and attention, memory systems, language and comprehension, reasoning and decision making, problem solving). These are investigated through converging methods including behavioral experiments, cognitive neuroscience (fMRI, EEG), and computational modeling. Major theoretical perspectives—information processing theory, connectionism, and embodied cognition—shape the interpretation of findings. The insights produced apply to education, artificial intelligence, clinical interventions, and human‑computer interaction.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cognitive Psychology</b><br>Scientific study of mental<br>processes and the mind]:::title\n    B[<b>GOAL</b><br>Understand how the mind<br>processes information and<br>guides behavior]:::goal\n    C[<b>CORE MENTAL DOMAINS</b>]:::domains\n    subgraph D[Perception & Attention]\n        D1[Visual & auditory perception<br>Selective, divided &<br>sustained attention]\n    end\n    subgraph E[Memory Systems]\n        E1[Sensory, short-term/<br>working, long-term memory<br>Encoding, storage, retrieval]\n    end\n    subgraph F[Higher Cognition]\n        F1[Language & comprehension<br>Reasoning & decision making<br>Problem solving & creativity]\n    end\n    G[<b>METHODS & PARADIGMS</b><br>Behavioral experiments<br>Cognitive neuroscience (fMRI, EEG)<br>Computational modeling]:::methods\n    H[<b>THEORETICAL PERSPECTIVES</b><br>Information processing<br>Connectionism / PDP<br>Embodied cognition]:::theory\n    I[<b>APPLICATIONS</b><br>Education, AI, clinical psychology,<br>human‑computer interaction]:::outcome\n\n    A -->|aims to| B\n    B -->|by investigating| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|studied via| G\n    G -->|guided by| H\n    H -->|produces insights for| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef theory fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["cognitive_psychology", "mental_processes", "perception", "attention", "memory", "language", "decision_making", "information_processing", "cognitive_neuroscience"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

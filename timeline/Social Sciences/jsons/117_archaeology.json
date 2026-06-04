@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Archaeology",
+            "category": "Archaeology",
+            "description": "This timeline traces the history of Archaeology. Early antiquarianism (17th‑18th centuries) led to the three-age system (Thomsen, 1836) and scientific stratigraphy (Lubbock, 1865). Flinders Petrie developed seriation and context recording (1890s). The early 20th century saw Mortimer Wheeler’s grid‑square method and Gordon Childe’s culture history (1920s‑30s). Mid‑century, Willard Libby introduced radiocarbon dating (1949), and Lewis Binford launched processual archaeology (New Archaeology, 1962). Post‑processualism emerged with Ian Hodder (1986). Late 20th century brought GIS, remote sensing, and genetic analysis. Recent advances include LiDAR revolution (2010s), ancient DNA (aDNA), and community‑engaged archaeologies.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Archaeology\n    section Antiquarianism & Early Systems\n      17th-18th c : Antiquarian collecting\n      1836 : Thomsen<br>Three-age system\n      1865 : Lubbock<br>Palaeolithic & Neolithic\n    section Scientific Foundations\n      1890s : Flinders Petrie<br>Seriation & context recording\n      1920s-30s : Mortimer Wheeler<br>Grid‑square excavation\n      1925-30s : Gordon Childe<br>Culture history\n    section Dating & New Archaeology\n      1949 : Willard Libby<br>Radiocarbon dating (C14)\n      1962 : Lewis Binford<br>Processual archaeology\n    section Interpretive Turns\n      1986 : Ian Hodder<br>Post‑processual archaeology\n      1990s : GIS & remote sensing<br>Landscape archaeology\n    section 21st Century\n      2000s : Ancient DNA &<br>bioarchaeology revolution\n      2010s : LiDAR uncovers<br>hidden landscapes\n      2020s : Community archaeology<br>& digital heritage",
+            "complexity": "high",
+            "tags": ["archaeology", "history", "timeline", "thomsen", "radiocarbon_dating", "binford", "hodder", "lidar", "ancient_dna"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

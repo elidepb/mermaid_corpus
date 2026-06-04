@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociology of Education",
+            "category": "Sociology",
+            "description": "Sociology of Education examines how social institutions and individual experiences shape educational processes and outcomes. This flowchart illustrates the analytical process: starting from the goal of understanding educational inequality and social mobility, it integrates core structural factors (social class, race/ethnicity, gender, family background) and educational processes (curriculum, tracking, pedagogy, teacher expectations, hidden curriculum, credentialing). These are analyzed through major theoretical perspectives—functionalism (social integration), conflict theory (reproduction of inequality), symbolic interactionism (labeling, self‑fulfilling prophecy), cultural capital theory (Bourdieu), and critical pedagogy (Freire)—leading to insights into patterns of achievement and attainment, and ultimately informing policy reforms and equity interventions.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociology of Education</b><br>Study of how social forces<br>shape schooling and outcomes]:::title\n    B[<b>GOAL</b><br>Understand educational inequality<br>and social reproduction]:::goal\n    C[<b>CORE DIMENSIONS</b>]:::dimensions\n    subgraph D[Structural Factors]\n        D1[Social class<br>Race & ethnicity<br>Gender<br>Family background]\n    end\n    subgraph E[Educational Processes]\n        E1[Curriculum<br>Tracking & ability grouping<br>Pedagogy & teacher expectations<br>Hidden curriculum<br>Credentialing]\n    end\n    F[<b>THEORETICAL PERSPECTIVES</b><br>Functionalism: integration<br>Conflict: reproduction of inequality<br>Interactionism: labeling<br>Cultural capital (Bourdieu)<br>Critical pedagogy (Freire)]:::theory\n    G[<b>ANALYSIS</b><br>Explaining patterns of<br>achievement, attainment, mobility]:::analysis\n    H[<b>OUTCOMES</b><br>Policy reforms, equity interventions,<br>social change]:::outcome\n\n    A -->|aims to| B\n    B -->|examines| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|analyzed through| F\n    F -->|leads to| G\n    G -->|informs| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["sociology_of_education", "educational_inequality", "social_reproduction", "cultural_capital", "tracking", "hidden_curriculum", "labeling_theory", "bourdieu"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

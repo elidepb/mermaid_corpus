@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociology of Work",
+            "category": "Sociology & Labor Studies",
+            "description": "This timeline traces the historical development of the Sociology of Work. Early foundations include Adam Smith’s 1776 analysis of the division of labor and Marx’s 1844 concept of alienation. The classical period saw Durkheim’s 1893 The Division of Labor in Society, Taylor’s 1911 Scientific Management, and Weber’s 1922 analysis of bureaucracy. The human relations movement emerged in the 1930s (Mayo’s Hawthorne studies). Harry Braverman’s 1974 Labor and Monopoly Capital launched the deskilling debate. In 1983, Arlie Hochschild coined ‘emotional labor’ in The Managed Heart. The 1984 flexible specialization thesis (Piore & Sabel) challenged mass production models, while Jeremy Rifkin’s 1995 The End of Work predicted technological unemployment. Since the 2000s, Guy Standing’s precariat concept, platform/gig work studies, and research on automation and the future of work have defined contemporary sociology of work.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of the Sociology of Work\n    section Early Foundations\n      1776 : Adam Smith<br>Division of labor in<br>The Wealth of Nations\n      1844 : Karl Marx<br>Alienation of labor\n    section Classical Sociology\n      1893 : Émile Durkheim<br>The Division of Labor in Society\n      1911 : Frederick Taylor<br>Scientific Management\n      1922 : Max Weber<br>Bureaucracy & rationalization\n    section Human Relations & Post-War\n      1930s : Elton Mayo<br>Hawthorne studies<br>Human Relations school\n    section Deskilling & Emotional Turn\n      1974 : Harry Braverman<br>Labor and Monopoly Capital<br>(deskilling thesis)\n      1983 : Arlie Hochschild<br>The Managed Heart<br>(emotional labor)\n      1984 : Piore & Sabel<br>Flexible specialization\n    section Late 20th to Present\n      1995 : Jeremy Rifkin<br>The End of Work\n      2011 : Guy Standing<br>The Precariat\n      2010s : Platform & gig work<br>(Vallas, Kalleberg)\n      2020s : Automation, AI &<br>future of work",
+            "complexity": "high",
+            "tags": ["sociology_of_work", "history", "timeline", "marx", "durkheim", "braverman", "hochschild", "precarity", "gig_economy", "deskilling"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

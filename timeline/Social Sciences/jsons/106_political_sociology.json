@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Political Sociology",
+            "category": "Sociology & Political Science",
+            "description": "This timeline traces the intellectual history of political sociology. It begins with classical precursors (Aristotle's 4th century BCE classification of constitutions, Machiavelli's 1513 The Prince). The 18th–19th centuries brought Tocqueville's democracy and association (1835), and Marx & Engels' class politics (1848). The early 20th century saw Weber's 'Politics as a Vocation' (1919) and Gramsci's Prison Notebooks (1929‑35). Mid‑century, the field institutionalized with pluralism (Dahl, 1961) and elite theory. The 1960s‑70s added Lipset & Rokkan's cleavage theory (1967) and Skocpol's state-centered revolutions (1979). Late 20th century saw the rise of new social movements (Touraine, Habermas) and Putnam's social capital (1993). Contemporary work focuses on populism, digital politics, and global governance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Political Sociology\n    section Classical Precursors\n      4th cent BCE : Aristotle<br>Politics & constitutions\n      1513 : Machiavelli<br>The Prince (realism)\n    section 18th–19th Century Foundations\n      1835 : Tocqueville<br>Democracy in America\n      1848 : Marx & Engels<br>Communist Manifesto\n    section Early 20th Century\n      1919 : Max Weber<br>Politics as a Vocation\n      1929‑35 : Antonio Gramsci<br>Prison Notebooks (hegemony)\n    section Mid‑20th Century Institutionalization\n      1961 : Robert Dahl<br>Pluralism & Polyarchy\n      1967 : Lipset & Rokkan<br>Cleavage theory\n    section Late 20th Century\n      1979 : Theda Skocpol<br>States and Social Revolutions\n      1980s : New social movements<br>(Touraine, Habermas)\n      1993 : Robert Putnam<br>Social capital & civic culture\n    section Contemporary\n      2000s : Populism & far-right<br>Digital politics & activism",
+            "complexity": "high",
+            "tags": ["political_sociology", "history", "timeline", "marx", "weber", "tocqueville", "gramsci", "skocpol", "social_movements", "populism"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

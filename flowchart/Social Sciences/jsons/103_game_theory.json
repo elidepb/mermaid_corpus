@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Mathematics & Economics",
+            "description": "This flowchart depicts the systematic approach of Game Theory. Beginning with the goal of predicting outcomes and determining optimal strategies, it proceeds to define a game through players, strategies, payoffs, and information. The game is classified into types (cooperative vs non-cooperative, zero-sum, simultaneous vs sequential, perfect/imperfect info). Solution concepts are then applied, including Nash Equilibrium and refinements like Subgame Perfect Nash, Bayesian Nash, and Evolutionary Stable Strategy. The resulting strategic insights inform applications across economics, politics, biology, and computer science.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Game Theory</b><br>Study of strategic<br>interactions]:::titulo\n    B[<b>GOAL</b><br>Predict outcomes &<br>determine optimal strategies]:::goal\n    C[<b>GAME DEFINITION</b><br>Players, Strategies, Payoffs,<br>Information]:::definition\n    subgraph D[Game Types]\n        D1[Cooperative vs Non-Cooperative<br>Zero-Sum vs Non-Zero-Sum<br>Simultaneous vs Sequential<br>Perfect vs Imperfect Info]\n    end\n    E[<b>SOLUTION CONCEPTS</b>]:::solutions\n    subgraph F[Equilibrium Refinements]\n        F1[Nash Equilibrium<br>Subgame Perfect Nash<br>Bayesian Nash<br>Evolutionary Stable Strategy]\n    end\n    G[<b>APPLICATIONS</b><br>Economics, Politics,<br>Biology, Computer Science]:::applications\n\n    A -->|aims to| B\n    B -->|requires| C\n    C -->|classifies into| D\n    D -->|solved using| E\n    E -->|includes| F\n    F -->|yield strategic insights for| G\n\n    classDef titulo fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef definition fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef solutions fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef applications fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["game_theory", "nash_equilibrium", "strategic_interaction", "payoffs", "cooperative_games", "non_cooperative", "refinements", "applications"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

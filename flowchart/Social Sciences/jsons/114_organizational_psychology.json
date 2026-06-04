@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Organizational Psychology",
+            "category": "Psychology & Business",
+            "description": "Organizational Psychology is the scientific study of human behavior in the workplace. This flowchart outlines the process: its ultimate goal is to enhance individual, group, and organizational effectiveness. It integrates core levels of analysis (individual, group, organizational) with foundational theories (goal setting, expectancy, equity, job characteristics, person‑job fit) and rigorous methods (surveys, experiments, big data analytics). The applied process involves assessment, diagnosis, intervention, and evaluation, leading to outcomes such as improved performance, employee well‑being, and organizational productivity.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Organizational Psychology</b><br>Scientific study of human behavior<br>in the workplace]:::title\n    B[<b>GOAL</b><br>Enhance individual, group,<br>and organizational effectiveness]:::goal\n    C[<b>LEVELS OF ANALYSIS</b>]:::levels\n    subgraph D[Individual]\n        D1[Motivation, personality<br>Job attitudes, stress]\n    end\n    subgraph E[Group]\n        E1[Team dynamics, leadership<br>Communication, conflict]\n    end\n    subgraph F[Organizational]\n        F1[Culture, structure<br>Change, development]\n    end\n    G[<b>THEORIES & METHODS</b>]:::theory\n    subgraph H[Key Theories]\n        H1[Goal setting, equity<br>Expectancy, job characteristics<br>Person-job fit]\n    end\n    subgraph I[Research Methods]\n        I1[Surveys, experiments<br>Interviews, big data analytics]\n    end\n    J[<b>APPLIED PROCESS</b><br>Assessment → diagnosis<br>→ intervention → evaluation]:::process\n    K[<b>OUTCOMES</b><br>Performance, well‑being,<br>organizational productivity]:::outcome\n\n    A -->|pursues| B\n    B -->|examines| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|informed by| G\n    G -->|includes| H\n    G -->|includes| I\n    H & I -->|guide| J\n    J -->|achieves| K\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef levels fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["organizational_psychology", "industrial_organizational", "workplace", "motivation", "job_satisfaction", "leadership", "organizational_culture", "people_analytics"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

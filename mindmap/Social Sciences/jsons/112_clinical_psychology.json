@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Clinical Psychology",
+            "category": "Psychology",
+            "description": "This mind map organizes the field of Clinical Psychology. It branches into Core Activities (psychological assessment, diagnosis, case formulation, psychotherapy, consultation), Theoretical Orientations (cognitive‑behavioral, psychodynamic, humanistic‑existential, systemic, integrative), Key Concepts (evidence‑based practice, therapeutic alliance, transference, manualized treatment), Assessment Methods (clinical interview, intelligence tests, personality inventories, neuropsychological tests), Major Disorders (mood, anxiety, psychotic, personality, neurodevelopmental), Notable Contributors (Lightner Witmer, Sigmund Freud, Aaron Beck, Carl Rogers, Marsha Linehan), and Settings (hospitals, private practice, universities, community centers). The map captures the profession's breadth and scientific‑practitioner foundation.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Clinical Psychology))\n    Core_Activities\n      Assessment\n      Diagnosis\n      Case_Formulation\n      Psychotherapy\n      Consultation\n    Theoretical_Orientation\n      Cognitive-Behavioral\n        CBT\n        ACT\n        DBT\n      Psychodynamic\n      Humanistic-Existential\n        Person-Centered\n        Gestalt\n      Systemic_Family\n      Integrative\n    Key_Concepts\n      Evidence-Based_Practice\n      Therapeutic_Alliance\n      Transference_Countertransference\n      Manualized_Treatment\n    Assessment_Methods\n      Clinical_Interview\n      Intelligence_Tests\n      Personality_Inventories\n      Neuropsychological_Tests\n    Major_Disorders\n      Mood_Disorders\n      Anxiety_Disorders\n      Psychotic_Disorders\n      Personality_Disorders\n      Neurodevelopmental\n    Notable_Contributors\n      Lightner_Witmer\n      Sigmund_Freud\n      Aaron_Beck\n      Carl_Rogers\n      Marsha_Linehan\n    Settings\n      Hospitals\n      Private_Practice\n      Universities\n      Community_Centers",
+            "complexity": "high",
+            "tags": ["clinical_psychology", "mind_map", "psychotherapy", "assessment", "CBT", "evidence_based", "mental_health", "theoretical_orientation"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

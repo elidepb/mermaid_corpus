@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "International Relations",
+            "category": "Political Science",
+            "description": "This timeline traces the intellectual and institutional development of International Relations. Classical precursors include Thucydides’ History of the Peloponnesian War (5th century BCE) and early modern thinkers (Hobbes, Grotius). The discipline formally emerged after World War I with the founding of the first IR chair at Aberystwyth (1919) and the interwar idealism (League of Nations). Post‑WWII realism (Morgenthau’s Politics Among Nations, 1948) became dominant. The behavioral revolution of the 1960s introduced quantitative methods. Neoliberal institutionalism (Keohane & Nye, Power and Interdependence, 1977) and constructivism (Wendt, 1992) offered alternative paradigms. The end of the Cold War (1991) shifted focus to globalization, identity, and critical theory. Contemporary IR addresses climate change, cyber politics, and pandemics (2000s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of International Relations\n    section Classical Precursors\n      5th cent BCE : Thucydides<br>Peloponnesian War\n      1625 : Grotius<br>On the Law of War and Peace\n    section Birth of the Discipline\n      1919 : First IR chair<br>Aberystwyth University\n      1939 : E.H. Carr<br>The Twenty Years' Crisis\n    section Realism & Behavioral Turn\n      1948 : Hans Morgenthau<br>Politics Among Nations\n      1960s : Behavioral revolution<br>Quantitative methods\n    section Paradigm Expansion\n      1977 : Keohane & Nye<br>Power and Interdependence\n      1992 : Alexander Wendt<br>Anarchy is What States Make of It\n    section Post‑Cold War\n      1991 : End of Cold War<br>identity & critical theory\n      2000s : Globalization &<br>global governance\n    section Contemporary\n      2010s : Cyber politics &<br>climate security\n      2020s : Pandemics &<br>great power competition",
+            "complexity": "high",
+            "tags": ["international_relations", "history", "timeline", "realism", "liberalism", "constructivism", "cold_war", "globalization"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

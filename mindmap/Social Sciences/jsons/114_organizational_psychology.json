@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Organizational Psychology",
+            "category": "Psychology & Business",
+            "description": "This mind map organizes the field of Organizational Psychology around its central concept. It branches into core topics (job satisfaction, motivation, leadership, teamwork, organizational culture, stress, work‑life balance), major theories (Maslow's hierarchy, Herzberg's two‑factor, goal setting, expectancy, equity, job characteristics model), research methods (surveys, experiments, interviews, observations, big data analytics), key applications (talent management, training and development, performance appraisal, organizational change, diversity and inclusion), and notable figures (Hugo Münsterberg, Frederick Taylor, Elton Mayo, Edwin Locke, Adam Grant). The structure illustrates the discipline's breadth in understanding and improving workplace behavior.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Organizational Psychology))\n    Core_Topics\n      Job_Satisfaction\n      Motivation\n      Leadership\n      Teamwork\n      Organizational_Culture\n      Stress\n      Work-Life_Balance\n    Key_Theories\n      Maslow's_Hierarchy\n      Herzberg's_Two-Factor\n      Goal_Setting\n      Expectancy\n      Equity\n      Job_Characteristics\n    Methods\n      Surveys\n      Experiments\n      Interviews\n      Observations\n      Big_Data_Analytics\n    Applications\n      Talent_Management\n      Training_&_Development\n      Performance_Appraisal\n      Organizational_Change\n      Diversity_&_Inclusion\n    Notable_Figures\n      Hugo_Münsterberg\n      Frederick_Taylor\n      Elton_Mayo\n      Edwin_Locke\n      Adam_Grant",
+            "complexity": "high",
+            "tags": ["organizational_psychology", "mind_map", "motivation", "leadership", "job_satisfaction", "theories", "talent_management", "organizational_culture"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

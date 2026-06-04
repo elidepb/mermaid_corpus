@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Physical Geography",
+            "category": "Geography",
+            "description": "This timeline highlights key developments in Physical Geography. Early foundations include Humboldt’s holistic earth science (early 1800s). In the late 19th century, William Morris Davis proposed the cycle of erosion (1889) and G.K. Gilbert advanced process geomorphology. The early 20th century saw the rise of quantitative methods and Thornthwaite’s climate classification (1948). The mid‑20th century brought the quantitative revolution (1950s‑60s) and systems theory. Satellite remote sensing (Landsat, 1972) and GIS revolutionized data collection. In the late 20th century, earth system science (NASA’s Earth System Science Committee, 1988) emerged. The 21st century emphasizes climate change research, real‑time sensor networks, and big data analytics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Physical Geography\n    section Early Foundations\n      early 1800s : Alexander von Humboldt<br>Holistic earth science\n    section Late 19th Century\n      1889 : W.M. Davis<br>Cycle of erosion\n      1890s : G.K. Gilbert<br>Process geomorphology\n    section Early 20th Century\n      1948 : C.W. Thornthwaite<br>Climate classification\n    section Quantitative Revolution\n      1950s‑60s : Quantitative methods<br>systems theory in geography\n    section Remote Sensing & GIS\n      1972 : Launch of Landsat 1<br>satellite remote sensing\n      1980s : GIS becomes<br>widespread\n    section Earth System Science\n      1988 : NASA Earth System<br>Science Committee\n      1990s : Global climate models<br>interdisciplinary integration\n    section Contemporary\n      2000s : Real‑time sensor networks<br>UAV & LiDAR mapping\n      2010s‑20s : Big data, AI,<br>climate change adaptation",
+            "complexity": "high",
+            "tags": ["physical_geography", "history", "timeline", "davis", "remote_sensing", "GIS", "earth_system_science", "climate_change"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

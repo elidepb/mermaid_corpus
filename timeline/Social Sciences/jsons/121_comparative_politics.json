@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Comparative Politics",
+            "category": "Political Science",
+            "description": "This timeline traces the intellectual history of Comparative Politics. It begins with classical typologies (Aristotle’s classification of constitutions, 4th century BCE). The 19th century saw systematic comparisons (Tocqueville’s Democracy in America 1835, Marx’s comparative class analysis). Early 20th century: Weber’s comparative bureaucracy and the behavioral revolution (Merriam, Lasswell, 1920s‑50s). Post‑WWII: structural functionalism (Almond & Coleman, 1960) and modernization theory. The 1970s brought dependency theory and the state‑centered paradigm (Skocpol’s States and Social Revolutions, 1979). The 1980s‑90s saw the third wave of democratization (Huntington, 1991) and the rise of institutionalism. Recent decades feature mixed methods, global comparative datasets, and attention to authoritarian resilience (2000s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Comparative Politics\n    section Classical & Early Modern\n      4th cent BCE : Aristotle<br>Classification of constitutions\n      1513 : Machiavelli<br>Comparative statecraft\n    section 19th Century\n      1835 : Tocqueville<br>Democracy in America\n      1848 : Marx & Engels<br>Comparative class analysis\n    section Early 20th Century\n      1919 : Weber<br>Comparative bureaucracy\n      1920s‑50s : Behavioral revolution<br>(Merriam, Lasswell)\n    section Post‑WWII\n      1960 : Almond & Coleman<br>Structural functionalism\n      1966 : Barrington Moore<br>Social Origins of Dictatorship & Democracy\n    section State & Democracy\n      1979 : Skocpol<br>States and Social Revolutions\n      1991 : Huntington<br>The Third Wave\n      1990s : Institutionalist turn\n    section Contemporary\n      2000s : Mixed methods &<br>global datasets (V‑Dem, Polity)\n      2010s‑20s : Authoritarian resilience<br>populism & democratic backsliding",
+            "complexity": "high",
+            "tags": ["comparative_politics", "history", "timeline", "aristotle", "tocqueville", "skocpol", "huntington", "institutionalism", "democratization"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

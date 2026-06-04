@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "International Relations",
+            "category": "Political Science",
+            "description": "International Relations (IR) is the study of interactions among states, international organizations, and non‑state actors. This flowchart illustrates the discipline’s core logic: the overarching goal is to understand and explain international outcomes. Analysis integrates three levels of analysis (system, state, individual) with major theoretical paradigms—realism (power and security), liberalism (cooperation and institutions), constructivism (norms and identity), and critical approaches (Marxism, feminism, postcolonialism). These theories employ diverse methods (qualitative case studies, quantitative analysis, formal modeling) to investigate central issues such as war and peace, international political economy, global governance, and human rights. The resulting insights inform foreign policy, diplomacy, and global problem‑solving.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>International Relations</b><br>Study of interactions among states,<br>international organizations, and actors]:::title\n    B[<b>GOAL</b><br>Understand and explain<br>international outcomes]:::goal\n    C[<b>CORE FRAMEWORKS</b>]:::frameworks\n    subgraph D[Levels of Analysis]\n        D1[System, state,<br>individual]\n    end\n    subgraph E[Theoretical Paradigms]\n        E1[Realism: power & security<br>Liberalism: cooperation & institutions<br>Constructivism: norms & identity<br>Critical: Marxism, feminism, postcolonial]\n    end\n    F[<b>METHODS</b><br>Qualitative case studies<br>Quantitative analysis<br>Formal modeling]:::methods\n    G[<b>CENTRAL ISSUES</b><br>War & peace, international political<br>economy, global governance,<br>human rights]:::issues\n    H[<b>OUTCOMES</b><br>Informs foreign policy, diplomacy,<br>and global cooperation]:::outcome\n\n    A -->|aims to| B\n    B -->|through integration of| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|combined with| F\n    F -->|examines| G\n    G -->|leads to| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef frameworks fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef issues fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["international_relations", "levels_of_analysis", "realism", "liberalism", "constructivism", "global_governance", "foreign_policy"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

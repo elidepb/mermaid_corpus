@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Game Theory",
+            "category": "Mathematics & Economics",
+            "description": "This timeline highlights the major historical developments in Game Theory. Starting with foundations: 1928 von Neumann's minimax theorem, 1944 'Theory of Games and Economic Behavior' with Morgenstern. The Nash era brought the Nash equilibrium in 1950 and extensive-form refinements in 1953. The 1960s-70s saw refinements by Selten (subgame perfect) and Harsanyi (Bayesian games), and the emergence of evolutionary game theory by Maynard Smith. The 1980s introduced mechanism design (Hurwicz, Maskin), the 1990s behavioral game theory (Camerer), and the 2000s algorithmic game theory. Recent advances include AI in games and multi-agent systems.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Game Theory\n    section Foundations\n      1928 : John von Neumann<br>Minimax theorem\n      1944 : \"Theory of Games and<br>Economic Behavior\"<br>(von Neumann & Morgenstern)\n    section Nash & Equilibrium\n      1950 : John Nash<br>Nash equilibrium\n      1953 : Extensive-form games<br>and refinement ideas\n    section Refinements & Dynamics\n      1960s : Reinhard Selten<br>Subgame perfect equilibrium\n      1967-68 : John Harsanyi<br>Bayesian games\n      1970s : Evolutionary game theory<br>(Maynard Smith)\n    section Applications & Extensions\n      1980s : Mechanism design<br>(Hurwicz, Maskin)\n      1990s : Behavioral game theory<br>(Camerer)\n      2000s : Algorithmic game theory\n    section Recent\n      2010s-20s : AI in games<br>Multi-agent systems",
+            "complexity": "high",
+            "tags": ["game_theory", "history", "nash_equilibrium", "von_neumann", "mechanism_design", "evolutionary_game_theory", "timeline"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

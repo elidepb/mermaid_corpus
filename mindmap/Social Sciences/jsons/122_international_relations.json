@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "International Relations",
+            "category": "Political Science",
+            "description": "This mind map organizes the field of International Relations. It branches into Major Theories (realism, liberalism, constructivism, Marxism, feminism, postcolonialism), Key Concepts (anarchy, sovereignty, power, balance of power, security dilemma, interdependence, hegemony, soft power), Levels of Analysis (system, state, individual), Actors (states, international organizations, NGOs, multinational corporations), Central Issues (war, peace, trade, development, environment, human rights), and Methods (historical analysis, case studies, quantitative, game theory). The map captures the discipline’s conceptual and analytical breadth.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((International Relations))\n    Major_Theories\n      Realism\n      Liberalism\n      Constructivism\n      Marxism\n      Feminism\n      Postcolonialism\n    Key_Concepts\n      Anarchy\n      Sovereignty\n      Power\n      Balance_of_Power\n      Security_Dilemma\n      Interdependence\n      Hegemony\n      Soft_Power\n    Levels_of_Analysis\n      System\n      State\n      Individual\n    Actors\n      States\n      International_Organizations\n      NGOs\n      Multinational_Corporations\n    Central_Issues\n      War\n      Peace\n      Trade\n      Development\n      Environment\n      Human_Rights\n    Methods\n      Historical_Analysis\n      Case_Studies\n      Quantitative\n      Game_Theory",
+            "complexity": "high",
+            "tags": ["international_relations", "mind_map", "theories", "concepts", "actors", "issues", "levels_of_analysis"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

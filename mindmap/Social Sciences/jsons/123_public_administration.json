@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Public Administration",
+            "category": "Political Science & Public Management",
+            "description": "This mind map organizes the field of Public Administration around its central concept. It branches into Core Concepts (public interest, accountability, bureaucracy, red tape, decentralization, governance), Major Theories (Wilson’s politics‑administration dichotomy, Weber’s ideal bureaucracy, Simon’s decision‑making, New Public Management, New Public Service, digital‑era governance), Key Functions (POSDCORB, policy implementation, public budgeting, human resource management, performance measurement), Subfields (comparative PA, policy analysis, public financial management, e‑government, local government), Key Thinkers (Woodrow Wilson, Max Weber, Luther Gulick, Herbert Simon, Elinor Ostrom), and Contemporary Challenges (corruption, innovation, crisis management, digital transformation). The map illustrates the discipline’s breadth from foundational ideas to modern applications.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Public Administration))\n    Core_Concepts\n      Public_Interest\n      Accountability\n      Bureaucracy\n      Red_Tape\n      Decentralization\n      Governance\n    Major_Theories\n      Wilson's_Dichotomy\n      Weber's_Bureaucracy\n      Simon's_Decision-Making\n      New_Public_Management\n      New_Public_Service\n      Digital-Era_Governance\n    Key_Functions\n      POSDCORB\n      Policy_Implementation\n      Public_Budgeting\n      Human_Resource_Management\n      Performance_Measurement\n    Subfields\n      Comparative_PA\n      Policy_Analysis\n      Public_Financial_Management\n      E-Government\n      Local_Government\n    Key_Thinkers\n      Woodrow_Wilson\n      Max_Weber\n      Luther_Gulick\n      Herbert_Simon\n      Elinor_Ostrom\n    Contemporary_Challenges\n      Corruption\n      Innovation\n      Crisis_Management\n      Digital_Transformation",
+            "complexity": "high",
+            "tags": ["public_administration", "mind_map", "governance", "bureaucracy", "new_public_management", "digital_government", "accountability"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

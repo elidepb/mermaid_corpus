@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Social Psychology",
+            "category": "Psychology",
+            "description": "Social Psychology investigates how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others. This flowchart illustrates its analytical process: the ultimate goal is to understand and predict social behavior by examining core intrapersonal phenomena (social cognition, self-concept, attitudes) and interpersonal processes (social influence, group dynamics, prejudice, aggression, helping). These phenomena are investigated through major theoretical perspectives—sociocultural, evolutionary, social learning, and social cognitive—using rigorous methods (experiments, surveys, naturalistic observation). The resulting insights are applied to real-world domains such as health promotion, legal decision-making, organizational behavior, and environmental action.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Social Psychology</b><br>Scientific study of how people<br>influence and relate to each other]:::title\n    B[<b>GOAL</b><br>Understand, predict, and<br>influence social behavior]:::goal\n    C[<b>CORE PHENOMENA</b>]:::phenomena\n    subgraph D[Intrapersonal Processes]\n        D1[Social cognition<br>Self-concept & identity<br>Attitudes & persuasion<br>Attribution & explanation]\n    end\n    subgraph E[Interpersonal & Group Processes]\n        E1[Conformity & obedience<br>Group dynamics & decision making<br>Prejudice & discrimination<br>Aggression & prosocial behavior]\n    end\n    F[<b>THEORETICAL PERSPECTIVES</b><br>Sociocultural, evolutionary,<br>social learning, social cognitive]:::theory\n    G[<b>METHODS</b><br>Experiments, surveys,<br>naturalistic observation,<br>implicit measures]:::methods\n    H[<b>APPLICATIONS</b><br>Health, law, business,<br>education, environment]:::outcome\n\n    A -->|aims to| B\n    B -->|through analysis of| C\n    C -->|encompasses| D\n    C -->|encompasses| E\n    D & E -->|framed by| F\n    F -->|tested via| G\n    G -->|generates insights for| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef phenomena fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef methods fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["social_psychology", "social_influence", "social_cognition", "attitudes", "conformity", "obedience", "prejudice", "group_dynamics"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

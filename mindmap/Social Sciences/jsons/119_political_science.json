@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Political Science",
+            "category": "Social Sciences",
+            "description": "This mind map organizes the discipline of Political Science around its central concept. It branches into core subfields (political theory, comparative politics, international relations, public policy, methodology), key concepts (power, state, sovereignty, democracy, justice, representation), major thinkers (Plato, Aristotle, Machiavelli, Hobbes, Locke, Marx, Weber, Arendt), research methods (case studies, surveys, experiments, game theory, discourse analysis), and applied areas (governance, elections, conflict resolution, human rights, environmental politics). It captures the field’s breadth from philosophical foundations to empirical applications.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Political Science))\n    Subfields\n      Political_Theory\n      Comparative_Politics\n      International_Relations\n      Public_Policy\n      Methodology\n    Key_Concepts\n      Power\n      State\n      Sovereignty\n      Democracy\n      Justice\n      Representation\n    Major_Thinkers\n      Plato\n      Aristotle\n      Machiavelli\n      Hobbes\n      Locke\n      Marx\n      Weber\n      Arendt\n    Research_Methods\n      Case_Studies\n      Surveys\n      Experiments\n      Game_Theory\n      Discourse_Analysis\n    Applied_Areas\n      Governance\n      Elections\n      Conflict_Resolution\n      Human_Rights\n      Environmental_Politics",
+            "complexity": "high",
+            "tags": ["political_science", "mind_map", "power", "state", "democracy", "political_theory", "international_relations", "methodology"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

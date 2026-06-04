@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Archaeology",
+            "category": "Archaeology",
+            "description": "Archaeology is the scientific study of past human cultures through the systematic recovery, documentation, analysis, and interpretation of material remains. This flowchart outlines its framework: the ultimate goal is to reconstruct past lifeways and explain cultural change. It integrates core methods (survey, excavation, artifact analysis, dating techniques) with major theoretical approaches (culture history, processualism, post‑processualism, agency theory). Research proceeds through stages—formulation of questions, fieldwork, laboratory analysis, and interpretation—within subfields like prehistoric, historical, classical, and bioarchaeology. The resulting insights illuminate human history, cultural heritage management, and contemporary issues.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Archaeology</b><br>Scientific study of past human cultures<br>through material remains]:::title\n    B[<b>GOAL</b><br>Reconstruct past lifeways<br>and explain cultural change]:::goal\n    C[<b>CORE COMPONENTS</b>]:::components\n    subgraph D[Methods & Techniques]\n        D1[Survey & remote sensing<br>Excavation & stratigraphy<br>Artifact & ecofact analysis<br>Dating (C14, dendrochronology)]\n    end\n    subgraph E[Theoretical Frameworks]\n        E1[Culture history<br>Processual archaeology<br>Post‑processual<br>Materiality & agency]\n    end\n    subgraph F[Subfields]\n        F1[Prehistoric, historical<br>Classical, underwater<br>Bioarchaeology, zooarchaeology]\n    end\n    G[<b>RESEARCH PROCESS</b><br>Question → fieldwork → analysis → interpretation]:::process\n    H[<b>OUTCOMES</b><br>Human history, heritage management,<br>public education, scientific knowledge]:::outcome\n\n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|drive| G\n    G -->|produces| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["archaeology", "excavation", "material_culture", "dating_methods", "cultural_change", "processual_archaeology", "stratigraphy"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

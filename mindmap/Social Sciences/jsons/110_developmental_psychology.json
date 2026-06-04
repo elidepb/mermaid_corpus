@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Developmental Psychology",
+            "category": "Psychology",
+            "description": "This mind map organizes the field of Developmental Psychology. Central branches cover Core Domains (physical, cognitive, socioemotional), Major Theories (psychoanalytic: Freud, Erikson; learning: Skinner, Bandura; cognitive: Piaget, Vygotsky; ethological: Bowlby, Ainsworth; ecological: Bronfenbrenner), Key Concepts (nature vs nurture, continuity vs discontinuity, critical periods, plasticity), Research Methods (longitudinal, cross‑sectional, sequential, case studies, observations), Lifespan Stages (prenatal, infancy, childhood, adolescence, adulthood, aging), Notable Theorists (Piaget, Vygotsky, Erikson, Bowlby, Ainsworth, Bandura, Bronfenbrenner), and Applications (education, parenting, clinical therapy, policy). The structure illustrates the discipline's breadth.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Developmental Psychology))\n    Core_Domains\n      Physical_Development\n      Cognitive_Development\n      Socioemotional_Development\n    Major_Theories\n      Psychoanalytic\n        Freud\n        Erikson\n      Learning\n        Skinner\n        Bandura\n      Cognitive-Developmental\n        Piaget\n        Vygotsky\n      Ethological\n        Bowlby\n        Ainsworth\n      Ecological\n        Bronfenbrenner\n    Key_Concepts\n      Nature_vs_Nurture\n      Continuity_vs_Discontinuity\n      Critical_Periods\n      Plasticity\n    Research_Methods\n      Longitudinal\n      Cross-Sectional\n      Sequential\n      Case_Studies\n      Observations\n    Lifespan_Stages\n      Prenatal\n      Infancy\n      Childhood\n      Adolescence\n      Adulthood\n      Aging\n    Notable_Theorists\n      Jean_Piaget\n      Lev_Vygotsky\n      Erik_Erikson\n      John_Bowlby\n      Mary_Ainsworth\n      Albert_Bandura\n      Urie_Bronfenbrenner\n    Applications\n      Education\n      Parenting\n      Clinical_Therapy\n      Social_Policy",
+            "complexity": "high",
+            "tags": ["developmental_psychology", "mind_map", "lifespan", "piaget", "vygotsky", "erikson", "attachment", "nature_nurture", "theories"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

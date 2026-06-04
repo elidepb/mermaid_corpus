@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Civil Law",
+            "category": "Law",
+            "description": "This mind map organizes the Civil Law legal system around its central concept. Major branches include Core Sources (constitution, codes, statutes, custom, doctrine), Key Features (codification, deductive reasoning, limited precedent, inquisitorial procedure, separation of public/private law), Major Codifications (Justinian's Corpus Juris, Napoleonic Code, German BGB, Swiss Civil Code), Comparison with Common Law (judge‑made law vs statutory law, adversarial vs inquisitorial, stare decisis vs jurisprudence constante), and Areas of Application (contracts, torts, property, family law, commercial law). The map captures the defining characteristics of the civil law tradition.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Civil Law))\n    Core_Sources\n      Constitution\n      Codes\n        Civil_Code\n        Commercial_Code\n      Statutes\n      Custom\n      Doctrine\n    Key_Features\n      Codification\n      Deductive_Reasoning\n      Limited_Precedent\n      Inquisitorial_Procedure\n      Public_Private_Law_Divide\n    Major_Codifications\n      Justinian's_Corpus_Juris\n      Napoleonic_Code_1804\n      German_BGB_1900\n      Swiss_Civil_Code_1907\n    Comparison_Common_Law\n      Statutory_vs_Judge‑Made\n      Adversarial_vs_Inquisitorial\n      Stare_Decisis_vs_Jurisprudence_Constante\n    Areas_of_Application\n      Contracts\n      Torts\n      Property\n      Family_Law\n      Commercial_Law",
+            "complexity": "high",
+            "tags": ["civil_law", "mind_map", "codification", "napoleonic_code", "german_bgb", "legal_tradition", "sources_of_law"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Political Sociology",
+            "category": "Sociology & Political Science",
+            "description": "Political sociology examines the intersection of society and politics. This flowchart maps its logic: starting from the goal of understanding how social forces shape political power and outcomes, it integrates core dimensions (the state and its autonomy, power and domination, civil society and social capital, political culture and ideology, and political participation and social movements). These dimensions are analyzed through classical and contemporary theories (Marxist class analysis, Weberian authority, elite theory, pluralism, new institutionalism, post-structuralism). The synthesis explains key political phenomena such as democratic stability, revolution, policy-making, and the rise of populism.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Political Sociology</b><br>The study of how society<br>shapes politics and power]:::title\n    B[<b>GOAL</b><br>Explain the interplay between<br>social structures and political outcomes]:::goal\n    C[<b>CORE DIMENSIONS</b>]:::dimensions\n    subgraph D[Foundational Concepts]\n        D1[The State & Autonomy<br>Power & Domination<br>Civil Society & Social Capital<br>Political Culture & Ideology<br>Participation & Social Movements]\n    end\n    subgraph E[Theoretical Lenses]\n        E1[Class & Elite Theories (Marx, Weber, Pareto)<br>Pluralism & Polyarchy (Dahl)<br>New Institutionalism<br>Post-structuralism (Foucault)]\n    end\n    F[<b>ANALYSIS</b><br>Connecting micro-level political behavior<br>to macro-level structures]:::analysis\n    G[<b>OUTCOMES</b><br>Democratic stability, revolution,<br>policy formation, populism]:::outcome\n\n    A -->|seeks| B\n    B -->|through study of| C\n    C -->|encompasses| D\n    C -->|applies| E\n    D & E -->|inform| F\n    F -->|explains| G\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["political_sociology", "power", "state", "civil_society", "political_culture", "social_movements", "elite_theory", "pluralism"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

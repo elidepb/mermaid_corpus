@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Behavioral Economics",
+            "category": "Economics & Psychology",
+            "description": "This mind map organizes the core components of Behavioral Economics around a central concept. It branches into Core Assumptions (bounded rationality, limited willpower, social preferences), Key Theories (prospect theory with loss aversion and reference dependence, mental accounting, hyperbolic discounting), Cognitive Biases (anchoring, availability, confirmation, overconfidence, status quo bias), Nudge Theory (default options, framing effects, social norms), and Applications (public policy, behavioral finance, health decisions, marketing). The structure reveals the interconnected psychological factors that shape economic behavior.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Behavioral Economics))\n    Core_Assumptions\n      Bounded Rationality\n      Limited Willpower\n      Social Preferences\n    Key_Theories\n      Prospect Theory\n        Loss Aversion\n        Reference Dependence\n      Mental Accounting\n      Hyperbolic Discounting\n    Cognitive_Biases\n      Anchoring\n      Availability\n      Confirmation\n      Overconfidence\n      Status Quo Bias\n    Nudge_Theory\n      Default Options\n      Framing Effects\n      Social Norms\n    Applications\n      Public Policy\n      Behavioral Finance\n      Health Decisions\n      Marketing",
+            "complexity": "high",
+            "tags": ["behavioral_economics", "mind_map", "heuristics", "nudge", "prospect_theory", "bounded_rationality", "cognitive_biases", "framing"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

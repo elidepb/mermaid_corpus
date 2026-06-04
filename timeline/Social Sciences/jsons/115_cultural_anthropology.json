@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Cultural Anthropology",
+            "category": "Anthropology",
+            "description": "This timeline traces the development of Cultural Anthropology. It begins with Enlightenment precursors (Herder's cultural pluralism, 18th century). The 19th century saw unilinear evolutionism (Tylor's 'Primitive Culture' 1871, Morgan's 'Ancient Society' 1877). Franz Boas established cultural relativism and historical particularism in the early 20th century. Bronisław Malinowski pioneered participant observation with 'Argonauts of the Western Pacific' (1922). Margaret Mead's 'Coming of Age in Samoa' (1928) popularized cultural determinism. Structuralism rose with Lévi‑Strauss (1940s‑1960s). Clifford Geertz's 'The Interpretation of Cultures' (1973) ushered in interpretive and symbolic anthropology. The 1980s brought reflexive and postmodern critiques (Marcus & Fischer, 1986). Contemporary cultural anthropology addresses globalization, digital culture, and multi‑sited ethnography (2000s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Cultural Anthropology\n    section Enlightenment & 19th Century\n      18th century : Herder's cultural pluralism\n      1871 : Edward Tylor<br>Primitive Culture\n      1877 : Lewis Henry Morgan<br>Ancient Society\n    section Early 20th Century\n      1911 : Franz Boas<br>The Mind of Primitive Man\n      1922 : Bronisław Malinowski<br>Argonauts of the Western Pacific\n      1928 : Margaret Mead<br>Coming of Age in Samoa\n    section Mid‑Century Transformations\n      1940s‑60s : Claude Lévi‑Strauss<br>Structural anthropology\n    section Interpretive & Reflexive Turn\n      1973 : Clifford Geertz<br>The Interpretation of Cultures\n      1986 : Marcus & Fischer<br>Anthropology as Cultural Critique\n    section Contemporary\n      1990s‑2000s : Globalization &<br>multi‑sited ethnography\n      2010s‑20s : Digital anthropology<br>decolonial & activist approaches",
+            "complexity": "high",
+            "tags": ["cultural_anthropology", "history", "timeline", "boas", "malinowski", "mead", "geertz", "levi_strauss", "interpretive_anthropology"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

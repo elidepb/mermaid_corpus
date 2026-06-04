@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometrics",
+            "category": "Economics",
+            "description": "The mind map of econometrics branches from the central concept into its fundamental components. It covers data types (cross‑sectional, time series, panel), estimation methods (OLS, maximum likelihood, instrumental variables, GMM, time series models), the key assumptions that underlie classical regression models (linearity, exogeneity, homoskedasticity, no autocorrelation, normality), diagnostic techniques used to verify those assumptions (multicollinearity, heteroskedasticity, autocorrelation, model stability tests), and major fields of application (macroeconomic forecasting, policy evaluation, finance, labour economics). This structure provides an organized overview of the discipline’s core elements.",
+            "diagram_type": "mind_map",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Econometrics))\n    Data Types\n      Cross‑section\n      Time series\n      Panel\n    Estimation Methods\n      OLS\n      Maximum Likelihood\n      IV / 2SLS\n      GMM\n      Time Series Models\n    Assumptions\n      Linearity\n      Exogeneity\n      Homoskedasticity\n      No autocorrelation\n      Normality\n    Diagnostics\n      Multicollinearity\n      Heteroskedasticity\n      Autocorrelation\n      Model stability\n    Applications\n      Macroeconomic forecasting\n      Policy evaluation\n      Finance\n      Labour economics",
+            "complexity": "medium",
+            "tags": [
+                "econometrics",
+                "mind_map",
+                "OLS",
+                "time_series",
+                "panel_data",
+                "diagnostics"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

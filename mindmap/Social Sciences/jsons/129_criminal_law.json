@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Criminal Law",
+            "category": "Law",
+            "description": "This mind map organizes the field of Criminal Law around its central themes. It branches into core elements (actus reus, mens rea), types of crimes (homicide, theft, assault), defenses (self‑defense, insanity), procedural stages (arrest, trial, sentencing), theories of punishment (retribution, deterrence), and key sources (statutes, Model Penal Code). The structure provides a comprehensive overview of the substantive and procedural dimensions of the discipline.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Criminal Law))\n    Core_Elements\n      Actus_Reus\n      Mens_Rea\n      Concurrence\n      Causation\n    Types_of_Crimes\n      Homicide\n      Theft\n      Assault\n      Drug_Offenses\n      White‑Collar\n    Defenses\n      Self‑Defense\n      Insanity\n      Duress\n      Necessity\n      Entrapment\n    Criminal_Procedure\n      Investigation\n      Arrest\n      Charging\n      Plea_Bargaining\n      Trial\n      Sentencing\n    Theories_of_Punishment\n      Retribution\n      Deterrence\n      Incapacitation\n      Rehabilitation\n      Restorative_Justice\n    Sources\n      Statutory_Law\n      Case_Law\n      Model_Penal_Code\n      Constitutional_Provisions",
+            "complexity": "high",
+            "tags": ["criminal_law", "mind_map", "actus_reus", "defenses", "criminal_procedure", "punishment_theories", "model_penal_code"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

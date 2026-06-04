@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Clinical Psychology",
+            "category": "Psychology",
+            "description": "Clinical Psychology is the integration of science, theory, and clinical practice to understand, prevent, and relieve psychologically based distress and dysfunction. This flowchart illustrates its systematic approach: the ultimate goal is to promote psychological well-being and reduce suffering. This is achieved through core activities—assessment (interviews, testing), diagnosis (DSM/ICD), case formulation, and intervention (psychotherapy, prevention). These activities are guided by major theoretical orientations (cognitive‑behavioral, psychodynamic, humanistic‑existential, systemic, integrative) and informed by empirical research. Clinical work occurs across diverse settings (hospitals, private practice, community mental health) and with various populations, ultimately producing outcomes like symptom reduction, improved quality of life, and evidence‑based practice refinement.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Clinical Psychology</b><br>Integration of science, theory, and practice<br>to address psychological distress]:::title\n    B[<b>GOAL</b><br>Promote well‑being<br>and reduce suffering]:::goal\n    C[<b>CORE ACTIVITIES</b>]:::activities\n    subgraph D[Assessment & Diagnosis]\n        D1[Clinical interviews<br>Psychological testing<br>DSM/ICD diagnosis]\n    end\n    subgraph E[Intervention & Prevention]\n        E1[Psychotherapy (individual, group)<br>Crisis intervention<br>Prevention programs]\n    end\n    F[<b>THEORETICAL ORIENTATIONS</b><br>Cognitive‑Behavioral (CBT, ACT)<br>Psychodynamic<br>Humanistic‑Existential<br>Systemic & Family<br>Integrative]:::theory\n    G[<b>SETTINGS & POPULATIONS</b><br>Hospitals, private practice,<br>community clinics, schools]:::settings\n    H[<b>OUTCOMES</b><br>Symptom reduction, improved functioning,<br>evidence‑based practice]:::outcome\n\n    A -->|aims to| B\n    B -->|requires| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|guided by| F\n    F -->|applied in| G\n    G -->|achieves| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef activities fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef settings fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["clinical_psychology", "psychotherapy", "assessment", "diagnosis", "CBT", "psychodynamic", "evidence_based_practice", "mental_health"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

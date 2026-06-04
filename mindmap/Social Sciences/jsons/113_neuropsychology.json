@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsychology",
+            "category": "Psychology & Neuroscience",
+            "description": "This mind map organizes the field of Neuropsychology. It covers Core Concepts (brain‑behavior relationships, localization, lateralization, plasticity, functional networks); Assessment Domains (memory, attention, executive functions, language, visuospatial, processing speed) and tools (Halstead‑Reitan, WAIS, WMS, BNT); Disorders (TBI, stroke, dementia, epilepsy, ADHD, tumor); Methods (neuroimaging: MRI/fMRI/PET; electrophysiology: EEG/ERP; behavioral tasks); Theoretical Frameworks (cognitive neuropsychology, Luria's functional systems, connectionist models); Notable Contributors (Paul Broca, Carl Wernicke, Alexander Luria, Donald Hebb, Norman Geschwind); and Applications (clinical diagnosis, rehabilitation, forensic evaluations, research).",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Neuropsychology))\n    Core_Concepts\n      Brain‑Behavior_Relationships\n      Localization\n      Lateralization\n      Plasticity\n      Functional_Networks\n    Assessment_Domains\n      Memory\n      Attention\n      Executive_Functions\n      Language\n      Visuospatial\n      Processing_Speed\n    Disorders\n      TBI\n      Stroke\n      Dementia\n      Epilepsy\n      ADHD\n      Tumor\n    Methods\n      Neuroimaging\n        MRI\n        fMRI\n        PET\n      Electrophysiology\n        EEG\n        ERP\n      Behavioral_Tasks\n    Theoretical_Frameworks\n      Cognitive_Neuropsychology\n      Luria's_Functional_Systems\n      Connectionist_Models\n    Notable_Contributors\n      Paul_Broca\n      Carl_Wernicke\n      Alexander_Luria\n      Donald_Hebb\n      Norman_Geschwind\n    Applications\n      Clinical_Diagnosis\n      Rehabilitation\n      Forensic_Evaluations\n      Research",
+            "complexity": "high",
+            "tags": ["neuropsychology", "mind_map", "assessment", "brain_behavior", "disorders", "neuroimaging", "luria", "rehabilitation"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

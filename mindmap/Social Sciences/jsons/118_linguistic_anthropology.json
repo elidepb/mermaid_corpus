@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Linguistic Anthropology",
+            "category": "Anthropology",
+            "description": "This mind map organizes the field of Linguistic Anthropology. It branches into key concepts (linguistic relativity, indexicality, language socialization, speech community, language ideologies), subfields (ethnography of communication, sociolinguistics, historical linguistics, language contact, language documentation), methods (participant observation, recording, conversation analysis, discourse analysis), notable figures (Franz Boas, Edward Sapir, Benjamin Lee Whorf, Dell Hymes, Michael Silverstein, Elinor Ochs), and applications (language policy, education, legal settings, media). The map captures the discipline’s integration of language and culture.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Linguistic Anthropology))\n    Key_Concepts\n      Linguistic_Relativity\n      Indexicality\n      Language_Socialization\n      Speech_Community\n      Language_Ideologies\n      Performativity\n    Subfields\n      Ethnography_of_Communication\n      Sociolinguistics\n      Historical_Linguistics\n      Language_Contact\n      Language_Documentation\n    Methods\n      Participant_Observation\n      Audio-Video_Recording\n      Conversation_Analysis\n      Discourse_Analysis\n    Notable_Figures\n      Franz_Boas\n      Edward_Sapir\n      Benjamin_Whorf\n      Dell_Hymes\n      Michael_Silverstein\n      Elinor_Ochs\n    Applications\n      Language_Policy\n      Education\n      Legal_Settings\n      Media_&_Digital_Communication\n      Language_Revitalization",
+            "complexity": "high",
+            "tags": ["linguistic_anthropology", "mind_map", "language", "culture", "ethnography", "sociolinguistics", "boas", "sapir_whorf"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

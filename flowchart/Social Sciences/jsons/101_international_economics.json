@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "International Economics",
+            "category": "Economics",
+            "description": "International economics studies economic interactions across national borders. The flowchart divides the field into its two main branches: international trade and international finance. International trade analyzes comparative advantage, gains from trade, trade patterns explained by new trade theory, and trade policy instruments such as tariffs, quotas, and trade agreements. International finance examines exchange rate regimes, the balance of payments, and international capital flows. These two branches jointly determine global welfare outcomes—growth, stability, and the need for policy coordination—and are deeply influenced by international institutions like the WTO, IMF, and World Bank. The diagram highlights the interconnected nature of trade and financial flows and the feedback role of global governance.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>INTERNATIONAL ECONOMICS</b><br>Economic interactions among<br>countries]:::title\n    B[<b>MAIN BRANCHES</b>]:::branches\n    subgraph trade [International Trade]\n        C1[Comparative advantage<br>Gains from trade]\n        C2[Trade patterns<br>New trade theory]\n        C3[Trade policy<br>Tariffs, quotas, agreements]\n    end\n    subgraph finance [International Finance]\n        C4[Exchange rates<br>Fixed vs. floating]\n        C5[Balance of payments<br>Current & capital accounts]\n        C6[Capital flows<br>Foreign investment]\n    end\n    D[<b>GLOBAL WELFARE</b><br>Growth, stability,<br>policy coordination]:::welfare\n    E[<b>INSTITUTIONS</b><br>WTO, IMF, World Bank]:::institutions\n    A -->|divided into| B\n    B --> trade\n    B --> finance\n    trade & finance -->|influence| D\n    D -->|supported by| E\n    E -->|shapes| trade\n    E -->|shapes| finance\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef branches fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef welfare fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef institutions fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    style trade fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style finance fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "international_economics",
+                "trade",
+                "finance",
+                "exchange_rates",
+                "WTO"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

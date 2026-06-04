@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociology",
+            "category": "Social Sciences",
+            "description": "Sociology is the scientific study of society, social behavior, and social institutions. This flowchart shows how the discipline aims to understand and explain social patterns, structures, and change by integrating core elements: major theoretical perspectives (Functionalism, Conflict Theory, Symbolic Interactionism, Feminist Theory), research methods (surveys, ethnography, experiments, comparative-historical analysis), and foundational concepts (social structure, culture, socialization, stratification, power). These components guide analysis at both micro and macro levels, ultimately producing outcomes that inform public policy, promote social justice, and deepen our comprehension of human behavior.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociology</b><br>Scientific study of society,<br>social behavior, and institutions]:::title\n    B[<b>GOAL</b><br>Understand & explain social patterns,<br>structures, and change]:::goal\n    C[<b>CORE ELEMENTS</b>]:::core\n    subgraph D[Theoretical Perspectives]\n        D1[Functionalism, Conflict Theory<br>Symbolic Interactionism, Feminist Theory]\n    end\n    subgraph E[Research Methods]\n        E1[Surveys, Ethnography<br>Experiments, Comparative-Historical]\n    end\n    subgraph F[Core Concepts]\n        F1[Social Structure, Culture<br>Socialization, Stratification, Power]\n    end\n    G[<b>ANALYSIS</b><br>Examining social phenomena<br>at micro and macro levels]:::analysis\n    H[<b>OUTCOMES</b><br>Informing policy, promoting social justice,<br>understanding human behavior]:::outcome\n\n    A -->|aims to| B\n    B -->|through integration of| C\n    C -->|includes| D\n    C -->|includes| E\n    C -->|includes| F\n    D & E & F -->|guide| G\n    G -->|leads to| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["sociology", "social_science", "social_theory", "functionalism", "conflict_theory", "symbolic_interactionism", "social_structure", "research_methods"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

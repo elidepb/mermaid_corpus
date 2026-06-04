@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometrics",
+            "category": "Economics",
+            "description": "The history of econometrics traces the evolution of empirical methods in economics. It starts in 1930 with the founding of the Econometric Society, followed in 1933 by the Cowles Commission’s work on structural equation models. Trygve Haavelmo’s 1944 treatise laid the probabilistic foundations of modern econometrics. Clive Granger introduced the concept of causality in time series in 1969, while Box and Jenkins popularized ARIMA models in 1970. Robert Engle’s ARCH model (1982) opened the door to volatility modeling in finance. The Nobel Prize in 2000 awarded to James Heckman and Daniel McFadden recognized breakthroughs in microeconometrics, sample selection, and discrete choice models, cementing econometrics’ role in applied economics.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title History of Econometrics\n    1930 : Econometric Society founded\n    1933 : Cowles Commission<br>Structural equation models\n    1944 : Haavelmo’s Probability Approach<br>Probabilistic foundations\n    1969 : Granger causality<br>Time series econometrics\n    1970 : Box & Jenkins<br>ARIMA models\n    1982 : Engle’s ARCH model<br>Volatility modeling\n    2000 : Nobel Prize<br>Heckman & McFadden (microeconometrics)",
+            "complexity": "medium",
+            "tags": [
+                "econometrics",
+                "history",
+                "Haavelmo",
+                "Granger",
+                "ARCH",
+                "Nobel_Prize"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

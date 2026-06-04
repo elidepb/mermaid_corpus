@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Comparative Politics",
+            "category": "Political Science",
+            "description": "Comparative Politics is the subfield of political science that studies political systems, institutions, and behavior across countries through systematic comparison. This flowchart outlines its analytical process: the overarching goal is to explain similarities and differences in political outcomes. It integrates core substantive dimensions (state formation, political regimes, institutions, political culture, and development) with comparative methods (case studies, comparative historical analysis, statistical modeling, qualitative comparative analysis). Major theoretical lenses—modernization theory, institutionalism, rational choice, and constructivism—guide research. The synthesis generates typologies of regimes, causal explanations of democratization, state capacity, and policy variation, ultimately informing policy design and international development.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Comparative Politics</b><br>Systematic comparison of political<br>systems, institutions, and behavior]:::title\n    B[<b>GOAL</b><br>Explain similarities and differences<br>in political outcomes across contexts]:::goal\n    C[<b>CORE DIMENSIONS</b>]:::dimensions\n    subgraph D[Substantive Domains]\n        D1[State formation & capacity<br>Political regimes (democracy, autocracy)<br>Political institutions (legislatures, parties)<br>Political culture & values<br>Political economy & development]\n    end\n    subgraph E[Methods of Comparison]\n        E1[Case studies & comparative historical analysis<br>Large‑N statistical methods<br>Qualitative Comparative Analysis (QCA)<br>Mixed methods]\n    end\n    F[<b>THEORETICAL LENSES</b><br>Modernization, institutionalism,<br>rational choice, constructivism]:::theory\n    G[<b>ANALYTICAL OUTPUTS</b><br>Typologies of regimes,<br>explanations of democratization,<br>policy variation]:::analysis\n    H[<b>APPLICATIONS</b><br>Policy design, international<br>development, democracy promotion]:::outcome\n\n    A -->|aims to| B\n    B -->|by investigating| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|informed by| F\n    F -->|yields| G\n    G -->|contributes to| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["comparative_politics", "political_systems", "democracy", "authoritarianism", "institutions", "comparative_methods", "regime_change", "QCA"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

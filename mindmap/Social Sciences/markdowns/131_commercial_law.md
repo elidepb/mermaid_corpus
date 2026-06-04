@@ -1,0 +1,31 @@
+```mermaid
+mindmap
+  root((Commercial Law))
+    Core_Areas
+      Contract_Law
+      Sale_of_Goods
+      Secured_Transactions
+      Negotiable_Instruments
+      Business_Organizations
+      Agency
+      Competition_Law
+      Consumer_Protection
+      International_Trade
+    Key_Principles
+      Freedom_of_Contract
+      Good_Faith
+      Party_Autonomy
+      Predictability
+    Primary_Sources
+      Uniform_Commercial_Code
+      National_Statutes
+      Case_Law
+      CISG
+      UNIDROIT_Principles
+    Business_Entities
+      Sole_Proprietorship
+      Partnership
+      Corporation
+      LLC
+```
+
