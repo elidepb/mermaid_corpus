@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Ancient History",
+            "category": "History",
+            "description": "This timeline traces the major milestones and transitions of Ancient History from the invention of writing to the fall of the Western Roman Empire. It begins with the emergence of Sumerian city‑states (c. 3500‑3000 BCE) and the unification of Egypt (c. 3100 BCE). The Bronze Age (c. 3000‑1200 BCE) saw Hammurabi’s Code (c. 1754), the Minoans and Mycenaeans, and the Shang Dynasty in China. The Iron Age and Axial Age (c. 1200‑500 BCE) brought the rise of Assyria, the Phoenician alphabet, and foundational thinkers like Confucius and Buddha. Classical Antiquity (c. 500‑323 BCE) encompassed Greek democracy, the Persian Wars, and Alexander’s conquest. The Hellenistic and Roman Republican periods (323‑27 BCE) witnessed the spread of Greek culture and Rome’s expansion. The Roman Empire and Late Antiquity (27 BCE‑476 CE) saw the Pax Romana, the spread of Christianity, and the final division and fall of the West.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Milestones of Ancient History\n    section Early Bronze Age\n      c. 3500‑3000 BCE : Rise of Sumerian city‑states,<br>invention of writing\n      c. 3100 BCE : Unification of Egypt<br>(Narmer palette)\n    section Mid‑Late Bronze Age\n      c. 2000‑1600 BCE : Minoan & Mycenaean<br>civilizations flourish\n      c. 1754 BCE : Hammurabi's Code<br>(Babylon)\n      c. 1600‑1046 BCE : Shang Dynasty<br>in China (oracle bones)\n    section Iron Age & Axial Age\n      c. 1200 BCE : Bronze Age collapse\n      c. 900‑600 BCE : Rise of Assyria,<br>Phoenician alphabet\n      c. 600‑400 BCE : Axial Age:<br>Confucius, Buddha, Greek philosophers\n    section Classical Antiquity\n      490‑479 BCE : Persian Wars\n      5th cent BCE : Athenian democracy,<br>Golden Age of Greece\n      336‑323 BCE : Alexander the Great's empire\n    section Hellenistic & Roman Republic\n      323‑146 BCE : Hellenistic kingdoms<br>spread Greek culture\n      509‑27 BCE : Roman Republic expansion,<br>Punic Wars\n    section Roman Empire & Late Antiquity\n      27 BCE : Roman Empire established<br>(Augustus)\n      1st‑2nd cent CE : Pax Romana\n      313 CE : Edict of Milan<br>(Christianity tolerated)\n      395 CE : Division of Roman Empire\n      476 CE : Fall of Western Roman Empire",
+            "complexity": "high",
+            "tags": ["ancient_history", "timeline", "bronze_age", "classical_antiquity", "roman_empire", "axial_age", "fall_of_rome"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Public Relations",
+            "category": "Communication & Management",
+            "description": "This timeline traces the evolution of Public Relations from early publicity to purpose‑driven global practice. Key milestones: early publicity tactics and press bureaus (1900s); Ivy Lee’s “Declaration of Principles” (1906) establishing openness and truth; Edward Bernays’s seminal works and first textbook (Crystallizing Public Opinion, 1923); the post‑WWII expansion of corporate PR (1950s‑60s); Grunig and Hunt’s four models of PR (1984); the digital revolution of the late 1990s with online newsrooms and email; the rise of social media and content marketing (2000s‑2010s); the emergence of influencer relations, data‑driven measurement, and reputation analytics; and the 2020s focus on ESG, purpose‑driven communication, AI integration, and real‑time engagement.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Public Relations\n    section Early Foundations\n      1900 : First publicity agency<br>(Publicity Bureau)\n      1906 : Ivy Lee's<br>Declaration of Principles\n    section Modern PR Born\n      1914‑1920s : Bernays' campaigns<br>scientific persuasion\n      1923 : Bernays' first textbook<br>Crystallizing Public Opinion\n    section Corporate & Global Growth\n      1950s‑60s : Post‑war boom,<br>corporate PR departments\n      1984 : Grunig & Hunt's<br>Four models of PR\n    section Digital Transformation\n      1990s : Online newsrooms,<br>email, early web PR\n      2000s : Blogs, SEO, social<br>media listening\n      2010s : Content marketing,<br>influencer relations,<br>data‑driven measurement\n    section Purpose & AI Era\n      2020s : ESG & purpose‑driven<br>communication, AI tools,<br>real‑time stakeholder dialogue",
+            "complexity": "high",
+            "tags": ["public_relations", "history", "timeline", "ivy_lee", "berneys", "grunig", "digital_PR", "ESG"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

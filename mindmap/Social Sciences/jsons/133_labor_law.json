@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Labor Law",
+            "category": "Law",
+            "description": "This mind map organizes the field of Labor Law around its central concept. It branches into Individual Employment (contracts, wages, hours, health & safety, discrimination, dismissal), Collective Labor Relations (unions, bargaining, strikes, worker representation), Core Principles (protective function, non‑discrimination, freedom of association, collective bargaining, minimum standards), Sources (constitution, legislation, collective agreements, ILO conventions, case law), Enforcement Bodies (labor inspectorates, labor courts, mediation services), and Actors (employees, employers, unions, state). The map captures the dual individual‑collective nature of the discipline.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Labor Law))\n    Individual_Employment\n      Employment_Contract\n      Wages_and_Hours\n      Health_and_Safety\n      Discrimination_Protection\n      Termination\n    Collective_Labor_Relations\n      Trade_Unions\n      Collective_Bargaining\n      Industrial_Action\n        Strikes\n        Lockouts\n      Worker_Participation\n    Core_Principles\n      Protective_Function\n      Non‑Discrimination\n      Freedom_of_Association\n      Collective_Bargaining\n      Minimum_Standards\n    Sources_of_Law\n      Constitution\n      Legislation\n      Collective_Agreements\n      ILO_Conventions\n      Case_Law\n    Enforcement_Bodies\n      Labor_Inspectorates\n      Labor_Courts\n      Mediation_and_Arbitration\n    Actors\n      Employees\n      Employers\n      Trade_Unions\n      State",
+            "complexity": "high",
+            "tags": ["labor_law", "mind_map", "employment", "collective_bargaining", "ILO", "worker_rights", "enforcement"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

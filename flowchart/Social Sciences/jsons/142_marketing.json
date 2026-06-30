@@ -1,0 +1,15 @@
+{
+  "diagrams": [
+    {
+      "id": "142",
+      "topic": "Marketing",
+      "category": "Business & Management",
+      "description": "Marketing is the organizational function and set of processes for creating, communicating, and delivering value to customers. This flowchart outlines its systematic logic: the ultimate goal is to build profitable customer relationships and sustainable brand equity. It integrates core components—market research and consumer insights, segmentation, targeting and positioning (STP), and the marketing mix (product, price, place, promotion, plus people, process, physical evidence in services). These are informed by major theoretical frameworks (consumer behavior, Maslow's hierarchy, AIDA model, Porter's five forces, brand equity models) and executed through a cyclical process: research → strategy → implementation → evaluation → feedback. The resulting outcomes include customer loyalty, market share growth, and long‑term profitability.",
+      "diagram_type": "flowchart",
+      "mermaid_code": "flowchart TD\n    A[<b>Marketing</b><br>Organizational function for creating,<br>communicating, and delivering value]:::title\n    B[<b>GOAL</b><br>Build profitable customer relationships<br>and sustainable brand equity]:::goal\n    C[<b>CORE COMPONENTS</b>]:::core\n    subgraph D[Market Understanding]\n        D1[Market research & consumer insights<br>Environmental scanning<br>Competitive analysis]\n    end\n    subgraph E[Strategy (STP)]\n        E1[Segmentation<br>Targeting<br>Positioning & differentiation]\n    end\n    subgraph F[Marketing Mix]\n        F1[Product (features, quality, branding)<br>Price (value, discounts, models)<br>Place (channels, logistics, coverage)<br>Promotion (ads, PR, sales, digital)<br>Services: People, Process, Physical evidence]\n    end\n    G[<b>THEORETICAL FOUNDATIONS</b><br>Consumer behavior & buyer decision<br>Maslow's hierarchy of needs<br>AIDA model, Porter's five forces<br>Brand equity & loyalty]:::theory\n    H[<b>MARKETING CYCLE</b><br>Research → Strategy → Implementation<br>→ Evaluation → Feedback]:::process\n    I[<b>OUTCOMES</b><br>Customer loyalty, market share,<br>brand advocacy, profitability]:::outcome\n\n    A -->|aims to| B\n    B -->|requires| C\n    C -->|begins with| D\n    D -->|feeds into| E\n    E -->|shapes| F\n    D & E & F -->|guided by| G\n    G -->|drives| H\n    H -->|yields| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+      "complexity": "high",
+      "tags": ["marketing", "marketing_mix", "STP", "consumer_behavior", "brand_equity", "marketing_strategy", "AIDA"],
+      "creation_date": "2024-03-15"
+    }
+  ]
+}

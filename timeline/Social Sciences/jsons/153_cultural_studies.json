@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Cultural Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This timeline traces the development of Cultural Studies from its pre‑history to the present. Key milestones include: the early influences of Raymond Williams’s ‘Culture and Society’ (1958) and Richard Hoggart’s ‘The Uses of Literacy’ (1957); the founding of the Birmingham Centre for Contemporary Cultural Studies (CCCS) in 1964 under Hoggart and later Stuart Hall; the development of key theoretical concepts such as encoding/decoding (Hall, 1973) and the analysis of subcultures (Resistance through Rituals, 1976); the adoption of Gramsci’s hegemony and Althusser’s ideology in the 1970s; the feminist and postcolonial turns in the 1980s with works by Angela McRobbie and Paul Gilroy’s ‘There Ain’t No Black in the Union Jack’ (1987); the rise of cultural policy studies and the critique of postmodernism in the 1990s; and the expansion into digital culture, globalisation, and affect theory in the 2000s‑2020s.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Cultural Studies\n    section Pre‑History\n      1957 : Richard Hoggart<br>The Uses of Literacy\n      1958 : Raymond Williams<br>Culture and Society\n      1961 : E.P. Thompson<br>The Making of the English Working Class\n    section Birmingham School\n      1964 : CCCS founded (Hoggart)<br>later Stuart Hall director\n      1973 : Hall's \"Encoding/Decoding\"\n      1976 : Resistance through Rituals\n      (subcultures)\n    section Gramscian & Structuralist Turns\n      1970s : Gramsci's hegemony adopted<br>Althusser's ideology\n      1980 : Stuart Hall's \"Cultural Studies:<br>Two Paradigms\"\n    section Feminist & Postcolonial\n      1984 : Angela McRobbie – girls &<br>subcultures\n      1987 : Paul Gilroy – There Ain't No<br>Black in the Union Jack\n      1990 : Judith Butler – Gender Trouble\n    section Policy & Globalisation\n      1990s : Cultural policy studies<br>postmodernism debates\n      2000s : Digital culture, affect theory,<br>global cultural flows\n    section Contemporary\n      2010s‑20s : Platform studies,<br>decolonial cultural studies,<br>environmental humanities",
+            "complexity": "high",
+            "tags": ["cultural_studies", "timeline", "CCCS", "Stuart_Hall", "Raymond_Williams", "subcultures", "postcolonial", "digital_culture"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "148",
+            "topic": "Contemporary History",
+            "category": "History",
+            "description": "A mindmap showing the fundamental concepts and structure of Contemporary History.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Contemporary History))\n    20th Century\n      World War I\n      Interwar Period\n      World War II\n      Cold War\n    Decolonization\n      African Independence\n      Asian Independence\n      Post-Colonial States\n    Recent Decades\n      Globalization\n      End of Cold War\n      Digital Age\n      Climate Change\n    Topics\n      Human Rights\n      Terrorism\n      Economic Crises\n      Social Movements",
+            "complexity": "high",
+            "tags": [
+                "contemporary_history",
+                "history"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminology",
+            "category": "Social Sciences & Law",
+            "description": "This timeline traces the intellectual and institutional history of Criminology. It begins with the classical school (Beccaria's 'On Crimes and Punishments', 1764), moves to the positivist school with Lombroso's 'The Criminal Man' (1876). The early 20th century saw the Chicago School and social disorganization theory (1920s‑30s). Edwin Sutherland introduced differential association (1939) and coined 'white‑collar crime'. The mid‑20th century produced strain theory (Merton, 1938), social control theory (Hirschi, 1969), and labeling theory (Becker, 1963). The late 20th century saw critical criminology, left realism, and feminist criminology. Recent decades emphasize developmental/life‑course criminology, environmental criminology, and evidence‑based policy.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Criminology\n    section Classical & Positivist Beginnings\n      1764 : Beccaria<br>On Crimes and Punishments\n      1876 : Lombroso<br>The Criminal Man\n    section Chicago School & Social Theories\n      1920s‑30s : Chicago School<br>Social disorganization\n      1938 : Robert Merton<br>Strain theory\n      1939 : Edwin Sutherland<br>Differential association\n    section Mid‑Century Developments\n      1963 : Howard Becker<br>Labeling theory\n      1969 : Travis Hirschi<br>Social control theory\n    section Critical & New Directions\n      1970s : Critical criminology<br>Feminist criminology\n      1980s : Left realism<br>Environmental criminology\n      1990s : Life‑course criminology<br>Developmental approaches\n    section Contemporary\n      2000s : Evidence‑based<br>crime policy\n      2010s‑20s : Cybercriminology,<br>restorative justice,<br>big data analytics",
+            "complexity": "high",
+            "tags": ["criminology", "history", "timeline", "beccaria", "lombroso", "sutherland", "chicago_school", "labeling_theory"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

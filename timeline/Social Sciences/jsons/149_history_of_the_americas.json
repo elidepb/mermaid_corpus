@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "History of the Americas",
+            "category": "History",
+            "description": "This timeline traces key milestones of the History of the Americas from the first human migrations to recent times. Major dates include: c. 20,000 BCE first peopling via Beringia; c. 1500 BCE‑300 CE Olmec civilisation; 1492 Columbus’s arrival; 1519‑1521 conquest of Mexico; 1532 conquest of Peru; 1607 Jamestown founded; 1776 United States Declaration of Independence; 1804 Haitian independence; 1810‑1825 Spanish American independence; 1861‑1865 US Civil War and abolition of slavery; 1888 abolition of slavery in Brazil; 1910‑1920 Mexican Revolution; 1959 Cuban Revolution; 1960s‑70s civil rights movements; 1970s‑80s military dictatorships in South America; 2006 election of Evo Morales in Bolivia; and 2020 pandemic‑era migration and equity debates.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Key Milestones in the History of the Americas\n    section Early Migrations & Pre‑Columbian\n      c. 20,000 BCE : First human migrations<br>via Beringia\n      c. 1500‑300 BCE : Olmec civilisation\n      250‑900 CE : Classic Maya period\n      1325 : Founding of Tenochtitlan (Aztec)\n      1438‑1533 : Inca Empire expansion\n    section Conquest & Colonisation\n      1492 : Columbus reaches Caribbean\n      1519‑1521 : Cortés conquers Aztec Empire\n      1532 : Pizarro conquers Inca Empire\n      1607 : Jamestown (first permanent English settlement)\n    section Independence & Nation‑Building\n      1776 : US Declaration of Independence\n      1804 : Haitian independence\n      1810‑1825 : Spanish American independence wars\n      1823 : Monroe Doctrine\n      1861‑1865 : US Civil War; abolition of slavery in US\n      1888 : Abolition of slavery in Brazil\n    section Revolutions & Social Change\n      1910‑1920 : Mexican Revolution\n      1917 : Mexican Constitution\n      1959 : Cuban Revolution\n      1960s‑70s : Civil rights movements; indigenous activism\n      1970s‑80s : Military dictatorships in South America\n    section Contemporary Era\n      1994 : NAFTA; Zapatista uprising (Mexico)\n      2006 : Evo Morales elected in Bolivia\n      2020 : Pandemic; renewed racial equity protests<br>across the hemisphere",
+            "complexity": "high",
+            "tags": ["history_of_the_americas", "timeline", "pre‑columbian", "conquest", "independence", "revolution", "social_movements"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

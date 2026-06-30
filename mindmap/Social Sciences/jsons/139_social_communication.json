@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Social Communication",
+            "category": "Communication & Social Sciences",
+            "description": "This mind map organises the field of Social Communication around its central concept. It branches into Key Concepts (message, feedback, noise, context, shared meaning, symbolic interaction), Levels of Communication (intrapersonal, interpersonal, group, organisational, mass, intercultural), Major Theories (symbolic interactionism, coordinated management of meaning, social penetration theory, media richness theory, uses and gratifications, agenda‑setting, cultivation), Functions (informing, relationship building, identity expression, persuasion, entertainment), and Contemporary Areas (digital communication, social media, health communication, political communication, nonverbal communication). The map captures both classical foundations and modern applications.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Social Communication))\n    Key_Concepts\n      Message\n      Feedback\n      Noise\n      Context\n      Shared_Meaning\n      Symbolic_Interaction\n    Levels_of_Communication\n      Intrapersonal\n      Interpersonal\n      Group\n      Organizational\n      Mass\n      Intercultural\n    Major_Theories\n      Symbolic_Interactionism\n      Coordinated_Management_of_Meaning\n      Social_Penetration\n      Media_Richness\n      Uses_and_Gratifications\n      Agenda‑Setting\n      Cultivation\n    Functions\n      Informing\n      Relationship_Building\n      Identity_Expression\n      Persuasion\n      Entertainment\n    Contemporary_Areas\n      Digital_Communication\n      Social_Media\n      Health_Communication\n      Political_Communication\n      Nonverbal_Communication",
+            "complexity": "high",
+            "tags": ["social_communication", "mind_map", "theories", "levels", "functions", "digital_communication", "media"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

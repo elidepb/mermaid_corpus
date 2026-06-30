@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Education Policy",
+            "category": "Education & Public Policy",
+            "description": "This timeline traces the evolution of major education policies globally. It begins with early public education mandates in the 18th‑19th centuries (Prussia 1763, France 1833). The early 20th century saw the expansion of compulsory schooling. Landmark post‑war policies include the UK Education Act (1944) and Brown v. Board of Education (1954) ending legal segregation. The 1960s brought the U.S. Elementary and Secondary Education Act (1965) and the Coleman Report (1966). The 1970s‑1980s saw Education for All Handicapped Children Act (1975, later IDEA) and the rise of standardized reform after A Nation at Risk (1983). The 1990s introduced the World Conference on Education for All (1990) and the standards‑based movement. The 2000s saw No Child Left Behind (2001) and the UN Millennium Development Goals. The 2010s brought Every Student Succeeds Act (2015) and the Sustainable Development Goal 4 (2015). Contemporary trends include COVID‑19 learning recovery and AI in education governance.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Education Policy\n    section Early Mandates\n      1763 : Prussia introduces<br>compulsory schooling\n      1833 : France's Guizot Law<br>requires primary schools\n    section Compulsory Expansion\n      19th‑early 20th c. : Universal<br>compulsory education laws\n    section Post‑War Era\n      1944 : UK Education Act<br>(Butler Act)\n      1954 : Brown v. Board of Education\n      1965 : U.S. Elementary and<br>Secondary Education Act\n    section Equity & Special Needs\n      1975 : Education for All<br>Handicapped Children Act\n      1983 : A Nation at Risk\n      1990 : World Conference on<br>Education for All (Jomtien)\n    section Accountability & Standards\n      2001 : No Child Left Behind\n      2000s : UN Millennium<br>Development Goals\n      2015 : Every Student Succeeds Act<br>Sustainable Development Goal 4\n    section Contemporary\n      2020 : COVID‑19 school closures<br>& learning recovery policies\n      2023 : AI governance &<br>equity in education",
+            "complexity": "high",
+            "tags": ["education_policy", "history", "timeline", "compulsory_education", "ESEA", "NCLB", "SDG4", "equity", "accountability"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

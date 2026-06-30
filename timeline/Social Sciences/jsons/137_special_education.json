@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Special Education",
+            "category": "Education",
+            "description": "This timeline traces the historical evolution of Special Education from exclusion to inclusion. Key milestones: early pioneers like Jean‑Marc Itard (1801) and Edouard Seguin (1846) educating 'wild child' and children with intellectual disabilities; the era of institutionalization in the late 19th century; the mid‑20th century parent advocacy movement; Brown v. Board of Education (1954) laying groundwork against segregation; Section 504 of the Rehabilitation Act (1973) prohibiting discrimination; the groundbreaking court cases PARC v. Pennsylvania (1972) and Mills v. Board of Education (1972) establishing the right to education; the Education for All Handicapped Children Act (1975, later IDEA) mandating FAPE; IDEA reauthorizations (1990, 1997, 2004) strengthening provisions; ADA (1990); the inclusive education movement in the 1990s‑2000s; the UN Convention on the Rights of Persons with Disabilities (2006); and contemporary emphasis on UDL, RTI, and personalized learning.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Special Education\n    section Early Pioneers\n      1801 : Jean‑Marc Itard<br>Victor the \"Wild Boy\"\n      1846 : Edouard Seguin<br>Physiological method\n    section Institutional Era\n      Late 19th c. : Asylums &<br>residential schools\n    section Mid‑Century Advocacy\n      1954 : Brown v. Board<br>(integration precedent)\n      1972 : PARC v. Pennsylvania<br>Mills v. Board of Education\n    section Federal Legislation\n      1973 : Section 504 of<br>the Rehabilitation Act\n      1975 : Education for All<br>Handicapped Children Act<br>(EHA) – P.L. 94‑142\n      1990 : EHA renamed IDEA<br>ADA enacted\n      1997 : IDEA reauthorization<br>(strengthened IEP process)\n      2004 : IDEA reauthorization<br>(alignment with NCLB)\n    section Inclusion Movement\n      1990s‑2000s : Inclusion & UDL\n      2006 : UN Convention on the<br>Rights of Persons with Disabilities\n    section Contemporary\n      2010s‑20s : RTI, MTSS,<br>personalized learning",
+            "complexity": "high",
+            "tags": ["special_education", "history", "timeline", "IDEA", "FAPE", "inclusion", "disability_rights", "advocacy"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

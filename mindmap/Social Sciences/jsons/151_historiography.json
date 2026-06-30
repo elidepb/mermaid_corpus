@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiography",
+            "category": "History",
+            "description": "This mind map organises the field of Historiography around its central concept. Major branches include Key Concepts (objectivity, bias, periodisation, narrative, memory, historicism, presentism), Major Schools of Thought (Rankean empiricism, Marxist historiography, Annales School, new social history, cultural turn, postcolonial studies, feminist and gender history, global and digital history), Methods (source criticism, archival research, quantitative analysis, oral history, discourse analysis, prosopography), Key Thinkers (Herodotus, Thucydides, Sima Qian, Leopold von Ranke, Karl Marx, Marc Bloch, Fernand Braudel, E.H. Carr, Michel Foucault, Hayden White, Joan Scott), and Central Problems (fact vs. interpretation, causation, structure vs. agency, canons and silences, the role of the historian). The map captures the philosophical and practical dimensions of writing history.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Historiography))\n    Key_Concepts\n      Objectivity\n      Bias\n      Periodisation\n      Narrative\n      Memory\n      Historicism\n      Presentism\n    Major_Schools\n      Rankean_Empiricism\n      Marxist_Historiography\n      Annales_School\n      New_Social_History\n      Cultural_Turn\n      Postcolonial_Studies\n      Feminist_Gender_History\n      Global_Digital_History\n    Methods\n      Source_Criticism\n      Archival_Research\n      Quantitative_Analysis\n      Oral_History\n      Discourse_Analysis\n      Prosopography\n    Key_Thinkers\n      Herodotus\n      Thucydides\n      Sima_Qian\n      Leopold_von_Ranke\n      Karl_Marx\n      Marc_Bloch\n      Fernand_Braudel\n      E.H._Carr\n      Michel_Foucault\n      Hayden_White\n      Joan_Scott\n    Central_Problems\n      Fact_vs_Interpretation\n      Causation\n      Structure_vs_Agency\n      Canons_and_Silences\n      Role_of_the_Historian",
+            "complexity": "high",
+            "tags": ["historiography", "mind_map", "schools", "methods", "thinkers", "philosophy_of_history", "narrative"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

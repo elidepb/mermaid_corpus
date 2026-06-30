@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Labor Law",
+            "category": "Law",
+            "description": "This timeline traces the development of Labor Law from early factory regulations to modern international standards. Key milestones: the British Factory Acts (1802‑1833) limiting child labor and working hours; the legalization of trade unions (UK 1871, France 1884); the ILO creation (1919); the New Deal labor legislation in the U.S. (National Labor Relations Act 1935, Fair Labor Standards Act 1938); post‑WWII expansion of social protection; ILO Declaration on Fundamental Principles and Rights at Work (1998); EU working time and anti‑discrimination directives (1990s‑2000s); and the rise of gig‑economy and platform work regulations in the 2010s‑2020s.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Labor Law\n    section Early Factory Regulation\n      1802 : UK Factory Act (first)\n      1833 : UK Factory Act (inspectors)\n      1842 : Mines Act (women & children)\n    section Trade Union Recognition\n      1871 : UK Trade Union Act\n      1884 : France legalizes unions\n    section ILO & International Standards\n      1919 : ILO founded\n      1930 : Forced Labour Convention\n    section U.S. New Deal\n      1935 : National Labor Relations Act\n      1938 : Fair Labor Standards Act\n    section Post‑WWII & EU\n      1951 : Equal Remuneration Convention\n      1970s : EU social policy begins\n      1993 : EU Working Time Directive\n    section Fundamental Principles\n      1998 : ILO Declaration on Fundamental\n      Principles and Rights at Work\n    section Contemporary\n      2010s : Rise of platform work<br>and gig economy\n      2020s : Remote work, AI in<br>workplace regulation",
+            "complexity": "high",
+            "tags": ["labor_law", "history", "timeline", "factory_acts", "ILO", "new_deal", "trade_unions", "gig_economy"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

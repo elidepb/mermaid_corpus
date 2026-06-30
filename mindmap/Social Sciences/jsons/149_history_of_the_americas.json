@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "History of the Americas",
+            "category": "History",
+            "description": "This mind map organises the field of History of the Americas around its central concept. Major branches include Key Periods (Pre‑Columbian, Colonial, Independence & Early Republics, Long 19th Century, 20th Century, Contemporary), Regions and Civilisations (Maya, Aztec, Inca, Spanish America, Brazil, British North America, French Caribbean, Indigenous North America), Themes (colonisation and genocide, slavery and abolition, nation‑building and caudillismo, economic cycles, migration, revolution and counter‑revolution, cultural hybridisation), Sources and Methods (archaeology, colonial chronicles, national archives, oral traditions, digital mapping), Theoretical Approaches (postcolonialism, dependency theory, Atlantic world, borderlands, subaltern history, critical race theory), and Key Figures/Historians (Bartolomé de las Casas, Simón Bolívar, Frederick Douglass, Eric Williams, Eduardo Galeano, Howard Zinn, Ana Lúcia Araújo). The map captures the hemispheric and multidisciplinary scope of the field.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((History of the Americas))\n    Key_Periods\n      Pre‑Columbian\n      Colonial\n      Independence_&_Early_Republics\n      Long_19th_Century\n      20th_Century\n      Contemporary\n    Regions_&_Civilisations\n      Maya\n      Aztec\n      Inca\n      Spanish_America\n      Brazil\n      British_North_America\n      French_Caribbean\n      Indigenous_North_America\n    Themes\n      Colonisation_&_Genocide\n      Slavery_&_Abolition\n      Nation‑Building_&_Caudillismo\n      Economic_Cycles\n      Migration\n      Revolution_&_Counter‑Revolution\n      Cultural_Hybridisation\n    Sources_&_Methods\n      Archaeology\n      Colonial_Chronicles\n      National_Archives\n      Oral_Traditions\n      Digital_Mapping\n    Theoretical_Approaches\n      Postcolonialism\n      Dependency_Theory\n      Atlantic_World\n      Borderlands\n      Subaltern_History\n      Critical_Race_Theory\n    Key_Figures_Historians\n      Bartolomé_de_las_Casas\n      Simón_Bolívar\n      Frederick_Douglass\n      Eric_Williams\n      Eduardo_Galeano\n      Howard_Zinn\n      Ana_Lúcia_Araújo",
+            "complexity": "high",
+            "tags": ["history_of_the_americas", "mind_map", "periods", "regions", "themes", "postcolonialism", "atlantic_history"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

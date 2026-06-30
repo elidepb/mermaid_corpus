@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Medieval History",
+            "category": "History",
+            "description": "This timeline traces major milestones of the Medieval period from the fall of the Western Roman Empire to the dawn of the early modern era. Key dates include: 476 CE fall of the West; 622 CE Hijra and rise of Islam; 800 CE Charlemagne crowned Emperor; 1066 Norman Conquest of England; 1095 first call for Crusade; 1215 Magna Carta; 1271 Marco Polo’s travels; the Black Death (1347‑1351); 1453 fall of Constantinople; and 1492 the end of Muslim Granada and Columbus’s voyage, marking the conventional close of the Middle Ages.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Milestones of Medieval History\n    section Early Middle Ages\n      476 : Fall of Western Roman Empire\n      527‑565 : Reign of Justinian<br>Corpus Juris Civilis\n      622 : Hijra – rise of Islam\n      800 : Charlemagne crowned Emperor\n    section Viking & Feudal Expansion\n      9th‑10th c. : Viking raids & settlements\n      1066 : Norman Conquest of England\n      1071 : Battle of Manzikert<br>Seljuk Turks enter Anatolia\n    section High Middle Ages\n      1095 : Pope Urban II calls<br>First Crusade\n      1215 : Magna Carta (England)\n      1271‑1295 : Marco Polo's travels to China\n      1337 : Hundred Years' War begins\n    section Late Middle Ages\n      1347‑1351 : Black Death in Europe\n      1381 : Peasants' Revolt in England\n      1453 : Fall of Constantinople<br>(Ottoman Empire)\n      1492 : End of Muslim Granada;<br>Columbus reaches Americas",
+            "complexity": "high",
+            "tags": ["medieval_history", "timeline", "fall_of_rome", "crusades", "magna_carta", "black_death", "renaissance"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

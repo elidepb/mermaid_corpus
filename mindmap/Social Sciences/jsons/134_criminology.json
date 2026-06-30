@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminology",
+            "category": "Social Sciences & Law",
+            "description": "This mind map organizes the field of Criminology. It branches into core concepts (crime, deviance, justice), theoretical perspectives (classical, biological, psychological, sociological like strain, differential association, social control, labeling, critical criminology), key research areas (victimology, juvenile delinquency, white‑collar crime, cybercrime, terrorism, punishment and rehabilitation), methodologies (victim surveys, self‑report studies, official statistics, ethnography, comparative research), key thinkers (Beccaria, Lombroso, Sutherland, Merton, Becker), and criminal justice system components (police, courts, corrections). The map captures the interdisciplinary and applied nature of crime science.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Criminology))\n    Core_Concepts\n      Crime\n      Deviance\n      Criminal_Justice\n      Social_Harm\n    Theoretical_Perspectives\n      Classical_Rational_Choice\n      Biological_Positivism\n      Psychological_Traits\n      Sociological\n        Strain\n        Differential_Association\n        Social_Control\n        Labeling\n      Critical_Criminology\n    Key_Research_Areas\n      Victimology\n      Juvenile_Delinquency\n      White‑Collar_Crime\n      Cybercrime\n      Terrorism\n      Punishment_and_Rehabilitation\n    Methodologies\n      Victim_Surveys\n      Self‑Report_Studies\n      Official_Statistics\n      Ethnography\n      Comparative_Research\n    Key_Thinkers\n      Cesare_Beccaria\n      Cesare_Lombroso\n      Edwin_Sutherland\n      Robert_Merton\n      Howard_Becker\n    Criminal_Justice_System\n      Police\n      Courts\n      Corrections",
+            "complexity": "high",
+            "tags": ["criminology", "mind_map", "crime_theories", "victimology", "criminal_justice", "sutherland", "becker"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

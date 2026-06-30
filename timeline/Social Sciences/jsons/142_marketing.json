@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "142",
+            "topic": "Marketing",
+            "category": "Business & Management",
+            "description": "This timeline traces the evolution of Marketing from a production orientation to the experience economy. Key milestones: the production era (early 1900s) focused on manufacturing efficiency; the selling era (1930s‑50s) emphasized aggressive sales tactics; the marketing concept era (1960s) introduced consumer‑centricity; the relationship marketing era (1980s) fostered loyalty; the rise of digital marketing and e‑commerce (1990s‑2000s) with search engines and email; the social media and mobile revolution (2007‑2010s) with Facebook, iPhone, and influencer marketing; and the AI‑powered, personalized, sustainability‑driven marketing of the 2020s.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Marketing\n    section Production Era\n      early 1900s : Focus on manufacturing<br>efficiency and availability\n    section Selling Era\n      1930s‑50s : Aggressive salesmanship,<br>advertising growth\n    section Marketing Concept\n      1960s : Consumer‑centric philosophy<br>4Ps framework introduced\n    section Relationship Marketing\n      1980s : Customer loyalty & retention<br>Direct marketing & CRM\n    section Digital & Internet\n      1990s : E‑commerce, search engines<br>(Amazon, Google)\n      2000s : Email marketing, SEO,<br>data‑driven campaigns\n    section Social & Mobile\n      2007 : iPhone & mobile apps\n      2008‑10s : Social media marketing<br>(Facebook, Instagram)\n      2010s : Influencer & content marketing\n    section AI & Experience\n      2020s : AI personalization,<br>sustainability, metaverse,<br>privacy‑centric marketing",
+            "complexity": "high",
+            "tags": ["marketing", "history", "timeline", "production_era", "marketing_concept", "digital_marketing", "AI", "social_media"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

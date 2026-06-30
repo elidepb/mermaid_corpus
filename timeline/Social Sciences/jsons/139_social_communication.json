@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Social Communication",
+            "category": "Communication & Social Sciences",
+            "description": "This timeline traces the evolution of Social Communication from ancient rhetoric to the digital age. Early foundations: Aristotle’s Rhetoric (4th century BCE) and the Sophists. The printing press (1440) revolutionised mass communication. The 20th century brought foundational models: Lasswell’s linear model (1948) and Shannon & Weaver’s mathematical model (1949). Symbolic interactionism emerged with Mead (1934) and Blumer (1969). Mid‑century saw the rise of mass media research: cultivation theory (Gerbner, 1970s), agenda‑setting (McCombs & Shaw, 1972), and uses & gratifications. The internet (1990s) transformed communication, leading to social media (2000s), big data analytics, and algorithmic curation (2010s‑2020s). Contemporary issues include misinformation, digital divides, and AI‑mediated communication.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Social Communication\n    section Ancient Foundations\n      4th cent BCE : Aristotle's Rhetoric\n      Sophist teaching\n    section Print & Mass Media\n      1440 : Gutenberg printing press\n      1830s : Penny press (mass newspaper)\n      1920s : Radio broadcasting\n      1950s : Television becomes dominant\n    section Communication Models\n      1948 : Lasswell's model\n      1949 : Shannon‑Weaver model\n      1934/1969 : Symbolic interactionism\n      (Mead, Blumer)\n    section Media Effects Research\n      1970s : Gerbner's cultivation theory\n      1972 : McCombs & Shaw<br>Agenda‑setting theory\n      1970s‑80s : Uses & gratifications\n    section Digital Revolution\n      1990s : Internet & CMC\n      2000s : Social media platforms\n      2010s : Algorithmic curation,<br>big data, smartphone ubiquity\n    section Contemporary\n      2020s : Misinformation,<br>AI‑mediated communication,<br>digital divide debates",
+            "complexity": "high",
+            "tags": ["social_communication", "history", "timeline", "rhetoric", "lasswell", "agenda_setting", "internet", "social_media"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

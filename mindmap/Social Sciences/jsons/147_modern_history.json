@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Modern History",
+            "category": "History",
+            "description": "This mind map organises the field of Modern History around its central concept. Major branches include Key Periods (early modern, age of revolutions, long 19th century, 20th century, contemporary), Major Themes (revolution and state formation, industrial capitalism, imperialism and decolonisation, war and genocide, cultural and social movements, globalisation), Sources and Methods (archives, newspapers, statistics, oral history, digital humanities), Theoretical Approaches (modernisation, Marxism, world‑systems, postcolonial, gender and post‑structural), Major Regions (Europe, East Asia, South Asia, Middle East, Africa, Americas), and Key Figures (Eric Hobsbawm, Fernand Braudel, E.P. Thompson, Dipesh Chakrabarty, Joan Scott). The map illustrates the global scope and methodological diversity of modern historical research.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Modern History))\n    Key_Periods\n      Early_Modern\n      Age_of_Revolutions\n      Long_19th_Century\n      20th_Century\n      Contemporary\n    Major_Themes\n      Revolution_&_State_Formation\n      Industrial_Capitalism\n      Imperialism_&_Decolonisation\n      War_&_Genocide\n      Cultural_&_Social_Movements\n      Globalisation\n    Sources_&_Methods\n      Archives\n      Newspapers\n      Statistics\n      Oral_History\n      Digital_Humanities\n    Theoretical_Approaches\n      Modernisation\n      Marxism\n      World‑Systems\n      Postcolonial\n      Gender_&_Post‑Structural\n    Major_Regions\n      Europe\n      East_Asia\n      South_Asia\n      Middle_East\n      Africa\n      Americas\n    Key_Figures\n      Eric_Hobsbawm\n      Fernand_Braudel\n      E.P._Thompson\n      Dipesh_Chakrabarty\n      Joan_Scott",
+            "complexity": "high",
+            "tags": ["modern_history", "mind_map", "periods", "themes", "methods", "historiography", "global_history"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

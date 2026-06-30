@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogy",
+            "category": "Education",
+            "description": "This mind map organizes the field of Pedagogy. Major branches include Theoretical Foundations (behaviorism, cognitivism, constructivism, humanism, critical pedagogy), Instructional Methods (direct instruction, collaborative learning, project‑based, inquiry, flipped classroom), Key Concepts (scaffolding, zone of proximal development, differentiation, active learning, metacognition), Assessment (formative, summative, authentic, self‑assessment), Notable Thinkers (Comenius, Rousseau, Pestalozzi, Herbart, Dewey, Montessori, Piaget, Vygotsky, Freire), and Contemporary Trends (digital pedagogy, inclusive education, culturally responsive teaching, personalized learning). The map captures the breadth of pedagogical knowledge from theory to practice.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Pedagogy))\n    Theoretical_Foundations\n      Behaviorism\n      Cognitivism\n      Constructivism\n      Humanism\n      Critical_Pedagogy\n    Instructional_Methods\n      Direct_Instruction\n      Collaborative_Learning\n      Project‑Based\n      Inquiry\n      Flipped_Classroom\n    Key_Concepts\n      Scaffolding\n      ZPD\n      Differentiation\n      Active_Learning\n      Metacognition\n    Assessment\n      Formative\n      Summative\n      Authentic\n      Self-Assessment\n    Notable_Thinkers\n      Comenius\n      Rousseau\n      Pestalozzi\n      Herbart\n      Dewey\n      Montessori\n      Piaget\n      Vygotsky\n      Freire\n    Contemporary_Trends\n      Digital_Pedagogy\n      Inclusive_Education\n      Culturally_Responsive\n      Personalized_Learning",
+            "complexity": "high",
+            "tags": ["pedagogy", "mind_map", "teaching_methods", "learning_theories", "education", "dewey", "vygotsky", "freire"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

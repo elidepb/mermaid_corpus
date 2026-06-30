@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Education Policy",
+            "category": "Education & Public Policy",
+            "description": "This mind map organizes the field of Education Policy around its central concept. Major branches include Policy Areas (funding and resource allocation, curriculum and standards, teacher policy, assessment and accountability, equity and inclusion, school governance), Policy Cycle Stages (agenda setting, formulation, adoption, implementation, evaluation), Key Actors (governments, legislatures, teachers' unions, parents, international organizations like UNESCO/OECD), Theoretical Frameworks (rational choice institutionalism, multiple streams, advocacy coalition, critical policy analysis), Instruments (legislation, funding formulas, regulation, capacity building), and Contemporary Issues (privatization, school choice, digital equity, standardized testing, inclusive education). The map captures the interdisciplinary and contested nature of education governance.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Education Policy))\n    Policy_Areas\n      Funding\n      Curriculum\n      Teacher_Policy\n      Assessment\n      Equity_and_Inclusion\n      School_Governance\n    Policy_Cycle\n      Agenda_Setting\n      Formulation\n      Adoption\n      Implementation\n      Evaluation\n    Key_Actors\n      Governments\n      Legislatures\n      Teachers_Unions\n      Parents\n      International_Orgs\n    Theoretical_Frameworks\n      Rational_Choice\n      Multiple_Streams\n      Advocacy_Coalition\n      Critical_Policy_Analysis\n    Instruments\n      Legislation\n      Funding_Formulas\n      Regulation\n      Capacity_Building\n    Contemporary_Issues\n      Privatization\n      School_Choice\n      Digital_Equity\n      Standardized_Testing\n      Inclusive_Education",
+            "complexity": "high",
+            "tags": ["education_policy", "mind_map", "policy_cycle", "actors", "theories", "privatization", "equity", "accountability"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

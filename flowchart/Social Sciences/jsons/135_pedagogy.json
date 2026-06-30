@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogy",
+            "category": "Education",
+            "description": "Pedagogy is the art, science, and practice of teaching. This flowchart illustrates its systematic framework: the ultimate goal is to foster meaningful learning and holistic development. It integrates core components (curriculum design, instructional strategies, assessment and feedback) with foundational theories (behaviorism, cognitivism, constructivism, social constructivism, critical pedagogy). These are enacted through diverse methods (direct instruction, collaborative learning, inquiry‑based learning, differentiated instruction) and supported by the learning environment (physical, digital, psychological). The process involves planning, implementation, evaluation, and reflection, culminating in outcomes such as enhanced student understanding, critical thinking, and lifelong learning skills.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Pedagogy</b><br>Art and science of teaching<br>and instructional practice]:::title\n    B[<b>GOAL</b><br>Foster meaningful learning<br>and holistic development]:::goal\n    C[<b>CORE COMPONENTS</b>]:::components\n    subgraph D[Teaching & Learning Elements]\n        D1[Curriculum design<br>Instructional strategies<br>Assessment & feedback]\n    end\n    subgraph E[Theoretical Foundations]\n        E1[Behaviorism, cognitivism<br>Constructivism, social constructivism<br>Critical pedagogy]\n    end\n    F[<b>METHODS & APPROACHES</b><br>Direct instruction, collaborative learning,<br>inquiry‑based, differentiated instruction]:::methods\n    G[<b>LEARNING ENVIRONMENT</b><br>Physical, digital, psychological<br>safety & inclusivity]:::environment\n    H[<b>TEACHING CYCLE</b><br>Plan → Implement → Assess → Reflect]:::cycle\n    I[<b>OUTCOMES</b><br>Student understanding, critical thinking,<br>lifelong learning, agency]:::outcome\n\n    A -->|aims to| B\n    B -->|by integrating| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|guide| F\n    F -->|supported by| G\n    G -->|enables| H\n    H -->|achieves| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef environment fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef cycle fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["pedagogy", "teaching", "curriculum", "instruction", "learning_theories", "assessment", "constructivism"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

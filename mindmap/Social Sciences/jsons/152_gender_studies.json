@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Gender Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This mind map organises the field of Gender Studies around its central concept. It branches into Key Concepts (gender, sex, sexuality, patriarchy, intersectionality, performativity, hegemonic masculinity), Waves of Feminism (first wave: suffrage, second wave: social equality, third wave: diversity and identity, fourth wave: digital activism), Theoretical Frameworks (liberal, radical, Marxist/socialist, poststructuralist/queer, critical race, postcolonial, transfeminism), Key Themes (body and reproduction, labour and care, representation and media, violence and security, citizenship and rights, globalisation), Methods (qualitative, quantitative, discourse analysis, ethnography, participatory action research), and Major Thinkers (Simone de Beauvoir, bell hooks, Judith Butler, Kimberlé Crenshaw, Gayatri Spivak, Raewyn Connell, Jack Halberstam). The map illustrates the field's theoretical diversity and its grounding in both activism and scholarship.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Gender Studies))\n    Key_Concepts\n      Gender\n      Sex\n      Sexuality\n      Patriarchy\n      Intersectionality\n      Performativity\n      Hegemonic_Masculinity\n    Waves_of_Feminism\n      First_Wave\n      Second_Wave\n      Third_Wave\n      Fourth_Wave\n    Theoretical_Frameworks\n      Liberal\n      Radical\n      Marxist_Socialist\n      Poststructuralist_Queer\n      Critical_Race\n      Postcolonial\n      Transfeminism\n    Key_Themes\n      Body_and_Reproduction\n      Labour_and_Care\n      Representation_and_Media\n      Violence_and_Security\n      Citizenship_and_Rights\n      Globalisation\n    Methods\n      Qualitative\n      Quantitative\n      Discourse_Analysis\n      Ethnography\n      Participatory_Action_Research\n    Major_Thinkers\n      Simone_de_Beauvoir\n      bell_hooks\n      Judith_Butler\n      Kimberlé_Crenshaw\n      Gayatri_Spivak\n      Raewyn_Connell\n      Jack_Halberstam",
+            "complexity": "high",
+            "tags": ["gender_studies", "mind_map", "feminism", "intersectionality", "queer_theory", "concepts", "methods"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

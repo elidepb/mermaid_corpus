@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "150",
+            "topic": "Art History",
+            "category": "History & Art",
+            "description": "This timeline traces the development of Art History as a discipline alongside major art historical periods. It begins with ancient art: cave paintings (c. 40,000 BCE), Classical Greek sculpture (5th‑4th cent. BCE), and Roman art (1st‑4th cent. CE). Medieval and Renaissance art (Byzantine mosaics, Giotto, Leonardo, Michelangelo) flourished before Giorgio Vasari’s ‘Lives of the Artists’ (1550), often considered the first art history text. The 18th century saw Johann Joachim Winckelmann’s ‘History of Ancient Art’ (1764) and the rise of Neoclassicism. The 19th century introduced Romanticism, Realism, Impressionism, and the formalist methods of Heinrich Wölfflin. The 20th century brought avant‑gardes (Cubism, Surrealism, Abstract Expressionism), the iconographic method (Panofsky’s ‘Studies in Iconology’, 1939), and feminist art history (Linda Nochlin’s ‘Why Have There Been No Great Women Artists?’, 1971). In recent decades, postcolonial and global art histories, the rise of contemporary art (globalisation, biennials, digital art), and technical art history have reshaped the field.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Art & Art History\n    section Ancient & Classical\n      c. 40,000 BCE : Cave paintings<br>(Lascaux, Altamira)\n      5th‑4th cent. BCE : Classical Greek sculpture<br>and architecture\n      1st‑4th cent. CE : Roman fresco, mosaics,<br>and portraiture\n    section Medieval & Renaissance\n      6th‑14th cent. : Byzantine icons,<br>Gothic cathedrals\n      14th‑16th cent. : Renaissance (Giotto,<br>Leonardo, Michelangelo)\n      1550 : Giorgio Vasari publishes<br>Lives of the Artists\n    section 17th‑18th Centuries\n      17th cent. : Baroque (Caravaggio,<br>Rubens, Velázquez)\n      1764 : Winckelmann's History of<br>Ancient Art (Neoclassicism)\n    section 19th Century\n      1800‑80s : Romanticism, Realism,<br>Impressionism\n      1890s : Post‑Impressionism,<br>Symbolism, early photography\n    section 20th Century\n      1907‑14 : Cubism (Picasso, Braque)\n      1915 : Wölfflin's Principles of<br>Art History (formalism)\n      1939 : Panofsky's Studies in<br>Iconology\n      1971 : Nochlin's \"Why Have There<br>Been No Great Women Artists?\"\n      1980s‑90s : Postcolonial & global<br>art histories emerge\n    section 21st Century\n      2000s‑present : Global contemporary<br>art, biennials, digital art,<br>technical art history",
+            "complexity": "high",
+            "tags": ["art_history", "timeline", "periods", "historiography", "vasari", "winckelmann", "panofsky", "contemporary_art"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

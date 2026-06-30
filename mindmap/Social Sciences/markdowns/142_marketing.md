@@ -1,0 +1,38 @@
+```mermaid
+mindmap
+  root((Marketing))
+    Core_Concepts
+      Marketing_Mix
+      Segmentation
+      Targeting
+      Positioning
+      Brand
+      Consumer_Behavior
+      CRM
+    Subfields
+      Digital_Marketing
+      Content_Marketing
+      Social_Media_Marketing
+      B2B_Marketing
+      International_Marketing
+      Services_Marketing
+    Classic_Frameworks
+      4Ps_7Ps
+      STP
+      AIDA
+      Maslow's_Hierarchy
+      Porter's_Five_Forces
+      BCG_Matrix
+    Key_Thinkers
+      Philip_Kotler
+      Peter_Drucker
+      David_Ogilvy
+      Seth_Godin
+    Current_Trends
+      AI_Personalization
+      Sustainability_Marketing
+      Influencer_Marketing
+      Omnichannel
+      Data_Privacy
+```
+

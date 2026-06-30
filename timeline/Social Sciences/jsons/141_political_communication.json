@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Political Communication",
+            "category": "Communication & Political Science",
+            "description": "This timeline traces the evolution of Political Communication from ancient persuasion to digital algorithms. Key milestones: ancient rhetoric (Aristotle's Rhetoric, 4th cent. BCE); the printing press and political pamphlets (16th‑18th c.); the party press era (19th c.); the rise of mass media (FDR's fireside chats, 1933; Kennedy‑Nixon TV debates, 1960); the professionalization of campaigns (political consultants, 1970s‑80s); 24‑hour cable news (CNN, 1980); the internet and online campaigning (Howard Dean blog, 2003; Obama's social media, 2008); the fake news and post‑truth era (2016); and contemporary developments in AI, deepfakes, and algorithmic microtargeting (2020s). The timeline illustrates the ongoing transformation of how politics is communicated.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Political Communication\n    section Ancient & Early Modern\n      4th cent BCE : Aristotle's Rhetoric<br>Cicero's oratory\n      16th‑18th c. : Printing press<br>Political pamphlets\n    section Party Press & Mass Media\n      19th c. : Party newspapers<br>Mass readership\n      1933 : FDR's fireside chats<br>(radio intimacy)\n      1960 : Kennedy‑Nixon TV debates<br>(visual politics)\n    section Professionalization\n      1970s‑80s : Political consultants<br>Rise of spin\n      1980 : CNN & 24‑hour news cycle\n      1992 : Clinton's MTV town hall\n    section Digital Transformation\n      2003 : Howard Dean's blog<br>(online fundraising)\n      2008 : Obama's social media<br>campaign (Facebook, YouTube)\n      2016 : Fake news, Russian<br>interference, post‑truth\n    section Contemporary\n      2020s : Deepfakes, AI‑generated<br>content, microtargeting,<br>TikTok politics",
+            "complexity": "high",
+            "tags": ["political_communication", "history", "timeline", "tv_debates", "obama", "social_media", "fake_news", "digital_campaigning"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiography",
+            "category": "History",
+            "description": "This timeline traces the development of historical writing and thought from ancient times to the present. It begins with the first historians: Herodotus and Thucydides in Greece (5th cent. BCE), Sima Qian in China (1st cent. BCE). The Renaissance (15th‑16th c.) revived secular history. The Enlightenment (18th c.) introduced philosophical history (Voltaire, Gibbon). The 19th century saw the rise of professional, scientific history with Leopold von Ranke’s motto “wie es eigentlich gewesen” (1824). Marxist historiography emerged after 1848. In the 20th century, the Annales School (1929) shifted focus to long‑term structures; the linguistic and cultural turns (1970s‑80s) questioned narrative and objectivity; feminist and postcolonial histories reshaped the field. The late 20th and early 21st centuries brought digital history, global history, and the study of memory.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Historiography\n    section Ancient & Classical\n      5th cent. BCE : Herodotus, Thucydides<br>(Greek historical writing)\n      1st cent. BCE : Sima Qian<br>(Records of the Grand Historian)\n    section Renaissance & Enlightenment\n      15th‑16th cent. : Humanist history,<br>Machiavelli, Guicciardini\n      18th cent. : Voltaire, Gibbon<br>Philosophical history\n    section Professionalisation\n      1824 : Ranke's \"wie es eigentlich<br>gewesen\" (scientific history)\n      1848‑1900 : Marxist historiography<br>emerges (Marx, Engels)\n    section 20th‑Century Revolutions\n      1929 : Annales School founded<br>(Bloch, Febvre)\n      1961 : E.H. Carr, What is History?\n      1970s‑80s : Linguistic turn, cultural<br>history, feminist history\n      1978 : Said's Orientalism<br>(postcolonial challenge)\n      1990s : Microhistory, memory studies\n    section 21st Century\n      2000s : Digital history, global<br>history, history from below\n      2010s‑20s : Transnational,<br>decolonial, environmental<br>historiographies",
+            "complexity": "high",
+            "tags": ["historiography", "timeline", "ranke", "annales", "linguistic_turn", "postcolonialism", "digital_history", "historical_writing"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

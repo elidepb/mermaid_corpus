@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "142",
+            "topic": "Marketing",
+            "category": "Business & Management",
+            "description": "This mind map organizes the field of Marketing around its central concept. Major branches include Core Concepts (marketing mix, segmentation, targeting, positioning, brand, consumer behavior, customer relationship management), Subfields (digital marketing, content marketing, social media marketing, B2B marketing, international marketing, services marketing), Classic Frameworks (4Ps, 7Ps, STP, AIDA, Maslow's hierarchy, Porter's five forces, BCG matrix), Key Thinkers (Philip Kotler, Peter Drucker, David Ogilvy, Seth Godin), and Current Trends (AI‑powered personalization, sustainability marketing, influencer marketing, omnichannel, data privacy). The map captures the breadth of the discipline from classical foundations to cutting‑edge practice.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Marketing))\n    Core_Concepts\n      Marketing_Mix\n      Segmentation\n      Targeting\n      Positioning\n      Brand\n      Consumer_Behavior\n      CRM\n    Subfields\n      Digital_Marketing\n      Content_Marketing\n      Social_Media_Marketing\n      B2B_Marketing\n      International_Marketing\n      Services_Marketing\n    Classic_Frameworks\n      4Ps_7Ps\n      STP\n      AIDA\n      Maslow's_Hierarchy\n      Porter's_Five_Forces\n      BCG_Matrix\n    Key_Thinkers\n      Philip_Kotler\n      Peter_Drucker\n      David_Ogilvy\n      Seth_Godin\n    Current_Trends\n      AI_Personalization\n      Sustainability_Marketing\n      Influencer_Marketing\n      Omnichannel\n      Data_Privacy",
+            "complexity": "high",
+            "tags": ["marketing", "mind_map", "concepts", "frameworks", "thinkers", "digital_marketing", "trends"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

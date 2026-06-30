@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Advertising",
+            "category": "Business & Communication",
+            "description": "This timeline traces the evolution of Advertising from ancient notice boards to AI‑driven real‑time personalization. Key milestones: ancient papyrus and painted signs (2000‑500 BCE); Gutenberg's press and first newspaper ads (15th‑17th c.); the first advertising agency (Volney B. Palmer, 1842); radio ads (1922) and TV's golden age (1950s‑60s); the creative revolution (Bernbach, Ogilvy, 1960s); digital birth: banner ad (1994) and search ads (Google AdWords, 2000); social media advertising (Facebook Ads, 2007); programmatic and real‑time bidding (2010s); rise of influencer marketing and mobile‑first; and the 2020s with AI‑generated creative, attention measurement, and cookieless targeting.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Advertising\n    section Ancient & Early Modern\n      2000‑500 BCE : Papyrus posters,<br>painted signs in Egypt, Rome\n      15th c. : Gutenberg's press<br>(flyers, broadsheets)\n      17th c. : First newspaper ads\n      (French Gazette, 1630s)\n    section Agency & Radio\n      1842 : First ad agency<br>(Volney B. Palmer)\n      1922 : First radio ad<br>(WEAF, New York)\n    section TV & Creative Revolution\n      1950s‑60s : TV golden age,<br>soap operas, jingles\n      1960s : Creative revolution<br>(Bernbach, Ogilvy, Burnett)\n    section Digital Dawn\n      1994 : First banner ad<br>(AT&T on HotWired)\n      2000 : Google AdWords<br>(search advertising)\n    section Social & Programmatic\n      2007 : Facebook Ads launch<br>social targeting\n      2010s : Programmatic, RTB,<br>retargeting, mobile ads\n    section AI & Modern\n      2016‑20s : Influencer marketing<br>native content\n      2020s : AI‑generated creatives,<br>attention metrics, cookieless era",
+            "complexity": "high",
+            "tags": ["advertising", "history", "timeline", "TV_ads", "digital_advertising", "programmatic", "social_media", "AI"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

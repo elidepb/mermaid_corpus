@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Political Communication",
+            "category": "Communication & Political Science",
+            "description": "This mind map organizes the field of Political Communication around its central concept. It branches into Key Concepts (propaganda, public sphere, political advertising, spin, framing, deliberation), Political Actors (candidates, parties, governments, interest groups, social movements), Media Channels (traditional mass media, digital/social media, interpersonal networks, political satire), Theoretical Approaches (agenda‑setting, priming, framing, spiral of silence, two‑step flow, cultivation, deliberative democracy), Effects (persuasion, agenda‑building, polarization, mobilization, knowledge gaps), and Contemporary Issues (misinformation, algorithmic curation, microtargeting, populism, political entertainment). The map reflects the interdisciplinary and dynamic nature of the field.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Political Communication))\n    Key_Concepts\n      Propaganda\n      Public_Sphere\n      Political_Advertising\n      Spin\n      Framing\n      Deliberation\n    Political_Actors\n      Candidates\n      Parties\n      Governments\n      Interest_Groups\n      Social_Movements\n    Media_Channels\n      Traditional_Mass_Media\n      Digital_Social_Media\n      Interpersonal_Networks\n      Political_Satire\n    Theoretical_Approaches\n      Agenda‑Setting\n      Priming\n      Framing\n      Spiral_of_Silence\n      Two‑Step_Flow\n      Cultivation\n      Deliberative_Democracy\n    Effects\n      Persuasion\n      Agenda‑Building\n      Polarization\n      Mobilization\n      Knowledge_Gaps\n    Contemporary_Issues\n      Misinformation\n      Algorithmic_Curation\n      Microtargeting\n      Populism\n      Political_Entertainment",
+            "complexity": "high",
+            "tags": ["political_communication", "mind_map", "theories", "effects", "actors", "channels", "misinformation"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogy",
+            "category": "Education",
+            "description": "This timeline traces the evolution of Pedagogy from ancient sages to modern educational science. Key milestones: ancient philosophical teaching (Socrates’ maieutics, Confucius’ moral cultivation); Comenius’s 'Didactica Magna' (1657) advocating universal education; Rousseau’s 'Emile' (1762) emphasizing natural development; Pestalozzi’s child‑centered methods (early 1800s); Herbart’s systematic instruction (1806); the progressive education movement (Dewey, 1897); Montessori’s scientific pedagogy (1907); Piaget’s cognitive development theory (1936) and Vygotsky’s sociocultural theory (1934, translated 1960s); Freire’s 'Pedagogy of the Oppressed' (1968) and critical pedagogy; the rise of constructivist and digital pedagogies (1980s‑present); and 21st‑century innovations like flipped classrooms, personalized learning, and inclusive education.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Pedagogy\n    section Ancient Foundations\n      5th c. BCE : Socratic method<br>(maieutics)\n      6th–5th c. BCE : Confucius<br>Moral education\n    section Early Modern\n      1657 : Comenius<br>Didactica Magna\n      1762 : Rousseau<br>Emile (natural education)\n    section 19th Century\n      1801 : Pestalozzi<br>How Gertrude Teaches\n      1806 : Herbart<br>Systematic instruction\n    section Progressive Era\n      1897 : Dewey<br>My Pedagogic Creed\n      1907 : Montessori<br>First Casa dei Bambini\n    section Cognitive & Sociocultural\n      1936 : Piaget<br>Origins of Intelligence\n      1934/1960s : Vygotsky<br>Thought and Language\n    section Critical Pedagogy\n      1968 : Freire<br>Pedagogy of the Oppressed\n    section Digital & 21st Century\n      1980s‑90s : Constructivist &<br>technology integration\n      2000s : Online learning,<br>flipped classrooms\n      2010s‑20s : Personalized learning,<br>inclusive pedagogy, AI in education",
+            "complexity": "high",
+            "tags": ["pedagogy", "history", "timeline", "dewey", "piaget", "vygotsky", "freire", "montessori", "digital_pedagogy"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

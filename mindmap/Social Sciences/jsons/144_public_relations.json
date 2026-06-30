@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Public Relations",
+            "category": "Communication & Management",
+            "description": "This mind map organizes the field of Public Relations around its central concept. Major branches include Core Concepts (reputation, stakeholder, publics, two‑way communication, transparency, spin), Types of PR (media relations, crisis communication, internal comm, investor relations, community relations, digital PR), Classic Models (press agentry, public information, two‑way asymmetrical, two‑way symmetrical — Grunig & Hunt), Tools & Tactics (press releases, media kits, speeches, events, social media, newsletters), Theories (Excellence theory, situational theory, framing, agenda‑building, dialogic theory, relationship management), Ethics (PRSA code, transparency, honesty, conflict of interest), and Key Figures (Ivy Lee, Edward Bernays, James Grunig, Scott Cutlip). The map captures the strategic and ethical dimensions of the profession.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Public Relations))\n    Core_Concepts\n      Reputation\n      Stakeholder\n      Publics\n      Two‑Way_Communication\n      Transparency\n      Spin\n    Types_of_PR\n      Media_Relations\n      Crisis_Communication\n      Internal_Comm\n      Investor_Relations\n      Community_Relations\n      Digital_PR\n    Classic_Models\n      Press_Agentry\n      Public_Information\n      Two‑Way_Asymmetrical\n      Two‑Way_Symmetrical\n    Tools_&_Tactics\n      Press_Releases\n      Media_Kits\n      Speeches\n      Events\n      Social_Media\n      Newsletters\n    Theories\n      Excellence_Theory\n      Situational_Theory\n      Framing\n      Agenda‑Building\n      Dialogic_Theory\n      Relationship_Management\n    Ethics\n      PRSA_Code\n      Transparency\n      Honesty\n      Conflict_of_Interest\n    Key_Figures\n      Ivy_Lee\n      Edward_Bernays\n      James_Grunig\n      Scott_Cutlip",
+            "complexity": "high",
+            "tags": ["public_relations", "mind_map", "models", "theories", "ethics", "berneys", "grunig"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

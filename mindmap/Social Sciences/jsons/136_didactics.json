@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didactics",
+            "category": "Education",
+            "description": "This mind map organizes the field of Didactics around its central concept. Major branches include Core Concepts (teaching, learning, content, method, media, assessment), Theoretical Models (Bildung‑centered didactics, constructivist didactics, critical‑communicative, curriculum didactics, instructional design), Planning Models (Bloom's taxonomy, backward design, didactic unit planning), Methods (direct instruction, discovery learning, cooperative learning, problem‑based), Media (textbooks, digital media, laboratories, realia), Assessment Approaches (formative, summative, authentic, self‑assessment), and Key Figures (Comenius, Herbart, Dewey, Klafki, Ausubel). The map illustrates the multidisciplinary nature of systematic instruction.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Didactics))\n    Core_Concepts\n      Teaching\n      Learning\n      Content\n      Method\n      Media\n      Assessment\n    Theoretical_Models\n      Bildung‑Centered\n      Constructivist\n      Critical‑Communicative\n      Curriculum_Didactics\n      Instructional_Design\n    Planning_Models\n      Bloom's_Taxonomy\n      Backward_Design\n      Didactic_Unit_Planning\n    Methods\n      Direct_Instruction\n      Discovery_Learning\n      Cooperative_Learning\n      Problem‑Based\n    Media\n      Textbooks\n      Digital_Media\n      Laboratories\n      Realia\n    Assessment_Approaches\n      Formative\n      Summative\n      Authentic\n      Self‑Assessment\n    Key_Figures\n      Comenius\n      Herbart\n      Dewey\n      Klafki\n      Ausubel",
+            "complexity": "high",
+            "tags": ["didactics", "mind_map", "teaching_methods", "curriculum", "assessment", "instructional_design", "bildung"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

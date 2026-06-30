@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Special Education",
+            "category": "Education",
+            "description": "This mind map organizes the field of Special Education around its central concept. It branches into Major Legislation (IDEA, Section 504, ADA, ESSA), Core Principles (FAPE, LRE, due process, zero reject, nondiscriminatory evaluation), Disability Categories (autism, intellectual disability, specific learning disability, emotional disturbance, speech/language impairment, visual/hearing impairment, multiple disabilities), IEP Components (present levels, annual goals, services, accommodations, participation, transition), Related Services (speech‑language therapy, occupational therapy, physical therapy, counseling, transportation), Instructional Approaches (differentiated instruction, Universal Design for Learning, co‑teaching, inclusion, explicit instruction), and Key Roles (special education teacher, general education teacher, school psychologist, speech‑language pathologist, OT/PT, parents). The map captures the comprehensive and collaborative nature of the field.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Special Education))\n    Major_Legislation\n      IDEA\n      Section_504\n      ADA\n      ESSA\n    Core_Principles\n      FAPE\n      LRE\n      Due_Process\n      Zero_Reject\n      Nondiscriminatory_Evaluation\n    Disability_Categories\n      Autism\n      Intellectual_Disability\n      Specific_Learning_Disability\n      Emotional_Disturbance\n      Speech_Language_Impairment\n      Visual_Hearing_Impairment\n      Multiple_Disabilities\n    IEP_Components\n      Present_Levels\n      Annual_Goals\n      Services\n      Accommodations\n      Participation\n      Transition_Planning\n    Related_Services\n      Speech_Language_Therapy\n      Occupational_Therapy\n      Physical_Therapy\n      Counseling\n      Transportation\n    Instructional_Approaches\n      Differentiated_Instruction\n      Universal_Design_for_Learning\n      Co‑Teaching\n      Inclusion\n      Explicit_Instruction\n    Key_Roles\n      Special_Education_Teacher\n      General_Education_Teacher\n      School_Psychologist\n      Speech‑Language_Pathologist\n      OT_PT\n      Parents",
+            "complexity": "high",
+            "tags": ["special_education", "mind_map", "IDEA", "IEP", "disability_categories", "UDL", "inclusion", "related_services"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

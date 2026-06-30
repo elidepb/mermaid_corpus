@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Labor Law",
+            "category": "Law",
+            "description": "Labor Law (also known as employment law) governs the relationship between employers, employees, and trade unions. This flowchart outlines its framework: the ultimate goal is to balance employer needs with worker protection and social justice. It integrates individual employment law (contracts, conditions, termination, discrimination) and collective labor law (unions, bargaining, strikes). These are regulated through core principles (minimum standards, non‑discrimination, freedom of association, collective bargaining) and enforced via administrative agencies, labor courts, and dispute‑resolution mechanisms. The system produces outcomes such as fair wages, workplace safety, industrial peace, and social dialogue.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Labor Law</b><br>Body of law governing the<br>employment relationship]:::title\n    B[<b>GOAL</b><br>Balance employer needs with<br>worker protection and social justice]:::goal\n    C[<b>CORE AREAS</b>]:::areas\n    subgraph D[Individual Employment Law]\n        D1[Employment contracts<br>Working time, wages<br>Health and safety<br>Discrimination protection<br>Termination and dismissal]\n    end\n    subgraph E[Collective Labor Law]\n        E1[Trade unions & employer associations<br>Collective bargaining<br>Industrial action (strikes, lockouts)<br>Worker participation]\n    end\n    F[<b>REGULATORY FRAMEWORK</b><br>International labor standards (ILO)<br>National legislation, regulations,<br>judicial precedents]:::framework\n    G[<b>ENFORCEMENT</b><br>Labor inspections, administrative<br>tribunals, labor courts,<br>mediation & arbitration]:::enforcement\n    H[<b>OUTCOMES</b><br>Decent work, social protection,<br>industrial peace, fair competition]:::outcome\n\n    A -->|aims to| B\n    B -->|through| C\n    C -->|includes| D\n    C -->|includes| E\n    D & E -->|shaped by| F\n    F -->|applied through| G\n    G -->|achieves| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef areas fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef framework fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef enforcement fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["labor_law", "employment_law", "collective_bargaining", "worker_protection", "industrial_relations", "ILO", "discrimination"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

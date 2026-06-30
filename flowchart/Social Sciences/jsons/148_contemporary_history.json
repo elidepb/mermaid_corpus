@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "148",
+            "topic": "Contemporary History",
+            "category": "History",
+            "description": "A flowchart showing the fundamental concepts of Contemporary History.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CH[Contemporary History] --> WWI[World War I]\n    CH --> WWII[World War II]\n    CH --> CW[Cold War]\n    CH --> PCW[Post-Cold War Era]\n\n    PCW --> G[Globalization]\n    PCW --> T[War on Terror]\n    PCW --> IT[Information Age]",
+            "complexity": "medium",
+            "tags": [
+                "contemporary history",
+                "history"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

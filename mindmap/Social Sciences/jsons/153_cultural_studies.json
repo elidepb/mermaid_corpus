@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Cultural Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This mind map organises the field of Cultural Studies around its central concept. It branches into Core Concepts (hegemony, ideology, representation, culture as everyday life, identity, discourse, the popular), Theoretical Influences (Marxism, structuralism and semiotics, poststructuralism, feminism and queer theory, postcolonialism, critical race theory), Key Thinkers (Raymond Williams, Stuart Hall, Antonio Gramsci, Michel Foucault, Roland Barthes, Judith Butler, bell hooks, Paul Gilroy), Methods (textual and discourse analysis, ethnography, reception analysis, genealogy, media archaeology), Subfields (media and communication, subculture studies, postcolonial cultural studies, gender and sexuality, digital culture), and Applications (critical pedagogy, cultural policy, activism, heritage and museums). The map reflects the political and interdisciplinary nature of the field.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Cultural Studies))\n    Core_Concepts\n      Hegemony\n      Ideology\n      Representation\n      Culture_as_Everyday_Life\n      Identity\n      Discourse\n      The_Popular\n    Theoretical_Influences\n      Marxism\n      Structuralism_Semiotics\n      Poststructuralism\n      Feminism_Queer_Theory\n      Postcolonialism\n      Critical_Race_Theory\n    Key_Thinkers\n      Raymond_Williams\n      Stuart_Hall\n      Antonio_Gramsci\n      Michel_Foucault\n      Roland_Barthes\n      Judith_Butler\n      bell_hooks\n      Paul_Gilroy\n    Methods\n      Textual_&_Discourse_Analysis\n      Ethnography\n      Reception_Analysis\n      Genealogy\n      Media_Archaeology\n    Subfields\n      Media_&_Communication\n      Subculture_Studies\n      Postcolonial_Cultural_Studies\n      Gender_&_Sexuality\n      Digital_Culture\n    Applications\n      Critical_Pedagogy\n      Cultural_Policy\n      Activism\n      Heritage_&_Museums",
+            "complexity": "high",
+            "tags": ["cultural_studies", "mind_map", "hegemony", "representation", "Stuart_Hall", "Raymond_Williams", "methods"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

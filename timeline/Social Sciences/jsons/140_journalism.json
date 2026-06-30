@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Journalism",
+            "category": "Communication & Media Studies",
+            "description": "This timeline traces the history of Journalism from early news dissemination to the digital era. Key milestones: ancient Roman Acta Diurna (59 BCE) and Chinese tipao; Gutenberg’s printing press (1440); the first modern newspapers in the 17th century (Gazette de France 1631, Publick Occurrences 1690); the penny press and mass readership (1830s); the telegraph and wire services (AP, 1846); yellow journalism and the rise of the reporter (1890s); radio news (1920s) and television news (1950s); investigative journalism’s golden age (Watergate, 1972); 24‑hour cable news (CNN, 1980); internet journalism (1990s); the rise of citizen journalism and social media (2000s); the fake news crisis and fact‑checking movement (2016); and contemporary developments in automated journalism and AI.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Journalism\n    section Ancient & Early Modern\n      59 BCE : Acta Diurna (Rome)\n      8th‑15th c. : Chinese tipao,<br>handwritten newsletters\n      1440 : Gutenberg printing press\n    section First Newspapers\n      1631 : La Gazette (France)\n      1690 : Publick Occurrences (America)\n      1702 : Daily Courant (first daily)\n    section Mass Media Emergence\n      1830s : Penny press (Sun, Herald)\n      1846 : Associated Press founded\n      1890s : Yellow journalism<br>(Pulitzer, Hearst)\n    section Broadcast Era\n      1920 : First radio news broadcast\n      1950s : TV news becomes dominant\n      1960 : Kennedy‑Nixon TV debates\n    section Investigative & Cable\n      1972 : Watergate scandal<br>(Washington Post)\n      1980 : CNN launches (24‑hour news)\n    section Digital Revolution\n      1990s : Internet news, blogs\n      2006 : Twitter, citizen journalism\n      2016 : Fake news crisis,<br>fact‑checking movement\n    section Contemporary\n      2020s : AI‑generated news,<br>news avoidance, platform regulation",
+            "complexity": "high",
+            "tags": ["journalism", "history", "timeline", "penny_press", "watergate", "digital_journalism", "fake_news", "AI"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

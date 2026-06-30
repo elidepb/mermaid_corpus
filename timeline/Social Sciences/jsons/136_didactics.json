@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didactics",
+            "category": "Education",
+            "description": "This timeline traces key milestones in the development of Didactics. It begins with Comenius’s 'Didactica Magna' (1657), establishing the field as a systematic discipline. In the 19th century, Herbart’s 'Allgemeine Pädagogik' (1806) introduced a structured instructional method. The early 20th century saw progressive education (Dewey, 1897) and Montessori’s scientific pedagogy (1907). Mid‑20th century: Bloom’s taxonomy of educational objectives (1956) and the emergence of critical didactics (Klafki, 1960s). The 1980s‑90s brought constructivist didactics and the integration of instructional design models. The 2000s saw digital didactics with e‑learning and online platforms. From the 2010s, personalized learning, flipped classrooms, and inclusive didactics gained prominence.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Didactics\n    section Early Foundations\n      1657 : Comenius<br>Didactica Magna\n    section 19th Century\n      1806 : Herbart<br>Allgemeine Pädagogik\n    section Progressive Era\n      1897 : John Dewey<br>My Pedagogic Creed\n      1907 : Maria Montessori<br>Scientific pedagogy\n    section Mid‑20th Century\n      1956 : Benjamin Bloom<br>Taxonomy of Objectives\n      1960s : Wolfgang Klafki<br>Critical‑constructive Didaktik\n    section Late 20th Century\n      1980s‑90s : Constructivist didactics<br>Instructional design models\n    section Digital Age\n      2000s : E‑learning & digital<br>didactics emerge\n    section Contemporary\n      2010s‑20s : Personalized learning,<br>flipped classroom, inclusive<br>didactics, AI in education",
+            "complexity": "high",
+            "tags": ["didactics", "history", "timeline", "comenius", "herbart", "dewey", "bloom", "digital_didactics"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

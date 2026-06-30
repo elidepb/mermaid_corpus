@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Modern History",
+            "category": "History",
+            "description": "This timeline traces key milestones of Modern History from the Renaissance to the early 21st century. Major dates include the Fall of Constantinople (1453) and Columbus’s voyage (1492); the Protestant Reformation (1517); the English Civil War (1642‑1651); the American and French Revolutions (1776, 1789); the Industrial Revolution in Britain (c. 1780); the Congress of Vienna (1815); the Year of Revolutions (1848); the unification of Germany and Italy (1861‑1871); the Scramble for Africa (1880s); World War I (1914‑1918); the Russian Revolution (1917); the Great Depression (1929); World War II (1939‑1945); the founding of the United Nations (1945); decolonisation and India’s independence (1947); the Chinese Revolution (1949); the fall of the Berlin Wall (1989) and end of Cold War; 9/11 (2001); and the global financial crisis (2008).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Key Milestones of Modern History\n    section Early Modern Transitions\n      1453 : Fall of Constantinople\n      1492 : Columbus reaches Americas\n      1517 : Protestant Reformation begins\n      1642‑1651 : English Civil War\n    section Age of Revolutions\n      1776 : American Declaration of Independence\n      1789 : French Revolution\n      c. 1780 : Industrial Revolution in Britain\n      1815 : Congress of Vienna\n    section Long 19th Century\n      1848 : Year of Revolutions\n      1861‑1871 : Unification of Italy & Germany\n      1880s : Scramble for Africa\n    section World Wars & Ideological Conflict\n      1914‑1918 : World War I\n      1917 : Russian Revolution\n      1929 : Great Depression\n      1939‑1945 : World War II\n      1945 : United Nations founded\n    section Decolonisation & Cold War\n      1947 : Independence of India & Pakistan\n      1949 : Chinese Communist Revolution\n      1955‑1975 : Vietnam War\n      1989 : Fall of Berlin Wall\n    section Contemporary Era\n      2001 : 9/11 attacks\n      2008 : Global financial crisis\n      2020 : COVID‑19 pandemic",
+            "complexity": "high",
+            "tags": ["modern_history", "timeline", "revolutions", "world_wars", "cold_war", "decolonisation", "globalisation"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Medieval History",
+            "category": "History",
+            "description": "This mind map organises the field of Medieval History around its central concept. Major branches include Civilisational Zones (Latin Christendom, Byzantium, Islamic world, East Asia, South Asia, Africa, pre‑Columbian Americas), Key Themes (feudalism and lordship, church and monasticism, economy and long‑distance trade, social hierarchy and gender, art and architecture, warfare), Sub‑periods (Early Middle Ages, High Middle Ages, Late Middle Ages), Sources (chronicles, charters, archaeology, art and illuminated manuscripts), Methodological Approaches (historiography, source criticism, palaeography, archaeology, interdisciplinary studies), and Key Figures/Historians (Bede, Ibn Khaldun, Marc Bloch, Georges Duby, Jacques Le Goff). The map reflects the global and interdisciplinary scope of medieval studies.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Medieval History))\n    Civilisational_Zones\n      Latin_Christendom\n      Byzantium\n      Islamic_World\n      East_Asia\n      South_Asia\n      Africa\n      Pre‑Columbian_Americas\n    Key_Themes\n      Feudalism_and_Lordship\n      Church_and_Monasticism\n      Economy_and_Trade\n      Social_Hierarchy_and_Gender\n      Art_and_Architecture\n      Warfare\n    Sub‑Periods\n      Early_Middle_Ages\n      High_Middle_Ages\n      Late_Middle_Ages\n    Sources\n      Chronicles\n      Charters\n      Archaeology\n      Art_and_Illuminated_Manuscripts\n    Methodological_Approaches\n      Historiography\n      Source_Criticism\n      Palaeography\n      Archaeology\n      Interdisciplinary_Studies\n    Key_Figures_Historians\n      Bede\n      Ibn_Khaldun\n      Marc_Bloch\n      Georges_Duby\n      Jacques_Le_Goff",
+            "complexity": "high",
+            "tags": ["medieval_history", "mind_map", "middle_ages", "civilizations", "sources", "methodology", "historians"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

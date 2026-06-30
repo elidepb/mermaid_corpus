@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Journalism",
+            "category": "Communication & Media Studies",
+            "description": "This mind map organises the field of Journalism around its central concept. Major branches include Core Principles (truth, accuracy, fairness, independence, accountability, public interest), Types of Journalism (investigative, data, broadcast, print, digital, solutions, citizen), Key Practices (interviewing, fact‑checking, editing, storytelling, photo/video journalism), Theoretical Concepts (gatekeeping, agenda‑setting, framing, two‑step flow, spiral of silence), Ethical Issues (privacy, conflict of interest, source protection, sensationalism), and Contemporary Challenges (misinformation, media ownership, platform dependency, AI in newsroom, audience trust). The map reflects both classical norms and current transformations.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Journalism))\n    Core_Principles\n      Truth\n      Accuracy\n      Fairness\n      Independence\n      Accountability\n      Public_Interest\n    Types_of_Journalism\n      Investigative\n      Data\n      Broadcast\n      Print\n      Digital\n      Solutions\n      Citizen\n    Key_Practices\n      Interviewing\n      Fact‑Checking\n      Editing\n      Storytelling\n      Photo_Video\n    Theoretical_Concepts\n      Gatekeeping\n      Agenda‑Setting\n      Framing\n      Two‑Step_Flow\n      Spiral_of_Silence\n    Ethical_Issues\n      Privacy\n      Conflict_of_Interest\n      Source_Protection\n      Sensationalism\n    Contemporary_Challenges\n      Misinformation\n      Media_Ownership\n      Platform_Dependency\n      AI_in_Newsroom\n      Audience_Trust",
+            "complexity": "high",
+            "tags": ["journalism", "mind_map", "ethics", "practices", "theories", "misinformation", "investigative_journalism"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

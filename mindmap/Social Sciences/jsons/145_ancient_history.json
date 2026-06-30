@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Ancient History",
+            "category": "History",
+            "description": "This mind map organises the field of Ancient History around its central concept. It branches into Major Civilizations (Mesopotamia, Egypt, Indus, China, Greece, Rome, Persia, Maya), Thematic Domains (politics and state, economy and trade, society and daily life, religion and mythology, art and architecture, warfare), Key Periods (Bronze Age, Iron Age, Axial Age, Classical Antiquity, Late Antiquity), Sources (archaeological evidence, literary texts, inscriptions, coins, comparative ethnography), Methodological Approaches (historiography, source criticism, archaeology, interdisciplinary studies), and Influential Historians (Herodotus, Thucydides, Sima Qian, Livy). The structure highlights the interdisciplinary and comparative nature of ancient historical research.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Ancient History))\n    Civilizations\n      Mesopotamia\n      Egypt\n      Indus_Valley\n      China\n      Greece\n      Rome\n      Persia\n      Maya\n    Thematic_Domains\n      Politics_and_State\n      Economy_and_Trade\n      Society_and_Daily_Life\n      Religion_and_Mythology\n      Art_and_Architecture\n      Warfare\n    Key_Periods\n      Bronze_Age\n      Iron_Age\n      Axial_Age\n      Classical_Antiquity\n      Late_Antiquity\n    Sources\n      Archaeological_Evidence\n      Literary_Texts\n      Inscriptions\n      Coins\n      Comparative_Ethnography\n    Methodological_Approaches\n      Historiography\n      Source_Criticism\n      Archaeology\n      Interdisciplinary_Studies\n    Influential_Historians\n      Herodotus\n      Thucydides\n      Sima_Qian\n      Livy",
+            "complexity": "high",
+            "tags": ["ancient_history", "mind_map", "civilizations", "periods", "sources", "methodology", "historians"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

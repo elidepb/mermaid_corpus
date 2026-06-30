@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Advertising",
+            "category": "Business & Communication",
+            "description": "This mind map organizes the field of Advertising around its central concept. It branches into Key Concepts (target audience, brand, USP, reach, frequency, ROI, call to action, jingle), Types of Advertising (TV, radio, print, outdoor, digital display, social media, native, influencer, programmatic), Classic Models (AIDA, DAGMAR, elaboration likelihood model, hierarchy of effects, means‑end theory), Creative Strategy (insight, message strategy, tone, tagline, visual identity, copywriting), Media Channels (broadcast, print, OOH, digital, search, social, CTV), Key Figures (David Ogilvy, Bill Bernbach, Rosser Reeves, Leo Burnett), and Modern Trends (personalization, AI‑generated creative, retargeting, privacy‑first ads, attention metrics). The map reflects both timeless principles and contemporary innovation.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Advertising))\n    Key_Concepts\n      Target_Audience\n      Brand\n      USP\n      Reach\n      Frequency\n      ROI\n      Call_to_Action\n    Types_of_Advertising\n      TV\n      Radio\n      Print\n      Outdoor\n      Digital_Display\n      Social_Media\n      Native\n      Influencer\n      Programmatic\n    Classic_Models\n      AIDA\n      DAGMAR\n      Elaboration_Likelihood\n      Hierarchy_of_Effects\n      Means‑End_Theory\n    Creative_Strategy\n      Consumer_Insight\n      Message_Strategy\n      Tone\n      Tagline\n      Visual_Identity\n      Copywriting\n    Media_Channels\n      Broadcast\n      Print\n      OOH\n      Digital\n      Search\n      Social\n      CTV\n    Key_Figures\n      David_Ogilvy\n      Bill_Bernbach\n      Rosser_Reeves\n      Leo_Burnett\n    Modern_Trends\n      Personalization\n      AI‑Generated_Creative\n      Retargeting\n      Privacy‑First_Ads\n      Attention_Metrics",
+            "complexity": "high",
+            "tags": ["advertising", "mind_map", "creative_strategy", "media_channels", "AIDA", "digital_ads", "ogilvy"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

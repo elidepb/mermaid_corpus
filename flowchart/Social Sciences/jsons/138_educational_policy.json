@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Education Policy",
+            "category": "Education & Public Policy",
+            "description": "Education Policy encompasses the principles and government actions that shape education systems. This flowchart shows a streamlined policy process: the ultimate goal is equitable, high‑quality, and efficient education. Agenda setting identifies problems and priorities. Policy formulation draws on core areas—funding, curriculum, teacher quality, assessment, inclusion, and governance—to design policy options. Once adopted, the policy is implemented and evaluated. Evaluation results feed back into agenda setting and ultimately lead to outcomes such as improved student achievement, reduced opportunity gaps, and a skilled workforce.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Education Policy</b><br>Principles and government actions<br>shaping education systems]:::title\n    B[<b>GOAL</b><br>Equitable, high‑quality,<br>and efficient education]:::goal\n    C[<b>AGENDA SETTING</b><br>Identifying problems<br>and priorities]:::agenda\n    D[<b>POLICY FORMULATION</b><br>Design of policy options]:::formulation\n    subgraph E[<b>CORE POLICY AREAS</b>]\n        E1[Funding & resource allocation<br>Curriculum & standards<br>Teacher quality & training<br>Assessment & accountability<br>Inclusion & equity<br>Governance & decentralization]\n    end\n    F[<b>POLICY ADOPTION</b><br>Legislation & approval]:::adoption\n    G[<b>IMPLEMENTATION</b><br>Execution & capacity building]:::implementation\n    H[<b>EVALUATION</b><br>Monitoring & assessment]:::evaluation\n    I[<b>OUTCOMES</b><br>Improved achievement,<br>reduced gaps, skilled workforce]:::outcome\n\n    A --> B --> C --> D\n    D --> E\n    E --> F --> G --> H\n    H -->|feeds back to| C\n    H --> I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef agenda fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef formulation fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef adoption fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef implementation fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef evaluation fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["education_policy", "policy_cycle", "equity", "funding", "accountability", "curriculum", "teacher_quality", "policy_analysis"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "topic": "Art History",
+            "category": "History & Art",
+            "description": "This mind map organises the field of Art History around its central concept. Branches include Major Periods (Ancient, Medieval, Renaissance, Baroque, Modern, Contemporary), Key Concepts (iconography, style, patronage, canon, provenance, genius, gaze), Methods and Approaches (formalism, iconology, social history of art, feminist art history, postcolonial and global art histories, technical art history), Major Thinkers (Giorgio Vasari, Johann Joachim Winckelmann, Heinrich Wölfflin, Erwin Panofsky, Ernst Gombrich, Linda Nochlin), and Core Themes (religion and art, politics and power, identity and representation, gender and sexuality, colonialism and the object, materials and techniques). The map reflects the breadth of the discipline from traditional connoisseurship to critical global studies.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Art History))\n    Major_Periods\n      Ancient\n      Medieval\n      Renaissance\n      Baroque\n      Modern\n      Contemporary\n    Key_Concepts\n      Iconography\n      Style\n      Patronage\n      Canon\n      Provenance\n      Genius\n      Gaze\n    Methods_&_Approaches\n      Formalism\n      Iconology\n      Social_History_of_Art\n      Feminist_Art_History\n      Postcolonial_&_Global\n      Technical_Art_History\n    Major_Thinkers\n      Giorgio_Vasari\n      J.J._Winckelmann\n      Heinrich_Wölfflin\n      Erwin_Panofsky\n      Ernst_Gombrich\n      Linda_Nochlin\n    Core_Themes\n      Religion_&_Art\n      Politics_&_Power\n      Identity_&_Representation\n      Gender_&_Sexuality\n      Colonialism_&_the_Object\n      Materials_&_Techniques",
+            "complexity": "high",
+            "tags": ["art_history", "mind_map", "periods", "concepts", "methods", "theorists", "themes"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

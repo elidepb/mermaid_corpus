@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Social Work",
+            "category": "Social Sciences & Practice",
+            "description": "This timeline traces the development of Social Work from charitable relief to a global profession. Key milestones include the establishment of the Charity Organization Society (London, 1869) and Hull House (Jane Addams, 1889), marking the settlement movement; Mary Richmond’s ‘Social Diagnosis’ (1917) founding professional casework; the first schools of social work (Amsterdam 1899, Columbia 1898, Chicago 1920); the Great Depression and New Deal expansion of public welfare (1930s); the rise of psychoanalytic approaches (1940s‑50s) followed by the systems and ecological turns (1960s‑70s); the emergence of anti‑oppressive and empowerment practices (1980s‑90s); the introduction of evidence‑based practice (1990s‑2000s); and the contemporary focus on global social work, digital practice, and decolonisation (2010s‑2020s).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Social Work\n    section Charity & Settlement\n      1869 : Charity Organization Society<br>(London)\n      1889 : Jane Addams founds Hull House\n      1898 : First US social work school<br>(Columbia)\n      1899 : First European school<br>(Amsterdam)\n    section Professionalisation\n      1917 : Mary Richmond<br>Social Diagnosis (casework)\n      1920s : Child guidance clinics,<br>psychiatric social work\n    section Depression & New Deal\n      1930s : Great Depression – expansion<br>of public relief\n      1935 : US Social Security Act<br>Milford Conference (generic vs specialist)\n    section Systems & Radical Turn\n      1960s : Civil rights, War on Poverty\n      1970s : Systems theory, ecological<br>perspective (Germain, Gitterman)\n    section Empowerment & Evidence\n      1980s : Anti‑oppressive practice,<br>empowerment approaches\n      1990s : Evidence‑based practice<br>(Gibbs, Gambrill)\n    section Global & Contemporary\n      2000s : International Federation of<br>Social Workers – global definition\n      2010s : Digital practice,<br>trauma‑informed care\n      2020s : Decolonising social work,<br>climate justice, community resilience",
+            "complexity": "high",
+            "tags": ["social_work", "history", "timeline", "charity_organization_society", "hull_house", "mary_richmond", "new_deal", "evidence_based_practice"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

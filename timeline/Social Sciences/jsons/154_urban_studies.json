@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Urban Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This timeline traces the intellectual and practical development of Urban Studies. It begins with early urban sociology: Simmel’s ‘The Metropolis and Mental Life’ (1903) and the Chicago School’s urban ecology (1920s). Mid‑20th century saw Jane Jacobs’s critique of modernist planning in ‘The Death and Life of Great American Cities’ (1961). Henri Lefebvre’s ‘Le Droit à la Ville’ (1968) introduced the right to the city. David Harvey’s ‘Social Justice and the City’ (1973) grounded critical urban theory. The 1980s‑90s brought the world city hypothesis (Friedmann, Sassen), postmodern urbanism, and the Los Angeles School. The 2000s‑2010s saw the rise of the creative city (Florida), assemblages, planetary urbanization (Brenner), and the smartphone‑enabled smart city. Contemporary urban studies emphasize pandemic urbanism (2020), climate resilience, and decolonial urbanism.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Urban Studies\n    section Early Sociology\n      1903 : Georg Simmel<br>The Metropolis and Mental Life\n      1920s : Chicago School (Park, Burgess)<br>Urban ecology\n    section Critiques of Modernism\n      1961 : Jane Jacobs<br>Death and Life of Great American Cities\n      1968 : Henri Lefebvre<br>Le Droit à la Ville\n    section Political Economy\n      1973 : David Harvey<br>Social Justice and the City\n      1977 : Manuel Castells<br>The Urban Question\n    section World Cities & Postmodernism\n      1986 : Friedmann – World City hypothesis\n      1990s : Saskia Sassen – Global Cities<br>Los Angeles School (Soja, Dear)\n    section Creative & Planetary Turns\n      2002 : Richard Florida<br>The Rise of the Creative Class\n      2010s : Brenner & Schmid<br>Planetary urbanization\n      2011 : IBM Smart City Challenge\n    section Contemporary\n      2020 : Pandemic urbanism<br>streets for people\n      2022+ : Decolonial urban studies<br>climate resilience, 15‑minute city",
+            "complexity": "high",
+            "tags": ["urban_studies", "timeline", "Chicago_School", "Lefebvre", "Jacobs", "Harvey", "global_cities", "smart_cities"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

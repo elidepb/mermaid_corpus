@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Urban Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This mind map organises the field of Urban Studies around its central concept. It branches into Core Concepts (urbanization, gentrification, spatial justice, right to the city, urban sprawl, segregation, creative city), Theoretical Perspectives (Chicago School, political economy, feminist urbanism, postcolonial urbanism, assemblage theory, planetary urbanization), Research Methods (ethnography, GIS, interviews, statistics, archival research, participatory mapping), Key Thinkers (Georg Simmel, Henri Lefebvre, Jane Jacobs, David Harvey, Saskia Sassen, Manuel Castells), and Major Themes (housing and inequality, mobility and transport, urban ecology, smart cities, migration, public space). The map illustrates the interdisciplinary and critical nature of urban inquiry.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Urban Studies))\n    Core_Concepts\n      Urbanization\n      Gentrification\n      Spatial_Justice\n      Right_to_the_City\n      Urban_Sprawl\n      Segregation\n      Creative_City\n    Theoretical_Perspectives\n      Chicago_School\n      Political_Economy\n      Feminist_Urbanism\n      Postcolonial_Urbanism\n      Assemblage_Theory\n      Planetary_Urbanization\n    Research_Methods\n      Ethnography\n      GIS\n      Interviews\n      Statistics\n      Archival_Research\n      Participatory_Mapping\n    Key_Thinkers\n      Georg_Simmel\n      Henri_Lefebvre\n      Jane_Jacobs\n      David_Harvey\n      Saskia_Sassen\n      Manuel_Castells\n    Major_Themes\n      Housing_and_Inequality\n      Mobility_and_Transport\n      Urban_Ecology\n      Smart_Cities\n      Migration\n      Public_Space",
+            "complexity": "high",
+            "tags": ["urban_studies", "mind_map", "cities", "concepts", "thinkers", "methods", "themes"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

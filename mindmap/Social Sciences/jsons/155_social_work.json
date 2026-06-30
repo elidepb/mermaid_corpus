@@ -1,0 +1,16 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Social Work",
+            "category": "Social Sciences & Practice",
+            "description": "This mind map organises the field of Social Work around its central concept. Major branches include Core Values (social justice, dignity and worth of the person, integrity, competence, human relationships), Theories (systems theory, ecological perspective, strengths‑based, empowerment, psychodynamic, CBT, critical theory), Intervention Levels (micro – individuals and families, mezzo – groups and organisations, macro – communities and policy), Methods (casework, group work, community organising, advocacy, crisis intervention, motivational interviewing), Fields of Practice (child welfare, mental health, healthcare, schools, gerontology, criminal justice, substance abuse), Key Concepts (person‑in‑environment, empathy, empowerment, resilience, intersectionality), and Notable Figures (Jane Addams, Mary Richmond, Bertha Reynolds, Paulo Freire, Dorothy Height). The map illustrates the profession’s breadth from values to practice.",
+            "diagram_type": "mind map",
+            "mermaid_code": "mindmap\n  root((Social Work))\n    Core_Values\n      Social_Justice\n      Dignity_and_Worth\n      Integrity\n      Competence\n      Human_Relationships\n    Theories\n      Systems_Theory\n      Ecological_Perspective\n      Strengths‑Based\n      Empowerment\n      Psychodynamic\n      CBT\n      Critical_Theory\n    Intervention_Levels\n      Micro\n      Mezzo\n      Macro\n    Methods\n      Casework\n      Group_Work\n      Community_Organising\n      Advocacy\n      Crisis_Intervention\n      Motivational_Interviewing\n    Fields_of_Practice\n      Child_Welfare\n      Mental_Health\n      Healthcare\n      Schools\n      Gerontology\n      Criminal_Justice\n      Substance_Abuse\n    Key_Concepts\n      Person‑in‑Environment\n      Empathy\n      Empowerment\n      Resilience\n      Intersectionality\n    Notable_Figures\n      Jane_Addams\n      Mary_Richmond\n      Bertha_Reynolds\n      Paulo_Freire\n      Dorothy_Height",
+            "complexity": "high",
+            "tags": ["social_work", "mind_map", "values", "theories", "methods", "fields", "key_figures"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}
+

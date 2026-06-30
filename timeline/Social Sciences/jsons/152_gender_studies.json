@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Gender Studies",
+            "category": "Interdisciplinary Social Sciences",
+            "description": "This timeline traces the evolution of Gender Studies from early feminist thought to contemporary intersectional and queer approaches. Key milestones include Mary Wollstonecraft’s ‘A Vindication of the Rights of Woman’ (1792); the Seneca Falls Convention (1848); the first wave of women’s suffrage (late 19th‑early 20th c.); Simone de Beauvoir’s ‘The Second Sex’ (1949) launching existentialist feminism; the second wave and Betty Friedan’s ‘The Feminine Mystique’ (1963); the emergence of radical feminism and reproductive rights activism (1970s); the third wave and Kimberlé Crenshaw’s coining of intersectionality (1989); Judith Butler’s ‘Gender Trouble’ (1990) and the rise of queer theory; the fourth wave with digital activism and #MeToo (2010s); and the expansion of trans* and global feminist studies in recent years.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title History of Gender & Feminist Thought\n    section Proto‑Feminism & Enlightenment\n      1792 : Mary Wollstonecraft<br>A Vindication of the Rights of Woman\n      1848 : Seneca Falls Convention<br>(Declaration of Sentiments)\n    section First Wave & Suffrage\n      late 19th‑early 20th c. : Women's suffrage movements<br>US: 19th amendment (1920)\n      1893 : New Zealand – first national<br>women's vote\n    section Second Wave\n      1949 : Simone de Beauvoir<br>The Second Sex\n      1963 : Betty Friedan<br>The Feminine Mystique\n      1970s : Radical feminism,<br>reproductive rights, ERA\n    section Third Wave & Intersectionality\n      1989 : Kimberlé Crenshaw<br>coins 'intersectionality'\n      1990 : Judith Butler<br>Gender Trouble (queer theory)\n      1990s : Postcolonial & global<br>feminisms expand\n    section Fourth Wave & Contemporary\n      2010s : Digital activism,<br>#MeToo, feminist blogs\n      2015+ : Trans* rights movements,<br>gender mainstreaming globally\n      2020s : Decolonial, eco‑feminist,<br>and intersectional justice",
+            "complexity": "high",
+            "tags": ["gender_studies", "timeline", "feminism", "waves_of_feminism", "intersectionality", "queer_theory", "#MeToo"],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}
